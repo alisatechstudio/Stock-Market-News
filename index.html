@@ -1,0 +1,568 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <!-- Character Encoding & Viewport -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+  <!-- Core SEO Meta Tags -->
+  <title>MarketPulse | Real-Time Stock Market News & Financial Intelligence</title>
+  <meta name="description" content="Institutional-grade stock market news, live S&P 500, Nasdaq, Bitcoin, and Forex quotes, deep-dive Wall Street analysis, earnings forecasts, and macroeconomic data.">
+  <meta name="keywords" content="stock market news, S&P 500, Nasdaq 100, Nvidia stock, Bitcoin price, Federal Reserve, inflation CPI, earnings reports, Wall Street analysis, live stock ticker, financial intelligence">
+  <meta name="author" content="MarketPulse Financial Intelligence">
+  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+  <link rel="canonical" href="https://marketpulse.live/">
+
+  <!-- Open Graph Meta Tags (Facebook, LinkedIn, Discord) -->
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="MarketPulse">
+  <meta property="og:title" content="MarketPulse | Real-Time Stock Market News & Financial Intelligence">
+  <meta property="og:description" content="Live financial market telemetry, breaking equity reports, crypto inflows, and institutional earnings analysis.">
+  <meta property="og:url" content="https://marketpulse.live/">
+  <meta property="og:image" content="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80">
+  <meta property="og:locale" content="en_US">
+
+  <!-- Twitter Card Meta Tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@MarketPulseLive">
+  <meta name="twitter:creator" content="@MarketPulseLive">
+  <meta name="twitter:title" content="MarketPulse - Real-Time Stock Market News & Intelligence">
+  <meta name="twitter:description" content="Institutional-grade stock market news, live quotes, Wall Street analysis, and crypto intelligence.">
+  <meta name="twitter:image" content="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80">
+
+  <!-- Web App Manifest & Mobile Theme -->
+  <meta name="theme-color" content="#070a12">
+  <link rel="manifest" href="manifest.json">
+  <link rel="alternate" type="application/rss+xml" title="MarketPulse RSS Feed" href="feed.xml">
+
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="css/style.css">
+
+  <!-- Schema.org JSON-LD (FAQPage & Financial News Organization) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What drives stock market movements during Federal Reserve interest rate cycles?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Equity valuations are influenced by the discount rate applied to future corporate cash flows. When the Federal Reserve lowers borrowing rates, the cost of capital declines, encouraging corporate capital expenditure and expanding valuation multiples across equities."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How does MarketPulse provide real-time market telemetry and free API data?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "MarketPulse aggregates open financial telemetry across multiple public endpoints including Frankfurter Open FX, CoinGecko public crypto APIs, and open financial news syndication networks, backed by high-frequency market simulation engines."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is the CNN Fear & Greed Index and how is it interpreted?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The Fear & Greed Index evaluates market sentiment from 0 (Extreme Fear) to 100 (Extreme Greed) using 7 core inputs: stock price momentum, stock price strength, stock price breadth, put and call options, junk bond demand, market volatility (VIX), and safe haven demand."
+        }
+      }
+    ]
+  }
+  </script>
+</head>
+<body>
+
+  <!-- Top Real-Time Ticker Ribbon -->
+  <div class="ticker-ribbon" role="region" aria-label="Real-time Financial Market Ticker">
+    <div class="ticker-label">
+      <span class="pulse-dot"></span>
+      <span>Live Ticker</span>
+    </div>
+    <div class="ticker-track" id="tickerTrack">
+      <!-- Injected via js/main.js -->
+    </div>
+  </div>
+
+  <!-- Header Navigation -->
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="index.html" class="brand-logo" aria-label="MarketPulse Homepage">
+        <div class="brand-icon">M</div>
+        <span>MarketPulse</span>
+        <span class="brand-badge">PRO WIRE</span>
+      </a>
+
+      <nav aria-label="Primary Navigation">
+        <ul class="nav-links">
+          <li><a class="nav-link active" href="index.html">Live Wire</a></li>
+          <li><a class="nav-link" href="#stockChartSection">Charts &amp; Tickers</a></li>
+          <li><a class="nav-link" href="#articlesFeedSection">Deep Dives</a></li>
+          <li><a class="nav-link" href="#toolsSection">Calculator</a></li>
+          <li><a class="nav-link" href="#calendarSection">Economic Calendar</a></li>
+          <li><a class="nav-link" href="#faqSection">Market FAQ</a></li>
+        </ul>
+      </nav>
+
+      <div class="header-actions">
+        <button class="search-box-btn trigger-search" aria-label="Search markets and articles">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+          <span>Search Ticker...</span>
+          <kbd class="search-kbd">⌘K</kbd>
+        </button>
+
+        <button class="theme-btn" id="themeToggleBtn" aria-label="Toggle Dark and Light Mode">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>
+        </button>
+
+        <a href="#newsletterSection" class="btn-primary">Subscribe Free</a>
+      </div>
+    </div>
+  </header>
+
+  <!-- Breaking News Live Bar -->
+  <aside class="breaking-bar" aria-label="Breaking Financial News">
+    <div class="container breaking-inner">
+      <span class="breaking-tag">Breaking</span>
+      <div class="breaking-headline">
+        <a href="article.html?id=sp500-all-time-high-fed-policy">
+          S&amp;P 500 pushes past 5,860 to set all-time record; Semiconductor breadth accelerates on data center demand
+        </a>
+      </div>
+      <div class="api-source-badge">
+        <span class="dot"></span>
+        <span>Free APIs Global Feed Active</span>
+      </div>
+    </div>
+  </aside>
+
+  <main>
+    <!-- Market Telemetry Cards (Top Indices) -->
+    <section class="market-telemetry" aria-label="Market Telemetry Overview">
+      <div class="container">
+        <div class="telemetry-grid" id="telemetryGrid">
+          <!-- Populated by js/main.js -->
+        </div>
+      </div>
+    </section>
+
+    <!-- Hero Section: Featured Story + Sentiment & Movers Widgets -->
+    <section class="hero-section">
+      <div class="container">
+        <div class="hero-grid">
+          <!-- Featured Story -->
+          <article class="featured-story" onclick="openArticleModal('sp500-all-time-high-fed-policy')">
+            <div class="story-media-wrap">
+              <img class="story-image" src="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80" alt="Wall Street Trading Floor" width="1200" height="680">
+              <div class="story-overlay"></div>
+              <div class="story-floating-badges">
+                <span class="category-pill">US Markets</span>
+                <span class="sentiment-pill pos">Bullish +88%</span>
+              </div>
+            </div>
+            <div class="story-content">
+              <div class="story-meta">
+                <time datetime="2026-10-12">October 12, 2026</time>
+                <span>•</span>
+                <span>6 min read</span>
+                <span>•</span>
+                <span style="color:var(--bullish); font-weight:700;">Wall St Target: 6,050</span>
+              </div>
+              <h1 class="story-title">
+                <a href="article.html?id=sp500-all-time-high-fed-policy">
+                  S&amp;P 500 Breaches Record Territory as Federal Reserve Signals Measured Easing Path
+                </a>
+              </h1>
+              <p class="story-excerpt">
+                Benchmark US equities pushed into historic highs on Monday as Wall Street digested dovish FOMC commentary, cooling PCE inflation prints, and expanding capital expenditure across cloud infrastructure.
+              </p>
+              <div class="story-footer">
+                <div class="author-chip">
+                  <img class="author-avatar" src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=120&q=80" alt="Elena Rostova">
+                  <div class="author-info">
+                    <span class="author-name">Elena Rostova</span>
+                    <span class="author-title">Chief Macro Strategist</span>
+                  </div>
+                </div>
+                <span class="read-btn">Read Full Analysis →</span>
+              </div>
+            </div>
+          </article>
+
+          <!-- Sidebar: Fear & Greed Index + Top Movers -->
+          <aside class="hero-sidebar">
+            <!-- Fear & Greed Index -->
+            <div class="widget-card">
+              <div class="widget-header">
+                <h2 class="widget-title">
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M2 12h4M18 12h4M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83"/></svg>
+                  Market Sentiment Index
+                </h2>
+                <span style="font-size:0.75rem; color:var(--text-muted);">Real-Time</span>
+              </div>
+              <div class="fear-greed-wrap">
+                <canvas id="fearGreedCanvas" class="gauge-canvas"></canvas>
+                <div class="gauge-score-wrap">
+                  <div class="gauge-score tabular-nums" id="fearGreedScore">71</div>
+                  <div class="gauge-label" id="fearGreedLabel">Greed</div>
+                </div>
+                <div class="gauge-history">
+                  <div class="history-item">
+                    <span class="label">Previous Close</span>
+                    <span class="value">69 (Greed)</span>
+                  </div>
+                  <div class="history-item">
+                    <span class="label">1 Week Ago</span>
+                    <span class="value">64 (Greed)</span>
+                  </div>
+                  <div class="history-item">
+                    <span class="label">1 Month Ago</span>
+                    <span class="value">58 (Neutral)</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Market Movers -->
+            <div class="widget-card">
+              <div class="widget-header">
+                <h2 class="widget-title">
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg>
+                  Active Market Movers
+                </h2>
+                <span style="font-size:0.75rem; color:var(--accent-blue); font-weight:600;">Top Vol</span>
+              </div>
+              <div class="movers-list" id="moversList">
+                <!-- Injected via js/main.js -->
+              </div>
+            </div>
+          </aside>
+        </div>
+      </div>
+    </section>
+
+    <!-- Interactive Stock Chart Explorer -->
+    <section class="chart-section" id="stockChartSection">
+      <div class="container">
+        <div class="chart-panel">
+          <div class="chart-header">
+            <div>
+              <div class="chart-ticker-meta">
+                <span class="chart-ticker-name" id="chartTickerName">S&amp;P 500</span>
+                <span class="chart-ticker-full" id="chartTickerFull">S&amp;P 500 Index</span>
+                <span class="pill-badge pos" id="chartChangeDisplay">+0.56%</span>
+              </div>
+              <div class="chart-price-display tabular-nums" id="chartPriceDisplay">$5,864.20</div>
+            </div>
+
+            <div class="chart-controls">
+              <!-- Candlestick vs Line Toggle -->
+              <div class="pill-group">
+                <button class="pill-btn active" id="chartBtnCandle">Candles</button>
+                <button class="pill-btn" id="chartBtnLine">Line</button>
+              </div>
+
+              <!-- Timeframe Selectors -->
+              <div class="pill-group">
+                <button class="pill-btn" data-timeframe="1D">1D</button>
+                <button class="pill-btn" data-timeframe="1W">1W</button>
+                <button class="pill-btn active" data-timeframe="1M">1M</button>
+                <button class="pill-btn" data-timeframe="1Y">1Y</button>
+                <button class="pill-btn" data-timeframe="5Y">5Y</button>
+              </div>
+            </div>
+          </div>
+
+          <!-- Canvas Chart -->
+          <div class="chart-container">
+            <canvas id="mainStockCanvas"></canvas>
+            <div id="chartTooltip" class="chart-tooltip"></div>
+          </div>
+
+          <!-- Quick Stats Bar -->
+          <div class="chart-stats-bar">
+            <div class="stat-item">
+              <span class="label">Day High</span>
+              <span class="val" id="statHigh">$5,878.10</span>
+            </div>
+            <div class="stat-item">
+              <span class="label">Day Low</span>
+              <span class="val" id="statLow">$5,840.15</span>
+            </div>
+            <div class="stat-item">
+              <span class="label">Volume</span>
+              <span class="val" id="statVol">3.42B</span>
+            </div>
+            <div class="stat-item">
+              <span class="label">Technical SMA 20</span>
+              <span class="val" style="color:#f59e0b;">$5,810.40</span>
+            </div>
+            <div class="stat-item">
+              <span class="label">RSI (14)</span>
+              <span class="val" style="color:var(--bullish);">64.2 (Bullish)</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Articles Feed Section -->
+    <section class="articles-section" id="articlesFeedSection">
+      <div class="container">
+        <div class="section-head">
+          <h2 class="section-title">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>
+            Wall Street Intelligence &amp; Analysis
+          </h2>
+
+          <div class="category-tabs" role="tablist">
+            <button class="tab-btn active" data-category="all">All Markets</button>
+            <button class="tab-btn" data-category="us-markets">US Equities</button>
+            <button class="tab-btn" data-category="tech-ai">Tech &amp; AI</button>
+            <button class="tab-btn" data-category="macro-economy">Macro Economy</button>
+            <button class="tab-btn" data-category="crypto">Crypto Assets</button>
+          </div>
+        </div>
+
+        <div class="articles-grid" id="articlesGrid">
+          <!-- Injected via js/main.js -->
+        </div>
+      </div>
+    </section>
+
+    <!-- Interactive Tools: Compound Investment Calculator & Economic Calendar -->
+    <section class="tools-section" id="toolsSection">
+      <div class="container">
+        <div class="tools-grid">
+          <!-- Investment Calculator -->
+          <div class="calc-panel">
+            <h2 class="widget-title" style="margin-bottom:1.25rem;">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="4" y="2" width="16" height="20" rx="2"/><line x1="8" y1="6" x2="16" y2="6"/><line x1="16" y1="14" x2="16" y2="18"/><path d="M8 10h.01M12 10h.01M16 10h.01M8 14h.01M12 14h.01M8 18h.01M12 18h.01"/></svg>
+              Compound Stock Growth Calculator
+            </h2>
+            <div class="form-group">
+              <label class="form-label" for="calcInitial">Initial Principal Investment ($)</label>
+              <input type="number" id="calcInitial" class="form-input" value="10000" min="0" step="500">
+            </div>
+            <div class="form-group">
+              <label class="form-label" for="calcMonthly">Monthly Contribution ($)</label>
+              <input type="number" id="calcMonthly" class="form-input" value="500" min="0" step="50">
+            </div>
+            <div style="display:grid; grid-template-columns:1fr 1fr; gap:1rem;">
+              <div class="form-group">
+                <label class="form-label" for="calcYears">Investment Horizon (Years)</label>
+                <input type="number" id="calcYears" class="form-input" value="10" min="1" max="50">
+              </div>
+              <div class="form-group">
+                <label class="form-label" for="calcReturn">Annual Expected Return (%)</label>
+                <input type="number" id="calcReturn" class="form-input" value="10.5" min="0" max="100" step="0.5">
+              </div>
+            </div>
+
+            <div class="calc-results-box">
+              <div>
+                <span class="form-label">Estimated Future Portfolio</span>
+                <div class="calc-stat-val tabular-nums" id="calcTotalValue">$132,450</div>
+              </div>
+              <div>
+                <span class="form-label">Total Compound Gains</span>
+                <div class="calc-stat-val tabular-nums" id="calcTotalGains" style="color:var(--accent-blue);">$62,450</div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Economic Calendar -->
+          <div class="calc-panel" id="calendarSection">
+            <h2 class="widget-title" style="margin-bottom:1.25rem;">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+              High-Impact Economic Calendar
+            </h2>
+            <table class="calendar-table">
+              <thead>
+                <tr>
+                  <th>Event</th>
+                  <th>Date &amp; Time</th>
+                  <th>Consensus</th>
+                  <th>Impact</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td><strong>US Core CPI Inflation YoY</strong></td>
+                  <td>Oct 15 • 08:30 EDT</td>
+                  <td>3.1%</td>
+                  <td><span class="impact-badge impact-high">High</span></td>
+                </tr>
+                <tr>
+                  <td><strong>TSMC Q3 Earnings Call</strong></td>
+                  <td>Oct 17 • 02:00 EDT</td>
+                  <td>EPS $1.82</td>
+                  <td><span class="impact-badge impact-high">High</span></td>
+                </tr>
+                <tr>
+                  <td><strong>Retail Sales MoM</strong></td>
+                  <td>Oct 18 • 08:30 EDT</td>
+                  <td>+0.3%</td>
+                  <td><span class="impact-badge impact-med">Medium</span></td>
+                </tr>
+                <tr>
+                  <td><strong>FOMC Interest Rate Decision</strong></td>
+                  <td>Nov 07 • 14:00 EST</td>
+                  <td>-25 bps cut</td>
+                  <td><span class="impact-badge impact-high">High</span></td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Stock Market Knowledge FAQ (SEO Rich Snippets) -->
+    <section class="faq-section" id="faqSection">
+      <div class="container">
+        <div style="text-align:center; max-width:700px; margin:0 auto;">
+          <h2 class="section-title" style="justify-content:center;">Frequently Asked Market Questions</h2>
+          <p style="color:var(--text-secondary); margin-top:0.5rem;">Comprehensive answers to essential macroeconomic, equity investing, and market data queries.</p>
+        </div>
+
+        <div class="faq-list">
+          <div class="faq-item">
+            <button class="faq-question">
+              <span>What drives stock market movements during Federal Reserve interest rate cycles?</span>
+              <span class="faq-icon">▼</span>
+            </button>
+            <div class="faq-answer">
+              Equity valuations are fundamentally influenced by the discount rate applied to future corporate cash flows. When the Federal Reserve lowers borrowing rates, the cost of capital declines, encouraging corporate capital expenditure, reducing debt service expenses, and expanding valuation multiples across equities.
+            </div>
+          </div>
+
+          <div class="faq-item">
+            <button class="faq-question">
+              <span>How does MarketPulse provide real-time market telemetry and free API data?</span>
+              <span class="faq-icon">▼</span>
+            </button>
+            <div class="faq-answer">
+              MarketPulse aggregates open financial telemetry across multiple public endpoints including Frankfurter Open FX, CoinGecko public crypto APIs, and open financial news syndication networks, backed by high-frequency market simulation engines for instantaneous tick visualization.
+            </div>
+          </div>
+
+          <div class="faq-item">
+            <button class="faq-question">
+              <span>What is the Fear &amp; Greed Index and how is it interpreted?</span>
+              <span class="faq-icon">▼</span>
+            </button>
+            <div class="faq-answer">
+              The Fear &amp; Greed Index evaluates market sentiment from 0 (Extreme Fear) to 100 (Extreme Greed) using 7 core inputs: stock price momentum, stock price strength, stock price breadth, put and call options, junk bond demand, market volatility (VIX), and safe haven demand. Contrarian investors often look at Extreme Fear as buying opportunities and Extreme Greed as warning signals of froth.
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Newsletter Subscription Banner -->
+    <section class="newsletter-banner" id="newsletterSection">
+      <div class="container newsletter-inner">
+        <h2 class="newsletter-title">Join 120,000+ Wall Street Traders &amp; Investors</h2>
+        <p class="newsletter-desc">Receive our pre-market opening intelligence brief every trading day at 06:30 AM EST. Zero spam. Unsubscribe at any time.</p>
+        <form class="newsletter-form" id="newsletterForm">
+          <input type="email" class="newsletter-input" placeholder="Enter your institutional or personal email..." required aria-label="Email address for stock newsletter">
+          <button type="submit" class="btn-primary">Get Market Brief</button>
+        </form>
+      </div>
+    </section>
+  </main>
+
+  <!-- Site Footer -->
+  <footer class="site-footer">
+    <div class="container">
+      <div class="disclaimer-box">
+        <strong>FINANCIAL DISCLAIMER:</strong> MarketPulse is a financial news, analysis, and data publication. The content provided is for educational and informational purposes only and does not constitute financial, investment, legal, or tax advice. Past performance is no guarantee of future returns. Securities and crypto assets carry substantial risk of loss. Always consult a licensed financial advisor before executing trades.
+      </div>
+
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <div class="brand-logo">
+            <div class="brand-icon">M</div>
+            <span>MarketPulse</span>
+          </div>
+          <p>Delivering institutional-grade market data, breaking equity news, and actionable macro analysis to investors worldwide.</p>
+        </div>
+
+        <div>
+          <h3 class="footer-col-title">Markets</h3>
+          <ul class="footer-links">
+            <li><a href="#articlesFeedSection">US Equities (S&amp;P 500)</a></li>
+            <li><a href="#articlesFeedSection">Tech &amp; Artificial Intelligence</a></li>
+            <li><a href="#articlesFeedSection">Digital Assets &amp; Crypto</a></li>
+            <li><a href="#articlesFeedSection">Commodities &amp; Energy</a></li>
+            <li><a href="#articlesFeedSection">Forex &amp; Global Currencies</a></li>
+          </ul>
+        </div>
+
+        <div>
+          <h3 class="footer-col-title">Terminal Tools</h3>
+          <ul class="footer-links">
+            <li><a href="#stockChartSection">Interactive Chart Explorer</a></li>
+            <li><a href="#toolsSection">Stock Compound Calculator</a></li>
+            <li><a href="#calendarSection">Economic Data Calendar</a></li>
+            <li><a href="#telemetryGrid">Fear &amp; Greed Gauge</a></li>
+            <li><a href="feed.xml">RSS / Google News Feed</a></li>
+          </ul>
+        </div>
+
+        <div>
+          <h3 class="footer-col-title">Company &amp; Legal</h3>
+          <ul class="footer-links">
+            <li><a href="sitemap.xml">XML Sitemap</a></li>
+            <li><a href="robots.txt">Robots.txt</a></li>
+            <li><a href="#faqSection">Editorial Guidelines</a></li>
+            <li><a href="#faqSection">Privacy Policy</a></li>
+            <li><a href="#faqSection">Terms of Service</a></li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="footer-bottom">
+        <div>&copy; 2026 MarketPulse Media LLC. All rights reserved. Built for institutional speed and global SEO.</div>
+        <div style="display:flex; gap:16px;">
+          <a href="sitemap.xml">Sitemap</a>
+          <a href="feed.xml">RSS Feed</a>
+          <a href="robots.txt">Robots</a>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Search Modal -->
+  <div class="modal-overlay" id="searchModal" role="dialog" aria-modal="true" aria-label="Global Search">
+    <div class="modal-dialog" style="max-width:620px;">
+      <button class="modal-close-btn" id="searchModalClose" aria-label="Close search modal">✕</button>
+      <div style="padding:1.5rem 1.5rem 0.5rem;">
+        <input type="text" id="globalSearchInput" class="form-input" placeholder="Search by ticker (e.g. NVDA, AAPL) or topic..." autofocus>
+      </div>
+      <div id="searchResultsBox" style="padding:1rem 1.5rem 1.5rem; max-height:400px; overflow-y:auto;">
+        <div style="padding:1.5rem; text-align:center; color:var(--text-muted)">Type a ticker (e.g. NVDA, AAPL) or search keywords...</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Article Instant Reader Modal -->
+  <div class="modal-overlay" id="articleModal" role="dialog" aria-modal="true" aria-label="Article Details">
+    <div class="modal-dialog">
+      <button class="modal-close-btn" id="modalCloseBtn" aria-label="Close article modal">✕</button>
+      <div id="modalArticleContent">
+        <!-- Injected via js/main.js -->
+      </div>
+    </div>
+  </div>
+
+  <!-- Scripts -->
+  <script src="js/api.js"></script>
+  <script src="js/articles-data.js"></script>
+  <script src="js/charts.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>

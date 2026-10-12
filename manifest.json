@@ -1,0 +1,21 @@
+{
+  "short_name": "MarketPulse",
+  "name": "MarketPulse - Real-Time Stock Market News & Financial Intelligence",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/index.html",
+  "background_color": "#070a12",
+  "theme_color": "#070a12",
+  "display": "standalone",
+  "orientation": "portrait"
+}

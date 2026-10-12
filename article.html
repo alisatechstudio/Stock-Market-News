@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Financial Intelligence Deep Dive | MarketPulse</title>
+  <meta name="description" content="Read institutional stock market analysis, equity price targets, and macroeconomic reports on MarketPulse.">
+  <meta name="robots" content="index, follow, max-image-preview:large">
+  <link rel="canonical" href="https://marketpulse.live/article.html">
+
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    .reading-progress-bar {
+      position: fixed;
+      top: 0;
+      left: 0;
+      height: 4px;
+      background: linear-gradient(90deg, var(--accent-cyan), var(--accent-blue));
+      width: 0%;
+      z-index: 100;
+      transition: width 0.1s;
+    }
+    .article-page-wrap {
+      max-width: 900px;
+      margin: 2rem auto 4rem;
+      padding: 0 1.25rem;
+    }
+    .breadcrumbs-bar {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 0.82rem;
+      color: var(--text-muted);
+      margin-bottom: 1.5rem;
+    }
+    .breadcrumbs-bar a:hover {
+      color: var(--accent-blue);
+    }
+    .article-hero-img-wrap {
+      width: 100%;
+      height: 420px;
+      border-radius: var(--radius-lg);
+      overflow: hidden;
+      margin: 2rem 0;
+      background: #111827;
+      position: relative;
+    }
+    .article-hero-img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+    .toc-box {
+      background: var(--bg-surface);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--radius-md);
+      padding: 1.5rem;
+      margin: 2rem 0;
+    }
+    .toc-title {
+      font-size: 1rem;
+      font-weight: 700;
+      margin-bottom: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+    .toc-list {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+      font-size: 0.92rem;
+    }
+    .toc-list a {
+      color: var(--accent-blue);
+    }
+    .toc-list a:hover {
+      text-decoration: underline;
+    }
+    .share-row {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin: 2rem 0;
+      padding: 1rem 0;
+      border-top: 1px solid var(--border-subtle);
+      border-bottom: 1px solid var(--border-subtle);
+    }
+  </style>
+</head>
+<body>
+  <!-- Reading Progress Bar -->
+  <div class="reading-progress-bar" id="progressBar"></div>
+
+  <!-- Top Ticker Ribbon -->
+  <div class="ticker-ribbon" role="region" aria-label="Live Ticker">
+    <div class="ticker-label">
+      <span class="pulse-dot"></span>
+      <span>Live Ticker</span>
+    </div>
+    <div class="ticker-track" id="tickerTrack"></div>
+  </div>
+
+  <!-- Header -->
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="index.html" class="brand-logo">
+        <div class="brand-icon">M</div>
+        <span>MarketPulse</span>
+        <span class="brand-badge">PRO WIRE</span>
+      </a>
+
+      <nav aria-label="Article Navigation">
+        <ul class="nav-links">
+          <li><a class="nav-link" href="index.html">← Back to Live Wire</a></li>
+          <li><a class="nav-link" href="index.html#stockChartSection">Charts &amp; Tickers</a></li>
+          <li><a class="nav-link" href="index.html#toolsSection">Calculator</a></li>
+        </ul>
+      </nav>
+
+      <div class="header-actions">
+        <button class="theme-btn" id="themeToggleBtn" aria-label="Toggle Theme">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>
+        </button>
+        <a href="index.html" class="btn-primary">Market Terminal</a>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Article Body -->
+  <main class="article-page-wrap">
+    <!-- Breadcrumbs -->
+    <nav class="breadcrumbs-bar" aria-label="Breadcrumb">
+      <a href="index.html">Home</a>
+      <span>/</span>
+      <span id="bcCategory">Markets</span>
+      <span>/</span>
+      <span id="bcTitle" style="color:var(--text-secondary); text-overflow:ellipsis; overflow:hidden; white-space:nowrap; max-width:350px;">Analysis</span>
+    </nav>
+
+    <!-- Header Meta -->
+    <div class="story-floating-badges" style="position:static; margin-bottom:1rem;">
+      <span class="category-pill" id="artCatBadge">Category</span>
+      <span class="sentiment-pill pos" id="artSentBadge">Bullish</span>
+    </div>
+
+    <h1 id="artTitle" style="font-size:2.4rem; font-weight:800; line-height:1.2; letter-spacing:-0.02em; margin-bottom:1rem;">
+      Loading Financial Intelligence Article...
+    </h1>
+
+    <div class="story-meta" style="margin-bottom:1.5rem;">
+      <span id="artDate">October 12, 2026</span>
+      <span>•</span>
+      <span id="artReadTime">5 min read</span>
+      <span>•</span>
+      <span id="artConsensus" style="color:var(--bullish); font-weight:700;">Consensus: Strong Buy</span>
+    </div>
+
+    <!-- Author Badge -->
+    <div class="author-chip" style="margin-bottom:1.5rem;">
+      <img id="artAuthorImg" class="author-avatar" src="" alt="" style="width:44px; height:44px;">
+      <div class="author-info">
+        <span id="artAuthorName" class="author-name" style="font-size:1rem;">Analyst</span>
+        <span id="artAuthorTitle" class="author-title">Senior Market Strategist</span>
+      </div>
+    </div>
+
+    <!-- Hero Image -->
+    <div class="article-hero-img-wrap">
+      <img id="artHeroImg" class="article-hero-img" src="" alt="Article Banner">
+    </div>
+
+    <!-- Table of Contents -->
+    <div class="toc-box" id="tocBox">
+      <div class="toc-title">Table of Contents</div>
+      <ul class="toc-list" id="tocList"></ul>
+    </div>
+
+    <!-- Share Row -->
+    <div class="share-row">
+      <span style="font-size:0.85rem; font-weight:700;">Share Intelligence:</span>
+      <button class="btn-outline" onclick="navigator.clipboard.writeText(window.location.href); showToast('Link copied to clipboard!');">📋 Copy Link</button>
+      <button class="btn-outline" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + '&url=' + encodeURIComponent(window.location.href), '_blank')">🐦 Twitter</button>
+      <button class="btn-outline" onclick="window.open('https://www.linkedin.com/sharing/share-offsite/?url=' + encodeURIComponent(window.location.href), '_blank')">💼 LinkedIn</button>
+    </div>
+
+    <!-- Article Content -->
+    <article class="modal-article-body" id="artBody">
+      <!-- Injected via JS -->
+    </article>
+
+    <!-- Financial Disclaimer Box -->
+    <div class="disclaimer-box" style="margin-top:3rem;">
+      <strong>REGULATORY COMPLIANCE &amp; DISCLAIMER:</strong> MarketPulse commentary is strictly for institutional intelligence and educational research purposes. Ticker mentions do not constitute solicitations or recommendations to trade securities. Past performance is non-indicative of future performance.
+    </div>
+
+    <!-- Back Button -->
+    <div style="margin-top:2rem; text-align:center;">
+      <a href="index.html" class="btn-primary" style="padding:12px 28px;">← Return to Live Market Wire</a>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container" style="text-align:center; font-size:0.85rem; color:var(--text-muted);">
+      &copy; 2026 MarketPulse Media LLC. All rights reserved.
+    </div>
+  </footer>
+
+  <script src="js/api.js"></script>
+  <script src="js/articles-data.js"></script>
+  <script src="js/main.js"></script>
+  <script>
+    // Standalone Article Loader
+    document.addEventListener("DOMContentLoaded", () => {
+      const params = new URLSearchParams(window.location.search);
+      const articleId = params.get("id") || ArticlesData[0].id;
+      const article = getArticleById(articleId);
+
+      if (article) {
+        document.title = `${article.title} | MarketPulse`;
+        
+        // Update Meta description
+        const metaDesc = document.querySelector('meta[name="description"]');
+        if (metaDesc) metaDesc.setAttribute("content", article.excerpt);
+
+        document.getElementById("bcCategory").textContent = article.category;
+        document.getElementById("bcTitle").textContent = article.title;
+        document.getElementById("artCatBadge").textContent = article.category;
+        
+        const sentBadge = document.getElementById("artSentBadge");
+        sentBadge.textContent = `${article.sentiment} ${article.sentimentScore}`;
+        sentBadge.className = `sentiment-pill ${article.sentiment === 'Bullish' ? 'pos' : (article.sentiment === 'Bearish' ? 'neg' : 'neutral')}`;
+
+        document.getElementById("artTitle").textContent = article.title;
+        document.getElementById("artDate").textContent = new Date(article.publishedAt).toLocaleDateString(undefined, { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
+        document.getElementById("artReadTime").textContent = article.readTime;
+        document.getElementById("artConsensus").textContent = `Consensus: ${article.analystConsensus} (${article.targetPrice})`;
+
+        document.getElementById("artAuthorImg").src = article.author.avatar;
+        document.getElementById("artAuthorImg").alt = article.author.name;
+        document.getElementById("artAuthorName").textContent = article.author.name;
+        document.getElementById("artAuthorTitle").textContent = article.author.title;
+
+        document.getElementById("artHeroImg").src = article.image;
+        document.getElementById("artHeroImg").alt = article.title;
+
+        // Table of contents
+        const tocList = document.getElementById("tocList");
+        if (article.tableOfContents && article.tableOfContents.length > 0) {
+          tocList.innerHTML = article.tableOfContents.map(toc => `
+            <li><a href="#${toc.id}">${toc.title}</a></li>
+          `).join('');
+        } else {
+          document.getElementById("tocBox").style.display = "none";
+        }
+
+        // Body
+        document.getElementById("artBody").innerHTML = article.bodyHtml;
+
+        // Inject JSON-LD NewsArticle
+        const ldScript = document.createElement("script");
+        ldScript.type = "application/ld+json";
+        ldScript.textContent = JSON.stringify({
+          "@context": "https://schema.org",
+          "@type": "NewsArticle",
+          "headline": article.title,
+          "description": article.excerpt,
+          "image": [article.image],
+          "datePublished": article.publishedAt,
+          "dateModified": article.publishedAt,
+          "author": [{
+            "@type": "Person",
+            "name": article.author.name,
+            "jobTitle": article.author.title
+          }],
+          "publisher": {
+            "@type": "Organization",
+            "name": "MarketPulse",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://marketpulse.live/assets/logo.png"
+            }
+          },
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": window.location.href
+          }
+        });
+        document.head.appendChild(ldScript);
+      }
+
+      // Reading progress indicator
+      window.addEventListener("scroll", () => {
+        const scrollTop = window.scrollY;
+        const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+        const progress = (scrollTop / docHeight) * 100;
+        const pBar = document.getElementById("progressBar");
+        if (pBar) pBar.style.width = Math.min(100, Math.max(0, progress)) + "%";
+      });
+    });
+  </script>
+</body>
+</html>

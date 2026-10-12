@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+
+# Specific bots optimization
+User-agent: Googlebot
+Allow: /
+User-agent: Googlebot-News
+Allow: /
+User-agent: Bingbot
+Allow: /
+
+# Sitemaps and Feeds
+Sitemap: https://marketpulse.live/sitemap.xml
+Sitemap: https://marketpulse.live/feed.xml
