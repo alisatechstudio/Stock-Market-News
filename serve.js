@@ -206,10 +206,18 @@ async function fetchRealChartData(symbol, timeframe) {
 
   // Map symbols to Yahoo Finance symbols if needed
   let yfSym = symbol;
-  if (symbol === 'NASDAQ') yfSym = '^IXIC';
-  if (symbol === '^NDX') yfSym = '^IXIC';
+  if (symbol === 'NASDAQ' || symbol === '^NDX') yfSym = '^IXIC';
   if (symbol === 'RUSSELL') yfSym = '^RUT';
   if (symbol === 'DOW') yfSym = '^DJI';
+  if (symbol === 'EURUSD' || symbol === 'EUR/USD') yfSym = 'EURUSD=X';
+  if (symbol === 'BTC' || symbol === 'BTC-USD') yfSym = 'BTC-USD';
+  if (symbol === 'ETH' || symbol === 'ETH-USD') yfSym = 'ETH-USD';
+  if (symbol === 'GOLD') yfSym = 'GC=F';
+  if (symbol === 'CRUDE') yfSym = 'CL=F';
+  if (symbol === '10Y YIELD') yfSym = '^TNX';
+
+  const isForex = yfSym === 'EURUSD=X';
+  const decimals = isForex ? 4 : 2;
 
   const url = `https://query1.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(yfSym)}?range=${range}&interval=${interval}`;
   const r = await fetch(url, { headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)' } });
@@ -229,10 +237,10 @@ async function fetchRealChartData(symbol, timeframe) {
     if (quote.open[i] != null && quote.close[i] != null) {
       candles.push({
         timestamp: res.timestamp[i] * 1000,
-        open: +quote.open[i].toFixed(2),
-        high: +quote.high[i].toFixed(2),
-        low: +quote.low[i].toFixed(2),
-        close: +quote.close[i].toFixed(2),
+        open: +quote.open[i].toFixed(decimals),
+        high: +quote.high[i].toFixed(decimals),
+        low: +quote.low[i].toFixed(decimals),
+        close: +quote.close[i].toFixed(decimals),
         volume: quote.volume[i] || 0
       });
     }
