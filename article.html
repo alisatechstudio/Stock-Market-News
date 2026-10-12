@@ -8,6 +8,11 @@
   <meta name="robots" content="index, follow, max-image-preview:large">
   <link rel="canonical" href="https://marketpulse.live/article.html">
 
+  <link rel="manifest" href="manifest.json">
+  <link rel="alternate" type="application/rss+xml" title="MarketPulse RSS Feed" href="feed.xml">
+  <link rel="alternate" type="application/feed+json" title="MarketPulse JSON Feed" href="feed.json">
+  <link rel="help" type="text/plain" title="LLM Context Manifest" href="llms.txt">
+
   <link rel="stylesheet" href="css/style.css">
   <style>
     .reading-progress-bar {
@@ -284,6 +289,11 @@
           "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": window.location.href
+          },
+          "keywords": article.tickers.join(", "),
+          "speakable": {
+            "@type": "SpeakableSpecification",
+            "cssSelector": ["#artTitle", ".story-excerpt", ".article-takeaway-box"]
           }
         });
         document.head.appendChild(ldScript);

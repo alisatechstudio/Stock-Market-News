@@ -1,16 +1,134 @@
+# ==============================================================================
+# MarketPulse Robots.txt - Universal Search & AI Bot Crawler Directives
+# Optimized for Google SGE, OpenAI, Anthropic, Perplexity, Apple Intelligence & Meta
+# ==============================================================================
+
 User-agent: *
 Allow: /
-Disallow: /api/
 Disallow: /admin/
+Disallow: /private/
 
-# Specific bots optimization
+# ------------------------------------------------------------------------------
+# 1. Primary Search Engine Crawlers
+# ------------------------------------------------------------------------------
 User-agent: Googlebot
 Allow: /
+
 User-agent: Googlebot-News
 Allow: /
+
 User-agent: Bingbot
 Allow: /
 
-# Sitemaps and Feeds
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Yandex
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+# ------------------------------------------------------------------------------
+# 2. Leading AI Search & LLM Engine Crawlers
+# (Explicitly authorized for AI Overviews, Citation, and Live Grounding)
+# ------------------------------------------------------------------------------
+
+# OpenAI (SearchGPT, ChatGPT Web Browsing & Model Retrieval)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+# Anthropic (Claude 3.5 Sonnet / Haiku Web Search & Context Retrieval)
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+# Perplexity AI (Perplexity Pro Search & Source Attribution)
+User-agent: PerplexityBot
+Allow: /
+
+# Apple Intelligence (Siri, Safari Smart Summaries & Spotlight Knowledge)
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# Google Gemini, AI Overviews & Vertex AI
+User-agent: Google-Extended
+Allow: /
+
+User-agent: GoogleOther
+Allow: /
+
+User-agent: GoogleOther-Image
+Allow: /
+
+User-agent: GoogleOther-Video
+Allow: /
+
+# Meta (Meta AI, Llama Training & Search Retrieval)
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: Meta-ExternalFetcher
+Allow: /
+
+User-agent: FacebookBot
+Allow: /
+
+# Microsoft Copilot & Bing AI
+User-agent: msnbot
+Allow: /
+
+# Amazon (Rufus, AWS Bedrock & Alexa Knowledge)
+User-agent: Amazonbot
+Allow: /
+
+# ByteDance / TikTok AI
+User-agent: Bytespider
+Allow: /
+
+# Cohere Command & Embeddings
+User-agent: Cohere-ai
+Allow: /
+
+# Mistral AI
+User-agent: MistralBot
+Allow: /
+
+# You.com AI Search
+User-agent: YouBot
+Allow: /
+
+# DuckDuckGo AI Assist
+User-agent: DuckAssistBot
+Allow: /
+
+# Diffbot Knowledge Graph
+User-agent: Diffbot
+Allow: /
+
+# Common Crawl (Open Foundation Model Training Corpus)
+User-agent: CCBot
+Allow: /
+
+# ------------------------------------------------------------------------------
+# 3. AI Manifests, Sitemaps & Structured Data Feeds
+# ------------------------------------------------------------------------------
 Sitemap: https://marketpulse.live/sitemap.xml
 Sitemap: https://marketpulse.live/feed.xml
+
+# LLM & AI Context Manifest (llmstxt.org standard)
+# AI agents can fetch https://marketpulse.live/llms.txt for full markdown context

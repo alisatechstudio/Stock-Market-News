@@ -1,0 +1,64 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "MarketPulse Financial Intelligence Wire",
+  "home_page_url": "https://marketpulse.live/",
+  "feed_url": "https://marketpulse.live/feed.json",
+  "description": "Institutional-grade stock market coverage, Wall Street analysis, real-time macroeconomic reports, and cryptocurrency intelligence.",
+  "language": "en-US",
+  "authors": [
+    {
+      "name": "MarketPulse Intelligence Team",
+      "url": "https://marketpulse.live/"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://marketpulse.live/article.html?id=sp500-all-time-high-fed-policy",
+      "url": "https://marketpulse.live/article.html?id=sp500-all-time-high-fed-policy",
+      "title": "S&P 500 Breaches Record Territory as Federal Reserve Signals Measured Easing Path",
+      "content_text": "Benchmark US equities pushed into historic highs on Monday as Wall Street digested dovish FOMC commentary, cooling PCE inflation prints, and expanding capital expenditure across cloud infrastructure. Over 74% of S&P 500 constituents are currently trading above their 200-day moving average.",
+      "summary": "Benchmark US equities pushed into historic highs on Monday as Wall Street digested dovish FOMC commentary and robust consumer discretionary balance sheets.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-12T10:30:00Z",
+      "tags": ["US Markets", "S&P 500", "Fed Policy", "Equities"],
+      "authors": [
+        {
+          "name": "Elena Rostova",
+          "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=120&q=80"
+        }
+      ]
+    },
+    {
+      "id": "https://marketpulse.live/article.html?id=nvidia-semiconductor-surge-q3",
+      "url": "https://marketpulse.live/article.html?id=nvidia-semiconductor-surge-q3",
+      "title": "NVIDIA Extends AI Hardware Dominance as Hyperscale Capex Forecasts Expand",
+      "content_text": "NVIDIA shares gained over 3.6% after tier-one cloud providers upgraded their cumulative 2026-2027 AI compute budgets, solidifying Blackwell architecture demand. TSMC packaging yields for CoWoS-L have stabilized ahead of schedule.",
+      "summary": "NVIDIA shares gained over 3.6% after tier-one cloud providers upgraded their cumulative 2026-2027 AI compute budgets, solidifying Blackwell architecture demand.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-12T09:15:00Z",
+      "tags": ["Tech & AI", "NVIDIA", "Semiconductors", "Blackwell"],
+      "authors": [
+        {
+          "name": "Marcus Vance",
+          "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=120&q=80"
+        }
+      ]
+    },
+    {
+      "id": "https://marketpulse.live/article.html?id=bitcoin-etf-institutional-inflows",
+      "url": "https://marketpulse.live/article.html?id=bitcoin-etf-institutional-inflows",
+      "title": "Bitcoin Surges Past Key Resistance as Spot ETFs Absorb Record Weekly Inflows",
+      "content_text": "Institutional net inflows into spot Bitcoin ETFs crossed $2.1 billion last week, pushing BTC above the $65,000 threshold with surging open interest. Exchange-traded fund reserves have reached an all-time high of over 1.05 million BTC.",
+      "summary": "Institutional net inflows into spot Bitcoin ETFs crossed $2.1 billion last week, pushing BTC above the $65,000 threshold with surging open interest.",
+      "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-12T08:00:00Z",
+      "tags": ["Crypto", "Bitcoin", "ETFs", "Digital Assets"],
+      "authors": [
+        {
+          "name": "Siddharth Mehta",
+          "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=120&q=80"
+        }
+      ]
+    }
+  ]
+}

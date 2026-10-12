@@ -35,6 +35,8 @@
   <meta name="theme-color" content="#070a12">
   <link rel="manifest" href="manifest.json">
   <link rel="alternate" type="application/rss+xml" title="MarketPulse RSS Feed" href="feed.xml">
+  <link rel="alternate" type="application/feed+json" title="MarketPulse JSON Feed" href="feed.json">
+  <link rel="help" type="text/plain" title="LLM Context Manifest" href="llms.txt">
 
   <!-- Stylesheet -->
   <link rel="stylesheet" href="css/style.css">
@@ -69,7 +71,11 @@
           "text": "The Fear & Greed Index evaluates market sentiment from 0 (Extreme Fear) to 100 (Extreme Greed) using 7 core inputs: stock price momentum, stock price strength, stock price breadth, put and call options, junk bond demand, market volatility (VIX), and safe haven demand."
         }
       }
-    ]
+    ],
+    "speakable": {
+      "@type": "SpeakableSpecification",
+      "cssSelector": [".story-title", ".story-excerpt", ".breaking-headline"]
+    }
   }
   </script>
 </head>

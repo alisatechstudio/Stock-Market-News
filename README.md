@@ -30,9 +30,15 @@ An institutional-grade, high-performance Stock Market News and Financial Intelli
   - `NewsArticle` schemas with headline, datePublished, author credentials, publisher logo, and canonical entities
   - `BreadcrumbList` for Google rich sitelink breadcrumbs
   - `FAQPage` schema on market questions for Google expandable rich FAQ snippets
-- **Automated Sitemap**: XML sitemap (`sitemap.xml`) adhering to sitemaps.org and Google News specifications.
-- **Search Engine Directives**: Validated `robots.txt` optimized for Googlebot, Googlebot-News, and Bingbot.
-- **RSS 2.0 Syndication Feed**: `feed.xml` for Google News aggregation and RSS readers.
+  - `SpeakableSpecification` for AI voice assistants, audio summaries, and Google AI Overviews
+- **Universal AI Bot Crawler Integration (`robots.txt`)**:
+  - Explicit directives for OpenAI (`GPTBot`, `ChatGPT-User`, `OAI-SearchBot`), Anthropic (`ClaudeBot`, `Claude-Web`), Perplexity (`PerplexityBot`), Apple Intelligence (`Applebot`, `Applebot-Extended`), Google (`Google-Extended`, `GoogleOther`), Meta (`Meta-ExternalAgent`, `Meta-ExternalFetcher`), Microsoft Copilot (`msnbot`), Amazon (`Amazonbot`), Cohere (`Cohere-ai`), ByteDance (`Bytespider`), Mistral (`MistralBot`), and Common Crawl (`CCBot`).
+- **Emerging LLM Standards (`llms.txt`)**:
+  - Implementation of `llms.txt` according to the llmstxt.org specification, allowing AI search engines to read clean, structured Markdown context directly.
+- **Multi-Format Machine Syndication**:
+  - `sitemap.xml` for search indexers with Google News extensions.
+  - `feed.xml` RSS 2.0 syndication feed.
+  - `feed.json` JSON Feed 1.1 specification for programmatic agents and automated bots.
 - **Core Web Vitals Optimized**: Zero layout shifts (CLS), responsive down to 320px mobile screens, lightweight native code with zero heavy framework overhead.
 
 ---
@@ -43,8 +49,10 @@ An institutional-grade, high-performance Stock Market News and Financial Intelli
 ├── index.html              # Master financial news portal & live terminal
 ├── article.html            # Standalone SEO-optimized deep-dive reader
 ├── sitemap.xml             # Google News & XML Sitemap
-├── robots.txt              # Search engine crawler configuration
+├── robots.txt              # Search engine & AI bot crawler directives
+├── llms.txt                # Machine-readable LLM context manifest
 ├── feed.xml                # RSS 2.0 syndication feed
+├── feed.json               # JSON Feed 1.1 specification for AI pipelines
 ├── manifest.json           # Progressive Web App manifest
 ├── css/
 │   └── style.css           # Terminal design system, typography & animations
