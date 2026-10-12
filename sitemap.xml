@@ -109,11 +109,40 @@
     <lastmod>2026-10-12T12:00:00+00:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
-  </url>
   <url>
     <loc>https://marketpulse.live/feed.xml</loc>
     <lastmod>2026-10-12T12:00:00+00:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://marketpulse.live/about.html</loc>
+    <lastmod>2026-10-12T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://marketpulse.live/contact.html</loc>
+    <lastmod>2026-10-12T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://marketpulse.live/privacy-policy.html</loc>
+    <lastmod>2026-10-12T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://marketpulse.live/terms.html</loc>
+    <lastmod>2026-10-12T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://marketpulse.live/ads.txt</loc>
+    <lastmod>2026-10-12T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>

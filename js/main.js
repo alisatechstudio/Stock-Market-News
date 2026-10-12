@@ -30,6 +30,7 @@ document.addEventListener("DOMContentLoaded", () => {
   initArticleModal();
   initChartControls();
   injectDynamicSeoSchema();
+  initCookieConsent();
 
   // Listen to live price updates from MarketAPI
   MarketAPI.subscribe((key, data) => {
@@ -645,5 +646,39 @@ document.addEventListener("DOMContentLoaded", () => {
 
     script.textContent = JSON.stringify(schemaData);
     document.head.appendChild(script);
+  }
+
+  /* ========================================================================
+     COOKIE CONSENT BANNER (GDPR / CCPA / GOOGLE EU USER CONSENT)
+     ======================================================================== */
+  function initCookieConsent() {
+    if (localStorage.getItem("mp_cookie_consent")) return;
+
+    const banner = document.createElement("div");
+    banner.className = "cookie-consent-banner";
+    banner.id = "cookieConsentBanner";
+    banner.innerHTML = `
+      <div class="cookie-content">
+        <strong>Privacy &amp; Advertising Notice:</strong> We and our third-party advertising partners (including Google AdSense) use cookies and web beacons to personalize financial content, display relevant ads, and analyze traffic. Review our <a href="privacy-policy.html">Privacy Policy</a> to learn how your data is handled.
+      </div>
+      <div class="cookie-actions">
+        <button class="btn-outline" style="padding:6px 14px; font-size:0.8rem;" id="cookieRejectBtn">Essential Only</button>
+        <button class="btn-primary" style="padding:6px 16px; font-size:0.8rem;" id="cookieAcceptBtn">Accept All</button>
+      </div>
+    `;
+
+    document.body.appendChild(banner);
+
+    document.getElementById("cookieAcceptBtn").addEventListener("click", () => {
+      localStorage.setItem("mp_cookie_consent", "all");
+      banner.remove();
+      showToast("Cookie preferences saved.");
+    });
+
+    document.getElementById("cookieRejectBtn").addEventListener("click", () => {
+      localStorage.setItem("mp_cookie_consent", "essential");
+      banner.remove();
+      showToast("Only essential cookies enabled.");
+    });
   }
 });

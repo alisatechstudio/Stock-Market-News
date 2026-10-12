@@ -1593,3 +1593,120 @@ button, input, select {
     padding: 1.5rem;
   }
 }
+
+/* ==========================================================================
+   GOOGLE ADSENSE AD UNITS (CLS-OPTIMIZED)
+   ========================================================================== */
+.adsense-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 1.75rem auto;
+  padding: 0.75rem;
+  background: var(--bg-surface);
+  border: 1px dashed var(--border-subtle);
+  border-radius: var(--radius-md);
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.adsense-label {
+  font-size: 0.68rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--text-muted);
+  margin-bottom: 6px;
+  display: block;
+}
+
+/* Billboard Banner (Header / Below Telemetry): 728x90 or 970x90 responsive */
+.adsense-billboard {
+  min-height: 110px;
+  max-width: 970px;
+  width: 100%;
+}
+
+/* Sidebar Rectangle: 300x250 or 300x600 responsive */
+.adsense-sidebar {
+  min-height: 270px;
+  width: 100%;
+}
+
+/* In-Feed Unit: Native responsive display unit */
+.adsense-infeed {
+  grid-column: 1 / -1;
+  min-height: 140px;
+  width: 100%;
+  background: linear-gradient(135deg, rgba(15, 23, 42, 0.4), rgba(30, 41, 59, 0.2));
+}
+
+/* In-Article Unit */
+.adsense-inarticle {
+  min-height: 120px;
+  width: 100%;
+  margin: 2rem 0;
+}
+
+.adsense-placeholder-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  color: var(--text-muted);
+  font-size: 0.78rem;
+  padding: 1.5rem;
+  border-radius: var(--radius-sm);
+  background: var(--bg-secondary);
+  width: 100%;
+}
+
+/* ==========================================================================
+   COOKIE CONSENT BANNER (GDPR / CCPA / GOOGLE EU USER CONSENT)
+   ========================================================================== */
+.cookie-consent-banner {
+  position: fixed;
+  bottom: 1.5rem;
+  left: 1.5rem;
+  right: 1.5rem;
+  max-width: 620px;
+  background: var(--bg-surface-elevated);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-lg);
+  padding: 1.25rem 1.5rem;
+  box-shadow: var(--shadow-lg);
+  z-index: 1000;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  animation: slideUpCookie 0.35s ease-out;
+}
+
+@keyframes slideUpCookie {
+  from { opacity: 0; transform: translateY(40px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.cookie-content {
+  font-size: 0.86rem;
+  color: var(--text-secondary);
+  line-height: 1.5;
+}
+
+.cookie-content a {
+  color: var(--accent-blue);
+  text-decoration: underline;
+}
+
+.cookie-actions {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
