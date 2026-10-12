@@ -95,20 +95,26 @@
   <!-- Header Navigation -->
   <header class="site-header">
     <div class="container header-inner">
-      <a href="index.html" class="brand-logo" aria-label="MarketPulse Homepage">
-        <div class="brand-icon">M</div>
-        <span>MarketPulse</span>
-        <span class="brand-badge">PRO WIRE</span>
-      </a>
+      <div class="brand-wrap">
+        <a href="index.html" class="brand-logo" aria-label="MarketPulse Homepage">
+          <div class="brand-icon">M</div>
+          <span>MarketPulse</span>
+          <span class="brand-badge">PRO WIRE</span>
+        </a>
+        <div class="market-status-pill" title="Live streaming from global exchanges">
+          <span class="live-beacon"></span>
+          <span>Markets Live</span>
+        </div>
+      </div>
 
       <nav aria-label="Primary Navigation">
         <ul class="nav-links">
-          <li><a class="nav-link active" href="index.html">Live Wire</a></li>
-          <li><a class="nav-link" href="#stockChartSection">Charts &amp; Tickers</a></li>
-          <li><a class="nav-link" href="#articlesFeedSection">Deep Dives</a></li>
-          <li><a class="nav-link" href="#toolsSection">Calculator</a></li>
-          <li><a class="nav-link" href="#calendarSection">Economic Calendar</a></li>
-          <li><a class="nav-link" href="#faqSection">Market FAQ</a></li>
+          <li><a class="nav-link active" href="index.html"><span>⚡</span> Live Wire</a></li>
+          <li><a class="nav-link" href="#stockChartSection"><span>📈</span> Charts &amp; Tickers</a></li>
+          <li><a class="nav-link" href="#articlesFeedSection"><span>📰</span> Deep Dives</a></li>
+          <li><a class="nav-link" href="#toolsSection"><span>🧮</span> Calculator</a></li>
+          <li><a class="nav-link" href="#calendarSection"><span>📅</span> Calendar</a></li>
+          <li><a class="nav-link" href="#faqSection"><span>💡</span> FAQ</a></li>
         </ul>
       </nav>
 
@@ -124,6 +130,30 @@
         </button>
 
         <a href="#newsletterSection" class="btn-primary">Subscribe Free</a>
+
+        <!-- Mobile Hamburger Toggle -->
+        <button class="mobile-menu-btn" id="mobileMenuToggleBtn" aria-label="Toggle Mobile Navigation" aria-expanded="false">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+        </button>
+      </div>
+    </div>
+
+    <!-- Mobile Slideout Navigation Drawer -->
+    <div class="mobile-nav-drawer" id="mobileNavDrawer">
+      <ul class="mobile-nav-list">
+        <li class="mobile-nav-item"><a href="index.html" class="active"><span>⚡</span> Live Market Wire</a></li>
+        <li class="mobile-nav-item"><a href="#stockChartSection"><span>📈</span> Charts &amp; Tickers</a></li>
+        <li class="mobile-nav-item"><a href="#articlesFeedSection"><span>📰</span> Deep Dives</a></li>
+        <li class="mobile-nav-item"><a href="#toolsSection"><span>🧮</span> Investment Calculator</a></li>
+        <li class="mobile-nav-item"><a href="#calendarSection"><span>📅</span> Economic Calendar</a></li>
+        <li class="mobile-nav-item"><a href="#faqSection"><span>💡</span> Market FAQ</a></li>
+      </ul>
+      <div class="mobile-nav-footer">
+        <button class="search-box-btn trigger-search" style="width:100%; justify-content:center;">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+          <span>Search Ticker or Topic...</span>
+        </button>
+        <a href="#newsletterSection" class="btn-primary" style="width:100%; text-align:center;">Subscribe Free</a>
       </div>
     </div>
   </header>

@@ -31,6 +31,7 @@ document.addEventListener("DOMContentLoaded", () => {
   initChartControls();
   injectDynamicSeoSchema();
   initCookieConsent();
+  initMobileMenu();
 
   // Listen to live price updates from MarketAPI
   MarketAPI.subscribe((key, data) => {
@@ -679,6 +680,31 @@ document.addEventListener("DOMContentLoaded", () => {
       localStorage.setItem("mp_cookie_consent", "essential");
       banner.remove();
       showToast("Only essential cookies enabled.");
+    });
+  }
+
+  /* ========================================================================
+     MOBILE MENU DRAWER CONTROLLER
+     ======================================================================== */
+  function initMobileMenu() {
+    const toggleBtn = document.getElementById("mobileMenuToggleBtn");
+    const drawer = document.getElementById("mobileNavDrawer");
+    if (!toggleBtn || !drawer) return;
+
+    toggleBtn.addEventListener("click", () => {
+      const isOpen = drawer.classList.toggle("open");
+      toggleBtn.setAttribute("aria-expanded", isOpen);
+      toggleBtn.innerHTML = isOpen
+        ? `<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>`
+        : `<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="18" x2="21" y2="18"/></svg>`;
+    });
+
+    drawer.querySelectorAll("a").forEach(link => {
+      link.addEventListener("click", () => {
+        drawer.classList.remove("open");
+        toggleBtn.setAttribute("aria-expanded", "false");
+        toggleBtn.innerHTML = `<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="18" x2="21" y2="18"/></svg>`;
+      });
     });
   }
 });
