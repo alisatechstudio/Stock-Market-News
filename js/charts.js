@@ -81,12 +81,16 @@ const StockChart = (function() {
     if (tip) tip.style.display = "none";
   }
 
-  function loadTicker(tickerKey, timeframe) {
+  async function loadTicker(tickerKey, timeframe) {
     activeTicker = tickerKey;
     activeTimeframe = timeframe || activeTimeframe;
-    currentCandles = MarketAPI.generateHistoricalCandles(tickerKey, activeTimeframe);
-    render();
     updateHeaderStats();
+    try {
+      currentCandles = await MarketAPI.fetchHistoricalCandles(tickerKey, activeTimeframe);
+      render();
+    } catch (e) {
+      console.warn("Chart candle fetch warning:", e.message);
+    }
   }
 
   function setChartType(type) {
@@ -364,22 +368,22 @@ const StockChart = (function() {
     c.restore();
   }
 
-  // Draw miniature sparkline
-  function drawSparkline(canvasId, isPositive) {
+  // Draw miniature sparkline from real price telemetry
+  function drawSparkline(canvasId, isPositive, dataPoints) {
     const cvs = document.getElementById(canvasId);
     if (!cvs) return;
     const c = cvs.getContext("2d");
-    const w = cvs.width = cvs.clientWidth * (window.devicePixelRatio || 1);
-    const h = cvs.height = cvs.clientHeight * (window.devicePixelRatio || 1);
+    const dpr = window.devicePixelRatio || 1;
+    const w = cvs.width = cvs.clientWidth * dpr;
+    const h = cvs.height = cvs.clientHeight * dpr;
     c.clearRect(0, 0, w, h);
 
-    const points = 16;
-    const data = [];
-    let cur = isPositive ? 20 : 80;
-    for (let i = 0; i < points; i++) {
-      cur += (Math.random() - (isPositive ? 0.42 : 0.58)) * 14;
-      data.push(cur);
-    }
+    // Use authentic historical price points if provided, or clean directional baseline
+    const data = (dataPoints && dataPoints.length > 1)
+      ? dataPoints
+      : (isPositive 
+          ? [12, 14, 13, 17, 16, 21, 24, 23, 28, 33, 37] 
+          : [37, 34, 35, 30, 32, 26, 23, 24, 19, 15, 11]);
 
     const min = Math.min(...data);
     const max = Math.max(...data);
@@ -387,14 +391,15 @@ const StockChart = (function() {
 
     c.beginPath();
     data.forEach((val, i) => {
-      const x = (i / (points - 1)) * w;
+      const x = (i / (data.length - 1)) * w;
       const y = h - ((val - min) / range) * (h * 0.75) - (h * 0.12);
       if (i === 0) c.moveTo(x, y);
       else c.lineTo(x, y);
     });
 
     c.strokeStyle = isPositive ? "#10b981" : "#f43f5e";
-    c.lineWidth = 2 * (window.devicePixelRatio || 1);
+    c.lineWidth = 2 * dpr;
+    c.lineJoin = "round";
     c.stroke();
   }
 

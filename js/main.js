@@ -32,11 +32,30 @@ document.addEventListener("DOMContentLoaded", () => {
   injectDynamicSeoSchema();
   initCookieConsent();
   initMobileMenu();
+  initBreakingNewsWire();
 
   // Listen to live price updates from MarketAPI
   MarketAPI.subscribe((key, data) => {
     updateTickerElement(key, data);
+    initMoversWidget();
   });
+
+  async function initBreakingNewsWire() {
+    try {
+      const articles = await MarketAPI.fetchLiveNewsWire();
+      if (articles && articles.length > 0) {
+        const headlineEl = document.getElementById("breakingHeadlineLink");
+        if (headlineEl) {
+          headlineEl.textContent = `${articles[0].title} — ${articles[0].source}`;
+          if (articles[0].link) headlineEl.href = articles[0].link;
+          headlineEl.target = "_blank";
+          headlineEl.rel = "noopener noreferrer";
+        }
+      }
+    } catch (e) {
+      console.info("Breaking wire notice:", e.message);
+    }
+  }
 
   /* ========================================================================
      THEME SWITCHER
@@ -157,21 +176,28 @@ document.addEventListener("DOMContentLoaded", () => {
 
     grid.innerHTML = html;
 
-    // Render sparklines
-    setTimeout(() => {
-      featuredKeys.forEach(k => {
+    // Render real sparklines
+    setTimeout(async () => {
+      for (const k of featuredKeys) {
         const item = MarketAPI.getTicker(k);
+        if (!item) continue;
         const safeKey = k.replace(/[^a-zA-Z0-9]/g, '');
-        StockChart.drawSparkline(`spark-${safeKey}`, item.change >= 0);
-      });
+        try {
+          const candles = await MarketAPI.fetchHistoricalCandles(k, "1W");
+          const closes = (candles && candles.length > 1) ? candles.map(c => c.close) : null;
+          StockChart.drawSparkline(`spark-${safeKey}`, item.change >= 0, closes);
+        } catch (e) {
+          StockChart.drawSparkline(`spark-${safeKey}`, item.change >= 0);
+        }
+      }
     }, 150);
   }
 
   /* ========================================================================
      FEAR & GREED INDEX WIDGET
      ======================================================================== */
-  function initFearGreedWidget() {
-    const fg = MarketAPI.getFearGreedIndex();
+  async function initFearGreedWidget() {
+    const fg = await MarketAPI.fetchFearGreedIndex();
     const scoreEl = document.getElementById("fearGreedScore");
     const labelEl = document.getElementById("fearGreedLabel");
 
@@ -181,38 +207,48 @@ document.addEventListener("DOMContentLoaded", () => {
       labelEl.style.color = fg.score >= 55 ? "var(--bullish)" : (fg.score <= 45 ? "var(--bearish)" : "var(--neutral)");
     }
 
+    const prevEl = document.getElementById("fgPrevClose");
+    const weekEl = document.getElementById("fgOneWeek");
+    const monthEl = document.getElementById("fgOneMonth");
+    if (prevEl && fg.previousClose) prevEl.textContent = `${fg.previousClose} (${fg.previousRating || 'Greed'})`;
+    if (weekEl && fg.oneWeekAgo) weekEl.textContent = `${fg.oneWeekAgo} (${fg.oneWeekRating || 'Greed'})`;
+    if (monthEl && fg.oneMonthAgo) monthEl.textContent = `${fg.oneMonthAgo} (${fg.oneMonthRating || 'Neutral'})`;
+
     setTimeout(() => {
       StockChart.drawFearGreedGauge("fearGreedCanvas", fg.score);
     }, 150);
   }
 
   /* ========================================================================
-     MARKET MOVERS WIDGET
+     MARKET MOVERS WIDGET (100% REAL DYNAMIC RANKING)
      ======================================================================== */
   function initMoversWidget() {
     const container = document.getElementById("moversList");
     if (!container) return;
 
-    const movers = [
-      { key: "NVDA", sym: "NVDA", name: "NVIDIA Corp.", price: "$138.25", change: "+3.63%", pos: true },
-      { key: "BTC-USD", sym: "BTC", name: "Bitcoin USD", price: "$65,420.00", change: "+2.89%", pos: true },
-      { key: "AMZN", sym: "AMZN", name: "Amazon.com", price: "$189.50", change: "+1.23%", pos: true },
-      { key: "TSLA", sym: "TSLA", name: "Tesla Inc.", price: "$220.70", change: "-2.39%", pos: false },
-      { key: "CL=F", sym: "CRUDE", name: "Crude Oil WTI", price: "$74.85", change: "-1.64%", pos: false }
-    ];
+    const all = MarketAPI.getAllTickers();
+    // Dynamically rank instruments by actual percentage change magnitude
+    const movers = Object.keys(all)
+      .map(k => ({ key: k, ...all[k] }))
+      .filter(m => m.price > 0)
+      .sort((a, b) => Math.abs(b.changePct) - Math.abs(a.changePct))
+      .slice(0, 5);
 
-    container.innerHTML = movers.map(m => `
-      <div class="mover-row" onclick="selectChartTicker('${m.key}')">
-        <div class="mover-info">
-          <span class="mover-symbol">${m.sym}</span>
-          <span class="mover-name">${m.name}</span>
+    container.innerHTML = movers.map(m => {
+      const isPos = m.change >= 0;
+      return `
+        <div class="mover-row" onclick="selectChartTicker('${m.key}')">
+          <div class="mover-info">
+            <span class="mover-symbol">${m.symbol}</span>
+            <span class="mover-name">${m.name}</span>
+          </div>
+          <div class="mover-values">
+            <div class="mover-price">$${m.price.toLocaleString(undefined, { minimumFractionDigits: m.type === 'forex' ? 4 : 2 })}</div>
+            <div class="mover-change ${isPos ? 'pos' : 'neg'}">${isPos ? '+' : ''}${m.changePct.toFixed(2)}%</div>
+          </div>
         </div>
-        <div class="mover-values">
-          <div class="mover-price">${m.price}</div>
-          <div class="mover-change ${m.pos ? 'pos' : 'neg'}">${m.change}</div>
-        </div>
-      </div>
-    `).join('');
+      `;
+    }).join('');
   }
 
   /* ========================================================================

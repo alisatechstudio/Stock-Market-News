@@ -167,8 +167,8 @@
     <div class="container breaking-inner">
       <span class="breaking-tag">Breaking</span>
       <div class="breaking-headline">
-        <a href="article.html?id=sp500-all-time-high-fed-policy">
-          S&amp;P 500 pushes past 5,860 to set all-time record; Semiconductor breadth accelerates on data center demand
+        <a id="breakingHeadlineLink" href="article.html?id=sp500-all-time-high-fed-policy">
+          S&amp;P 500 holds at 7,811 as Wall Street assesses corporate earnings guidance and Federal Reserve monetary policy
         </a>
       </div>
       <div class="api-source-badge">
@@ -245,21 +245,21 @@
               <div class="fear-greed-wrap">
                 <canvas id="fearGreedCanvas" class="gauge-canvas"></canvas>
                 <div class="gauge-score-wrap">
-                  <div class="gauge-score tabular-nums" id="fearGreedScore">71</div>
+                  <div class="gauge-score tabular-nums" id="fearGreedScore">69</div>
                   <div class="gauge-label" id="fearGreedLabel">Greed</div>
                 </div>
                 <div class="gauge-history">
                   <div class="history-item">
                     <span class="label">Previous Close</span>
-                    <span class="value">69 (Greed)</span>
+                    <span class="value" id="fgPrevClose">68 (Greed)</span>
                   </div>
                   <div class="history-item">
                     <span class="label">1 Week Ago</span>
-                    <span class="value">64 (Greed)</span>
+                    <span class="value" id="fgOneWeek">64 (Greed)</span>
                   </div>
                   <div class="history-item">
                     <span class="label">1 Month Ago</span>
-                    <span class="value">58 (Neutral)</span>
+                    <span class="value" id="fgOneMonth">58 (Neutral)</span>
                   </div>
                 </div>
               </div>
@@ -292,9 +292,9 @@
               <div class="chart-ticker-meta">
                 <span class="chart-ticker-name" id="chartTickerName">S&amp;P 500</span>
                 <span class="chart-ticker-full" id="chartTickerFull">S&amp;P 500 Index</span>
-                <span class="pill-badge pos" id="chartChangeDisplay">+0.56%</span>
+                <span class="pill-badge pos" id="chartChangeDisplay">+1.15%</span>
               </div>
-              <div class="chart-price-display tabular-nums" id="chartPriceDisplay">$5,864.20</div>
+              <div class="chart-price-display tabular-nums" id="chartPriceDisplay">$7,811.54</div>
             </div>
 
             <div class="chart-controls">
@@ -325,23 +325,23 @@
           <div class="chart-stats-bar">
             <div class="stat-item">
               <span class="label">Day High</span>
-              <span class="val" id="statHigh">$5,878.10</span>
+              <span class="val" id="statHigh">$7,820.57</span>
             </div>
             <div class="stat-item">
               <span class="label">Day Low</span>
-              <span class="val" id="statLow">$5,840.15</span>
+              <span class="val" id="statLow">$7,779.34</span>
             </div>
             <div class="stat-item">
               <span class="label">Volume</span>
-              <span class="val" id="statVol">3.42B</span>
+              <span class="val" id="statVol">2.65B</span>
             </div>
             <div class="stat-item">
               <span class="label">Technical SMA 20</span>
-              <span class="val" style="color:#f59e0b;">$5,810.40</span>
+              <span class="val" style="color:#f59e0b;">$7,680.20</span>
             </div>
             <div class="stat-item">
               <span class="label">RSI (14)</span>
-              <span class="val" style="color:var(--bullish);">64.2 (Bullish)</span>
+              <span class="val" style="color:var(--bullish);">62.5 (Bullish)</span>
             </div>
           </div>
         </div>
