@@ -24,7 +24,7 @@ const chartCache = new Map();
 let fngCache = { data: null, timestamp: 0 };
 let newsCache = { data: null, timestamp: 0 };
 
-const CACHE_TTL_QUOTES = 12 * 1000; // 12 seconds
+const CACHE_TTL_QUOTES = 4 * 1000; // 4 seconds for live streaming
 const CACHE_TTL_CHART = 30 * 1000;  // 30 seconds
 const CACHE_TTL_FNG = 5 * 60 * 1000; // 5 minutes
 const CACHE_TTL_NEWS = 60 * 1000;   // 1 minute

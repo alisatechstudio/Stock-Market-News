@@ -213,11 +213,11 @@ const MarketAPI = (function() {
     return [];
   }
 
-  // Real-time market poll interval (polls every 15 seconds for real price action)
+  // Real-time market poll interval (polls every 4 seconds for live price streaming)
   function startRealMarketPolling() {
     setInterval(() => {
       fetchLiveQuotes();
-    }, 15000);
+    }, 4000);
   }
 
   // Initialize

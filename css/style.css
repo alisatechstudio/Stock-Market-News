@@ -1043,6 +1043,52 @@ button, input, select {
   flex-wrap: wrap;
 }
 
+.live-stream-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: rgba(16, 185, 129, 0.12);
+  border: 1px solid rgba(16, 185, 129, 0.28);
+  color: #10b981;
+  font-size: 0.68rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  padding: 3px 8px;
+  border-radius: var(--radius-full);
+}
+
+.live-beacon-dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: #10b981;
+  box-shadow: 0 0 6px #10b981;
+  animation: liveBeaconPulse 1.4s infinite ease-in-out;
+}
+
+@keyframes liveBeaconPulse {
+  0% { transform: scale(0.85); opacity: 0.7; box-shadow: 0 0 2px #10b981; }
+  50% { transform: scale(1.35); opacity: 1.0; box-shadow: 0 0 10px #10b981; }
+  100% { transform: scale(0.85); opacity: 0.7; box-shadow: 0 0 2px #10b981; }
+}
+
+.flash-up {
+  animation: flashGreen 0.7s ease-out;
+}
+.flash-down {
+  animation: flashRed 0.7s ease-out;
+}
+
+@keyframes flashGreen {
+  0% { background: rgba(16, 185, 129, 0.35); color: #10b981; }
+  100% { background: transparent; }
+}
+@keyframes flashRed {
+  0% { background: rgba(244, 63, 94, 0.35); color: #f43f5e; }
+  100% { background: transparent; }
+}
+
 .pill-group {
   display: inline-flex;
   background: var(--bg-secondary);

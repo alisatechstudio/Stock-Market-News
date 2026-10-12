@@ -29,6 +29,8 @@ const StockChart = (function() {
   const GUTTER_BOTTOM = 28;
   const GUTTER_RIGHT = 76;
 
+  let animId = null;
+
   function init(canvasId) {
     canvas = document.getElementById(canvasId);
     if (!canvas) return;
@@ -36,7 +38,17 @@ const StockChart = (function() {
 
     setupEvents();
     loadTicker(activeTicker, activeTimeframe);
+    startAnimationLoop();
     window.addEventListener("resize", handleResize);
+  }
+
+  function startAnimationLoop() {
+    if (animId) cancelAnimationFrame(animId);
+    function tick() {
+      render();
+      animId = requestAnimationFrame(tick);
+    }
+    animId = requestAnimationFrame(tick);
   }
 
   function handleResize() {
@@ -448,7 +460,54 @@ const StockChart = (function() {
       ctx.setLineDash([]);
     }
 
-    // 6. Interactive Crosshair & Scale Badges
+    // 6. Real-Time Moving Price Line & Active Candle Beacon (Live Streaming)
+    if (count > 0) {
+      const lastCandle = currentCandles[count - 1];
+      const lastX = (count - 1) * candleWidth + candleWidth / 2;
+      const livePriceY = GUTTER_TOP + priceHeight - ((lastCandle.close - minPrice) / priceRange) * priceHeight;
+      const isLiveUp = lastCandle.close >= lastCandle.open;
+      const liveColor = isLiveUp ? "#10b981" : "#f43f5e";
+
+      // Horizontal dashed live streaming price line
+      ctx.strokeStyle = liveColor;
+      ctx.lineWidth = 1.3;
+      ctx.setLineDash([4, 3]);
+      ctx.beginPath();
+      ctx.moveTo(0, livePriceY);
+      ctx.lineTo(plotWidth, livePriceY);
+      ctx.stroke();
+      ctx.setLineDash([]);
+
+      // Live pulsating ripple beacon at active candle tip
+      const now = Date.now();
+      const pulsePhase = (now % 1600) / 1600; // 0.0 -> 1.0
+      const rippleRadius = 4 + pulsePhase * 15;
+      const rippleAlpha = Math.max(0, 1 - pulsePhase) * 0.75;
+
+      ctx.strokeStyle = isLiveUp ? `rgba(16, 185, 129, ${rippleAlpha})` : `rgba(244, 63, 94, ${rippleAlpha})`;
+      ctx.lineWidth = 2.0;
+      ctx.beginPath();
+      ctx.arc(lastX, livePriceY, rippleRadius, 0, Math.PI * 2);
+      ctx.stroke();
+
+      // Glowing solid center beacon dot
+      ctx.fillStyle = liveColor;
+      ctx.beginPath();
+      ctx.arc(lastX, livePriceY, 4.5, 0, Math.PI * 2);
+      ctx.fill();
+
+      // Right axis live price badge (Highlighted pill, only if not hovered)
+      if (hoverIndex < 0) {
+        ctx.fillStyle = liveColor;
+        ctx.fillRect(plotWidth + 1, livePriceY - 10, GUTTER_RIGHT - 2, 20);
+        ctx.fillStyle = "#ffffff";
+        ctx.font = "bold 10px ui-monospace, SFMono-Regular, Menlo, monospace";
+        ctx.textAlign = "left";
+        ctx.fillText("$" + lastCandle.close.toFixed(dec), plotWidth + 6, livePriceY + 3.5);
+      }
+    }
+
+    // 7. Interactive Crosshair & Scale Badges
     if (hoverIndex >= 0 && hoverIndex < count) {
       const c = currentCandles[hoverIndex];
       const hX = hoverIndex * candleWidth + candleWidth / 2;
@@ -504,6 +563,30 @@ const StockChart = (function() {
     }
 
     ctx.restore();
+  }
+
+  // Live incoming tick update handler
+  function onPriceTick(tickerKey, tickerData) {
+    if (tickerKey !== activeTicker || !tickerData || currentCandles.length === 0) return;
+    const lastIdx = currentCandles.length - 1;
+    const last = currentCandles[lastIdx];
+    
+    const oldPrice = last.close;
+    last.close = tickerData.price;
+    if (tickerData.price > last.high) last.high = tickerData.price;
+    if (tickerData.price < last.low) last.low = tickerData.price;
+    
+    updateHeaderStats();
+
+    if (oldPrice !== tickerData.price) {
+      const priceEl = document.getElementById("chartPriceDisplay");
+      if (priceEl) {
+        const isUp = tickerData.price >= oldPrice;
+        priceEl.classList.remove("flash-up", "flash-down");
+        void priceEl.offsetWidth; // force reflow
+        priceEl.classList.add(isUp ? "flash-up" : "flash-down");
+      }
+    }
   }
 
   // Draw Fear & Greed Needle Gauge
@@ -607,6 +690,7 @@ const StockChart = (function() {
     render,
     drawFearGreedGauge,
     drawSparkline,
-    updateHeaderStats
+    updateHeaderStats,
+    onPriceTick
   };
 })();

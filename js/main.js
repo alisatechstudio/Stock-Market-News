@@ -38,6 +38,7 @@ document.addEventListener("DOMContentLoaded", () => {
   MarketAPI.subscribe((key, data) => {
     updateTickerElement(key, data);
     initMoversWidget();
+    StockChart.onPriceTick(key, data);
   });
 
   async function initBreakingNewsWire() {
