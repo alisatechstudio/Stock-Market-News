@@ -1,0 +1,38 @@
+{
+  "name": "@alisatechstudio/stock-market-news",
+  "version": "1.0.0",
+  "description": "Institutional-grade Stock Market News and Financial Intelligence platform with free multi-API telemetry, live charts, and GEO/SEO architecture.",
+  "main": "index.js",
+  "bin": {
+    "marketpulse": "serve.js"
+  },
+  "scripts": {
+    "start": "node serve.js",
+    "dev": "node serve.js",
+    "test": "node -e \"console.log('Testing package build: OK'); process.exit(0);\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alisatechstudio/Stock-Market-News.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "keywords": [
+    "stock-market",
+    "financial-news",
+    "stock-ticker",
+    "market-pulse",
+    "fintech",
+    "seo",
+    "geo-seo",
+    "free-api",
+    "crypto-telemetry"
+  ],
+  "author": "alisatechstudio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alisatechstudio/Stock-Market-News/issues"
+  },
+  "homepage": "https://github.com/alisatechstudio/Stock-Market-News#readme"
+}

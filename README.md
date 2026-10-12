@@ -54,6 +54,9 @@ An institutional-grade, high-performance Stock Market News and Financial Intelli
 ├── feed.xml                # RSS 2.0 syndication feed
 ├── feed.json               # JSON Feed 1.1 specification for AI pipelines
 ├── manifest.json           # Progressive Web App manifest
+├── package.json            # GitHub Packages NPM configuration (@alisatechstudio)
+├── .npmrc                  # NPM scope registry configuration
+├── index.js                # Programmatic Node.js library entry point
 ├── css/
 │   └── style.css           # Terminal design system, typography & animations
 ├── js/
@@ -62,6 +65,33 @@ An institutional-grade, high-performance Stock Market News and Financial Intelli
 │   ├── charts.js           # Interactive Canvas charting & Fear/Greed gauge
 │   └── main.js             # UI controller, search modal, calculator & SEO
 └── README.md
+```
+
+---
+
+## 📦 Using as a GitHub Packages NPM Dependency
+
+This project is configured as a scoped package: **`@alisatechstudio/stock-market-news`**.
+
+### 1. Authenticate to GitHub Packages
+In your project's `.npmrc`:
+```ini
+@alisatechstudio:registry=https://npm.pkg.github.com
+//npm.pkg.github.com/:_authToken=YOUR_GITHUB_PERSONAL_ACCESS_TOKEN
+```
+
+### 2. Install Package
+```bash
+npm install @alisatechstudio/stock-market-news
+```
+
+### 3. Programmatic Usage in Node.js
+```javascript
+const { ArticlesData, getArticleById, getTickersSummary } = require('@alisatechstudio/stock-market-news');
+
+// Access live market articles and ticker data
+console.log(ArticlesData);
+console.log(getTickersSummary());
 ```
 
 ---
