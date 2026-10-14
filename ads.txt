@@ -1,5 +1,5 @@
 # ==============================================================================
-# World Stock News - Official Authorized Digital Sellers (ads.txt)
-# Replace ca-pub-XXXXXXXXXXXXXXXX with your actual Google AdSense Publisher ID
+# World Stock News (worldstocknews.online) - Official Authorized Digital Sellers (ads.txt)
+# Google AdSense Publisher Account
 # ==============================================================================
-google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0922fa0
+google.com, pub-2862340185854650, DIRECT, f08c47fec0942fa0
