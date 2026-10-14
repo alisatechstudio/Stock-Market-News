@@ -102,8 +102,13 @@
 
 html {
   scroll-behavior: smooth;
+  scroll-padding-top: 80px;
   font-size: 16px;
   -webkit-text-size-adjust: 100%;
+}
+
+section[id], div[id], article[id] {
+  scroll-margin-top: 80px;
 }
 
 body {
@@ -871,6 +876,7 @@ img {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  gap: 8px;
   margin-bottom: 0.5rem;
 }
 
@@ -878,6 +884,10 @@ img {
   font-size: 0.84rem;
   font-weight: 700;
   color: var(--text-secondary);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  min-width: 0;
 }
 
 .telemetry-badge {
@@ -885,6 +895,7 @@ img {
   padding: 1px 6px;
   border-radius: 4px;
   font-weight: 800;
+  flex-shrink: 0;
 }
 
 .telemetry-price {
@@ -1145,7 +1156,7 @@ img {
 }
 
 .gauge-score-wrap {
-  margin-top: -15px;
+  margin-top: 4px;
   position: relative;
 }
 
@@ -1977,6 +1988,7 @@ img {
 
 .modal-article-wrap {
   padding: clamp(1.25rem, 3.5vw, 2.5rem);
+  padding-right: clamp(3.5rem, 6vw, 4.5rem);
 }
 
 .modal-article-body {
@@ -2097,8 +2109,24 @@ img {
 
 /* ==========================================================================
    RESPONSIVE DESIGN & MOBILE APP VIEWPORT (TABLETS & PHONES)
+   Guaranteed Zero-Overlap Architecture
    ========================================================================== */
-@media (max-width: 1024px) {
+
+/* Prevent Header Crowding / Overlap on 13"-15" Laptops */
+@media (max-width: 1260px) {
+  .market-status-pill {
+    display: none;
+  }
+  .brand-badge {
+    display: none;
+  }
+  .header-actions .btn-primary {
+    display: none;
+  }
+}
+
+/* Switch Desktop Nav to Drawer Before Any Text Overlaps */
+@media (max-width: 1140px) {
   .nav-links {
     display: none;
   }
@@ -2116,21 +2144,38 @@ img {
   }
 }
 
+/* Tablet & Mobile Breakpoint (App-Style Experience) */
 @media (max-width: 768px) {
+  /* Ensure Fixed Bottom Navigation Dock Never Occludes Any Page Content */
+  body {
+    padding-bottom: calc(72px + env(safe-area-inset-bottom, 0px)) !important;
+  }
+
   .header-inner {
-    height: 58px;
+    height: 56px;
+    gap: 0.5rem;
   }
 
   .brand-logo {
-    font-size: 1.15rem;
-    gap: 8px;
+    font-size: clamp(0.95rem, 3.8vw, 1.15rem);
+    gap: 7px;
+    min-width: 0;
+    max-width: calc(100% - 128px);
+  }
+
+  .brand-logo span:last-of-type {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    min-width: 0;
   }
 
   .brand-icon {
     width: 32px;
     height: 32px;
-    font-size: 1rem;
+    font-size: 0.95rem;
     border-radius: var(--radius-sm);
+    flex-shrink: 0;
   }
 
   .brand-badge {
@@ -2139,6 +2184,11 @@ img {
 
   .market-status-pill {
     display: none;
+  }
+
+  .header-actions {
+    gap: 6px;
+    flex-shrink: 0;
   }
 
   .header-actions .search-kbd {
@@ -2150,11 +2200,20 @@ img {
   }
 
   .header-actions .search-box-btn {
-    padding: 8px;
+    padding: 0;
     border-radius: 50%;
-    width: 38px;
-    height: 38px;
+    width: 36px;
+    height: 36px;
     justify-content: center;
+    flex-shrink: 0;
+  }
+
+  .header-actions .theme-btn,
+  .mobile-menu-btn {
+    width: 36px;
+    height: 36px;
+    padding: 0;
+    flex-shrink: 0;
   }
 
   .header-actions .btn-primary {
@@ -2166,21 +2225,14 @@ img {
     display: block;
   }
 
-  /* Add space at page bottom so dock does not occlude content */
   .site-footer {
-    padding-bottom: calc(75px + env(safe-area-inset-bottom)) !important;
+    padding-bottom: calc(85px + env(safe-area-inset-bottom, 0px)) !important;
   }
 
   .toast-notice {
-    bottom: calc(70px + env(safe-area-inset-bottom));
+    bottom: calc(74px + env(safe-area-inset-bottom, 0px));
     right: 1rem;
     left: 1rem;
-  }
-
-  .cookie-consent-banner {
-    bottom: calc(70px + env(safe-area-inset-bottom));
-    left: 1rem;
-    right: 1rem;
   }
 
   /* Telemetry Grid: 2-column app watchlist */
@@ -2194,7 +2246,7 @@ img {
   }
 
   .telemetry-price {
-    font-size: 1.15rem;
+    font-size: 1.12rem;
   }
 
   .telemetry-name {
@@ -2223,14 +2275,14 @@ img {
     gap: 1.75rem;
   }
 
-  /* Modal on Mobile: native sheet */
+  /* Modal on Mobile: Native bottom sheet without overlap */
   .modal-overlay {
     padding: 0;
     align-items: flex-end;
   }
 
   .modal-dialog {
-    max-height: 92vh;
+    max-height: 90vh;
     border-bottom-left-radius: 0;
     border-bottom-right-radius: 0;
     margin: 0;
@@ -2239,15 +2291,17 @@ img {
 
   .chart-header {
     flex-direction: column;
-    gap: 0.75rem;
+    align-items: flex-start;
+    gap: 0.85rem;
   }
 
   .chart-controls {
     width: 100%;
-    justify-content: space-between;
+    justify-content: flex-start;
     overflow-x: auto;
     padding-bottom: 4px;
     -webkit-overflow-scrolling: touch;
+    gap: 8px;
   }
 
   .chart-container {
@@ -2259,13 +2313,28 @@ img {
   }
 }
 
+/* Clean Breaking News Bar on Mobile */
+@media (max-width: 640px) {
+  .api-source-badge {
+    display: none;
+  }
+}
+
+/* Ultra-Compact Phones (iPhone SE, Small Androids) */
 @media (max-width: 480px) {
   .container {
     padding: 0 0.85rem;
   }
 
-  .telemetry-grid {
-    grid-template-columns: repeat(2, 1fr);
+  .brand-logo {
+    font-size: clamp(0.9rem, 3.6vw, 1.05rem);
+  }
+
+  .header-actions .search-box-btn,
+  .header-actions .theme-btn,
+  .mobile-menu-btn {
+    width: 34px;
+    height: 34px;
   }
 
   .gauge-canvas {
@@ -2274,10 +2343,22 @@ img {
   }
 
   .gauge-score {
-    font-size: 1.9rem;
+    font-size: 1.85rem;
   }
 
   .chart-stats-bar {
     grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* Narrowest Screens (≤ 360px) */
+@media (max-width: 360px) {
+  .telemetry-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .chart-controls .pill-group {
+    width: 100%;
+    justify-content: space-between;
   }
 }
