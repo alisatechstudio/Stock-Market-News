@@ -4,7 +4,7 @@
   "description": "Institutional-grade Stock Market News and Financial Intelligence platform with free multi-API telemetry, live charts, and GEO/SEO architecture.",
   "main": "index.js",
   "bin": {
-    "marketpulse": "serve.js"
+    "worldstocknews": "serve.js"
   },
   "scripts": {
     "start": "node serve.js",
@@ -22,7 +22,7 @@
     "stock-market",
     "financial-news",
     "stock-ticker",
-    "market-pulse",
+    "world-stock-news",
     "fintech",
     "seo",
     "geo-seo",

@@ -1,8 +1,8 @@
-# MarketPulse 📈 | Institutional-Grade Stock Market News & Real-Time Financial Intelligence
+# World Stock News 📈 | Institutional-Grade Stock Market News & Real-Time Financial Intelligence
 
 An institutional-grade, high-performance Stock Market News and Financial Intelligence blog platform engineered with multi-API open telemetry, interactive canvas financial charting, dynamic market simulation, and comprehensive Search Engine Optimization (SEO).
 
-![MarketPulse Demo](https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80)
+![World Stock News Demo](https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80)
 
 ---
 
@@ -110,4 +110,4 @@ Then visit `http://localhost:8080` in your web browser.
 ---
 
 ## 📄 License & Regulatory Disclaimer
-MarketPulse is designed for educational and informational purposes only. Securities trading carries inherent financial risk. Always consult a certified financial advisor before trading.
+World Stock News is designed for educational and informational purposes only. Securities trading carries inherent financial risk. Always consult a certified financial advisor before trading.

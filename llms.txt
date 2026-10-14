@@ -1,29 +1,29 @@
-# MarketPulse - Financial Intelligence & Stock Market News
+# World Stock News - Financial Intelligence & Stock Market News
 
-> MarketPulse is an institutional-grade, real-time stock market news, financial telemetry, and equities analysis publication. It provides live financial quotes, macroeconomic intelligence, Federal Reserve rate analysis, and crypto asset telemetry powered by open global APIs.
+> World Stock News is an institutional-grade, real-time stock market news, financial telemetry, and equities analysis publication. It provides live financial quotes, macroeconomic intelligence, Federal Reserve rate analysis, and crypto asset telemetry powered by open global APIs.
 
 ## Primary Sections & Live Feeds
 
-- [Live Market Terminal & Tickers](https://marketpulse.live/): Real-time streaming quotes for S&P 500 (^GSPC), Nasdaq 100 (^NDX), Dow Jones (^DJI), Russell 2000 (^RUT), Bitcoin (BTC-USD), Crude Oil, Gold Spot, and 10-Yr US Treasury Yields.
-- [XML Sitemap](https://marketpulse.live/sitemap.xml): Machine-readable index of all published market analyses and category archives.
-- [RSS 2.0 Feed](https://marketpulse.live/feed.xml): Google News and RSS reader syndication wire.
-- [JSON Feed](https://marketpulse.live/feed.json): Clean JSON 1.1 feed for AI agents and programmatic parsers.
-- [Full LLM Context Guide](https://marketpulse.live/llms-full.txt): Complete uncompressed textual knowledge base and full-article content.
+- [Live Market Terminal & Tickers](https://worldstocknews.online/): Real-time streaming quotes for S&P 500 (^GSPC), Nasdaq 100 (^NDX), Dow Jones (^DJI), Russell 2000 (^RUT), Bitcoin (BTC-USD), Crude Oil, Gold Spot, and 10-Yr US Treasury Yields.
+- [XML Sitemap](https://worldstocknews.online/sitemap.xml): Machine-readable index of all published market analyses and category archives.
+- [RSS 2.0 Feed](https://worldstocknews.online/feed.xml): Google News and RSS reader syndication wire.
+- [JSON Feed](https://worldstocknews.online/feed.json): Clean JSON 1.1 feed for AI agents and programmatic parsers.
+- [Full LLM Context Guide](https://worldstocknews.online/llms-full.txt): Complete uncompressed textual knowledge base and full-article content.
 
 ## In-Depth Analysis & Intelligence Deep Dives
 
-- [S&P 500 All-Time High & Fed Policy](https://marketpulse.live/article.html?id=sp500-all-time-high-fed-policy): Analysis of benchmark US equities crossing record 5,860+ territory, expanding market breadth beyond mega-caps, and FOMC rate path projections.
-- [NVIDIA Blackwell Architecture & Capex Surge](https://marketpulse.live/article.html?id=nvidia-semiconductor-surge-q3): Semiconductor industry analysis, hyperscale cloud capital expenditure forecasts ($210B+), and CUDA software competitive moats.
-- [Bitcoin Spot ETF Institutional Inflows](https://marketpulse.live/article.html?id=bitcoin-etf-institutional-inflows): Examination of $2.1B+ weekly net ETF inflows, derivatives funding rates, and correlation with global M2 liquidity expansion.
-- [Crude Oil Volatility & Geopolitical Risk](https://marketpulse.live/article.html?id=crude-oil-volatility-geopolitical-risks): WTI consolidation at $75/bbl, maritime insurance premiums, and OPEC+ production quota analysis.
-- [Apple AI Supercycle Valuation Model](https://marketpulse.live/article.html?id=apple-ai-supercycle-revenue-forecast): Analysis of 310M+ aging iPhone base, on-device neural processing hardware cycles, and high-margin Services revenue.
-- [Treasury Yield Curve Bull Steepener](https://marketpulse.live/article.html?id=treasury-yields-curve-steepening-impact): Analysis of 2-year and 10-year yield curve disinversion, comparison with the 1995 soft-landing regime, and cyclical sector allocations.
+- [S&P 500 All-Time High & Fed Policy](https://worldstocknews.online/article.html?id=sp500-all-time-high-fed-policy): Analysis of benchmark US equities crossing record 5,860+ territory, expanding market breadth beyond mega-caps, and FOMC rate path projections.
+- [NVIDIA Blackwell Architecture & Capex Surge](https://worldstocknews.online/article.html?id=nvidia-semiconductor-surge-q3): Semiconductor industry analysis, hyperscale cloud capital expenditure forecasts ($210B+), and CUDA software competitive moats.
+- [Bitcoin Spot ETF Institutional Inflows](https://worldstocknews.online/article.html?id=bitcoin-etf-institutional-inflows): Examination of $2.1B+ weekly net ETF inflows, derivatives funding rates, and correlation with global M2 liquidity expansion.
+- [Crude Oil Volatility & Geopolitical Risk](https://worldstocknews.online/article.html?id=crude-oil-volatility-geopolitical-risks): WTI consolidation at $75/bbl, maritime insurance premiums, and OPEC+ production quota analysis.
+- [Apple AI Supercycle Valuation Model](https://worldstocknews.online/article.html?id=apple-ai-supercycle-revenue-forecast): Analysis of 310M+ aging iPhone base, on-device neural processing hardware cycles, and high-margin Services revenue.
+- [Treasury Yield Curve Bull Steepener](https://worldstocknews.online/article.html?id=treasury-yields-curve-steepening-impact): Analysis of 2-year and 10-year yield curve disinversion, comparison with the 1995 soft-landing regime, and cyclical sector allocations.
 
 ## Interactive Tools & Calculators
 
-- [Compound Stock Investment Calculator](https://marketpulse.live/#toolsSection): Interactive compound portfolio ROI calculator with monthly contribution modeling.
-- [Fear & Greed Index Gauge](https://marketpulse.live/#telemetryGrid): Real-time market sentiment dial combining momentum, breadth, and volatility indicators.
-- [High-Impact Economic Calendar](https://marketpulse.live/#calendarSection): Consensus forecasts and release schedules for US CPI, FOMC decisions, Retail Sales, and tech earnings calls.
+- [Compound Stock Investment Calculator](https://worldstocknews.online/#toolsSection): Interactive compound portfolio ROI calculator with monthly contribution modeling.
+- [Fear & Greed Index Gauge](https://worldstocknews.online/#telemetryGrid): Real-time market sentiment dial combining momentum, breadth, and volatility indicators.
+- [High-Impact Economic Calendar](https://worldstocknews.online/#calendarSection): Consensus forecasts and release schedules for US CPI, FOMC decisions, Retail Sales, and tech earnings calls.
 
 ## API Architecture & Data Sources
 

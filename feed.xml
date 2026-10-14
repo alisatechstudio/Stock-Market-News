@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <title>MarketPulse | Real-Time Stock Market News &amp; Financial Intelligence</title>
-    <link>https://marketpulse.live/</link>
+    <title>World Stock News | Real-Time Stock Market News &amp; Financial Intelligence</title>
+    <link>https://worldstocknews.online/</link>
     <description>Institutional-grade stock market coverage, Wall Street analysis, real-time macroeconomic reports, and cryptocurrency intelligence.</description>
     <language>en-US</language>
     <lastBuildDate>Mon, 12 Oct 2026 12:00:00 +0000</lastBuildDate>
-    <atom:link href="https://marketpulse.live/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://worldstocknews.online/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>S&amp;P 500 Breaches Record Territory as Federal Reserve Signals Rate Stance</title>
-      <link>https://marketpulse.live/article.html?id=sp500-all-time-high-fed-policy</link>
-      <guid isPermaLink="true">https://marketpulse.live/article.html?id=sp500-all-time-high-fed-policy</guid>
+      <link>https://worldstocknews.online/article.html?id=sp500-all-time-high-fed-policy</link>
+      <guid isPermaLink="true">https://worldstocknews.online/article.html?id=sp500-all-time-high-fed-policy</guid>
       <pubDate>Mon, 12 Oct 2026 10:30:00 +0000</pubDate>
       <dc:creator>Elena Rostova, Chief Macro Strategist</dc:creator>
       <description>US benchmark equities surged into record territory on Monday morning as benchmark 10-year yields settled and institutional breadth broadened into cyclical sectors.</description>
@@ -18,8 +18,8 @@
     </item>
     <item>
       <title>NVIDIA Leads Semiconductor Rally on Next-Gen Blackwell Architecture Demand</title>
-      <link>https://marketpulse.live/article.html?id=nvidia-semiconductor-surge-q3</link>
-      <guid isPermaLink="true">https://marketpulse.live/article.html?id=nvidia-semiconductor-surge-q3</guid>
+      <link>https://worldstocknews.online/article.html?id=nvidia-semiconductor-surge-q3</link>
+      <guid isPermaLink="true">https://worldstocknews.online/article.html?id=nvidia-semiconductor-surge-q3</guid>
       <pubDate>Mon, 12 Oct 2026 09:15:00 +0000</pubDate>
       <dc:creator>Marcus Vance, Senior Technology Analyst</dc:creator>
       <description>Semiconductor powerhouses extended their multi-week rally following updated hyperscale cloud capital expenditure forecasts and enterprise compute backlogs.</description>
@@ -27,8 +27,8 @@
     </item>
     <item>
       <title>Bitcoin Surges Past Key Resistance as Spot ETFs Absorb Record Weekly Inflows</title>
-      <link>https://marketpulse.live/article.html?id=bitcoin-etf-institutional-inflows</link>
-      <guid isPermaLink="true">https://marketpulse.live/article.html?id=bitcoin-etf-institutional-inflows</guid>
+      <link>https://worldstocknews.online/article.html?id=bitcoin-etf-institutional-inflows</link>
+      <guid isPermaLink="true">https://worldstocknews.online/article.html?id=bitcoin-etf-institutional-inflows</guid>
       <pubDate>Mon, 12 Oct 2026 08:00:00 +0000</pubDate>
       <dc:creator>Siddharth Mehta, Digital Asset Research</dc:creator>
       <description>Digital asset markets registered massive institutional inflows over the past 5 trading sessions, propelling Bitcoin to fresh quarterly peaks.</description>

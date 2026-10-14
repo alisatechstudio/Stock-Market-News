@@ -1,5 +1,5 @@
 /**
- * MarketPulse - Main Application Controller
+ * World Stock News - Main Application Controller
  * Handles UI interactions, live telemetry, filters, modals, watchlist, calculator, and SEO Schema
  */
 
@@ -643,30 +643,30 @@ document.addEventListener("DOMContentLoaded", () => {
       "@graph": [
         {
           "@type": "NewsMediaOrganization",
-          "@id": "https://marketpulse.live/#organization",
-          "name": "MarketPulse",
-          "url": "https://marketpulse.live/",
+          "@id": "https://worldstocknews.online/#organization",
+          "name": "World Stock News",
+          "url": "https://worldstocknews.online/",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://marketpulse.live/assets/logo.png",
+            "url": "https://worldstocknews.online/assets/logo.png",
             "width": 600,
             "height": 60
           },
-          "publishingPrinciples": "https://marketpulse.live/editorial-guidelines",
+          "publishingPrinciples": "https://worldstocknews.online/editorial-guidelines",
           "sameAs": [
-            "https://twitter.com/marketpulse_live",
-            "https://linkedin.com/company/marketpulse-intelligence"
+            "https://twitter.com/worldstocknews",
+            "https://linkedin.com/company/world-stock-news"
           ]
         },
         {
           "@type": "WebSite",
-          "@id": "https://marketpulse.live/#website",
-          "url": "https://marketpulse.live/",
-          "name": "MarketPulse - Global Stock Market News & Real-Time Intelligence",
-          "publisher": { "@id": "https://marketpulse.live/#organization" },
+          "@id": "https://worldstocknews.online/#website",
+          "url": "https://worldstocknews.online/",
+          "name": "World Stock News - Global Stock Market News & Real-Time Intelligence",
+          "publisher": { "@id": "https://worldstocknews.online/#organization" },
           "potentialAction": {
             "@type": "SearchAction",
-            "target": "https://marketpulse.live/?search={search_term_string}",
+            "target": "https://worldstocknews.online/?search={search_term_string}",
             "query-input": "required name=search_term_string"
           }
         },
@@ -675,7 +675,7 @@ document.addEventListener("DOMContentLoaded", () => {
           "itemListElement": ArticlesData.map((a, idx) => ({
             "@type": "ListItem",
             "position": idx + 1,
-            "url": `https://marketpulse.live/article.html?id=${a.id}`,
+            "url": `https://worldstocknews.online/article.html?id=${a.id}`,
             "name": a.title
           }))
         }

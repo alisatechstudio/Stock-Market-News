@@ -19,7 +19,7 @@ try {
 }
 
 module.exports = {
-  name: "MarketPulse",
+  name: "World Stock News",
   version: "1.0.0",
   ArticlesData,
   getArticleById: (id) => ArticlesData.find(a => a.id === id),

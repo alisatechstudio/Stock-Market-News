@@ -431,5 +431,5 @@ const server = http.createServer(async (req, res) => {
 });
 
 server.listen(PORT, () => {
-  console.log(`MarketPulse live financial server running at http://localhost:${PORT}/`);
+  console.log(`World Stock News live financial server running at http://localhost:${PORT}/`);
 });

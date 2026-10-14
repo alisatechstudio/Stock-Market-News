@@ -1,5 +1,5 @@
 /**
- * MarketPulse - Real-Time Multi-API Financial Data Engine
+ * World Stock News - Real-Time Multi-API Financial Data Engine
  * 100% Real Live Market Data:
  * 1. Yahoo Finance Live Quote & Candle Telemetry (Indices, Stocks, Commodities, Bonds)
  * 2. CoinGecko Public API (Real Crypto Prices & Volumes)

@@ -1,20 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
-  "title": "MarketPulse Financial Intelligence Wire",
-  "home_page_url": "https://marketpulse.live/",
-  "feed_url": "https://marketpulse.live/feed.json",
+  "title": "World Stock News Financial Wire",
+  "home_page_url": "https://worldstocknews.online/",
+  "feed_url": "https://worldstocknews.online/feed.json",
   "description": "Institutional-grade stock market coverage, Wall Street analysis, real-time macroeconomic reports, and cryptocurrency intelligence.",
   "language": "en-US",
   "authors": [
     {
-      "name": "MarketPulse Intelligence Team",
-      "url": "https://marketpulse.live/"
+      "name": "World Stock News Intelligence Team",
+      "url": "https://worldstocknews.online/"
     }
   ],
   "items": [
     {
-      "id": "https://marketpulse.live/article.html?id=sp500-all-time-high-fed-policy",
-      "url": "https://marketpulse.live/article.html?id=sp500-all-time-high-fed-policy",
+      "id": "https://worldstocknews.online/article.html?id=sp500-all-time-high-fed-policy",
+      "url": "https://worldstocknews.online/article.html?id=sp500-all-time-high-fed-policy",
       "title": "S&P 500 Breaches Record Territory as Federal Reserve Signals Measured Easing Path",
       "content_text": "Benchmark US equities pushed into historic highs on Monday as Wall Street digested dovish FOMC commentary, cooling PCE inflation prints, and expanding capital expenditure across cloud infrastructure. Over 74% of S&P 500 constituents are currently trading above their 200-day moving average.",
       "summary": "Benchmark US equities pushed into historic highs on Monday as Wall Street digested dovish FOMC commentary and robust consumer discretionary balance sheets.",
@@ -29,8 +29,8 @@
       ]
     },
     {
-      "id": "https://marketpulse.live/article.html?id=nvidia-semiconductor-surge-q3",
-      "url": "https://marketpulse.live/article.html?id=nvidia-semiconductor-surge-q3",
+      "id": "https://worldstocknews.online/article.html?id=nvidia-semiconductor-surge-q3",
+      "url": "https://worldstocknews.online/article.html?id=nvidia-semiconductor-surge-q3",
       "title": "NVIDIA Extends AI Hardware Dominance as Hyperscale Capex Forecasts Expand",
       "content_text": "NVIDIA shares gained over 3.6% after tier-one cloud providers upgraded their cumulative 2026-2027 AI compute budgets, solidifying Blackwell architecture demand. TSMC packaging yields for CoWoS-L have stabilized ahead of schedule.",
       "summary": "NVIDIA shares gained over 3.6% after tier-one cloud providers upgraded their cumulative 2026-2027 AI compute budgets, solidifying Blackwell architecture demand.",
@@ -45,8 +45,8 @@
       ]
     },
     {
-      "id": "https://marketpulse.live/article.html?id=bitcoin-etf-institutional-inflows",
-      "url": "https://marketpulse.live/article.html?id=bitcoin-etf-institutional-inflows",
+      "id": "https://worldstocknews.online/article.html?id=bitcoin-etf-institutional-inflows",
+      "url": "https://worldstocknews.online/article.html?id=bitcoin-etf-institutional-inflows",
       "title": "Bitcoin Surges Past Key Resistance as Spot ETFs Absorb Record Weekly Inflows",
       "content_text": "Institutional net inflows into spot Bitcoin ETFs crossed $2.1 billion last week, pushing BTC above the $65,000 threshold with surging open interest. Exchange-traded fund reserves have reached an all-time high of over 1.05 million BTC.",
       "summary": "Institutional net inflows into spot Bitcoin ETFs crossed $2.1 billion last week, pushing BTC above the $65,000 threshold with surging open interest.",

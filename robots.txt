@@ -1,5 +1,5 @@
 # ==============================================================================
-# MarketPulse Robots.txt - Universal Search & AI Bot Crawler Directives
+# World Stock News Robots.txt - Universal Search & AI Bot Crawler Directives
 # Optimized for Google SGE, OpenAI, Anthropic, Perplexity, Apple Intelligence & Meta
 # ==============================================================================
 
@@ -127,8 +127,8 @@ Allow: /
 # ------------------------------------------------------------------------------
 # 3. AI Manifests, Sitemaps & Structured Data Feeds
 # ------------------------------------------------------------------------------
-Sitemap: https://marketpulse.live/sitemap.xml
-Sitemap: https://marketpulse.live/feed.xml
+Sitemap: https://worldstocknews.online/sitemap.xml
+Sitemap: https://worldstocknews.online/feed.xml
 
 # LLM & AI Context Manifest (llmstxt.org standard)
-# AI agents can fetch https://marketpulse.live/llms.txt for full markdown context
+# AI agents can fetch https://worldstocknews.online/llms.txt for full markdown context

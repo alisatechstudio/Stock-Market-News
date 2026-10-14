@@ -1,5 +1,5 @@
 /**
- * MarketPulse - Editorial Database of In-Depth Financial Intelligence Articles
+ * World Stock News - Editorial Database of In-Depth Financial Intelligence Articles
  * Optimized for SEO Schema, Google News, and Rich Sitelinks
  */
 

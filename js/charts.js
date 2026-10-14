@@ -1,5 +1,5 @@
 /**
- * MarketPulse - Institutional Canvas Financial Charting Engine
+ * World Stock News - Institutional Canvas Financial Charting Engine
  * Features:
  * - High-DPI Retina resolution
  * - Dedicated right Y-axis price scale with gridlines & floating price cursor badge

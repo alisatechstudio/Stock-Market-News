@@ -1,5 +1,5 @@
 # ==============================================================================
-# MarketPulse - Official Authorized Digital Sellers (ads.txt)
+# World Stock News - Official Authorized Digital Sellers (ads.txt)
 # Replace ca-pub-XXXXXXXXXXXXXXXX with your actual Google AdSense Publisher ID
 # ==============================================================================
 google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0922fa0
