@@ -721,27 +721,92 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   /* ========================================================================
-     MOBILE MENU DRAWER CONTROLLER
+     MOBILE MENU DRAWER & BOTTOM DOCK CONTROLLER
      ======================================================================== */
   function initMobileMenu() {
     const toggleBtn = document.getElementById("mobileMenuToggleBtn");
     const drawer = document.getElementById("mobileNavDrawer");
-    if (!toggleBtn || !drawer) return;
+    const overlay = document.getElementById("mobileDrawerOverlay");
+    const closeBtn = document.getElementById("drawerCloseBtn");
+    const bnavMenu = document.getElementById("bnav-menu");
 
-    toggleBtn.addEventListener("click", () => {
-      const isOpen = drawer.classList.toggle("open");
-      toggleBtn.setAttribute("aria-expanded", isOpen);
-      toggleBtn.innerHTML = isOpen
-        ? `<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>`
-        : `<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="18" x2="21" y2="18"/></svg>`;
-    });
+    function openDrawer() {
+      if (drawer) drawer.classList.add("open");
+      if (overlay) overlay.classList.add("open");
+      document.body.classList.add("drawer-open");
+      if (toggleBtn) {
+        toggleBtn.setAttribute("aria-expanded", "true");
+        toggleBtn.innerHTML = `<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>`;
+      }
+    }
 
-    drawer.querySelectorAll("a").forEach(link => {
-      link.addEventListener("click", () => {
-        drawer.classList.remove("open");
+    function closeDrawer() {
+      if (drawer) drawer.classList.remove("open");
+      if (overlay) overlay.classList.remove("open");
+      document.body.classList.remove("drawer-open");
+      if (toggleBtn) {
         toggleBtn.setAttribute("aria-expanded", "false");
         toggleBtn.innerHTML = `<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="18" x2="21" y2="18"/></svg>`;
+      }
+    }
+
+    if (toggleBtn) {
+      toggleBtn.addEventListener("click", () => {
+        if (drawer && drawer.classList.contains("open")) {
+          closeDrawer();
+        } else {
+          openDrawer();
+        }
+      });
+    }
+
+    if (bnavMenu) {
+      bnavMenu.addEventListener("click", () => {
+        if (drawer && drawer.classList.contains("open")) {
+          closeDrawer();
+        } else {
+          openDrawer();
+        }
+      });
+    }
+
+    if (closeBtn) closeBtn.addEventListener("click", closeDrawer);
+    if (overlay) overlay.addEventListener("click", closeDrawer);
+
+    if (drawer) {
+      drawer.querySelectorAll("a").forEach(link => {
+        link.addEventListener("click", closeDrawer);
+      });
+    }
+
+    // Bottom Navigation Active State Tracking
+    const bnavItems = document.querySelectorAll(".bottom-nav-item:not(#bnav-menu)");
+    bnavItems.forEach(item => {
+      item.addEventListener("click", function() {
+        bnavItems.forEach(i => i.classList.remove("active"));
+        this.classList.add("active");
       });
     });
+
+    // Update bottom dock active item on scroll
+    const sections = [
+      { id: "tickerTrack", navId: "bnav-wire" },
+      { id: "stockChartSection", navId: "bnav-chart" },
+      { id: "articlesFeedSection", navId: "bnav-news" },
+      { id: "toolsSection", navId: "bnav-tools" }
+    ];
+
+    window.addEventListener("scroll", () => {
+      const scrollPos = window.scrollY + 200;
+      for (let i = sections.length - 1; i >= 0; i--) {
+        const sec = document.getElementById(sections[i].id);
+        if (sec && scrollPos >= sec.offsetTop) {
+          bnavItems.forEach(i => i.classList.remove("active"));
+          const activeNav = document.getElementById(sections[i].navId);
+          if (activeNav) activeNav.classList.add("active");
+          break;
+        }
+      }
+    }, { passive: true });
   }
 });
