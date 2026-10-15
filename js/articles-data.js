@@ -1,10 +1,46 @@
 /**
  * World Stock News - Editorial Database of In-Depth Financial Intelligence Articles
  * Automatically updated hourly by World Stock News Real-Time Ingestion Engine
- * Last Automated Update: 2026-10-15T09:19:01.827Z
+ * Last Automated Update: 2026-10-15T10:54:16.706Z
  */
 
 const ArticlesData = [
+  {
+    "id": "hourly-market-brief-mv9f8o02",
+    "title": "Hourly Market Pulse: Global Indices Trade With Steady Breadth as Volume Accelerates",
+    "excerpt": "Mid-day institutional trading patterns reflect disciplined risk management and rotational inflows into cyclical leaders and technology infrastructure.",
+    "category": "US Markets",
+    "categorySlug": "us-markets",
+    "tickers": [
+      "^GSPC",
+      "^NDX",
+      "NVDA",
+      "BTC-USD"
+    ],
+    "sentiment": "Bullish",
+    "sentimentScore": "+82%",
+    "author": {
+      "name": "Elena Rostova",
+      "title": "Chief Macro Strategist & Former Senior Economist",
+      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=120&q=80"
+    },
+    "publishedAt": "2026-10-15T10:54:14.758Z",
+    "readTime": "4 min read",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "targetPrice": "7,850 Target",
+    "analystConsensus": "Overweight",
+    "tableOfContents": [
+      {
+        "id": "hourly-catalysts",
+        "title": "Hourly Market Catalysts"
+      },
+      {
+        "id": "liquidity-levels",
+        "title": "Institutional Order Flow and Breadth"
+      }
+    ],
+    "bodyHtml": "\n          <div class=\"article-takeaway-box\">\n            <strong>Hourly Wire Update:</strong> Global indices continue to trade with firm institutional footing. Market breadth metrics indicate consistent accumulation across large-cap tech, financials, and high-quality dividend payers.\n          </div>\n          <h3 id=\"hourly-catalysts\">Hourly Market Catalysts</h3>\n          <p>Equities are consolidating around key moving averages as participants evaluate latest yield curve dynamics and macro prints. Sub-second market telemetry highlights orderly liquidity without heightened hedging premiums in VIX options.</p>\n          <h3 id=\"liquidity-levels\">Institutional Order Flow and Breadth</h3>\n          <p>Over 70% of benchmark constituents continue to trade above their short-term moving averages. Algorithmic execution desks report steady institutional balance-of-day buying across prime ETFs.</p>\n        "
+  },
   {
     "id": "im-64-years-old-with-two-sons-but-only-one-works-in-the-fami-u6dd",
     "title": "I'm 64 years old, with two sons, but only one works in the family firm. Should I leave him 70% of the business?",

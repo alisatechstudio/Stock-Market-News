@@ -1387,17 +1387,22 @@ img {
 .chart-container {
   position: relative;
   width: 100%;
-  height: clamp(300px, 46vh, 440px);
+  height: clamp(320px, 48vh, 460px);
   background: rgba(11, 16, 28, 0.4);
   border-radius: var(--radius-md);
   border: 1px solid var(--border-subtle);
   overflow: hidden;
+  box-shadow: inset 0 1px 1px rgba(255, 255, 255, 0.04);
 }
 
 #mainStockCanvas {
   width: 100%;
   height: 100%;
   display: block;
+  cursor: crosshair;
+  touch-action: pinch-zoom pan-y;
+  user-select: none;
+  -webkit-user-select: none;
 }
 
 .chart-tooltip {
@@ -1406,10 +1411,10 @@ img {
   background: var(--bg-surface-elevated);
   border: 1px solid var(--border-subtle);
   backdrop-filter: blur(12px);
-  padding: 8px 12px;
+  padding: 9px 13px;
   border-radius: var(--radius-sm);
   font-size: 0.75rem;
-  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 12px 28px -6px rgba(0, 0, 0, 0.55);
   z-index: 10;
   display: none;
   white-space: nowrap;
