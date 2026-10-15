@@ -210,6 +210,16 @@ const MarketAPI = (function() {
     } catch (e) {
       console.info("Primary news wire notice:", e.message);
     }
+
+    // Static fallback to ArticlesData when running without Node /api backend
+    if (typeof ArticlesData !== 'undefined' && ArticlesData.length > 0) {
+      return ArticlesData.slice(0, 5).map(a => ({
+        title: a.title,
+        link: `article.html?id=${encodeURIComponent(a.id)}`,
+        source: "Market Wire"
+      }));
+    }
+
     return [];
   }
 

@@ -359,7 +359,74 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
+  /* ========================================================================
+     HERO FEATURED STORY DYNAMIC INGESTION
+     ======================================================================== */
+  function initFeaturedStory() {
+    if (typeof ArticlesData === "undefined" || ArticlesData.length === 0) return;
+    const hero = ArticlesData[0];
+    const heroCard = document.getElementById("heroFeaturedStory");
+    if (!heroCard) return;
+
+    heroCard.onclick = () => openArticleModal(hero.id);
+
+    const img = document.getElementById("heroStoryImg");
+    if (img && hero.image) {
+      img.src = hero.image;
+      img.alt = hero.title;
+    }
+
+    const cat = document.getElementById("heroCategoryPill");
+    if (cat) cat.textContent = hero.category || "US Markets";
+
+    const sent = document.getElementById("heroSentimentPill");
+    if (sent) {
+      const isBull = hero.sentiment === "Bullish";
+      const isBear = hero.sentiment === "Bearish";
+      sent.textContent = `${hero.sentiment} ${hero.sentimentScore}`;
+      sent.className = `sentiment-pill ${isBull ? 'pos' : (isBear ? 'neg' : 'neutral')}`;
+    }
+
+    const timeEl = document.getElementById("heroStoryTime");
+    if (timeEl && hero.publishedAt) {
+      const pubDate = new Date(hero.publishedAt);
+      timeEl.setAttribute("datetime", hero.publishedAt);
+      const isToday = pubDate.toDateString() === new Date().toDateString();
+      timeEl.textContent = isToday 
+        ? `Today, ${pubDate.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}` 
+        : pubDate.toLocaleDateString(undefined, { month: 'long', day: 'numeric', year: 'numeric' });
+    }
+
+    const readTime = document.getElementById("heroReadTime");
+    if (readTime) readTime.textContent = hero.readTime || "5 min read";
+
+    const targetPrice = document.getElementById("heroTargetPrice");
+    if (targetPrice && hero.targetPrice) targetPrice.textContent = `Target: ${hero.targetPrice}`;
+
+    const link = document.getElementById("heroStoryLink");
+    if (link) {
+      link.href = `article.html?id=${encodeURIComponent(hero.id)}`;
+      link.textContent = hero.title;
+    }
+
+    const excerpt = document.getElementById("heroStoryExcerpt");
+    if (excerpt) excerpt.textContent = hero.excerpt;
+
+    const authImg = document.getElementById("heroAuthorImg");
+    if (authImg && hero.author && hero.author.avatar) {
+      authImg.src = hero.author.avatar;
+      authImg.alt = hero.author.name;
+    }
+
+    const authName = document.getElementById("heroAuthorName");
+    if (authName && hero.author) authName.textContent = hero.author.name;
+
+    const authTitle = document.getElementById("heroAuthorTitle");
+    if (authTitle && hero.author) authTitle.textContent = hero.author.title;
+  }
+
   function renderArticlesList() {
+    initFeaturedStory();
     const grid = document.getElementById("articlesGrid");
     if (!grid) return;
 

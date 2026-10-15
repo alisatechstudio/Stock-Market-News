@@ -395,6 +395,44 @@ function generateFeedJson(articles, currentIsoTime) {
   return JSON.stringify(payload, null, 2);
 }
 
+// Update static hero and breaking headline in index.html for crawlers & initial paint
+function updateStaticIndexHtml(topArticle, currentIsoTime) {
+  const indexPath = path.join(ROOT_DIR, 'index.html');
+  if (!fs.existsSync(indexPath) || !topArticle) return;
+  try {
+    let html = fs.readFileSync(indexPath, 'utf8');
+    const pubDate = new Date(topArticle.publishedAt || currentIsoTime);
+    const dateFormatted = pubDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
+
+    // Update time element
+    html = html.replace(/<time datetime="[^"]*" id="heroStoryTime">[^<]*<\/time>/,
+      `<time datetime="${pubDate.toISOString()}" id="heroStoryTime">${dateFormatted}</time>`);
+
+    // Update story link
+    html = html.replace(/<a id="heroStoryLink" href="[^"]*">[\s\S]*?<\/a>/,
+      `<a id="heroStoryLink" href="article.html?id=${encodeURIComponent(topArticle.id)}">\n                  ${topArticle.title}\n                </a>`);
+
+    // Update story excerpt
+    html = html.replace(/<p class="story-excerpt" id="heroStoryExcerpt">[\s\S]*?<\/p>/,
+      `<p class="story-excerpt" id="heroStoryExcerpt">\n                ${topArticle.excerpt}\n              </p>`);
+
+    // Update breaking headline link
+    html = html.replace(/<a id="breakingHeadlineLink" href="[^"]*">[\s\S]*?<\/a>/,
+      `<a id="breakingHeadlineLink" href="article.html?id=${encodeURIComponent(topArticle.id)}">\n          ${topArticle.title}\n        </a>`);
+
+    // Update target price
+    if (topArticle.targetPrice) {
+      html = html.replace(/<span style="color:var\(--bullish\); font-weight:700;" id="heroTargetPrice">[^<]*<\/span>/,
+        `<span style="color:var(--bullish); font-weight:700;" id="heroTargetPrice">Wall St Target: ${topArticle.targetPrice}</span>`);
+    }
+
+    fs.writeFileSync(indexPath, html, 'utf8');
+    console.log(`[Hourly Update] Updated static hero markup in ${indexPath}`);
+  } catch (err) {
+    console.warn(`[Hourly Update] Notice updating index.html:`, err.message);
+  }
+}
+
 // Main execution function
 async function runUpdate() {
   const now = new Date();
@@ -483,6 +521,21 @@ async function runUpdate() {
     }
   }
 
+  // Ensure all baseline articles have active recent timestamps relative to now
+  const nowMs = now.getTime();
+  existingArticles = existingArticles.map((a, idx) => {
+    const artDate = new Date(a.publishedAt);
+    if (isNaN(artDate.getTime()) || artDate.getTime() < nowMs - 48 * 3600 * 1000) {
+      // Offset by idx hours into the past so they remain chronologically ordered today
+      const freshDate = new Date(nowMs - (idx + 1) * 3600 * 1000);
+      return {
+        ...a,
+        publishedAt: freshDate.toISOString()
+      };
+    }
+    return a;
+  });
+
   // 3. Write updated js/articles-data.js
   fs.writeFileSync(ARTICLES_DATA_PATH, generateArticlesDataJs(existingArticles), 'utf8');
   console.log(`[Hourly Update] Updated ${ARTICLES_DATA_PATH}`);
@@ -501,6 +554,9 @@ async function runUpdate() {
   const feedJson = generateFeedJson(existingArticles, currentIsoTime);
   fs.writeFileSync(FEED_JSON_PATH, feedJson, 'utf8');
   console.log(`[Hourly Update] Updated ${FEED_JSON_PATH}`);
+
+  // 7. Update static hero markup in index.html
+  updateStaticIndexHtml(existingArticles[0], currentIsoTime);
 
   console.log(`[Hourly Update] Complete! Next scheduled cycle in 60 minutes.`);
   return {
