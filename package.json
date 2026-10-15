@@ -9,6 +9,8 @@
   "scripts": {
     "start": "node serve.js",
     "dev": "node serve.js",
+    "update": "node scripts/hourly-update.js",
+    "update:daemon": "node scripts/hourly-update.js --daemon",
     "test": "node -e \"console.log('Testing package build: OK'); process.exit(0);\""
   },
   "repository": {

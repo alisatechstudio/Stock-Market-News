@@ -2,6 +2,7 @@ const http = require('http');
 const fs = require('fs');
 const path = require('path');
 const url = require('url');
+const { runUpdate } = require('./scripts/hourly-update');
 
 const PORT = process.env.PORT || 3000;
 
@@ -406,6 +407,17 @@ const server = http.createServer(async (req, res) => {
     return;
   }
 
+  // API 5: /api/update (Hourly Update Trigger endpoint)
+  if (pathname === '/api/update') {
+    try {
+      const result = await runUpdate();
+      sendJson(res, 200, { success: true, message: 'Hourly update completed', ...result });
+    } catch (err) {
+      sendJson(res, 500, { success: false, error: err.message });
+    }
+    return;
+  }
+
   // Static File Server
   let filePath = path.join(__dirname, pathname === '/' ? 'index.html' : pathname.replace(/^\//, ''));
   const ext = path.extname(filePath).toLowerCase();
@@ -432,4 +444,12 @@ const server = http.createServer(async (req, res) => {
 
 server.listen(PORT, () => {
   console.log(`World Stock News live financial server running at http://localhost:${PORT}/`);
+
+  // Scheduled hourly update cycle (runs every 60 minutes)
+  const ONE_HOUR_MS = 60 * 60 * 1000;
+  setInterval(() => {
+    console.log('[Server Daemon] Running scheduled hourly update...');
+    runUpdate().catch(err => console.error('[Server Daemon] Hourly update failed:', err.message));
+  }, ONE_HOUR_MS);
 });
+

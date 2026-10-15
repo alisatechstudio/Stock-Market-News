@@ -96,18 +96,50 @@ console.log(getTickersSummary());
 
 ---
 
+## ⏰ Automated Hourly Update Engine
+
+World Stock News features a multi-tiered hourly ingestion and auto-update architecture:
+
+1. **GitHub Actions Scheduled Cron (`.github/workflows/hourly-update.yml`)**:
+   - Triggers every hour (`cron: '0 * * * *'`) and on `workflow_dispatch`.
+   - Ingests breaking news from financial RSS wires (MarketWatch, CNBC, Yahoo Finance).
+   - Updates `sitemap.xml` with current `<lastmod>` timestamps across all entries and Google News tags.
+   - Updates `feed.xml` (RSS 2.0 `<lastBuildDate>`) and `feed.json` (JSON Feed 1.1).
+   - Commits and pushes changes directly to GitHub repository (`[skip ci]`).
+
+2. **NPM CLI Commands**:
+   ```bash
+   # Run an on-demand update cycle:
+   npm run update
+
+   # Run as a continuous background daemon (every 60 minutes):
+   npm run update:daemon
+   ```
+
+3. **Node.js Server Daemon (`serve.js`)**:
+   - Features a built-in hourly interval task that executes `runUpdate()` every 60 minutes.
+   - Exposes `/api/update` to trigger immediate updates via webhooks or external cron monitors.
+
+4. **Client-Side Live Polling (`js/main.js`)**:
+   - Background polling updates live breaking news every 5 minutes and executes a full hourly state refresh.
+   - Real-time UI indicator displays live badge and relative sync status (`Updated just now`).
+
+---
+
 ## ⚡ Local Preview
 
 To launch the project locally:
 ```bash
-# Using any static web server, e.g. python or npx serve:
-python -m http.server 8080
-# Or using Node:
-npx serve .
+# Start the live financial server with auto-updates:
+npm start
+
+# Or using Node directly:
+node serve.js
 ```
-Then visit `http://localhost:8080` in your web browser.
+Then visit `http://localhost:3000` in your web browser.
 
 ---
 
 ## 📄 License & Regulatory Disclaimer
 World Stock News is designed for educational and informational purposes only. Securities trading carries inherent financial risk. Always consult a certified financial advisor before trading.
+

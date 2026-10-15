@@ -13,14 +13,252 @@
   ],
   "items": [
     {
+      "id": "https://worldstocknews.online/article.html?id=hourly-market-brief-mv9af67s",
+      "url": "https://worldstocknews.online/article.html?id=hourly-market-brief-mv9af67s",
+      "title": "Hourly Market Pulse: Global Indices Trade With Steady Breadth as Volume Accelerates",
+      "content_text": "Mid-day institutional trading patterns reflect disciplined risk management and rotational inflows into cyclical leaders and technology infrastructure.",
+      "summary": "Mid-day institutional trading patterns reflect disciplined risk management and rotational inflows into cyclical leaders and technology infrastructure.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-15T08:39:19.992Z",
+      "tags": [
+        "US Markets",
+        "^GSPC",
+        "^NDX",
+        "NVDA",
+        "BTC-USD"
+      ],
+      "authors": [
+        {
+          "name": "Elena Rostova",
+          "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=120&q=80"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article.html?id=anthropics-slowing-growth-could-be-the-ai-trades-latest-red--ba6e",
+      "url": "https://worldstocknews.online/article.html?id=anthropics-slowing-growth-could-be-the-ai-trades-latest-red--ba6e",
+      "title": "Anthropic's slowing growth could be the AI trade's latest red flag",
+      "content_text": "Anthropic&#x2019;s revenue growth appears to be cooling as the company prepares for its public debut, further stoking investors&#x2019; AI jitters",
+      "summary": "Anthropic&#x2019;s revenue growth appears to be cooling as the company prepares for its public debut, further stoking investors&#x2019; AI jitters",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-15T01:07:00.000Z",
+      "tags": [
+        "Tech & AI",
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "QQQ"
+      ],
+      "authors": [
+        {
+          "name": "Elena Rostova",
+          "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=120&q=80"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article.html?id=rocket-labs-stock-slides-as-the-company-pushes-back-neutrons-ba6f",
+      "url": "https://worldstocknews.online/article.html?id=rocket-labs-stock-slides-as-the-company-pushes-back-neutrons-ba6f",
+      "title": "Rocket Lab's stock slides as the company pushes back Neutron's first launch",
+      "content_text": "Neutron, a medium-lift rocket meant to rival SpaceX&#x2019;s Falcon 9, will no longer launch this year.",
+      "summary": "Neutron, a medium-lift rocket meant to rival SpaceX&#x2019;s Falcon 9, will no longer launch this year.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-15T00:02:00.000Z",
+      "tags": [
+        "US Markets",
+        "^GSPC",
+        "SPY"
+      ],
+      "authors": [
+        {
+          "name": "Marcus Vance",
+          "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=120&q=80"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article.html?id=the-ai-trade-is-splintering-as-inflation-fears-rattle-hyped--ba6f",
+      "url": "https://worldstocknews.online/article.html?id=the-ai-trade-is-splintering-as-inflation-fears-rattle-hyped--ba6f",
+      "title": "The AI trade is splintering as inflation fears rattle hyped-up tech stocks",
+      "content_text": "Investors are wondering if steep inflation and increased borrowing costs could derail the AI buildout.",
+      "summary": "Investors are wondering if steep inflation and increased borrowing costs could derail the AI buildout.",
+      "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-14T23:36:00.000Z",
+      "tags": [
+        "Tech & AI",
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "QQQ"
+      ],
+      "authors": [
+        {
+          "name": "Siddharth Mehta",
+          "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=120&q=80"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article.html?id=my-sister-moved-in-with-our-mother-78-and-says-she-deserves--ba6f",
+      "url": "https://worldstocknews.online/article.html?id=my-sister-moved-in-with-our-mother-78-and-says-she-deserves--ba6f",
+      "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
+      "content_text": "&#x201c;The house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.&#x201d;",
+      "summary": "&#x201c;The house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.&#x201d;",
+      "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-14T22:45:00.000Z",
+      "tags": [
+        "US Markets",
+        "^GSPC",
+        "SPY"
+      ],
+      "authors": [
+        {
+          "name": "Claire Montclaire",
+          "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=120&q=80"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article.html?id=x2018some-people-did-everything-right-i-lost-my-home-in-the--ba6f",
+      "url": "https://worldstocknews.online/article.html?id=x2018some-people-did-everything-right-i-lost-my-home-in-the--ba6f",
+      "title": "&#x2018;Some people did everything right': I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+      "content_text": "&#x201d;I earn $110,000 a year.&#x201d;",
+      "summary": "&#x201d;I earn $110,000 a year.&#x201d;",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-14T22:30:00.000Z",
+      "tags": [
+        "Tech & AI",
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "QQQ"
+      ],
+      "authors": [
+        {
+          "name": "Elena Rostova",
+          "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=120&q=80"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article.html?id=bank-of-america-hired-1000-contractors-to-patch-software-fla-ba6g",
+      "url": "https://worldstocknews.online/article.html?id=bank-of-america-hired-1000-contractors-to-patch-software-fla-ba6g",
+      "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
+      "content_text": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic’s Mythos, offering a rare look at costs involved in defending against AI.",
+      "summary": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic’s Mythos, offering a rare look at costs involved in defending against AI.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-14T20:06:28.000Z",
+      "tags": [
+        "Tech & AI",
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "QQQ"
+      ],
+      "authors": [
+        {
+          "name": "Marcus Vance",
+          "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=120&q=80"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article.html?id=morgan-stanley-tops-estimates-as-equities-trading-revenue-be-ba6g",
+      "url": "https://worldstocknews.online/article.html?id=morgan-stanley-tops-estimates-as-equities-trading-revenue-be-ba6g",
+      "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
+      "content_text": "Morgan Stanley topped expectations on the top and bottom lines for the third quarter.",
+      "summary": "Morgan Stanley topped expectations on the top and bottom lines for the third quarter.",
+      "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-14T20:22:09.000Z",
+      "tags": [
+        "Earnings",
+        "^DJI",
+        "AMZN",
+        "TSLA"
+      ],
+      "authors": [
+        {
+          "name": "Siddharth Mehta",
+          "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=120&q=80"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article.html?id=bank-of-america-shares-drop-after-third-quarter-revenue-miss-ba6g",
+      "url": "https://worldstocknews.online/article.html?id=bank-of-america-shares-drop-after-third-quarter-revenue-miss-ba6g",
+      "title": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
+      "content_text": "Bank of America shares fell Wednesday after the company posted weaker-than-expected trading revenue and the impact of a $1.2 billion Treasury fine.",
+      "summary": "Bank of America shares fell Wednesday after the company posted weaker-than-expected trading revenue and the impact of a $1.2 billion Treasury fine.",
+      "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-14T20:20:46.000Z",
+      "tags": [
+        "Macro Economy",
+        "^TNX",
+        "CL=F",
+        "GC=F"
+      ],
+      "authors": [
+        {
+          "name": "Claire Montclaire",
+          "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=120&q=80"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article.html?id=chinas-exports-and-imports-surge-past-expectations-in-septem-ba6g",
+      "url": "https://worldstocknews.online/article.html?id=chinas-exports-and-imports-surge-past-expectations-in-septem-ba6g",
+      "title": "China's exports and imports surge past expectations in September",
+      "content_text": "The country's customs agency released September trade data on Wednesday.",
+      "summary": "The country's customs agency released September trade data on Wednesday.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-14T03:41:36.000Z",
+      "tags": [
+        "US Markets",
+        "^GSPC",
+        "SPY"
+      ],
+      "authors": [
+        {
+          "name": "Elena Rostova",
+          "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=120&q=80"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article.html?id=goldman-says-investors-are-looking-for-profitable-chinese-bu-ba6h",
+      "url": "https://worldstocknews.online/article.html?id=goldman-says-investors-are-looking-for-profitable-chinese-bu-ba6h",
+      "title": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
+      "content_text": "Sluggish consumer demand in China has pushed many companies, such as electric car brands, to accelerate plans for entering other countries.",
+      "summary": "Sluggish consumer demand in China has pushed many companies, such as electric car brands, to accelerate plans for entering other countries.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-13T23:05:12.000Z",
+      "tags": [
+        "Macro Economy",
+        "^TNX",
+        "CL=F",
+        "GC=F"
+      ],
+      "authors": [
+        {
+          "name": "Marcus Vance",
+          "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=120&q=80"
+        }
+      ]
+    },
+    {
       "id": "https://worldstocknews.online/article.html?id=sp500-all-time-high-fed-policy",
       "url": "https://worldstocknews.online/article.html?id=sp500-all-time-high-fed-policy",
       "title": "S&P 500 Breaches Record Territory as Federal Reserve Signals Measured Easing Path",
-      "content_text": "Benchmark US equities pushed into historic highs on Monday as Wall Street digested dovish FOMC commentary, cooling PCE inflation prints, and expanding capital expenditure across cloud infrastructure. Over 74% of S&P 500 constituents are currently trading above their 200-day moving average.",
-      "summary": "Benchmark US equities pushed into historic highs on Monday as Wall Street digested dovish FOMC commentary and robust consumer discretionary balance sheets.",
+      "content_text": "Benchmark US equities pushed to historic highs on Monday as Wall Street digested dovish FOMC commentary and robust consumer discretionary balance sheets.",
+      "summary": "Benchmark US equities pushed to historic highs on Monday as Wall Street digested dovish FOMC commentary and robust consumer discretionary balance sheets.",
       "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
       "date_published": "2026-10-12T10:30:00Z",
-      "tags": ["US Markets", "S&P 500", "Fed Policy", "Equities"],
+      "tags": [
+        "US Markets",
+        "^GSPC",
+        "SPY",
+        "QQQ"
+      ],
       "authors": [
         {
           "name": "Elena Rostova",
@@ -32,11 +270,17 @@
       "id": "https://worldstocknews.online/article.html?id=nvidia-semiconductor-surge-q3",
       "url": "https://worldstocknews.online/article.html?id=nvidia-semiconductor-surge-q3",
       "title": "NVIDIA Extends AI Hardware Dominance as Hyperscale Capex Forecasts Expand",
-      "content_text": "NVIDIA shares gained over 3.6% after tier-one cloud providers upgraded their cumulative 2026-2027 AI compute budgets, solidifying Blackwell architecture demand. TSMC packaging yields for CoWoS-L have stabilized ahead of schedule.",
+      "content_text": "NVIDIA shares gained over 3.6% after tier-one cloud providers upgraded their cumulative 2026-2027 AI compute budgets, solidifying Blackwell architecture demand.",
       "summary": "NVIDIA shares gained over 3.6% after tier-one cloud providers upgraded their cumulative 2026-2027 AI compute budgets, solidifying Blackwell architecture demand.",
       "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
       "date_published": "2026-10-12T09:15:00Z",
-      "tags": ["Tech & AI", "NVIDIA", "Semiconductors", "Blackwell"],
+      "tags": [
+        "Tech & AI",
+        "NVDA",
+        "TSM",
+        "AMD",
+        "SMCI"
+      ],
       "authors": [
         {
           "name": "Marcus Vance",
@@ -48,15 +292,86 @@
       "id": "https://worldstocknews.online/article.html?id=bitcoin-etf-institutional-inflows",
       "url": "https://worldstocknews.online/article.html?id=bitcoin-etf-institutional-inflows",
       "title": "Bitcoin Surges Past Key Resistance as Spot ETFs Absorb Record Weekly Inflows",
-      "content_text": "Institutional net inflows into spot Bitcoin ETFs crossed $2.1 billion last week, pushing BTC above the $65,000 threshold with surging open interest. Exchange-traded fund reserves have reached an all-time high of over 1.05 million BTC.",
+      "content_text": "Institutional net inflows into spot Bitcoin ETFs crossed $2.1 billion last week, pushing BTC above the $65,000 threshold with surging open interest.",
       "summary": "Institutional net inflows into spot Bitcoin ETFs crossed $2.1 billion last week, pushing BTC above the $65,000 threshold with surging open interest.",
       "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1200&q=80",
       "date_published": "2026-10-12T08:00:00Z",
-      "tags": ["Crypto", "Bitcoin", "ETFs", "Digital Assets"],
+      "tags": [
+        "Crypto",
+        "BTC-USD",
+        "IBIT",
+        "FBTC",
+        "COIN"
+      ],
       "authors": [
         {
           "name": "Siddharth Mehta",
           "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=120&q=80"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article.html?id=crude-oil-volatility-geopolitical-risks",
+      "url": "https://worldstocknews.online/article.html?id=crude-oil-volatility-geopolitical-risks",
+      "title": "Crude Oil Consolidates Around $75 as Market Weighs Geopolitical Premiums vs Demand",
+      "content_text": "WTI Crude hovered near $74.80 as traders calibrated shipping risk premiums in the Strait of Hormuz against mixed macroeconomic demand signals from Asian refineries.",
+      "summary": "WTI Crude hovered near $74.80 as traders calibrated shipping risk premiums in the Strait of Hormuz against mixed macroeconomic demand signals from Asian refineries.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-12T07:45:00Z",
+      "tags": [
+        "Macro Economy",
+        "CL=F",
+        "XOM",
+        "CVX",
+        "BNO"
+      ],
+      "authors": [
+        {
+          "name": "Claire Montclaire",
+          "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=120&q=80"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article.html?id=apple-ai-supercycle-revenue-forecast",
+      "url": "https://worldstocknews.online/article.html?id=apple-ai-supercycle-revenue-forecast",
+      "title": "Apple Intelligence Supercycle: Wall Street Models Record iPhone Upgrade Wave",
+      "content_text": "Wedbush and Morgan Stanley reiterate Outperform ratings on Apple, forecasting unprecedented hardware upgrade cycles fueled by on-device neural processing features.",
+      "summary": "Wedbush and Morgan Stanley reiterate Outperform ratings on Apple, forecasting unprecedented hardware upgrade cycles fueled by on-device neural processing features.",
+      "image": "https://images.unsplash.com/photo-1510519138171-cbe656418844?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-11T15:10:00Z",
+      "tags": [
+        "Tech & AI",
+        "AAPL",
+        "QCOM",
+        "AVGO"
+      ],
+      "authors": [
+        {
+          "name": "Marcus Vance",
+          "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=120&q=80"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article.html?id=treasury-yields-curve-steepening-impact",
+      "url": "https://worldstocknews.online/article.html?id=treasury-yields-curve-steepening-impact",
+      "title": "US Treasury Yield Curve Disinverts: What History Tells Us About Equity Valuations",
+      "content_text": "The 2-year and 10-year Treasury yield curve has turned decisively positive after 26 months of inversion. Here is the historical roadmap for cyclical equities.",
+      "summary": "The 2-year and 10-year Treasury yield curve has turned decisively positive after 26 months of inversion. Here is the historical roadmap for cyclical equities.",
+      "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-11T18:20:00Z",
+      "tags": [
+        "Macro Economy",
+        "^TNX",
+        "TLT",
+        "IEF",
+        "AGG"
+      ],
+      "authors": [
+        {
+          "name": "Elena Rostova",
+          "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=120&q=80"
         }
       ]
     }

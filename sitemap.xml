@@ -4,43 +4,43 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-10-12T12:00:00+00:00</lastmod>
+    <lastmod>2026-10-15T08:39:32.923Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=us-markets</loc>
-    <lastmod>2026-10-12T12:00:00+00:00</lastmod>
+    <lastmod>2026-10-15T08:39:32.923Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=tech-ai</loc>
-    <lastmod>2026-10-12T12:00:00+00:00</lastmod>
+    <lastmod>2026-10-15T08:39:32.923Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=macro-economy</loc>
-    <lastmod>2026-10-12T12:00:00+00:00</lastmod>
+    <lastmod>2026-10-15T08:39:32.923Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=crypto</loc>
-    <lastmod>2026-10-12T12:00:00+00:00</lastmod>
+    <lastmod>2026-10-15T08:39:32.923Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=earnings</loc>
-    <lastmod>2026-10-12T12:00:00+00:00</lastmod>
+    <lastmod>2026-10-15T08:39:32.923Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article.html?id=sp500-all-time-high-fed-policy</loc>
-    <lastmod>2026-10-12T10:30:00+00:00</lastmod>
+    <loc>https://worldstocknews.online/article.html?id=hourly-market-brief-mv9af67s</loc>
+    <lastmod>2026-10-15T08:39:19.992Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
     <news:news>
@@ -48,13 +48,167 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-12T10:30:00+00:00</news:publication_date>
-      <news:title>S&amp;P 500 Breaches Record Territory as Federal Reserve Signals Rate Stance</news:title>
+      <news:publication_date>2026-10-15T08:39:19.992Z</news:publication_date>
+      <news:title>Hourly Market Pulse: Global Indices Trade With Steady Breadth as Volume Accelerates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=anthropics-slowing-growth-could-be-the-ai-trades-latest-red--ba6e</loc>
+    <lastmod>2026-10-15T01:07:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T01:07:00.000Z</news:publication_date>
+      <news:title>Anthropic's slowing growth could be the AI trade's latest red flag</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=rocket-labs-stock-slides-as-the-company-pushes-back-neutrons-ba6f</loc>
+    <lastmod>2026-10-15T00:02:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T00:02:00.000Z</news:publication_date>
+      <news:title>Rocket Lab's stock slides as the company pushes back Neutron's first launch</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=the-ai-trade-is-splintering-as-inflation-fears-rattle-hyped--ba6f</loc>
+    <lastmod>2026-10-14T23:36:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-14T23:36:00.000Z</news:publication_date>
+      <news:title>The AI trade is splintering as inflation fears rattle hyped-up tech stocks</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=my-sister-moved-in-with-our-mother-78-and-says-she-deserves--ba6f</loc>
+    <lastmod>2026-10-14T22:45:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-14T22:45:00.000Z</news:publication_date>
+      <news:title>My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=x2018some-people-did-everything-right-i-lost-my-home-in-the--ba6f</loc>
+    <lastmod>2026-10-14T22:30:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-14T22:30:00.000Z</news:publication_date>
+      <news:title>&amp;#x2018;Some people did everything right': I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=bank-of-america-hired-1000-contractors-to-patch-software-fla-ba6g</loc>
+    <lastmod>2026-10-14T20:06:28.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-14T20:06:28.000Z</news:publication_date>
+      <news:title>Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=morgan-stanley-tops-estimates-as-equities-trading-revenue-be-ba6g</loc>
+    <lastmod>2026-10-14T20:22:09.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-14T20:22:09.000Z</news:publication_date>
+      <news:title>Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=bank-of-america-shares-drop-after-third-quarter-revenue-miss-ba6g</loc>
+    <lastmod>2026-10-14T20:20:46.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-14T20:20:46.000Z</news:publication_date>
+      <news:title>Bank of America shares drop after third-quarter revenue miss and regulatory penalty</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=chinas-exports-and-imports-surge-past-expectations-in-septem-ba6g</loc>
+    <lastmod>2026-10-14T03:41:36.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-14T03:41:36.000Z</news:publication_date>
+      <news:title>China's exports and imports surge past expectations in September</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=goldman-says-investors-are-looking-for-profitable-chinese-bu-ba6h</loc>
+    <lastmod>2026-10-13T23:05:12.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T23:05:12.000Z</news:publication_date>
+      <news:title>Goldman says investors are looking for 'profitable' Chinese business growth overseas</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=sp500-all-time-high-fed-policy</loc>
+    <lastmod>2026-10-12T10:30:00Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-12T10:30:00Z</news:publication_date>
+      <news:title>S&amp;P 500 Breaches Record Territory as Federal Reserve Signals Measured Easing Path</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article.html?id=nvidia-semiconductor-surge-q3</loc>
-    <lastmod>2026-10-12T09:15:00+00:00</lastmod>
+    <lastmod>2026-10-12T09:15:00Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
     <news:news>
@@ -62,13 +216,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-12T09:15:00+00:00</news:publication_date>
-      <news:title>NVIDIA Leads Semiconductor Rally on Next-Gen Blackwell Architecture Demand</news:title>
+      <news:publication_date>2026-10-12T09:15:00Z</news:publication_date>
+      <news:title>NVIDIA Extends AI Hardware Dominance as Hyperscale Capex Forecasts Expand</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article.html?id=bitcoin-etf-institutional-inflows</loc>
-    <lastmod>2026-10-12T08:00:00+00:00</lastmod>
+    <lastmod>2026-10-12T08:00:00Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
     <news:news>
@@ -76,73 +230,97 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-12T08:00:00+00:00</news:publication_date>
+      <news:publication_date>2026-10-12T08:00:00Z</news:publication_date>
       <news:title>Bitcoin Surges Past Key Resistance as Spot ETFs Absorb Record Weekly Inflows</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article.html?id=crude-oil-volatility-geopolitical-risks</loc>
-    <lastmod>2026-10-12T07:45:00+00:00</lastmod>
+    <lastmod>2026-10-12T07:45:00Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=treasury-yields-curve-steepening-impact</loc>
-    <lastmod>2026-10-11T18:20:00+00:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-12T07:45:00Z</news:publication_date>
+      <news:title>Crude Oil Consolidates Around $75 as Market Weighs Geopolitical Premiums vs Demand</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article.html?id=apple-ai-supercycle-revenue-forecast</loc>
-    <lastmod>2026-10-11T15:10:00+00:00</lastmod>
+    <lastmod>2026-10-11T15:10:00Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-11T15:10:00Z</news:publication_date>
+      <news:title>Apple Intelligence Supercycle: Wall Street Models Record iPhone Upgrade Wave</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=treasury-yields-curve-steepening-impact</loc>
+    <lastmod>2026-10-11T18:20:00Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-11T18:20:00Z</news:publication_date>
+      <news:title>US Treasury Yield Curve Disinverts: What History Tells Us About Equity Valuations</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-10-12T12:00:00+00:00</lastmod>
+    <lastmod>2026-10-15T08:39:32.923Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-10-12T12:00:00+00:00</lastmod>
+    <lastmod>2026-10-15T08:39:32.923Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-10-12T12:00:00+00:00</lastmod>
+    <lastmod>2026-10-15T08:39:32.923Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/about.html</loc>
-    <lastmod>2026-10-12T12:00:00+00:00</lastmod>
+    <lastmod>2026-10-15T08:39:32.923Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact.html</loc>
-    <lastmod>2026-10-12T12:00:00+00:00</lastmod>
+    <lastmod>2026-10-15T08:39:32.923Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy.html</loc>
-    <lastmod>2026-10-12T12:00:00+00:00</lastmod>
+    <lastmod>2026-10-15T08:39:32.923Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms.html</loc>
-    <lastmod>2026-10-12T12:00:00+00:00</lastmod>
+    <lastmod>2026-10-15T08:39:32.923Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/ads.txt</loc>
-    <lastmod>2026-10-12T12:00:00+00:00</lastmod>
+    <lastmod>2026-10-15T08:39:32.923Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>

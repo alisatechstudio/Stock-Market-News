@@ -33,6 +33,7 @@ document.addEventListener("DOMContentLoaded", () => {
   initCookieConsent();
   initMobileMenu();
   initBreakingNewsWire();
+  startClientHourlyAutoUpdate();
 
   // Listen to live price updates from MarketAPI
   MarketAPI.subscribe((key, data) => {
@@ -40,6 +41,8 @@ document.addEventListener("DOMContentLoaded", () => {
     initMoversWidget();
     StockChart.onPriceTick(key, data);
   });
+
+  let lastHourlySyncTime = Date.now();
 
   async function initBreakingNewsWire() {
     try {
@@ -55,6 +58,56 @@ document.addEventListener("DOMContentLoaded", () => {
       }
     } catch (e) {
       console.info("Breaking wire notice:", e.message);
+    }
+  }
+
+  /* ========================================================================
+     AUTOMATED CLIENT-SIDE HOURLY UPDATE ENGINE
+     ======================================================================== */
+  function startClientHourlyAutoUpdate() {
+    // 1. Re-poll breaking news wire every 5 minutes
+    setInterval(() => {
+      initBreakingNewsWire();
+    }, 5 * 60 * 1000);
+
+    // 2. Comprehensive hourly auto-refresh (every 60 minutes)
+    const ONE_HOUR = 60 * 60 * 1000;
+    setInterval(async () => {
+      console.log("[Client] Executing automated hourly refresh...");
+      lastHourlySyncTime = Date.now();
+      try {
+        await MarketAPI.fetchLiveQuotes();
+        await MarketAPI.fetchFearGreedIndex();
+        await initBreakingNewsWire();
+        
+        // Dynamically re-evaluate articles if feed updated
+        try {
+          const res = await fetch(`feed.json?t=${Date.now()}`);
+          if (res.ok) {
+            renderArticlesList();
+          }
+        } catch (_) {}
+
+        updateHourlyBadgeStatus();
+        showToast("Hourly update: Latest financial telemetry refreshed");
+      } catch (err) {
+        console.warn("[Client] Hourly refresh notice:", err.message);
+      }
+    }, ONE_HOUR);
+
+    // Update relative "X mins ago" badge text every minute
+    setInterval(updateHourlyBadgeStatus, 60 * 1000);
+    updateHourlyBadgeStatus();
+  }
+
+  function updateHourlyBadgeStatus() {
+    const badgeText = document.getElementById("autoUpdateStatusText");
+    if (!badgeText) return;
+    const minsAgo = Math.floor((Date.now() - lastHourlySyncTime) / 60000);
+    if (minsAgo <= 0) {
+      badgeText.textContent = "Auto-updated hourly • Updated just now";
+    } else {
+      badgeText.textContent = `Auto-updated hourly • Updated ${minsAgo}m ago`;
     }
   }
 
