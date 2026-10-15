@@ -2,7 +2,7 @@
 <html lang="en" data-theme="dark">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
   <title>Contact Us | World Stock News Financial Intelligence</title>
   <meta name="description" content="Get in touch with World Stock News editorial board, press inquiries, data corrections, and partnership support.">
   <meta name="robots" content="index, follow">
@@ -31,9 +31,10 @@
   <link rel="stylesheet" href="css/style.css">
   <style>
     .contact-page-wrap {
-      max-width: 860px;
+      width: 100%;
+      max-width: 1100px;
       margin: 3rem auto 5rem;
-      padding: 0 1.25rem;
+      padding: 0 clamp(1rem, 3vw, 2rem);
     }
     .contact-grid {
       display: grid;

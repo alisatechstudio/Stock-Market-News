@@ -2,7 +2,7 @@
 <html lang="en" data-theme="dark">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
   <title>About Us | World Stock News Financial Intelligence</title>
   <meta name="description" content="Learn about World Stock News, our mission to democratize institutional financial intelligence, our editorial team, and data standards.">
   <meta name="robots" content="index, follow">
@@ -31,9 +31,10 @@
   <link rel="stylesheet" href="css/style.css">
   <style>
     .about-page-wrap {
-      max-width: 960px;
+      width: 100%;
+      max-width: 1100px;
       margin: 3rem auto 5rem;
-      padding: 0 1.25rem;
+      padding: 0 clamp(1rem, 3vw, 2rem);
       line-height: 1.8;
     }
     .about-hero {

@@ -105,6 +105,8 @@ html {
   scroll-padding-top: 80px;
   font-size: 16px;
   -webkit-text-size-adjust: 100%;
+  width: 100%;
+  max-width: 100%;
 }
 
 section[id], div[id], article[id] {
@@ -117,6 +119,8 @@ body {
   color: var(--text-primary);
   line-height: 1.6;
   min-height: 100vh;
+  width: 100%;
+  max-width: 100vw;
   overflow-x: hidden;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -160,9 +164,9 @@ img {
 
 .container {
   width: 100%;
-  max-width: 1440px;
+  max-width: 100%;
   margin: 0 auto;
-  padding: 0 clamp(1rem, 3.5vw, 2rem);
+  padding: 0 clamp(0.75rem, 2vw, 2.25rem);
 }
 
 /* Custom Sleek Scrollbars */
@@ -1685,7 +1689,6 @@ img {
 
 .calendar-table {
   width: 100%;
-  min-width: 440px;
   border-collapse: collapse;
   font-size: 0.84rem;
 }
@@ -2146,6 +2149,12 @@ img {
 
 /* Tablet & Mobile Breakpoint (App-Style Experience) */
 @media (max-width: 768px) {
+  .container {
+    width: 100%;
+    max-width: 100vw;
+    padding: 0 clamp(0.75rem, 3.5vw, 1.25rem);
+  }
+
   /* Ensure Fixed Bottom Navigation Dock Never Occludes Any Page Content */
   body {
     padding-bottom: calc(72px + env(safe-area-inset-bottom, 0px)) !important;
