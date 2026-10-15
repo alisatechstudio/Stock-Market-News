@@ -908,7 +908,7 @@ document.addEventListener("DOMContentLoaded", () => {
     banner.id = "cookieConsentBanner";
     banner.innerHTML = `
       <div class="cookie-content">
-        <strong>Privacy &amp; Advertising Notice:</strong> We and our third-party advertising partners (including Google AdSense) use cookies and web beacons to personalize financial content, display relevant ads, and analyze traffic. Review our <a href="privacy-policy.html">Privacy Policy</a> to learn how your data is handled.
+        <strong>Privacy &amp; Advertising Notice:</strong> We and our third-party advertising partners use cookies and web beacons to personalize financial content, display relevant ads, and analyze traffic. Review our <a href="privacy-policy.html">Privacy Policy</a> to learn how your data is handled.
       </div>
       <div class="cookie-actions">
         <button class="btn-outline" style="padding:6px 14px; font-size:0.8rem;" id="cookieRejectBtn">Essential Only</button>
