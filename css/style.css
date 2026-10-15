@@ -2332,11 +2332,21 @@ img {
 /* Ultra-Compact Phones (iPhone SE, Small Androids) */
 @media (max-width: 480px) {
   .container {
-    padding: 0 0.85rem;
+    padding-left: calc(0.75rem + env(safe-area-inset-left, 0px));
+    padding-right: calc(0.75rem + env(safe-area-inset-right, 0px));
+  }
+
+  .ticker-label {
+    padding: 0 0.5rem;
+    font-size: 0.65rem;
+  }
+
+  .ticker-track {
+    padding-left: 85px;
   }
 
   .brand-logo {
-    font-size: clamp(0.9rem, 3.6vw, 1.05rem);
+    font-size: clamp(0.85rem, 3.4vw, 1rem);
   }
 
   .header-actions .search-box-btn,
@@ -2347,8 +2357,8 @@ img {
   }
 
   .gauge-canvas {
-    max-width: 220px;
-    height: 110px;
+    max-width: 200px;
+    height: 100px;
   }
 
   .gauge-score {
@@ -2357,17 +2367,59 @@ img {
 
   .chart-stats-bar {
     grid-template-columns: repeat(2, 1fr);
+    gap: 0.65rem;
+  }
+
+  .section-head {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.75rem;
+  }
+
+  .category-tabs {
+    width: 100%;
+  }
+
+  .calc-panel {
+    padding: 1rem;
   }
 }
 
 /* Narrowest Screens (≤ 360px) */
 @media (max-width: 360px) {
+  .container {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+  }
+
+  .ticker-label span:last-child {
+    display: none;
+  }
+
+  .ticker-track {
+    padding-left: 45px;
+  }
+
   .telemetry-grid {
     grid-template-columns: 1fr;
+  }
+
+  .brand-logo span:last-of-type {
+    max-width: 130px;
   }
 
   .chart-controls .pill-group {
     width: 100%;
     justify-content: space-between;
   }
+
+  .bottom-nav-item {
+    font-size: 0.62rem;
+  }
+
+  .bottom-nav-icon {
+    width: 18px;
+    height: 18px;
+  }
 }
+
