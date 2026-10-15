@@ -309,35 +309,126 @@ document.addEventListener("DOMContentLoaded", () => {
      CHART CONTROLS
      ======================================================================== */
   function initChartControls() {
-    // Timeframe buttons
-    document.querySelectorAll("[data-timeframe]").forEach(btn => {
-      btn.addEventListener("click", (e) => {
-        document.querySelectorAll("[data-timeframe]").forEach(b => b.classList.remove("active"));
-        e.currentTarget.classList.add("active");
-        const tf = e.currentTarget.getAttribute("data-timeframe");
-        StockChart.setTimeframe(tf);
+    // 1. Timeframe filter buttons
+    const tfButtons = document.querySelectorAll("[data-timeframe]");
+    tfButtons.forEach(btn => {
+      btn.addEventListener("click", function(e) {
+        e.preventDefault();
+        tfButtons.forEach(b => b.classList.remove("active"));
+        this.classList.add("active");
+        const tf = this.getAttribute("data-timeframe");
+        if (tf) {
+          StockChart.setTimeframe(tf);
+        }
       });
     });
 
-    // Chart Type (Candle vs Line)
+    // 2. Chart Type (Candle vs Line)
     const candleBtn = document.getElementById("chartBtnCandle");
     const lineBtn = document.getElementById("chartBtnLine");
     if (candleBtn && lineBtn) {
-      candleBtn.addEventListener("click", () => {
+      candleBtn.addEventListener("click", function(e) {
+        e.preventDefault();
         candleBtn.classList.add("active");
         lineBtn.classList.remove("active");
         StockChart.setChartType("candlestick");
       });
-      lineBtn.addEventListener("click", () => {
+      lineBtn.addEventListener("click", function(e) {
+        e.preventDefault();
         lineBtn.classList.add("active");
         candleBtn.classList.remove("active");
         StockChart.setChartType("line");
       });
     }
+
+    // 3. Header Dropdown Instrument Selector
+    const instrumentSelect = document.getElementById("chartInstrumentSelect");
+    if (instrumentSelect) {
+      instrumentSelect.addEventListener("change", function() {
+        selectChartTicker(this.value);
+      });
+    }
+
+    // 4. Chart Category & Ticker Filter Chips Bar
+    initChartInstrumentFilters();
+  }
+
+  function initChartInstrumentFilters() {
+    const container = document.getElementById("chartTickerChips");
+    const categoryBtns = document.querySelectorAll("[data-chart-category]");
+    if (!container) return;
+
+    const allTickers = MarketAPI.getAllTickers();
+    let activeCat = "all";
+
+    function renderTickerChips(cat) {
+      const keys = Object.keys(allTickers).filter(k => {
+        if (cat === "all") return true;
+        const item = allTickers[k];
+        if (cat === "forex") return item.type === "forex" || item.type === "bond";
+        return item.type === cat;
+      });
+
+      const currentActive = StockChart.getActiveTicker ? StockChart.getActiveTicker() : "^GSPC";
+
+      container.innerHTML = keys.map(k => {
+        const item = allTickers[k];
+        const isPos = item.change >= 0;
+        const isActive = k === currentActive;
+        const isFx = item.type === "forex" || k === "EURUSD";
+        return `
+          <button type="button" class="ticker-filter-chip ${isActive ? 'active' : ''}" data-chart-ticker="${k}">
+            <span class="chip-sym">${item.symbol}</span>
+            <span class="chip-price tabular-nums">$${item.price.toLocaleString(undefined, { minimumFractionDigits: isFx ? 4 : 2 })}</span>
+            <span class="chip-change ${isPos ? 'pos' : 'neg'}">${isPos ? '+' : ''}${item.changePct.toFixed(2)}%</span>
+          </button>
+        `;
+      }).join('');
+
+      container.querySelectorAll("[data-chart-ticker]").forEach(chip => {
+        chip.addEventListener("click", function(e) {
+          e.preventDefault();
+          const tickerKey = this.getAttribute("data-chart-ticker");
+          selectChartTicker(tickerKey);
+        });
+      });
+    }
+
+    categoryBtns.forEach(btn => {
+      btn.addEventListener("click", function(e) {
+        e.preventDefault();
+        categoryBtns.forEach(b => b.classList.remove("active"));
+        this.classList.add("active");
+        activeCat = this.getAttribute("data-chart-category");
+        renderTickerChips(activeCat);
+      });
+    });
+
+    renderTickerChips("all");
   }
 
   window.selectChartTicker = function(tickerKey) {
+    if (!tickerKey) return;
     StockChart.loadTicker(tickerKey);
+
+    // Sync dropdown select element
+    const instrumentSelect = document.getElementById("chartInstrumentSelect");
+    if (instrumentSelect && instrumentSelect.value !== tickerKey) {
+      instrumentSelect.value = tickerKey;
+    }
+
+    // Sync active state on ticker filter chips
+    document.querySelectorAll("[data-chart-ticker]").forEach(chip => {
+      if (chip.getAttribute("data-chart-ticker") === tickerKey) {
+        chip.classList.add("active");
+        try {
+          chip.scrollIntoView({ behavior: "smooth", block: "nearest", inline: "center" });
+        } catch (_) {}
+      } else {
+        chip.classList.remove("active");
+      }
+    });
+
     const chartSection = document.getElementById("stockChartSection");
     if (chartSection) {
       chartSection.scrollIntoView({ behavior: "smooth", block: "center" });

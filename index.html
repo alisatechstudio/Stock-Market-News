@@ -211,8 +211,8 @@
     <div class="container breaking-inner">
       <span class="breaking-tag">Breaking</span>
       <div class="breaking-headline">
-        <a id="breakingHeadlineLink" href="article.html?id=hourly-market-brief-mv9f8o02">
-          Hourly Market Pulse: Global Indices Trade With Steady Breadth as Volume Accelerates
+        <a id="breakingHeadlineLink" href="article.html?id=tsmcs-ceo-sees-no-sign-of-a-slowdown-as-chip-foundry-reports-qcxt">
+          TSMC's CEO sees no sign of a slowdown as chip foundry reports record profit
         </a>
       </div>
       <div class="api-source-badge" id="liveAutoUpdateBadge" title="Automated hourly engine updates all feeds, news, and sitemaps">
@@ -249,19 +249,19 @@
             </div>
             <div class="story-content">
               <div class="story-meta">
-                <time datetime="2026-10-15T10:54:14.758Z" id="heroStoryTime">October 15, 2026</time>
+                <time datetime="2026-10-15T08:42:00.000Z" id="heroStoryTime">October 15, 2026</time>
                 <span>•</span>
                 <span id="heroReadTime">4 min read</span>
                 <span>•</span>
-                <span style="color:var(--bullish); font-weight:700;" id="heroTargetPrice">Wall St Target: 7,850 Target</span>
+                <span style="color:var(--bullish); font-weight:700;" id="heroTargetPrice">Wall St Target: Overweight Target</span>
               </div>
               <h1 class="story-title">
-                <a id="heroStoryLink" href="article.html?id=hourly-market-brief-mv9f8o02">
-                  Hourly Market Pulse: Global Indices Trade With Steady Breadth as Volume Accelerates
+                <a id="heroStoryLink" href="article.html?id=tsmcs-ceo-sees-no-sign-of-a-slowdown-as-chip-foundry-reports-qcxt">
+                  TSMC's CEO sees no sign of a slowdown as chip foundry reports record profit
                 </a>
               </h1>
               <p class="story-excerpt" id="heroStoryExcerpt">
-                Mid-day institutional trading patterns reflect disciplined risk management and rotational inflows into cyclical leaders and technology infrastructure.
+                The semiconductor foundry announced third-quarter net profits of 763.34 Taiwanese new dollars, marking a record.
               </p>
               <div class="story-footer">
                 <div class="author-chip">
@@ -332,12 +332,52 @@
     <section class="chart-section" id="stockChartSection">
       <div class="container">
         <div class="chart-panel">
+          <!-- Chart Instrument Filter Bar -->
+          <div class="chart-instrument-filters" id="chartInstrumentFilters">
+            <div class="chart-filter-categories">
+              <button type="button" class="filter-chip active" data-chart-category="all">All Markets</button>
+              <button type="button" class="filter-chip" data-chart-category="index">Indices</button>
+              <button type="button" class="filter-chip" data-chart-category="stock">Stocks</button>
+              <button type="button" class="filter-chip" data-chart-category="crypto">Crypto</button>
+              <button type="button" class="filter-chip" data-chart-category="commodity">Commodities</button>
+              <button type="button" class="filter-chip" data-chart-category="forex">Forex &amp; Bonds</button>
+            </div>
+            <div class="chart-ticker-chips" id="chartTickerChips" role="toolbar" aria-label="Quick Select Instrument">
+              <!-- Dynamically populated ticker chips -->
+            </div>
+          </div>
+
           <div class="chart-header">
             <div>
               <div class="chart-ticker-meta">
                 <span class="chart-ticker-name" id="chartTickerName">S&amp;P 500</span>
                 <span class="chart-ticker-full" id="chartTickerFull">S&amp;P 500 Index</span>
-                <span class="pill-badge pos" id="chartChangeDisplay">+1.15%</span>
+                <select class="chart-instrument-select" id="chartInstrumentSelect" aria-label="Select Market Instrument">
+                  <optgroup label="Major Indices">
+                    <option value="^GSPC" selected>S&amp;P 500 (^GSPC)</option>
+                    <option value="^NDX">Nasdaq 100 (^NDX)</option>
+                    <option value="^DJI">Dow Jones Industrial (^DJI)</option>
+                    <option value="^RUT">Russell 2000 (^RUT)</option>
+                  </optgroup>
+                  <optgroup label="Mega-Cap Stocks">
+                    <option value="NVDA">NVIDIA Corp. (NVDA)</option>
+                    <option value="AAPL">Apple Inc. (AAPL)</option>
+                    <option value="MSFT">Microsoft Corp. (MSFT)</option>
+                    <option value="TSLA">Tesla Inc. (TSLA)</option>
+                    <option value="AMZN">Amazon.com Inc. (AMZN)</option>
+                  </optgroup>
+                  <optgroup label="Cryptocurrencies">
+                    <option value="BTC-USD">Bitcoin USD (BTC)</option>
+                    <option value="ETH-USD">Ethereum USD (ETH)</option>
+                  </optgroup>
+                  <optgroup label="Commodities &amp; Forex">
+                    <option value="GC=F">Gold Spot (GC=F)</option>
+                    <option value="CL=F">Crude Oil WTI (CL=F)</option>
+                    <option value="^TNX">US 10-Yr Treasury (^TNX)</option>
+                    <option value="EURUSD">EUR / USD (EURUSD)</option>
+                  </optgroup>
+                </select>
+                <span class="pill-badge pos" id="chartChangeDisplay">+1.15% (1M)</span>
                 <span class="live-stream-badge"><span class="live-beacon-dot"></span> LIVE STREAMING</span>
               </div>
               <div class="chart-price-display tabular-nums" id="chartPriceDisplay">$7,811.54</div>
@@ -345,18 +385,18 @@
 
             <div class="chart-controls">
               <!-- Candlestick vs Line Toggle -->
-              <div class="pill-group">
-                <button class="pill-btn active" id="chartBtnCandle">Candles</button>
-                <button class="pill-btn" id="chartBtnLine">Line</button>
+              <div class="pill-group" role="group" aria-label="Chart Style">
+                <button type="button" class="pill-btn active" id="chartBtnCandle">Candles</button>
+                <button type="button" class="pill-btn" id="chartBtnLine">Line</button>
               </div>
 
               <!-- Timeframe Selectors -->
-              <div class="pill-group">
-                <button class="pill-btn" data-timeframe="1D">1D</button>
-                <button class="pill-btn" data-timeframe="1W">1W</button>
-                <button class="pill-btn active" data-timeframe="1M">1M</button>
-                <button class="pill-btn" data-timeframe="1Y">1Y</button>
-                <button class="pill-btn" data-timeframe="5Y">5Y</button>
+              <div class="pill-group" role="group" aria-label="Chart Timeframe">
+                <button type="button" class="pill-btn" data-timeframe="1D">1D</button>
+                <button type="button" class="pill-btn" data-timeframe="1W">1W</button>
+                <button type="button" class="pill-btn active" data-timeframe="1M">1M</button>
+                <button type="button" class="pill-btn" data-timeframe="1Y">1Y</button>
+                <button type="button" class="pill-btn" data-timeframe="5Y">5Y</button>
               </div>
             </div>
           </div>
@@ -370,11 +410,11 @@
           <!-- Quick Stats Bar -->
           <div class="chart-stats-bar">
             <div class="stat-item">
-              <span class="label">Day High</span>
+              <span class="label" id="statHighLabel">Period High</span>
               <span class="val" id="statHigh">$7,820.57</span>
             </div>
             <div class="stat-item">
-              <span class="label">Day Low</span>
+              <span class="label" id="statLowLabel">Period Low</span>
               <span class="val" id="statLow">$7,779.34</span>
             </div>
             <div class="stat-item">

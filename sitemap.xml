@@ -4,39 +4,53 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-10-15T10:54:14.758Z</lastmod>
+    <lastmod>2026-10-15T11:08:00.750Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=us-markets</loc>
-    <lastmod>2026-10-15T10:54:14.758Z</lastmod>
+    <lastmod>2026-10-15T11:08:00.750Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=tech-ai</loc>
-    <lastmod>2026-10-15T10:54:14.758Z</lastmod>
+    <lastmod>2026-10-15T11:08:00.750Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=macro-economy</loc>
-    <lastmod>2026-10-15T10:54:14.758Z</lastmod>
+    <lastmod>2026-10-15T11:08:00.750Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=crypto</loc>
-    <lastmod>2026-10-15T10:54:14.758Z</lastmod>
+    <lastmod>2026-10-15T11:08:00.750Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=earnings</loc>
-    <lastmod>2026-10-15T10:54:14.758Z</lastmod>
+    <lastmod>2026-10-15T11:08:00.750Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=tsmcs-ceo-sees-no-sign-of-a-slowdown-as-chip-foundry-reports-qcxt</loc>
+    <lastmod>2026-10-15T08:42:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T08:42:00.000Z</news:publication_date>
+      <news:title>TSMC's CEO sees no sign of a slowdown as chip foundry reports record profit</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article.html?id=hourly-market-brief-mv9f8o02</loc>
@@ -362,49 +376,49 @@
   </url>
   <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-10-15T10:54:14.758Z</lastmod>
+    <lastmod>2026-10-15T11:08:00.750Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-10-15T10:54:14.758Z</lastmod>
+    <lastmod>2026-10-15T11:08:00.750Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-10-15T10:54:14.758Z</lastmod>
+    <lastmod>2026-10-15T11:08:00.750Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/about.html</loc>
-    <lastmod>2026-10-15T10:54:14.758Z</lastmod>
+    <lastmod>2026-10-15T11:08:00.750Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact.html</loc>
-    <lastmod>2026-10-15T10:54:14.758Z</lastmod>
+    <lastmod>2026-10-15T11:08:00.750Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy.html</loc>
-    <lastmod>2026-10-15T10:54:14.758Z</lastmod>
+    <lastmod>2026-10-15T11:08:00.750Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms.html</loc>
-    <lastmod>2026-10-15T10:54:14.758Z</lastmod>
+    <lastmod>2026-10-15T11:08:00.750Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/ads.txt</loc>
-    <lastmod>2026-10-15T10:54:14.758Z</lastmod>
+    <lastmod>2026-10-15T11:08:00.750Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>

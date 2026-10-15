@@ -1357,6 +1357,135 @@ img {
   100% { background: transparent; }
 }
 
+/* Chart Instrument Filters & Tabs */
+.chart-instrument-filters {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 1.25rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.chart-filter-categories {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  overflow-x: auto;
+  padding-bottom: 4px;
+  scrollbar-width: none;
+}
+.chart-filter-categories::-webkit-scrollbar {
+  display: none;
+}
+
+.filter-chip {
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-subtle);
+  color: var(--text-secondary);
+  font-size: 0.76rem;
+  font-weight: 700;
+  padding: 6px 14px;
+  border-radius: var(--radius-full);
+  cursor: pointer;
+  white-space: nowrap;
+  transition: all var(--transition-fast);
+}
+
+.filter-chip:hover, .filter-chip.active {
+  background: var(--primary);
+  border-color: var(--primary);
+  color: #ffffff;
+  box-shadow: 0 4px 12px rgba(37, 99, 235, 0.3);
+}
+
+.chart-ticker-chips {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  overflow-x: auto;
+  padding: 4px 2px 8px;
+  scrollbar-width: thin;
+  -webkit-overflow-scrolling: touch;
+}
+
+.ticker-filter-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: rgba(15, 23, 42, 0.45);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-md);
+  padding: 6px 12px;
+  cursor: pointer;
+  white-space: nowrap;
+  font-size: 0.78rem;
+  color: var(--text-primary);
+  transition: all var(--transition-fast);
+  user-select: none;
+}
+
+[data-theme="light"] .ticker-filter-chip {
+  background: #f8fafc;
+}
+
+.ticker-filter-chip:hover {
+  background: var(--bg-surface-elevated);
+  border-color: var(--border-strong);
+  transform: translateY(-1px);
+}
+
+.ticker-filter-chip.active {
+  border-color: var(--primary);
+  background: rgba(37, 99, 235, 0.15);
+  box-shadow: 0 0 0 1px var(--primary);
+}
+
+.ticker-filter-chip .chip-sym {
+  font-weight: 800;
+  color: var(--text-primary);
+}
+
+.ticker-filter-chip .chip-price {
+  font-family: var(--font-mono);
+  font-weight: 600;
+}
+
+.ticker-filter-chip .chip-change {
+  font-family: var(--font-mono);
+  font-weight: 700;
+  font-size: 0.72rem;
+  padding: 2px 6px;
+  border-radius: var(--radius-xs);
+}
+
+.ticker-filter-chip .chip-change.pos {
+  background: rgba(16, 185, 129, 0.15);
+  color: var(--bullish);
+}
+
+.ticker-filter-chip .chip-change.neg {
+  background: rgba(244, 63, 94, 0.15);
+  color: var(--bearish);
+}
+
+.chart-instrument-select {
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-subtle);
+  color: var(--text-primary);
+  font-size: 0.82rem;
+  font-weight: 700;
+  padding: 6px 10px;
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  outline: none;
+  transition: all var(--transition-fast);
+}
+
+.chart-instrument-select:hover, .chart-instrument-select:focus {
+  border-color: var(--primary);
+}
+
 .pill-group {
   display: inline-flex;
   background: var(--bg-secondary);

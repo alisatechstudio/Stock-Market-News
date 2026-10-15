@@ -233,18 +233,47 @@ const StockChart = (function() {
     if (nameEl) nameEl.textContent = item.symbol;
     if (fullEl) fullEl.textContent = item.name;
     if (priceEl) priceEl.textContent = "$" + item.price.toLocaleString(undefined, { minimumFractionDigits: dec });
-    if (changeEl) {
-      const isPos = item.change >= 0;
-      changeEl.className = `pill-badge ${isPos ? 'pos' : 'neg'}`;
-      changeEl.textContent = `${isPos ? '+' : ''}${item.change.toFixed(dec)} (${isPos ? '+' : ''}${item.changePct.toFixed(2)}%)`;
+
+    // Calculate dynamic period change and period high/low based on timeframe
+    let periodChange = item.change;
+    let periodChangePct = item.changePct;
+    let periodHigh = item.high;
+    let periodLow = item.low;
+    let periodVol = item.volume;
+
+    if (currentCandles && currentCandles.length > 1) {
+      const first = currentCandles[0];
+      const last = currentCandles[currentCandles.length - 1];
+      
+      if (activeTimeframe !== "1D" && first.open > 0) {
+        periodChange = +(last.close - first.open).toFixed(dec);
+        periodChangePct = +(((last.close - first.open) / first.open) * 100).toFixed(2);
+      }
+      
+      const highs = currentCandles.map(c => c.high).filter(h => typeof h === "number" && !isNaN(h));
+      const lows = currentCandles.map(c => c.low).filter(l => typeof l === "number" && !isNaN(l));
+      if (highs.length > 0) periodHigh = Math.max(...highs);
+      if (lows.length > 0) periodLow = Math.min(...lows);
     }
+
+    if (changeEl) {
+      const isPos = periodChange >= 0;
+      changeEl.className = `pill-badge ${isPos ? 'pos' : 'neg'}`;
+      const tfLabel = activeTimeframe === "1D" ? "1D" : (activeTimeframe === "1W" ? "1W" : (activeTimeframe === "1M" ? "1M" : (activeTimeframe === "1Y" ? "1Y" : "5Y")));
+      changeEl.textContent = `${isPos ? '+' : ''}${periodChange.toFixed(dec)} (${isPos ? '+' : ''}${periodChangePct.toFixed(2)}% • ${tfLabel})`;
+    }
+
+    const statHighLabel = document.getElementById("statHighLabel");
+    const statLowLabel = document.getElementById("statLowLabel");
+    if (statHighLabel) statHighLabel.textContent = `${activeTimeframe} High`;
+    if (statLowLabel) statLowLabel.textContent = `${activeTimeframe} Low`;
 
     const statHigh = document.getElementById("statHigh");
     const statLow = document.getElementById("statLow");
     const statVol = document.getElementById("statVol");
-    if (statHigh) statHigh.textContent = "$" + (item.high ? item.high.toLocaleString(undefined, { minimumFractionDigits: dec }) : "-");
-    if (statLow) statLow.textContent = "$" + (item.low ? item.low.toLocaleString(undefined, { minimumFractionDigits: dec }) : "-");
-    if (statVol) statVol.textContent = item.volume || "-";
+    if (statHigh) statHigh.textContent = "$" + (periodHigh ? periodHigh.toLocaleString(undefined, { minimumFractionDigits: dec }) : "-");
+    if (statLow) statLow.textContent = "$" + (periodLow ? periodLow.toLocaleString(undefined, { minimumFractionDigits: dec }) : "-");
+    if (statVol) statVol.textContent = periodVol || "-";
 
     // Dynamic SMA & RSI
     if (currentCandles && currentCandles.length > 0) {
@@ -871,6 +900,9 @@ const StockChart = (function() {
     drawFearGreedGauge,
     drawSparkline,
     updateHeaderStats,
-    onPriceTick
+    onPriceTick,
+    getActiveTicker: () => activeTicker,
+    getActiveTimeframe: () => activeTimeframe,
+    getChartType: () => chartType
   };
 })();
