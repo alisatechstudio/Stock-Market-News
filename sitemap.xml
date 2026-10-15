@@ -4,39 +4,95 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-10-15T20:34:41.403Z</lastmod>
+    <lastmod>2026-10-15T23:21:26.706Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=us-markets</loc>
-    <lastmod>2026-10-15T20:34:41.403Z</lastmod>
+    <lastmod>2026-10-15T23:21:26.706Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=tech-ai</loc>
-    <lastmod>2026-10-15T20:34:41.403Z</lastmod>
+    <lastmod>2026-10-15T23:21:26.706Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=macro-economy</loc>
-    <lastmod>2026-10-15T20:34:41.403Z</lastmod>
+    <lastmod>2026-10-15T23:21:26.706Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=crypto</loc>
-    <lastmod>2026-10-15T20:34:41.403Z</lastmod>
+    <lastmod>2026-10-15T23:21:26.706Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=earnings</loc>
-    <lastmod>2026-10-15T20:34:41.403Z</lastmod>
+    <lastmod>2026-10-15T23:21:26.706Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=how-a-midterm-sweep-by-democrats-could-turn-this-tech-sellof-xjcy</loc>
+    <lastmod>2026-10-15T21:56:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T21:56:00.000Z</news:publication_date>
+      <news:title>How a midterm sweep by Democrats could turn this tech selloff into a tech crash</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai-fea-xjcy</loc>
+    <lastmod>2026-10-15T21:23:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T21:23:00.000Z</news:publication_date>
+      <news:title>Nvidia and other chip stocks face renewed pressure as AI fears swell</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=dont-ditch-tech-stocks-just-yet-make-these-moves-to-take-adv-xjcy</loc>
+    <lastmod>2026-10-15T21:21:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T21:21:00.000Z</news:publication_date>
+      <news:title>Don't ditch tech stocks just yet. Make these moves to take advantage of the latest AI reset.</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=people-in-china-are-spending-nearly-as-much-of-their-income--xjcy</loc>
+    <lastmod>2026-10-15T23:00:01.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T23:00:01.000Z</news:publication_date>
+      <news:title>People in China are spending nearly as much of their income as Americans on healthcare</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article.html?id=big-pharma-stocks-close-near-all-time-highs-as-tech-selloff--z3i9</loc>
@@ -473,106 +529,50 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article.html?id=chinas-exports-and-imports-surge-past-expectations-in-septem-ba6g</loc>
-    <lastmod>2026-10-14T03:41:36.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T03:41:36.000Z</news:publication_date>
-      <news:title>China's exports and imports surge past expectations in September</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=goldman-says-investors-are-looking-for-profitable-chinese-bu-ba6h</loc>
-    <lastmod>2026-10-13T23:05:12.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-13T23:05:12.000Z</news:publication_date>
-      <news:title>Goldman says investors are looking for 'profitable' Chinese business growth overseas</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=sp500-all-time-high-fed-policy</loc>
-    <lastmod>2026-10-14T16:19:00.068Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T16:19:00.068Z</news:publication_date>
-      <news:title>S&amp;P 500 Breaches Record Territory as Federal Reserve Signals Measured Easing Path</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=nvidia-semiconductor-surge-q3</loc>
-    <lastmod>2026-10-14T15:19:00.068Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T15:19:00.068Z</news:publication_date>
-      <news:title>NVIDIA Extends AI Hardware Dominance as Hyperscale Capex Forecasts Expand</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-10-15T20:34:41.403Z</lastmod>
+    <lastmod>2026-10-15T23:21:26.706Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-10-15T20:34:41.403Z</lastmod>
+    <lastmod>2026-10-15T23:21:26.706Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-10-15T20:34:41.403Z</lastmod>
+    <lastmod>2026-10-15T23:21:26.706Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/about.html</loc>
-    <lastmod>2026-10-15T20:34:41.403Z</lastmod>
+    <lastmod>2026-10-15T23:21:26.706Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact.html</loc>
-    <lastmod>2026-10-15T20:34:41.403Z</lastmod>
+    <lastmod>2026-10-15T23:21:26.706Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy.html</loc>
-    <lastmod>2026-10-15T20:34:41.403Z</lastmod>
+    <lastmod>2026-10-15T23:21:26.706Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms.html</loc>
-    <lastmod>2026-10-15T20:34:41.403Z</lastmod>
+    <lastmod>2026-10-15T23:21:26.706Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/ads.txt</loc>
-    <lastmod>2026-10-15T20:34:41.403Z</lastmod>
+    <lastmod>2026-10-15T23:21:26.706Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
