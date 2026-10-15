@@ -4,39 +4,95 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-10-15T17:54:51.912Z</lastmod>
+    <lastmod>2026-10-15T20:34:41.403Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=us-markets</loc>
-    <lastmod>2026-10-15T17:54:51.912Z</lastmod>
+    <lastmod>2026-10-15T20:34:41.403Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=tech-ai</loc>
-    <lastmod>2026-10-15T17:54:51.912Z</lastmod>
+    <lastmod>2026-10-15T20:34:41.403Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=macro-economy</loc>
-    <lastmod>2026-10-15T17:54:51.912Z</lastmod>
+    <lastmod>2026-10-15T20:34:41.403Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=crypto</loc>
-    <lastmod>2026-10-15T17:54:51.912Z</lastmod>
+    <lastmod>2026-10-15T20:34:41.403Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=earnings</loc>
-    <lastmod>2026-10-15T17:54:51.912Z</lastmod>
+    <lastmod>2026-10-15T20:34:41.403Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=big-pharma-stocks-close-near-all-time-highs-as-tech-selloff--z3i9</loc>
+    <lastmod>2026-10-15T20:29:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T20:29:00.000Z</news:publication_date>
+      <news:title>Big pharma stocks close near all-time highs as tech selloff pushes investors toward safer bets</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=coreweaves-polarizing-stock-rebounds-as-wall-street-squares--z3i9</loc>
+    <lastmod>2026-10-15T19:26:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T19:26:00.000Z</news:publication_date>
+      <news:title>CoreWeave's polarizing stock rebounds as Wall Street squares off about AI spending</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=this-one-governors-race-could-derail-the-ai-trade-thats-powe-z3i9</loc>
+    <lastmod>2026-10-15T19:00:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T19:00:00.000Z</news:publication_date>
+      <news:title>This one governor's race could derail the AI trade that's powered the stock market</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=harvards-endowment-jumps-27-in-fiscal-2026-lifted-by-spacex--z3i9</loc>
+    <lastmod>2026-10-15T19:53:49.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T19:53:49.000Z</news:publication_date>
+      <news:title>Harvard’s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article.html?id=are-we-spending-our-retirement-money-in-the-right-order-our--9jxv</loc>
@@ -473,106 +529,50 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article.html?id=bitcoin-etf-institutional-inflows</loc>
-    <lastmod>2026-10-14T14:19:00.068Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T14:19:00.068Z</news:publication_date>
-      <news:title>Bitcoin Surges Past Key Resistance as Spot ETFs Absorb Record Weekly Inflows</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=crude-oil-volatility-geopolitical-risks</loc>
-    <lastmod>2026-10-14T13:19:00.068Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T13:19:00.068Z</news:publication_date>
-      <news:title>Crude Oil Consolidates Around $75 as Market Weighs Geopolitical Premiums vs Demand</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=apple-ai-supercycle-revenue-forecast</loc>
-    <lastmod>2026-10-14T12:19:00.068Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T12:19:00.068Z</news:publication_date>
-      <news:title>Apple Intelligence Supercycle: Wall Street Models Record iPhone Upgrade Wave</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=treasury-yields-curve-steepening-impact</loc>
-    <lastmod>2026-10-14T11:19:00.068Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T11:19:00.068Z</news:publication_date>
-      <news:title>US Treasury Yield Curve Disinverts: What History Tells Us About Equity Valuations</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-10-15T17:54:51.912Z</lastmod>
+    <lastmod>2026-10-15T20:34:41.403Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-10-15T17:54:51.912Z</lastmod>
+    <lastmod>2026-10-15T20:34:41.403Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-10-15T17:54:51.912Z</lastmod>
+    <lastmod>2026-10-15T20:34:41.403Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/about.html</loc>
-    <lastmod>2026-10-15T17:54:51.912Z</lastmod>
+    <lastmod>2026-10-15T20:34:41.403Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact.html</loc>
-    <lastmod>2026-10-15T17:54:51.912Z</lastmod>
+    <lastmod>2026-10-15T20:34:41.403Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy.html</loc>
-    <lastmod>2026-10-15T17:54:51.912Z</lastmod>
+    <lastmod>2026-10-15T20:34:41.403Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms.html</loc>
-    <lastmod>2026-10-15T17:54:51.912Z</lastmod>
+    <lastmod>2026-10-15T20:34:41.403Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/ads.txt</loc>
-    <lastmod>2026-10-15T17:54:51.912Z</lastmod>
+    <lastmod>2026-10-15T20:34:41.403Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>

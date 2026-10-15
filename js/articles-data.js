@@ -1,10 +1,166 @@
 /**
  * World Stock News - Editorial Database of In-Depth Financial Intelligence Articles
  * Automatically updated hourly by World Stock News Real-Time Ingestion Engine
- * Last Automated Update: 2026-10-15T17:54:52.339Z
+ * Last Automated Update: 2026-10-15T20:34:42.177Z
  */
 
 const ArticlesData = [
+  {
+    "id": "big-pharma-stocks-close-near-all-time-highs-as-tech-selloff--z3i9",
+    "title": "Big pharma stocks close near all-time highs as tech selloff pushes investors toward safer bets",
+    "excerpt": "Shares of AbbVie, Eli Lilly and Gilead Sciences closed near record highs",
+    "category": "US Markets",
+    "categorySlug": "us-markets",
+    "tickers": [
+      "^GSPC",
+      "SPY"
+    ],
+    "sentiment": "Bullish",
+    "sentimentScore": "+78%",
+    "author": {
+      "name": "Elena Rostova",
+      "title": "Chief Macro Strategist & Senior Economist",
+      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=120&q=80"
+    },
+    "publishedAt": "2026-10-15T20:29:00.000Z",
+    "readTime": "5 min read",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "targetPrice": "Overweight Target",
+    "analystConsensus": "Accumulate / Buy",
+    "tableOfContents": [
+      {
+        "id": "market-overview",
+        "title": "Market Context & Catalyst"
+      },
+      {
+        "id": "institutional-flows",
+        "title": "Institutional Liquidity & Order Flow"
+      },
+      {
+        "id": "strategic-outlook",
+        "title": "Strategic Positioning & Key Risk Levels"
+      }
+    ],
+    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> Big pharma stocks close near all-time highs as tech selloff pushes investors toward safer bets. Reported by MarketWatch. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>Shares of AbbVie, Eli Lilly and Gilead Sciences closed near record highs</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n    "
+  },
+  {
+    "id": "coreweaves-polarizing-stock-rebounds-as-wall-street-squares--z3i9",
+    "title": "CoreWeave's polarizing stock rebounds as Wall Street squares off about AI spending",
+    "excerpt": "Wall Street&#x2019;s views on CoreWeave are starkly divisive as investors pay more attention to the financial details of big artificial-intelligence companies.",
+    "category": "Tech & AI",
+    "categorySlug": "tech-ai",
+    "tickers": [
+      "NVDA",
+      "AAPL",
+      "MSFT",
+      "QQQ"
+    ],
+    "sentiment": "Bullish",
+    "sentimentScore": "+89%",
+    "author": {
+      "name": "Marcus Vance",
+      "title": "Senior Technology & Semiconductor Analyst",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=120&q=80"
+    },
+    "publishedAt": "2026-10-15T19:26:00.000Z",
+    "readTime": "5 min read",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "targetPrice": "Overweight Target",
+    "analystConsensus": "Accumulate / Buy",
+    "tableOfContents": [
+      {
+        "id": "market-overview",
+        "title": "Market Context & Catalyst"
+      },
+      {
+        "id": "institutional-flows",
+        "title": "Institutional Liquidity & Order Flow"
+      },
+      {
+        "id": "strategic-outlook",
+        "title": "Strategic Positioning & Key Risk Levels"
+      }
+    ],
+    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> CoreWeave's polarizing stock rebounds as Wall Street squares off about AI spending. Reported by MarketWatch. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>Wall Street&#x2019;s views on CoreWeave are starkly divisive as investors pay more attention to the financial details of big artificial-intelligence companies.</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n    "
+  },
+  {
+    "id": "this-one-governors-race-could-derail-the-ai-trade-thats-powe-z3i9",
+    "title": "This one governor's race could derail the AI trade that's powered the stock market",
+    "excerpt": "Here&#x2019;s the Nov. 3 contest that &#x201c;presents the biggest election-specific risk,&#x201d; analysts say.",
+    "category": "Tech & AI",
+    "categorySlug": "tech-ai",
+    "tickers": [
+      "NVDA",
+      "AAPL",
+      "MSFT",
+      "QQQ"
+    ],
+    "sentiment": "Bullish",
+    "sentimentScore": "+89%",
+    "author": {
+      "name": "Siddharth Mehta",
+      "title": "Head of Digital Asset Research",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=120&q=80"
+    },
+    "publishedAt": "2026-10-15T19:00:00.000Z",
+    "readTime": "5 min read",
+    "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1200&q=80",
+    "targetPrice": "Overweight Target",
+    "analystConsensus": "Accumulate / Buy",
+    "tableOfContents": [
+      {
+        "id": "market-overview",
+        "title": "Market Context & Catalyst"
+      },
+      {
+        "id": "institutional-flows",
+        "title": "Institutional Liquidity & Order Flow"
+      },
+      {
+        "id": "strategic-outlook",
+        "title": "Strategic Positioning & Key Risk Levels"
+      }
+    ],
+    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> This one governor's race could derail the AI trade that's powered the stock market. Reported by MarketWatch. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>Here&#x2019;s the Nov. 3 contest that &#x201c;presents the biggest election-specific risk,&#x201d; analysts say.</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n    "
+  },
+  {
+    "id": "harvards-endowment-jumps-27-in-fiscal-2026-lifted-by-spacex--z3i9",
+    "title": "Harvard’s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding",
+    "excerpt": "The latest 12-month period marked the strongest return for the university's fund since 2021.",
+    "category": "US Markets",
+    "categorySlug": "us-markets",
+    "tickers": [
+      "^GSPC",
+      "SPY"
+    ],
+    "sentiment": "Bullish",
+    "sentimentScore": "+78%",
+    "author": {
+      "name": "Marcus Vance",
+      "title": "Senior Technology & Semiconductor Analyst",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=120&q=80"
+    },
+    "publishedAt": "2026-10-15T19:53:49.000Z",
+    "readTime": "5 min read",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "targetPrice": "Overweight Target",
+    "analystConsensus": "Accumulate / Buy",
+    "tableOfContents": [
+      {
+        "id": "market-overview",
+        "title": "Market Context & Catalyst"
+      },
+      {
+        "id": "institutional-flows",
+        "title": "Institutional Liquidity & Order Flow"
+      },
+      {
+        "id": "strategic-outlook",
+        "title": "Strategic Positioning & Key Risk Levels"
+      }
+    ],
+    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> Harvard’s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding. Reported by CNBC Finance. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>The latest 12-month period marked the strongest return for the university's fund since 2021.</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n    "
+  },
   {
     "id": "are-we-spending-our-retirement-money-in-the-right-order-our--9jxv",
     "title": "Are we spending our retirement money in the right order? Our plan is: Social Security, annuities, cash &#x2014; then IRA.",
@@ -1211,161 +1367,6 @@ const ArticlesData = [
       }
     ],
     "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Key Takeaway:</strong> NVIDIA continues to capture over 82% of global data center accelerator spend. Order visibility extends through mid-2027 as enterprise inference adoption accelerates rapidly alongside foundational model training.\n      </div>\n\n      <h3 id=\"blackwell-ramp\">Blackwell GPU Volume Production</h3>\n      <p>Taiwan Semiconductor Manufacturing Co. (TSMC) confirmed that packaging yields for NVIDIA's advanced CoWoS-L (Chip-on-Wafer-on-Substrate) packaging have stabilized ahead of schedule. Enterprise shipments of the GB200 NVL72 rack-scale systems are scaling exponentially to primary cloud infrastructure providers.</p>\n\n      <h3 id=\"hyperscale-capex\">Hyperscalers Raise AI Budgets</h3>\n      <p>Recent quarterly disclosures and commentary from Microsoft, Alphabet, Meta Platforms, and Amazon indicate an aggregate capital expenditure exceeding $210 billion over the next four quarters. A disproportionate share remains earmarked for high-bandwidth memory (HBM3e) and GPU cluster networking architectures.</p>\n\n      <h3 id=\"competitive-moat\">CUDA Moat vs. Custom ASIC Alternatives</h3>\n      <p>While custom silicon alternatives like Google TPUs and Amazon Trainium continue to handle targeted internal workloads, NVIDIA's comprehensive software stack—centered on CUDA, TensorRT-LLM, and Triton Inference Server—remains the industry-wide default standard for multi-tenant commercial deployments.</p>\n    "
-  },
-  {
-    "id": "bitcoin-etf-institutional-inflows",
-    "title": "Bitcoin Surges Past Key Resistance as Spot ETFs Absorb Record Weekly Inflows",
-    "excerpt": "Institutional net inflows into spot Bitcoin ETFs crossed $2.1 billion last week, pushing BTC above the $65,000 threshold with surging open interest.",
-    "category": "Crypto",
-    "categorySlug": "crypto",
-    "tickers": [
-      "BTC-USD",
-      "IBIT",
-      "FBTC",
-      "COIN"
-    ],
-    "sentiment": "Bullish",
-    "sentimentScore": "+81%",
-    "author": {
-      "name": "Siddharth Mehta",
-      "title": "Head of Digital Asset Research",
-      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=120&q=80"
-    },
-    "publishedAt": "2026-10-14T14:19:00.068Z",
-    "readTime": "4 min read",
-    "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1200&q=80",
-    "targetPrice": "$78,000 Target",
-    "analystConsensus": "Accumulate",
-    "tableOfContents": [
-      {
-        "id": "etf-absorption",
-        "title": "Institutional Liquidity Absorption"
-      },
-      {
-        "id": "derivatives-data",
-        "title": "Derivatives Positioning & Funding Rates"
-      },
-      {
-        "id": "macro-correlation",
-        "title": "Correlation With M2 Global Money Supply"
-      }
-    ],
-    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Key Takeaway:</strong> Exchange-traded fund reserves have reached an all-time high of over 1.05 million BTC, effectively absorbing more than five times daily miner issuance post-halving.\n      </div>\n\n      <h3 id=\"etf-absorption\">Institutional Liquidity Absorption</h3>\n      <p>Data compiled by Bloomberg Intelligence reveals a consecutive 8-day streak of net positive inflows into US spot Bitcoin ETFs, led by BlackRock's IBIT and Fidelity's FBTC. Registered Investment Advisors (RIAs) and state pension funds are actively onboarding model portfolio allocations between 1% and 3%.</p>\n\n      <h3 id=\"derivatives-data\">Derivatives Positioning & Funding Rates</h3>\n      <p>Perpetual swap funding rates have remained remarkably balanced between 0.008% and 0.012%, signaling that the current price appreciation is predominantly spot-driven rather than excessively leveraged speculation. Liquidations across short positions totaled $142 million over the past 24 hours.</p>\n\n      <h3 id=\"macro-correlation\">Correlation With M2 Global Money Supply</h3>\n      <p>Macro analysis underscores a striking 0.84 correlation between Bitcoin's cyclical price tops and expansion in global M2 money supply, as central banks in China and the West engage in synchronous liquidity easing maneuvers.</p>\n    "
-  },
-  {
-    "id": "crude-oil-volatility-geopolitical-risks",
-    "title": "Crude Oil Consolidates Around $75 as Market Weighs Geopolitical Premiums vs Demand",
-    "excerpt": "WTI Crude hovered near $74.80 as traders calibrated shipping risk premiums in the Strait of Hormuz against mixed macroeconomic demand signals from Asian refineries.",
-    "category": "Macro Economy",
-    "categorySlug": "macro-economy",
-    "tickers": [
-      "CL=F",
-      "XOM",
-      "CVX",
-      "BNO"
-    ],
-    "sentiment": "Neutral",
-    "sentimentScore": "50%",
-    "author": {
-      "name": "Claire Montclaire",
-      "title": "Global Commodities Strategist",
-      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=120&q=80"
-    },
-    "publishedAt": "2026-10-14T13:19:00.068Z",
-    "readTime": "5 min read",
-    "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80",
-    "targetPrice": "$76.00 Target",
-    "analystConsensus": "Neutral / Hold",
-    "tableOfContents": [
-      {
-        "id": "supply-tensions",
-        "title": "Supply Chain & Chokepoint Risks"
-      },
-      {
-        "id": "opec-policy",
-        "title": "OPEC+ Production Quota Discipline"
-      },
-      {
-        "id": "refining-margins",
-        "title": "Crack Spreads and Product Demand"
-      }
-    ],
-    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Market Summary:</strong> Oil benchmarks remain trapped in a tight $72-$78 equilibrium, balancing supply interruption risks against steady US shale output and softer industrial fuel consumption in Europe.\n      </div>\n\n      <h3 id=\"supply-tensions\">Supply Chain & Chokepoint Risks</h3>\n      <p>Insurance premiums for commercial maritime tankers traversing the Red Sea and Gulf of Oman have climbed 18% over the past fortnight. Despite localized delays, actual physical barrel disruptions have remained negligible.</p>\n\n      <h3 id=\"opec-policy\">OPEC+ Production Quota Discipline</h3>\n      <p>Delegates from OPEC+ reaffirmed that voluntary output curtailments totaling 2.2 million barrels per day will remain in force through December, providing a reliable price floor around $70 per barrel.</p>\n    "
-  },
-  {
-    "id": "apple-ai-supercycle-revenue-forecast",
-    "title": "Apple Intelligence Supercycle: Wall Street Models Record iPhone Upgrade Wave",
-    "excerpt": "Wedbush and Morgan Stanley reiterate Outperform ratings on Apple, forecasting unprecedented hardware upgrade cycles fueled by on-device neural processing features.",
-    "category": "Tech & AI",
-    "categorySlug": "tech-ai",
-    "tickers": [
-      "AAPL",
-      "QCOM",
-      "AVGO"
-    ],
-    "sentiment": "Bullish",
-    "sentimentScore": "+84%",
-    "author": {
-      "name": "Marcus Vance",
-      "title": "Senior Technology Analyst",
-      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=120&q=80"
-    },
-    "publishedAt": "2026-10-14T12:19:00.068Z",
-    "readTime": "4 min read",
-    "image": "https://images.unsplash.com/photo-1510519138171-cbe656418844?auto=format&fit=crop&w=1200&q=80",
-    "targetPrice": "$260.00 Target",
-    "analystConsensus": "Buy",
-    "tableOfContents": [
-      {
-        "id": "upgrade-base",
-        "title": "Installed Base Replacement Dynamics"
-      },
-      {
-        "id": "services-upsell",
-        "title": "Services Ecosystem Monetization"
-      }
-    ],
-    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Investment Thesis:</strong> With over 310 million active iPhones exceeding four years of age, Apple stands at the cusp of its largest consumer hardware upgrade cycle since the 5G rollout.\n      </div>\n      <h3 id=\"upgrade-base\">Installed Base Replacement Dynamics</h3>\n      <p>Surveys across North America and Europe suggest a 24% year-over-year increase in intent to purchase higher-margin Pro models to gain access to on-device generative AI features.</p>\n      <h3 id=\"services-upsell\">Services Ecosystem Monetization</h3>\n      <p>High-margin Services revenue (App Store, iCloud+, Apple Pay) grew 14% year-over-year, delivering predictable cash flows that support Apple's ongoing $100B+ share buyback program.</p>\n    "
-  },
-  {
-    "id": "treasury-yields-curve-steepening-impact",
-    "title": "US Treasury Yield Curve Disinverts: What History Tells Us About Equity Valuations",
-    "excerpt": "The 2-year and 10-year Treasury yield curve has turned decisively positive after 26 months of inversion. Here is the historical roadmap for cyclical equities.",
-    "category": "Macro Economy",
-    "categorySlug": "macro-economy",
-    "tickers": [
-      "^TNX",
-      "TLT",
-      "IEF",
-      "AGG"
-    ],
-    "sentiment": "Neutral",
-    "sentimentScore": "55%",
-    "author": {
-      "name": "Elena Rostova",
-      "title": "Chief Macro Strategist",
-      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=120&q=80"
-    },
-    "publishedAt": "2026-10-14T11:19:00.068Z",
-    "readTime": "6 min read",
-    "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
-    "targetPrice": "Yield 3.90% Target",
-    "analystConsensus": "Neutral",
-    "tableOfContents": [
-      {
-        "id": "yield-curve-shift",
-        "title": "The Mechanics of the Bull Steepener"
-      },
-      {
-        "id": "historical-parallels",
-        "title": "Historical Parallels (1995 vs 2007)"
-      },
-      {
-        "id": "portfolio-allocation",
-        "title": "Actionable Portfolio Adjustments"
-      }
-    ],
-    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Macro Insight:</strong> The return of a normal upward-sloping yield curve marks the transition from tight monetary restriction to proactive growth preservation.\n      </div>\n      <h3 id=\"yield-curve-shift\">The Mechanics of the Bull Steepener</h3>\n      <p>Short-term yields have declined at a faster velocity than long-term yields as the bond market anticipates Fed fund cuts. This dynamic, known as a 'bull steepener', is historically favorable for commercial banking net interest margins and small-cap borrowing costs.</p>\n      <h3 id=\"historical-parallels\">Historical Parallels (1995 vs 2007)</h3>\n      <p>Investors frequently debate whether current conditions mirror the mid-cycle adjustment of 1995 (which unleashed a prolonged multi-year equity boom) or 2007 (precursor to credit contraction). Low corporate delinquency rates and steady labor metrics strongly favor the 1995 soft-landing thesis.</p>\n    "
   }
 ];
 
