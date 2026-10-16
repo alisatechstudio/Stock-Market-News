@@ -4,39 +4,81 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-10-16T11:57:12.590Z</lastmod>
+    <lastmod>2026-10-16T15:50:40.202Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=us-markets</loc>
-    <lastmod>2026-10-16T11:57:12.590Z</lastmod>
+    <lastmod>2026-10-16T15:50:40.202Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=tech-ai</loc>
-    <lastmod>2026-10-16T11:57:12.590Z</lastmod>
+    <lastmod>2026-10-16T15:50:40.202Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=macro-economy</loc>
-    <lastmod>2026-10-16T11:57:12.590Z</lastmod>
+    <lastmod>2026-10-16T15:50:40.202Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=crypto</loc>
-    <lastmod>2026-10-16T11:57:12.590Z</lastmod>
+    <lastmod>2026-10-16T15:50:40.202Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=earnings</loc>
-    <lastmod>2026-10-16T11:57:12.590Z</lastmod>
+    <lastmod>2026-10-16T15:50:40.202Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=retiring-abroad-dont-cut-these-financial-ties-to-the-us-9oq7</loc>
+    <lastmod>2026-10-16T15:00:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T15:00:00.000Z</news:publication_date>
+      <news:title>Retiring abroad? Don't cut these financial ties to the U.S.</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=is-apples-foldable-iphone-duo-worth-2000-see-how-it-stacks-u-9oq7</loc>
+    <lastmod>2026-10-16T14:40:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T14:40:00.000Z</news:publication_date>
+      <news:title>Is Apple's foldable iPhone Duo worth $2,000? See how it stacks up against other foldable phones.</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=the-stock-market-has-already-crashed-why-a-wall-street-veter-9oq7</loc>
+    <lastmod>2026-10-16T14:28:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T14:28:00.000Z</news:publication_date>
+      <news:title>The stock market has already crashed: Why a Wall Street veteran says Nike is the ultimate turnaround trade.</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article.html?id=x2018its-a-wait-and-see-situation-im-63-and-diagnosed-with-l-xgmm</loc>
@@ -487,92 +529,50 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article.html?id=tsmc-ceo-sees-no-sign-of-a-slowdown-as-chip-foundry-reports--u6de</loc>
-    <lastmod>2026-10-15T08:42:00.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T08:42:00.000Z</news:publication_date>
-      <news:title>TSMC CEO sees no sign of a slowdown as chip foundry reports record profit</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=china-indicates-rare-earths-will-keep-flowing-to-eu-regardle-u6de</loc>
-    <lastmod>2026-10-15T09:02:31.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T09:02:31.000Z</news:publication_date>
-      <news:title>China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=hourly-market-brief-mv9af67s</loc>
-    <lastmod>2026-10-15T08:39:19.992Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T08:39:19.992Z</news:publication_date>
-      <news:title>Hourly Market Pulse: Global Indices Trade With Steady Breadth as Volume Accelerates</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-10-16T11:57:12.590Z</lastmod>
+    <lastmod>2026-10-16T15:50:40.202Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-10-16T11:57:12.590Z</lastmod>
+    <lastmod>2026-10-16T15:50:40.202Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-10-16T11:57:12.590Z</lastmod>
+    <lastmod>2026-10-16T15:50:40.202Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/about.html</loc>
-    <lastmod>2026-10-16T11:57:12.590Z</lastmod>
+    <lastmod>2026-10-16T15:50:40.202Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact.html</loc>
-    <lastmod>2026-10-16T11:57:12.590Z</lastmod>
+    <lastmod>2026-10-16T15:50:40.202Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy.html</loc>
-    <lastmod>2026-10-16T11:57:12.590Z</lastmod>
+    <lastmod>2026-10-16T15:50:40.202Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms.html</loc>
-    <lastmod>2026-10-16T11:57:12.590Z</lastmod>
+    <lastmod>2026-10-16T15:50:40.202Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/ads.txt</loc>
-    <lastmod>2026-10-16T11:57:12.590Z</lastmod>
+    <lastmod>2026-10-16T15:50:40.202Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
