@@ -13,6 +13,46 @@
   ],
   "items": [
     {
+      "id": "https://worldstocknews.online/article.html?id=tesla-finally-delivers-on-its-promise-to-create-a-flying-car-6uyk",
+      "url": "https://worldstocknews.online/article.html?id=tesla-finally-delivers-on-its-promise-to-create-a-flying-car-6uyk",
+      "title": "Tesla finally delivers on its promise to create a flying car",
+      "content_text": "Tesla&#x2019;s demonstration of a levitating Roadster sports car was &#x201c;an engineering flex with no commercial value beyond embarrassing traditional car makers.&#x201d;",
+      "summary": "Tesla&#x2019;s demonstration of a levitating Roadster sports car was &#x201c;an engineering flex with no commercial value beyond embarrassing traditional car makers.&#x201d;",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-16T02:42:00.000Z",
+      "tags": [
+        "US Markets",
+        "^GSPC",
+        "SPY"
+      ],
+      "authors": [
+        {
+          "name": "Elena Rostova",
+          "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=120&q=80"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article.html?id=im-64-with-two-sons-but-only-one-works-in-the-family-firm-sh-6uyk",
+      "url": "https://worldstocknews.online/article.html?id=im-64-with-two-sons-but-only-one-works-in-the-family-firm-sh-6uyk",
+      "title": "I'm 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
+      "content_text": "&#x201c;I have some reservations about the long-term stability of my younger son&#x2019;s marriage.&#x201d;",
+      "summary": "&#x201c;I have some reservations about the long-term stability of my younger son&#x2019;s marriage.&#x201d;",
+      "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-15T22:15:00.000Z",
+      "tags": [
+        "US Markets",
+        "^GSPC",
+        "SPY"
+      ],
+      "authors": [
+        {
+          "name": "Claire Montclaire",
+          "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=120&q=80"
+        }
+      ]
+    },
+    {
       "id": "https://worldstocknews.online/article.html?id=pepsi-loses-more-ground-in-the-soda-wars-as-kfc-switches-to--4dmn",
       "url": "https://worldstocknews.online/article.html?id=pepsi-loses-more-ground-in-the-soda-wars-as-kfc-switches-to--4dmn",
       "title": "Pepsi loses more ground in the soda wars, as KFC switches to Coke",
@@ -388,48 +428,6 @@
         {
           "name": "Elena Rostova",
           "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=120&q=80"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article.html?id=this-30-year-market-veteran-is-alarmed-by-a-record-chasing-s-iee2",
-      "url": "https://worldstocknews.online/article.html?id=this-30-year-market-veteran-is-alarmed-by-a-record-chasing-s-iee2",
-      "title": "This 30-year market veteran is alarmed by a record-chasing S&amp;P 500. Here's where he's investing instead.",
-      "content_text": "Steven Jon Kaplan sees a completely irrational stock market right now, and investors ignoring a perfectly safe way to play that.",
-      "summary": "Steven Jon Kaplan sees a completely irrational stock market right now, and investors ignoring a perfectly safe way to play that.",
-      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-15T11:41:00.000Z",
-      "tags": [
-        "US Markets",
-        "^GSPC",
-        "SPY"
-      ],
-      "authors": [
-        {
-          "name": "Elena Rostova",
-          "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=120&q=80"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article.html?id=coreweaves-ai-bonds-tumble-raising-red-flags-for-the-wider-m-iee2",
-      "url": "https://worldstocknews.online/article.html?id=coreweaves-ai-bonds-tumble-raising-red-flags-for-the-wider-m-iee2",
-      "title": "CoreWeave's AI bonds tumble, raising red flags for the wider market",
-      "content_text": "CoreWeave&#x2019;s bonds issued a few months ago fell to 81 cents on the dollar earlier Wednesday, yielding more than 15%.",
-      "summary": "CoreWeave&#x2019;s bonds issued a few months ago fell to 81 cents on the dollar earlier Wednesday, yielding more than 15%.",
-      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-15T11:17:00.000Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "Marcus Vance",
-          "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=120&q=80"
         }
       ]
     }

@@ -4,39 +4,67 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-10-16T01:46:43.115Z</lastmod>
+    <lastmod>2026-10-16T06:28:35.796Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=us-markets</loc>
-    <lastmod>2026-10-16T01:46:43.115Z</lastmod>
+    <lastmod>2026-10-16T06:28:35.796Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=tech-ai</loc>
-    <lastmod>2026-10-16T01:46:43.115Z</lastmod>
+    <lastmod>2026-10-16T06:28:35.796Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=macro-economy</loc>
-    <lastmod>2026-10-16T01:46:43.115Z</lastmod>
+    <lastmod>2026-10-16T06:28:35.796Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=crypto</loc>
-    <lastmod>2026-10-16T01:46:43.115Z</lastmod>
+    <lastmod>2026-10-16T06:28:35.796Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=earnings</loc>
-    <lastmod>2026-10-16T01:46:43.115Z</lastmod>
+    <lastmod>2026-10-16T06:28:35.796Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=tesla-finally-delivers-on-its-promise-to-create-a-flying-car-6uyk</loc>
+    <lastmod>2026-10-16T02:42:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T02:42:00.000Z</news:publication_date>
+      <news:title>Tesla finally delivers on its promise to create a flying car</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=im-64-with-two-sons-but-only-one-works-in-the-family-firm-sh-6uyk</loc>
+    <lastmod>2026-10-15T22:15:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T22:15:00.000Z</news:publication_date>
+      <news:title>I'm 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business?</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article.html?id=pepsi-loses-more-ground-in-the-soda-wars-as-kfc-switches-to--4dmn</loc>
@@ -501,78 +529,50 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article.html?id=bank-of-america-hired-1000-contractors-to-patch-software-fla-ba6g</loc>
-    <lastmod>2026-10-14T20:06:28.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T20:06:28.000Z</news:publication_date>
-      <news:title>Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=morgan-stanley-tops-estimates-as-equities-trading-revenue-be-ba6g</loc>
-    <lastmod>2026-10-14T20:22:09.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T20:22:09.000Z</news:publication_date>
-      <news:title>Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-10-16T01:46:43.115Z</lastmod>
+    <lastmod>2026-10-16T06:28:35.796Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-10-16T01:46:43.115Z</lastmod>
+    <lastmod>2026-10-16T06:28:35.796Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-10-16T01:46:43.115Z</lastmod>
+    <lastmod>2026-10-16T06:28:35.796Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/about.html</loc>
-    <lastmod>2026-10-16T01:46:43.115Z</lastmod>
+    <lastmod>2026-10-16T06:28:35.796Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact.html</loc>
-    <lastmod>2026-10-16T01:46:43.115Z</lastmod>
+    <lastmod>2026-10-16T06:28:35.796Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy.html</loc>
-    <lastmod>2026-10-16T01:46:43.115Z</lastmod>
+    <lastmod>2026-10-16T06:28:35.796Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms.html</loc>
-    <lastmod>2026-10-16T01:46:43.115Z</lastmod>
+    <lastmod>2026-10-16T06:28:35.796Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/ads.txt</loc>
-    <lastmod>2026-10-16T01:46:43.115Z</lastmod>
+    <lastmod>2026-10-16T06:28:35.796Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
