@@ -13,6 +13,91 @@
   ],
   "items": [
     {
+      "id": "https://worldstocknews.online/article.html?id=nowhere-to-hide-tech-selloff-hits-software-and-chip-stocks-a-zwy2",
+      "url": "https://worldstocknews.online/article.html?id=nowhere-to-hide-tech-selloff-hits-software-and-chip-stocks-a-zwy2",
+      "title": "Nowhere to hide: Tech selloff hits software and chip stocks alike",
+      "content_text": "The software and semiconductor sectors haven&#x2019;t been trading in tandem much this year, but they collectively fell Friday as AI and interest-rate fears hit the market.",
+      "summary": "The software and semiconductor sectors haven&#x2019;t been trading in tandem much this year, but they collectively fell Friday as AI and interest-rate fears hit the market.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-16T21:59:00.000Z",
+      "tags": [
+        "Tech & AI",
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "QQQ"
+      ],
+      "authors": [
+        {
+          "name": "Elena Rostova",
+          "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=120&q=80"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article.html?id=this-senate-race-where-data-centers-are-a-crucial-issue-has--zwy3",
+      "url": "https://worldstocknews.online/article.html?id=this-senate-race-where-data-centers-are-a-crucial-issue-has--zwy3",
+      "title": "This Senate race where data centers are a crucial issue has more spending than any other midterm clash",
+      "content_text": "Money is pouring in and funding intense, negative ads: &#x201c;It&#x2019;s everywhere, and you can&#x2019;t escape it.&#x201d;",
+      "summary": "Money is pouring in and funding intense, negative ads: &#x201c;It&#x2019;s everywhere, and you can&#x2019;t escape it.&#x201d;",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-16T21:43:00.000Z",
+      "tags": [
+        "US Markets",
+        "^GSPC",
+        "SPY"
+      ],
+      "authors": [
+        {
+          "name": "Marcus Vance",
+          "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=120&q=80"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article.html?id=the-bond-market-shrugged-off-two-inflation-shocks-why-stock--zwy3",
+      "url": "https://worldstocknews.online/article.html?id=the-bond-market-shrugged-off-two-inflation-shocks-why-stock--zwy3",
+      "title": "The bond market shrugged off two inflation shocks. Why stock investors should pay attention.",
+      "content_text": "Hot CPI and PPI data should have pushed Treasury yields higher. Instead, bond buyers stepped in to suggest yields have risen high enough to become attractive for investors.",
+      "summary": "Hot CPI and PPI data should have pushed Treasury yields higher. Instead, bond buyers stepped in to suggest yields have risen high enough to become attractive for investors.",
+      "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-16T21:30:00.000Z",
+      "tags": [
+        "Macro Economy",
+        "^TNX",
+        "CL=F",
+        "GC=F"
+      ],
+      "authors": [
+        {
+          "name": "Claire Montclaire",
+          "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=120&q=80"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article.html?id=new-sec-rules-would-fleece-everyday-investors-to-enrich-wall-zwy3",
+      "url": "https://worldstocknews.online/article.html?id=new-sec-rules-would-fleece-everyday-investors-to-enrich-wall-zwy3",
+      "title": "New SEC rules would fleece everyday investors to enrich Wall Street",
+      "content_text": "New proposals from the Securities and Exchange Commission will tilt the scales in favor of Wall Street and against a huge group of retail investors.",
+      "summary": "New proposals from the Securities and Exchange Commission will tilt the scales in favor of Wall Street and against a huge group of retail investors.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-16T21:21:00.000Z",
+      "tags": [
+        "Tech & AI",
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "QQQ"
+      ],
+      "authors": [
+        {
+          "name": "Elena Rostova",
+          "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=120&q=80"
+        }
+      ]
+    },
+    {
       "id": "https://worldstocknews.online/article.html?id=my-sister-moved-in-with-our-mother-78-and-says-she-deserves--65oc",
       "url": "https://worldstocknews.online/article.html?id=my-sister-moved-in-with-our-mother-78-and-says-she-deserves--65oc",
       "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
@@ -251,7 +336,7 @@
       "content_text": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic’s Mythos, offering a rare look at costs involved in defending against AI.",
       "summary": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic’s Mythos, offering a rare look at costs involved in defending against AI.",
       "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-14T20:06:28.000Z",
+      "date_published": "2026-10-16T06:14:58.753Z",
       "tags": [
         "Tech & AI",
         "NVDA",
@@ -273,7 +358,7 @@
       "content_text": "Morgan Stanley topped expectations on the top and bottom lines for the third quarter.",
       "summary": "Morgan Stanley topped expectations on the top and bottom lines for the third quarter.",
       "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-14T20:22:09.000Z",
+      "date_published": "2026-10-16T05:14:58.753Z",
       "tags": [
         "Earnings",
         "^DJI",
@@ -344,94 +429,6 @@
         {
           "name": "Elena Rostova",
           "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=120&q=80"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article.html?id=how-a-midterm-sweep-by-democrats-could-turn-this-tech-sellof-xjcy",
-      "url": "https://worldstocknews.online/article.html?id=how-a-midterm-sweep-by-democrats-could-turn-this-tech-sellof-xjcy",
-      "title": "How a midterm sweep by Democrats could turn this tech selloff into a tech crash",
-      "content_text": "Popular AI names are under pressure again this week &#x2014; but the pain could worsen after the Nov. 3 election.",
-      "summary": "Popular AI names are under pressure again this week &#x2014; but the pain could worsen after the Nov. 3 election.",
-      "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-15T21:56:00.000Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "Siddharth Mehta",
-          "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=120&q=80"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article.html?id=nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai-fea-xjcy",
-      "url": "https://worldstocknews.online/article.html?id=nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai-fea-xjcy",
-      "title": "Nvidia and other chip stocks face renewed pressure as AI fears swell",
-      "content_text": "Reported details about Anthropic&#x2019;s financial progress are adding to concerns about the health of the AI ecosystem.",
-      "summary": "Reported details about Anthropic&#x2019;s financial progress are adding to concerns about the health of the AI ecosystem.",
-      "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-15T21:23:00.000Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "Claire Montclaire",
-          "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=120&q=80"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article.html?id=dont-ditch-tech-stocks-just-yet-make-these-moves-to-take-adv-xjcy",
-      "url": "https://worldstocknews.online/article.html?id=dont-ditch-tech-stocks-just-yet-make-these-moves-to-take-adv-xjcy",
-      "title": "Don't ditch tech stocks just yet. Make these moves to take advantage of the latest AI reset.",
-      "content_text": "Investors have a &#x2018;love-hate relationship&#x2019; with tech stocks now &#x2014; and experts recommend selectively hunting for bargains while also betting on the major cloud companies.",
-      "summary": "Investors have a &#x2018;love-hate relationship&#x2019; with tech stocks now &#x2014; and experts recommend selectively hunting for bargains while also betting on the major cloud companies.",
-      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-15T21:21:00.000Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "Elena Rostova",
-          "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=120&q=80"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article.html?id=people-in-china-are-spending-nearly-as-much-of-their-income--xjcy",
-      "url": "https://worldstocknews.online/article.html?id=people-in-china-are-spending-nearly-as-much-of-their-income--xjcy",
-      "title": "People in China are spending nearly as much of their income as Americans on healthcare",
-      "content_text": "Increasing government spending on healthcare could help boost consumption in China, the International Monetary Fund said.",
-      "summary": "Increasing government spending on healthcare could help boost consumption in China, the International Monetary Fund said.",
-      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-15T23:00:01.000Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "Marcus Vance",
-          "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=120&q=80"
         }
       ]
     }

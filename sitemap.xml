@@ -4,39 +4,95 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-10-16T19:03:52.504Z</lastmod>
+    <lastmod>2026-10-16T22:14:58.753Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=us-markets</loc>
-    <lastmod>2026-10-16T19:03:52.504Z</lastmod>
+    <lastmod>2026-10-16T22:14:58.753Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=tech-ai</loc>
-    <lastmod>2026-10-16T19:03:52.504Z</lastmod>
+    <lastmod>2026-10-16T22:14:58.753Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=macro-economy</loc>
-    <lastmod>2026-10-16T19:03:52.504Z</lastmod>
+    <lastmod>2026-10-16T22:14:58.753Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=crypto</loc>
-    <lastmod>2026-10-16T19:03:52.504Z</lastmod>
+    <lastmod>2026-10-16T22:14:58.753Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=earnings</loc>
-    <lastmod>2026-10-16T19:03:52.504Z</lastmod>
+    <lastmod>2026-10-16T22:14:58.753Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=nowhere-to-hide-tech-selloff-hits-software-and-chip-stocks-a-zwy2</loc>
+    <lastmod>2026-10-16T21:59:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T21:59:00.000Z</news:publication_date>
+      <news:title>Nowhere to hide: Tech selloff hits software and chip stocks alike</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=this-senate-race-where-data-centers-are-a-crucial-issue-has--zwy3</loc>
+    <lastmod>2026-10-16T21:43:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T21:43:00.000Z</news:publication_date>
+      <news:title>This Senate race where data centers are a crucial issue has more spending than any other midterm clash</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=the-bond-market-shrugged-off-two-inflation-shocks-why-stock--zwy3</loc>
+    <lastmod>2026-10-16T21:30:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T21:30:00.000Z</news:publication_date>
+      <news:title>The bond market shrugged off two inflation shocks. Why stock investors should pay attention.</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=new-sec-rules-would-fleece-everyday-investors-to-enrich-wall-zwy3</loc>
+    <lastmod>2026-10-16T21:21:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T21:21:00.000Z</news:publication_date>
+      <news:title>New SEC rules would fleece everyday investors to enrich Wall Street</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article.html?id=my-sister-moved-in-with-our-mother-78-and-says-she-deserves--65oc</loc>
@@ -194,7 +250,7 @@
   </url>
   <url>
     <loc>https://worldstocknews.online/article.html?id=bank-of-america-hired-1000-contractors-to-patch-software-fla-xgmn</loc>
-    <lastmod>2026-10-14T20:06:28.000Z</lastmod>
+    <lastmod>2026-10-16T06:14:58.753Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
     <news:news>
@@ -202,13 +258,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-14T20:06:28.000Z</news:publication_date>
+      <news:publication_date>2026-10-16T06:14:58.753Z</news:publication_date>
       <news:title>Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article.html?id=morgan-stanley-tops-estimates-as-equities-trading-revenue-be-xgmn</loc>
-    <lastmod>2026-10-14T20:22:09.000Z</lastmod>
+    <lastmod>2026-10-16T05:14:58.753Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
     <news:news>
@@ -216,7 +272,7 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-14T20:22:09.000Z</news:publication_date>
+      <news:publication_date>2026-10-16T05:14:58.753Z</news:publication_date>
       <news:title>Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million</news:title>
     </news:news>
   </url>
@@ -473,106 +529,50 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article.html?id=medicare-open-enrollment-is-here-what-to-know-about-deadline-bb5r</loc>
-    <lastmod>2026-10-15T13:02:00.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T13:02:00.000Z</news:publication_date>
-      <news:title>Medicare open enrollment is here. What to know about deadlines, options and more.</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=micron-nvidia-and-other-chip-stocks-face-renewed-pressure-as-bb5r</loc>
-    <lastmod>2026-10-15T12:43:00.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T12:43:00.000Z</news:publication_date>
-      <news:title>Micron, Nvidia and other chip stocks face renewed pressure as AI fears swell</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=this-30-year-market-veteran-is-alarmed-by-a-record-chasing-s-iee2</loc>
-    <lastmod>2026-10-15T11:41:00.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T11:41:00.000Z</news:publication_date>
-      <news:title>This 30-year market veteran is alarmed by a record-chasing S&amp;amp;P 500. Here's where he's investing instead.</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=coreweaves-ai-bonds-tumble-raising-red-flags-for-the-wider-m-iee2</loc>
-    <lastmod>2026-10-15T11:17:00.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T11:17:00.000Z</news:publication_date>
-      <news:title>CoreWeave's AI bonds tumble, raising red flags for the wider market</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-10-16T19:03:52.504Z</lastmod>
+    <lastmod>2026-10-16T22:14:58.753Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-10-16T19:03:52.504Z</lastmod>
+    <lastmod>2026-10-16T22:14:58.753Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-10-16T19:03:52.504Z</lastmod>
+    <lastmod>2026-10-16T22:14:58.753Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/about.html</loc>
-    <lastmod>2026-10-16T19:03:52.504Z</lastmod>
+    <lastmod>2026-10-16T22:14:58.753Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact.html</loc>
-    <lastmod>2026-10-16T19:03:52.504Z</lastmod>
+    <lastmod>2026-10-16T22:14:58.753Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy.html</loc>
-    <lastmod>2026-10-16T19:03:52.504Z</lastmod>
+    <lastmod>2026-10-16T22:14:58.753Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms.html</loc>
-    <lastmod>2026-10-16T19:03:52.504Z</lastmod>
+    <lastmod>2026-10-16T22:14:58.753Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/ads.txt</loc>
-    <lastmod>2026-10-16T19:03:52.504Z</lastmod>
+    <lastmod>2026-10-16T22:14:58.753Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
