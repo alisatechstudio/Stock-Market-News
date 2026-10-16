@@ -4,39 +4,109 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-10-16T15:50:40.202Z</lastmod>
+    <lastmod>2026-10-16T19:03:52.504Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=us-markets</loc>
-    <lastmod>2026-10-16T15:50:40.202Z</lastmod>
+    <lastmod>2026-10-16T19:03:52.504Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=tech-ai</loc>
-    <lastmod>2026-10-16T15:50:40.202Z</lastmod>
+    <lastmod>2026-10-16T19:03:52.504Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=macro-economy</loc>
-    <lastmod>2026-10-16T15:50:40.202Z</lastmod>
+    <lastmod>2026-10-16T19:03:52.504Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=crypto</loc>
-    <lastmod>2026-10-16T15:50:40.202Z</lastmod>
+    <lastmod>2026-10-16T19:03:52.504Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=earnings</loc>
-    <lastmod>2026-10-16T15:50:40.202Z</lastmod>
+    <lastmod>2026-10-16T19:03:52.504Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=my-sister-moved-in-with-our-mother-78-and-says-she-deserves--65oc</loc>
+    <lastmod>2026-10-16T19:00:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T19:00:00.000Z</news:publication_date>
+      <news:title>My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=ai-investors-have-woken-up-to-the-bond-markets-warning-signs-65oc</loc>
+    <lastmod>2026-10-16T18:52:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T18:52:00.000Z</news:publication_date>
+      <news:title>AI investors have woken up to the bond market's warning signs</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=could-an-anthropic-ipo-put-your-401k-at-risk-the-ai-safety-d-65oc</loc>
+    <lastmod>2026-10-16T18:37:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T18:37:00.000Z</news:publication_date>
+      <news:title>Could an Anthropic IPO put your 401(k) at risk? The AI safety debate hits a new dimension.</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=us-presses-china-on-mastercard-citigroup-market-access-in-bi-65oc</loc>
+    <lastmod>2026-10-16T16:46:18.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T16:46:18.000Z</news:publication_date>
+      <news:title>U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=china-indicates-rare-earths-will-keep-flowing-to-eu-regardle-65oc</loc>
+    <lastmod>2026-10-15T09:02:31.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T09:02:31.000Z</news:publication_date>
+      <news:title>China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article.html?id=retiring-abroad-dont-cut-these-financial-ties-to-the-us-9oq7</loc>
@@ -459,120 +529,50 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article.html?id=tsmcs-ceo-sees-no-sign-of-a-slowdown-as-chip-foundry-reports-qcxt</loc>
-    <lastmod>2026-10-15T08:42:00.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T08:42:00.000Z</news:publication_date>
-      <news:title>TSMC's CEO sees no sign of a slowdown as chip foundry reports record profit</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=hourly-market-brief-mv9f8o02</loc>
-    <lastmod>2026-10-15T10:54:14.758Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T10:54:14.758Z</news:publication_date>
-      <news:title>Hourly Market Pulse: Global Indices Trade With Steady Breadth as Volume Accelerates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=im-64-years-old-with-two-sons-but-only-one-works-in-the-fami-u6dd</loc>
-    <lastmod>2026-10-15T09:15:00.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T09:15:00.000Z</news:publication_date>
-      <news:title>I'm 64 years old, with two sons, but only one works in the family firm. Should I leave him 70% of the business?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=x2018new-girl-star-jake-johnson-lists-lush-and-private-pasad-u6de</loc>
-    <lastmod>2026-10-15T09:01:00.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T09:01:00.000Z</news:publication_date>
-      <news:title>&amp;#x2018;New Girl' star Jake Johnson lists lush and private Pasadena estate for $3.3 million</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=why-the-ai-trade-is-not-set-up-for-a-rebound-like-julys-acco-u6de</loc>
-    <lastmod>2026-10-15T08:53:00.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T08:53:00.000Z</news:publication_date>
-      <news:title>Why the AI trade is not set up for a rebound like July's, according to JPMorgan</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-10-16T15:50:40.202Z</lastmod>
+    <lastmod>2026-10-16T19:03:52.504Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-10-16T15:50:40.202Z</lastmod>
+    <lastmod>2026-10-16T19:03:52.504Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-10-16T15:50:40.202Z</lastmod>
+    <lastmod>2026-10-16T19:03:52.504Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/about.html</loc>
-    <lastmod>2026-10-16T15:50:40.202Z</lastmod>
+    <lastmod>2026-10-16T19:03:52.504Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact.html</loc>
-    <lastmod>2026-10-16T15:50:40.202Z</lastmod>
+    <lastmod>2026-10-16T19:03:52.504Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy.html</loc>
-    <lastmod>2026-10-16T15:50:40.202Z</lastmod>
+    <lastmod>2026-10-16T19:03:52.504Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms.html</loc>
-    <lastmod>2026-10-16T15:50:40.202Z</lastmod>
+    <lastmod>2026-10-16T19:03:52.504Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/ads.txt</loc>
-    <lastmod>2026-10-16T15:50:40.202Z</lastmod>
+    <lastmod>2026-10-16T19:03:52.504Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
