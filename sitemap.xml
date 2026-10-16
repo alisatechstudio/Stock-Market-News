@@ -4,39 +4,109 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-10-16T06:28:35.796Z</lastmod>
+    <lastmod>2026-10-16T11:57:12.590Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=us-markets</loc>
-    <lastmod>2026-10-16T06:28:35.796Z</lastmod>
+    <lastmod>2026-10-16T11:57:12.590Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=tech-ai</loc>
-    <lastmod>2026-10-16T06:28:35.796Z</lastmod>
+    <lastmod>2026-10-16T11:57:12.590Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=macro-economy</loc>
-    <lastmod>2026-10-16T06:28:35.796Z</lastmod>
+    <lastmod>2026-10-16T11:57:12.590Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=crypto</loc>
-    <lastmod>2026-10-16T06:28:35.796Z</lastmod>
+    <lastmod>2026-10-16T11:57:12.590Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=earnings</loc>
-    <lastmod>2026-10-16T06:28:35.796Z</lastmod>
+    <lastmod>2026-10-16T11:57:12.590Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=x2018its-a-wait-and-see-situation-im-63-and-diagnosed-with-l-xgmm</loc>
+    <lastmod>2026-10-16T11:30:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T11:30:00.000Z</news:publication_date>
+      <news:title>&amp;#x2018;It's a wait-and-see situation': I'm 63 and diagnosed with lymphoma. Should I take my Social Security next year?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=can-a-55000-plus-robot-load-the-dishwasher-inside-my-afterno-xgmn</loc>
+    <lastmod>2026-10-16T11:00:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T11:00:00.000Z</news:publication_date>
+      <news:title>Can a $55,000-plus robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=nearly-40-of-the-sampp-500-is-in-a-bear-market-here-are-10-o-xgmn</loc>
+    <lastmod>2026-10-16T10:56:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T10:56:00.000Z</news:publication_date>
+      <news:title>Nearly 40% of the S&amp;amp;P 500 is in a bear market. Here are 10 of those stocks that analysts say can gain up to 81%.</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=bank-of-america-hired-1000-contractors-to-patch-software-fla-xgmn</loc>
+    <lastmod>2026-10-14T20:06:28.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-14T20:06:28.000Z</news:publication_date>
+      <news:title>Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=morgan-stanley-tops-estimates-as-equities-trading-revenue-be-xgmn</loc>
+    <lastmod>2026-10-14T20:22:09.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-14T20:22:09.000Z</news:publication_date>
+      <news:title>Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article.html?id=tesla-finally-delivers-on-its-promise-to-create-a-flying-car-6uyk</loc>
@@ -459,120 +529,50 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article.html?id=anthropics-slowing-growth-could-be-the-ai-trades-latest-red--ba6e</loc>
-    <lastmod>2026-10-15T01:07:00.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T01:07:00.000Z</news:publication_date>
-      <news:title>Anthropic's slowing growth could be the AI trade's latest red flag</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=rocket-labs-stock-slides-as-the-company-pushes-back-neutrons-ba6f</loc>
-    <lastmod>2026-10-15T00:02:00.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T00:02:00.000Z</news:publication_date>
-      <news:title>Rocket Lab's stock slides as the company pushes back Neutron's first launch</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=the-ai-trade-is-splintering-as-inflation-fears-rattle-hyped--ba6f</loc>
-    <lastmod>2026-10-14T23:36:00.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T23:36:00.000Z</news:publication_date>
-      <news:title>The AI trade is splintering as inflation fears rattle hyped-up tech stocks</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=my-sister-moved-in-with-our-mother-78-and-says-she-deserves--ba6f</loc>
-    <lastmod>2026-10-14T22:45:00.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T22:45:00.000Z</news:publication_date>
-      <news:title>My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=x2018some-people-did-everything-right-i-lost-my-home-in-the--ba6f</loc>
-    <lastmod>2026-10-14T22:30:00.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T22:30:00.000Z</news:publication_date>
-      <news:title>&amp;#x2018;Some people did everything right': I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-10-16T06:28:35.796Z</lastmod>
+    <lastmod>2026-10-16T11:57:12.590Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-10-16T06:28:35.796Z</lastmod>
+    <lastmod>2026-10-16T11:57:12.590Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-10-16T06:28:35.796Z</lastmod>
+    <lastmod>2026-10-16T11:57:12.590Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/about.html</loc>
-    <lastmod>2026-10-16T06:28:35.796Z</lastmod>
+    <lastmod>2026-10-16T11:57:12.590Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact.html</loc>
-    <lastmod>2026-10-16T06:28:35.796Z</lastmod>
+    <lastmod>2026-10-16T11:57:12.590Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy.html</loc>
-    <lastmod>2026-10-16T06:28:35.796Z</lastmod>
+    <lastmod>2026-10-16T11:57:12.590Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms.html</loc>
-    <lastmod>2026-10-16T06:28:35.796Z</lastmod>
+    <lastmod>2026-10-16T11:57:12.590Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/ads.txt</loc>
-    <lastmod>2026-10-16T06:28:35.796Z</lastmod>
+    <lastmod>2026-10-16T11:57:12.590Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
