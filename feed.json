@@ -13,6 +13,26 @@
   ],
   "items": [
     {
+      "id": "https://worldstocknews.online/article.html?id=pepsi-loses-more-ground-in-the-soda-wars-as-kfc-switches-to--4dmn",
+      "url": "https://worldstocknews.online/article.html?id=pepsi-loses-more-ground-in-the-soda-wars-as-kfc-switches-to--4dmn",
+      "title": "Pepsi loses more ground in the soda wars, as KFC switches to Coke",
+      "content_text": "As more people switch to Coke, some analysts are getting more worried about the state of archrival Pepsi.",
+      "summary": "As more people switch to Coke, some analysts are getting more worried about the state of archrival Pepsi.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-15T23:29:00.000Z",
+      "tags": [
+        "US Markets",
+        "^GSPC",
+        "SPY"
+      ],
+      "authors": [
+        {
+          "name": "Elena Rostova",
+          "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=120&q=80"
+        }
+      ]
+    },
+    {
       "id": "https://worldstocknews.online/article.html?id=how-a-midterm-sweep-by-democrats-could-turn-this-tech-sellof-xjcy",
       "url": "https://worldstocknews.online/article.html?id=how-a-midterm-sweep-by-democrats-could-turn-this-tech-sellof-xjcy",
       "title": "How a midterm sweep by Democrats could turn this tech selloff into a tech crash",
@@ -410,28 +430,6 @@
         {
           "name": "Marcus Vance",
           "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=120&q=80"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article.html?id=tsmcs-ceo-sees-no-sign-of-a-slowdown-as-chip-foundry-reports-qcxt",
-      "url": "https://worldstocknews.online/article.html?id=tsmcs-ceo-sees-no-sign-of-a-slowdown-as-chip-foundry-reports-qcxt",
-      "title": "TSMC's CEO sees no sign of a slowdown as chip foundry reports record profit",
-      "content_text": "The semiconductor foundry announced third-quarter net profits of 763.34 Taiwanese new dollars, marking a record.",
-      "summary": "The semiconductor foundry announced third-quarter net profits of 763.34 Taiwanese new dollars, marking a record.",
-      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-15T08:42:00.000Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "Elena Rostova",
-          "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=120&q=80"
         }
       ]
     }
