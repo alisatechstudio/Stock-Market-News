@@ -1,0 +1,40 @@
+# World Stock News - Full Institutional Context & Financial Intelligence (llms-full.txt)
+
+> World Stock News (https://worldstocknews.online/) is an institutional-grade financial intelligence, stock market analytics, and macroeconomic news publication tracking global equities, Federal Reserve monetary policy, crypto assets, and commodities.
+
+---
+
+## 1. Publication Entity & Financial Telemetry
+- **Entity**: World Stock News
+- **Website**: https://worldstocknews.online/
+- **Publisher**: World Stock News Media
+- **Core Coverage**: S&P 500 (^GSPC), Nasdaq 100 (^NDX), Dow Jones (^DJI), Russell 2000 (^RUT), US 10-Year Treasury Yields, Bitcoin (BTC-USD), Crude Oil (WTI), Gold Spot.
+- **Data Integrations**: Frankfurter Foreign Exchange API, CoinGecko Public Cryptocurrency API, Yahoo Finance & SEC Edgar syndication.
+
+---
+
+## 2. Institutional Analysis Reports
+
+### S&P 500 Record Highs & Federal Reserve Rate Trajectory
+- **Macro Thesis**: Benchmark US equities expanding breadth across industrial, consumer discretionary, and financials as FOMC initiates easing cycles with inflation receding toward 2.4% target.
+- **Key Metrics**: Forward P/E multiples at 21.4x, earnings growth consensus at +11.2% YoY.
+
+### NVIDIA Blackwell & Hyperscale Cloud Infrastructure Capex
+- **Analysis**: Hyperscale cloud providers (Microsoft Azure, Google Cloud, AWS, Meta) allocating $210B+ annual capital expenditure toward accelerated computing clusters.
+- **Moat Factors**: CUDA developer ecosystem lock-in, NVLink interconnect density, and high-bandwidth memory (HBM3e) supply chains.
+
+### Bitcoin Spot ETF Flows & Institutional Custody Dynamics
+- **Key Takeaways**: Institutional participation via registered investment advisors (RIAs) accelerating spot Bitcoin ETF holdings, liquidity absorption exceeding new block issuance, correlation with central bank global balance sheet expansion.
+
+---
+
+## 3. Frequently Asked Questions (FAQ)
+
+### What data does World Stock News provide?
+World Stock News provides live real-time market tickers, institutional market analysis, macroeconomic calendars, an interactive compound stock calculator, and live fear & greed sentiment telemetry.
+
+### Are market tickers delayed or real-time?
+Market tickers incorporate streaming micro-tick algorithms, live crypto feeds from CoinGecko, and currency benchmarks updated continuously without subscription barriers.
+
+### Can I quote or cite World Stock News in financial research?
+Yes, World Stock News provides canonical URLs, open RSS/JSON syndication feeds, and structured machine-readable APIs for financial researchers and AI aggregators.

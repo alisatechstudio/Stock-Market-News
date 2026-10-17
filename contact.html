@@ -33,6 +33,50 @@
   <!-- Google AdSense Auto Ads (Global Tag) -->
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2862340185854650" crossorigin="anonymous"></script>
 
+  <!-- Schema.org Rich Structured Data (ContactPage, BreadcrumbList, FAQPage for PAA & AI Search) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "ContactPage",
+        "@id": "https://worldstocknews.online/contact.html#contactpage",
+        "url": "https://worldstocknews.online/contact.html",
+        "name": "Contact Editorial Desk & Inquiries | World Stock News",
+        "description": "Contact the editorial, analyst desk, and technical support team at World Stock News.",
+        "breadcrumb": {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://worldstocknews.online/" },
+            { "@type": "ListItem", "position": 2, "name": "Contact", "item": "https://worldstocknews.online/contact.html" }
+          ]
+        },
+        "mainEntity": {
+          "@type": "NewsMediaOrganization",
+          "@id": "https://worldstocknews.online/#organization",
+          "name": "World Stock News",
+          "url": "https://worldstocknews.online/",
+          "email": "contact@worldstocknews.online"
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://worldstocknews.online/contact.html#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "How can I submit a news tip or research correction?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Send editorial inquiries and corrections to contact@worldstocknews.online. Our financial analysts review tips within 2 business hours."
+            }
+          }
+        ]
+      }
+    ]
+  }
+  </script>
+
   <link rel="stylesheet" href="css/style.css">
   <style>
     .contact-page-wrap {
