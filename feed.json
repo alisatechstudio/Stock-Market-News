@@ -13,6 +13,48 @@
   ],
   "items": [
     {
+      "id": "https://worldstocknews.online/article.html?id=investing-not-homeownership-is-the-no-1-milestone-that-makes-9hh2",
+      "url": "https://worldstocknews.online/article.html?id=investing-not-homeownership-is-the-no-1-milestone-that-makes-9hh2",
+      "title": "Investing, not homeownership, is the No. 1 milestone that makes Gen Z renters feel successful",
+      "content_text": "&#x201c;Instead of focusing on homeownership, many are prioritizing financial freedom and debt-free living.&#x201d;",
+      "summary": "&#x201c;Instead of focusing on homeownership, many are prioritizing financial freedom and debt-free living.&#x201d;",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-17T18:40:00.000Z",
+      "tags": [
+        "US Markets",
+        "^GSPC",
+        "SPY"
+      ],
+      "authors": [
+        {
+          "name": "Elena Rostova",
+          "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=120&q=80"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article.html?id=people-in-china-are-spending-nearly-as-much-of-their-income--9hh3",
+      "url": "https://worldstocknews.online/article.html?id=people-in-china-are-spending-nearly-as-much-of-their-income--9hh3",
+      "title": "People in China are spending nearly as much of their income as Americans on healthcare",
+      "content_text": "Increasing government spending on healthcare could help boost consumption in China, the International Monetary Fund said.",
+      "summary": "Increasing government spending on healthcare could help boost consumption in China, the International Monetary Fund said.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-15T23:00:01.000Z",
+      "tags": [
+        "Tech & AI",
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "QQQ"
+      ],
+      "authors": [
+        {
+          "name": "Elena Rostova",
+          "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=120&q=80"
+        }
+      ]
+    },
+    {
       "id": "https://worldstocknews.online/article.html?id=dead-money-for-a-decade-why-this-hedge-fund-approach-may-del-ig1b",
       "url": "https://worldstocknews.online/article.html?id=dead-money-for-a-decade-why-this-hedge-fund-approach-may-del-ig1b",
       "title": "'Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds",
@@ -376,50 +418,6 @@
       "summary": "Also in Weekend Reads: Robotic housekeeping, how to save on a wedding, and advice from The Moneyist.",
       "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
       "date_published": "2026-10-16T18:52:00.000Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "Marcus Vance",
-          "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=120&q=80"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article.html?id=could-an-anthropic-ipo-put-your-401k-at-risk-the-ai-safety-d-65oc",
-      "url": "https://worldstocknews.online/article.html?id=could-an-anthropic-ipo-put-your-401k-at-risk-the-ai-safety-d-65oc",
-      "title": "Could an Anthropic IPO put your 401(k) at risk? The AI safety debate hits a new dimension.",
-      "content_text": "Anthropic and New York City&#x2019;s comptroller have opened a line of communication to discuss &#x201c;existential risks&#x201d; posed by AI and what that could mean for the company&#x2019;s future stock.",
-      "summary": "Anthropic and New York City&#x2019;s comptroller have opened a line of communication to discuss &#x201c;existential risks&#x201d; posed by AI and what that could mean for the company&#x2019;s future stock.",
-      "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-16T18:37:00.000Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "Siddharth Mehta",
-          "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=120&q=80"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article.html?id=us-presses-china-on-mastercard-citigroup-market-access-in-bi-65oc",
-      "url": "https://worldstocknews.online/article.html?id=us-presses-china-on-mastercard-citigroup-market-access-in-bi-65oc",
-      "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
-      "content_text": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
-      "summary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
-      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-16T16:46:18.000Z",
       "tags": [
         "Tech & AI",
         "NVDA",
