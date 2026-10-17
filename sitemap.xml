@@ -4,39 +4,67 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-10-17T18:54:08.143Z</lastmod>
+    <lastmod>2026-10-17T21:04:36.169Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=us-markets</loc>
-    <lastmod>2026-10-17T18:54:08.143Z</lastmod>
+    <lastmod>2026-10-17T21:04:36.169Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=tech-ai</loc>
-    <lastmod>2026-10-17T18:54:08.143Z</lastmod>
+    <lastmod>2026-10-17T21:04:36.169Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=macro-economy</loc>
-    <lastmod>2026-10-17T18:54:08.143Z</lastmod>
+    <lastmod>2026-10-17T21:04:36.169Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=crypto</loc>
-    <lastmod>2026-10-17T18:54:08.143Z</lastmod>
+    <lastmod>2026-10-17T21:04:36.169Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=earnings</loc>
-    <lastmod>2026-10-17T18:54:08.143Z</lastmod>
+    <lastmod>2026-10-17T21:04:36.169Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=can-a-55000-robot-load-the-dishwasher-inside-my-afternoon-wi-x9eg</loc>
+    <lastmod>2026-10-17T20:43:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T20:43:00.000Z</news:publication_date>
+      <news:title>Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=fake-shopping-sprees-and-x2018happiness-insurance-the-latest-x9eg</loc>
+    <lastmod>2026-10-17T18:52:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T18:52:00.000Z</news:publication_date>
+      <news:title>Fake shopping sprees and &amp;#x2018;happiness insurance': The latest fintech apps reveal our financial anxieties</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article.html?id=investing-not-homeownership-is-the-no-1-milestone-that-makes-9hh2</loc>
@@ -96,7 +124,7 @@
   </url>
   <url>
     <loc>https://worldstocknews.online/article.html?id=harvards-endowment-jumps-27-in-fiscal-2026-lifted-by-spacex--ig1b</loc>
-    <lastmod>2026-10-15T19:53:49.000Z</lastmod>
+    <lastmod>2026-10-17T14:04:36.169Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
     <news:news>
@@ -104,7 +132,7 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-15T19:53:49.000Z</news:publication_date>
+      <news:publication_date>2026-10-17T14:04:36.169Z</news:publication_date>
       <news:title>Harvard’s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding</news:title>
     </news:news>
   </url>
@@ -501,78 +529,50 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article.html?id=pepsi-loses-more-ground-in-the-soda-wars-as-kfc-switches-to--4dmn</loc>
-    <lastmod>2026-10-15T23:29:00.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T23:29:00.000Z</news:publication_date>
-      <news:title>Pepsi loses more ground in the soda wars, as KFC switches to Coke</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=how-a-midterm-sweep-by-democrats-could-turn-this-tech-sellof-xjcy</loc>
-    <lastmod>2026-10-15T21:56:00.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T21:56:00.000Z</news:publication_date>
-      <news:title>How a midterm sweep by Democrats could turn this tech selloff into a tech crash</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-10-17T18:54:08.143Z</lastmod>
+    <lastmod>2026-10-17T21:04:36.169Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-10-17T18:54:08.143Z</lastmod>
+    <lastmod>2026-10-17T21:04:36.169Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-10-17T18:54:08.143Z</lastmod>
+    <lastmod>2026-10-17T21:04:36.169Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/about.html</loc>
-    <lastmod>2026-10-17T18:54:08.143Z</lastmod>
+    <lastmod>2026-10-17T21:04:36.169Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact.html</loc>
-    <lastmod>2026-10-17T18:54:08.143Z</lastmod>
+    <lastmod>2026-10-17T21:04:36.169Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy.html</loc>
-    <lastmod>2026-10-17T18:54:08.143Z</lastmod>
+    <lastmod>2026-10-17T21:04:36.169Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms.html</loc>
-    <lastmod>2026-10-17T18:54:08.143Z</lastmod>
+    <lastmod>2026-10-17T21:04:36.169Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/ads.txt</loc>
-    <lastmod>2026-10-17T18:54:08.143Z</lastmod>
+    <lastmod>2026-10-17T21:04:36.169Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
