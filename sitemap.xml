@@ -4,39 +4,123 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-10-17T09:45:44.890Z</lastmod>
+    <lastmod>2026-10-17T13:17:39.968Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=us-markets</loc>
-    <lastmod>2026-10-17T09:45:44.890Z</lastmod>
+    <lastmod>2026-10-17T13:17:39.968Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=tech-ai</loc>
-    <lastmod>2026-10-17T09:45:44.890Z</lastmod>
+    <lastmod>2026-10-17T13:17:39.968Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=macro-economy</loc>
-    <lastmod>2026-10-17T09:45:44.890Z</lastmod>
+    <lastmod>2026-10-17T13:17:39.968Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=crypto</loc>
-    <lastmod>2026-10-17T09:45:44.890Z</lastmod>
+    <lastmod>2026-10-17T13:17:39.968Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=earnings</loc>
-    <lastmod>2026-10-17T09:45:44.890Z</lastmod>
+    <lastmod>2026-10-17T13:17:39.968Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=x2018some-people-did-everything-right-i-lost-my-home-in-the--8s2t</loc>
+    <lastmod>2026-10-17T13:00:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T13:00:00.000Z</news:publication_date>
+      <news:title>&amp;#x2018;Some people did everything right': I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=meet-the-home-buyers-totally-unfazed-by-7-mortgage-rates-8s2t</loc>
+    <lastmod>2026-10-17T13:00:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T13:00:00.000Z</news:publication_date>
+      <news:title>Meet the home buyers totally unfazed by 7% mortgage rates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=influencers-and-biohackers-swear-by-fasting-heres-what-the-s-8s2t</loc>
+    <lastmod>2026-10-17T12:31:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T12:31:00.000Z</news:publication_date>
+      <news:title>Influencers and biohackers swear by fasting. Here's what the science says.</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=silvers-recent-50-drop-from-a-record-high-hints-that-an-econ-8s2t</loc>
+    <lastmod>2026-10-17T12:30:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T12:30:00.000Z</news:publication_date>
+      <news:title>Silver's recent 50% drop from a record high hints that an economic slowdown looms</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=microsoft-shopify-and-3-more-ai-stocks-that-are-favorite-wal-8s2t</loc>
+    <lastmod>2026-10-17T12:01:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T12:01:00.000Z</news:publication_date>
+      <news:title>Microsoft, Shopify and 3 more AI stocks that are favorite Wall Street earnings plays</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=bending-spoons-wants-to-revive-software-castoffs-berkshire-i-8s2t</loc>
+    <lastmod>2026-10-17T12:00:01.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T12:00:01.000Z</news:publication_date>
+      <news:title>Bending Spoons wants to revive software castoffs. Berkshire is backing the plan</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article.html?id=hourly-market-brief-mvc7o8u4</loc>
@@ -445,134 +529,50 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article.html?id=this-one-governors-race-could-derail-the-ai-trade-thats-powe-z3i9</loc>
-    <lastmod>2026-10-15T19:00:00.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T19:00:00.000Z</news:publication_date>
-      <news:title>This one governor's race could derail the AI trade that's powered the stock market</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=harvards-endowment-jumps-27-in-fiscal-2026-lifted-by-spacex--z3i9</loc>
-    <lastmod>2026-10-15T19:53:49.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T19:53:49.000Z</news:publication_date>
-      <news:title>Harvard’s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=are-we-spending-our-retirement-money-in-the-right-order-our--9jxv</loc>
-    <lastmod>2026-10-15T17:52:00.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T17:52:00.000Z</news:publication_date>
-      <news:title>Are we spending our retirement money in the right order? Our plan is: Social Security, annuities, cash &amp;#x2014; then IRA.</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=x2018i-like-the-idea-of-a-big-return-my-financial-adviser-wa-9jxv</loc>
-    <lastmod>2026-10-15T17:15:00.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T17:15:00.000Z</news:publication_date>
-      <news:title>&amp;#x2018;I like the idea of a big return': My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=did-this-years-cola-beat-inflation-heres-how-spending-by-ame-9jxv</loc>
-    <lastmod>2026-10-15T17:07:00.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T17:07:00.000Z</news:publication_date>
-      <news:title>Did this year's COLA beat inflation? Here's how spending by American seniors stacks up so far in 2026.</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=the-cola-wars-are-coming-for-social-security-9jxv</loc>
-    <lastmod>2026-10-15T17:07:00.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T17:07:00.000Z</news:publication_date>
-      <news:title>The COLA wars are coming for Social Security</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-10-17T09:45:44.890Z</lastmod>
+    <lastmod>2026-10-17T13:17:39.968Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-10-17T09:45:44.890Z</lastmod>
+    <lastmod>2026-10-17T13:17:39.968Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-10-17T09:45:44.890Z</lastmod>
+    <lastmod>2026-10-17T13:17:39.968Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/about.html</loc>
-    <lastmod>2026-10-17T09:45:44.890Z</lastmod>
+    <lastmod>2026-10-17T13:17:39.968Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact.html</loc>
-    <lastmod>2026-10-17T09:45:44.890Z</lastmod>
+    <lastmod>2026-10-17T13:17:39.968Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy.html</loc>
-    <lastmod>2026-10-17T09:45:44.890Z</lastmod>
+    <lastmod>2026-10-17T13:17:39.968Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms.html</loc>
-    <lastmod>2026-10-17T09:45:44.890Z</lastmod>
+    <lastmod>2026-10-17T13:17:39.968Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/ads.txt</loc>
-    <lastmod>2026-10-17T09:45:44.890Z</lastmod>
+    <lastmod>2026-10-17T13:17:39.968Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
