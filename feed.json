@@ -13,6 +13,28 @@
   ],
   "items": [
     {
+      "id": "https://worldstocknews.online/article.html?id=hourly-market-brief-mvbojpqn",
+      "url": "https://worldstocknews.online/article.html?id=hourly-market-brief-mvbojpqn",
+      "title": "Hourly Market Pulse: Global Indices Trade With Steady Breadth as Volume Accelerates",
+      "content_text": "Mid-day institutional trading patterns reflect disciplined risk management and rotational inflows into cyclical leaders and technology infrastructure.",
+      "summary": "Mid-day institutional trading patterns reflect disciplined risk management and rotational inflows into cyclical leaders and technology infrastructure.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-17T00:50:20.843Z",
+      "tags": [
+        "US Markets",
+        "^GSPC",
+        "^NDX",
+        "NVDA",
+        "BTC-USD"
+      ],
+      "authors": [
+        {
+          "name": "Elena Rostova",
+          "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=120&q=80"
+        }
+      ]
+    },
+    {
       "id": "https://worldstocknews.online/article.html?id=nowhere-to-hide-tech-selloff-hits-software-and-chip-stocks-a-zwy2",
       "url": "https://worldstocknews.online/article.html?id=nowhere-to-hide-tech-selloff-hits-software-and-chip-stocks-a-zwy2",
       "title": "Nowhere to hide: Tech selloff hits software and chip stocks alike",
@@ -409,26 +431,6 @@
         {
           "name": "Claire Montclaire",
           "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=120&q=80"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article.html?id=pepsi-loses-more-ground-in-the-soda-wars-as-kfc-switches-to--4dmn",
-      "url": "https://worldstocknews.online/article.html?id=pepsi-loses-more-ground-in-the-soda-wars-as-kfc-switches-to--4dmn",
-      "title": "Pepsi loses more ground in the soda wars, as KFC switches to Coke",
-      "content_text": "As more people switch to Coke, some analysts are getting more worried about the state of archrival Pepsi.",
-      "summary": "As more people switch to Coke, some analysts are getting more worried about the state of archrival Pepsi.",
-      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-15T23:29:00.000Z",
-      "tags": [
-        "US Markets",
-        "^GSPC",
-        "SPY"
-      ],
-      "authors": [
-        {
-          "name": "Elena Rostova",
-          "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=120&q=80"
         }
       ]
     }
