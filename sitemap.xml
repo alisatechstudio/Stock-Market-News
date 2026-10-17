@@ -4,39 +4,81 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-10-17T13:17:39.968Z</lastmod>
+    <lastmod>2026-10-17T16:41:08.446Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=us-markets</loc>
-    <lastmod>2026-10-17T13:17:39.968Z</lastmod>
+    <lastmod>2026-10-17T16:41:08.446Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=tech-ai</loc>
-    <lastmod>2026-10-17T13:17:39.968Z</lastmod>
+    <lastmod>2026-10-17T16:41:08.446Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=macro-economy</loc>
-    <lastmod>2026-10-17T13:17:39.968Z</lastmod>
+    <lastmod>2026-10-17T16:41:08.446Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=crypto</loc>
-    <lastmod>2026-10-17T13:17:39.968Z</lastmod>
+    <lastmod>2026-10-17T16:41:08.446Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=earnings</loc>
-    <lastmod>2026-10-17T13:17:39.968Z</lastmod>
+    <lastmod>2026-10-17T16:41:08.446Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=dead-money-for-a-decade-why-this-hedge-fund-approach-may-del-ig1b</loc>
+    <lastmod>2026-10-17T15:00:01.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T15:00:01.000Z</news:publication_date>
+      <news:title>'Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=softwares-new-consolidator-gets-big-vote-of-confidence-from--ig1b</loc>
+    <lastmod>2026-10-17T15:11:30.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T15:11:30.000Z</news:publication_date>
+      <news:title>Software’s new consolidator gets big vote of confidence from Berkshire</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=harvards-endowment-jumps-27-in-fiscal-2026-lifted-by-spacex--ig1b</loc>
+    <lastmod>2026-10-15T19:53:49.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T19:53:49.000Z</news:publication_date>
+      <news:title>Harvard’s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article.html?id=x2018some-people-did-everything-right-i-lost-my-home-in-the--8s2t</loc>
@@ -487,92 +529,50 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article.html?id=people-in-china-are-spending-nearly-as-much-of-their-income--xjcy</loc>
-    <lastmod>2026-10-15T23:00:01.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T23:00:01.000Z</news:publication_date>
-      <news:title>People in China are spending nearly as much of their income as Americans on healthcare</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=big-pharma-stocks-close-near-all-time-highs-as-tech-selloff--z3i9</loc>
-    <lastmod>2026-10-15T20:29:00.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T20:29:00.000Z</news:publication_date>
-      <news:title>Big pharma stocks close near all-time highs as tech selloff pushes investors toward safer bets</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=coreweaves-polarizing-stock-rebounds-as-wall-street-squares--z3i9</loc>
-    <lastmod>2026-10-15T19:26:00.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T19:26:00.000Z</news:publication_date>
-      <news:title>CoreWeave's polarizing stock rebounds as Wall Street squares off about AI spending</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-10-17T13:17:39.968Z</lastmod>
+    <lastmod>2026-10-17T16:41:08.446Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-10-17T13:17:39.968Z</lastmod>
+    <lastmod>2026-10-17T16:41:08.446Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-10-17T13:17:39.968Z</lastmod>
+    <lastmod>2026-10-17T16:41:08.446Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/about.html</loc>
-    <lastmod>2026-10-17T13:17:39.968Z</lastmod>
+    <lastmod>2026-10-17T16:41:08.446Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact.html</loc>
-    <lastmod>2026-10-17T13:17:39.968Z</lastmod>
+    <lastmod>2026-10-17T16:41:08.446Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy.html</loc>
-    <lastmod>2026-10-17T13:17:39.968Z</lastmod>
+    <lastmod>2026-10-17T16:41:08.446Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms.html</loc>
-    <lastmod>2026-10-17T13:17:39.968Z</lastmod>
+    <lastmod>2026-10-17T16:41:08.446Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/ads.txt</loc>
-    <lastmod>2026-10-17T13:17:39.968Z</lastmod>
+    <lastmod>2026-10-17T16:41:08.446Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
