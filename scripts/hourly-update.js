@@ -50,6 +50,44 @@ async function fetchWithTimeout(url, options = {}, timeoutMs = 7000) {
   }
 }
 
+// Helper: decode HTML & numeric entities to plain text characters
+function decodeHtmlEntities(str) {
+  if (!str) return '';
+  return String(str)
+    .replace(/&amp;/g, '&')
+    .replace(/&apos;/g, "'")
+    .replace(/&quot;/g, '"')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&#x([0-9a-fA-F]+);/g, (_, hex) => {
+      try {
+        return String.fromCodePoint(parseInt(hex, 16));
+      } catch (e) {
+        return _;
+      }
+    })
+    .replace(/&#([0-9]+);/g, (_, dec) => {
+      try {
+        return String.fromCodePoint(parseInt(dec, 10));
+      } catch (e) {
+        return _;
+      }
+    });
+}
+
+// Helper: safely escape text for XML elements and attributes
+function escapeXml(str) {
+  if (!str) return '';
+  // Decode first (double pass to handle potential nested encodings like &amp;#x2019;)
+  let s = decodeHtmlEntities(decodeHtmlEntities(String(str)));
+  return s
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&apos;');
+}
+
 // Fetch RSS feed items
 async function fetchFreshNewsFromFeeds() {
   const freshArticles = [];
@@ -70,9 +108,11 @@ async function fetchFreshNewsFromFeeds() {
         const descM = raw.match(/<description>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/description>/);
         const dateM = raw.match(/<pubDate>([\s\S]*?)<\/pubDate>/);
 
-        const title = titleM ? titleM[1].replace(/&apos;/g, "'").replace(/&quot;/g, '"').replace(/&#x2019;/g, "'").trim() : '';
+        const rawTitle = titleM ? titleM[1] : '';
+        const title = decodeHtmlEntities(decodeHtmlEntities(rawTitle)).trim();
         const link = linkM ? linkM[1].trim() : '';
-        const excerpt = descM ? descM[1].replace(/<[^>]*>/g, '').trim() : '';
+        const rawDesc = descM ? descM[1].replace(/<[^>]*>/g, '') : '';
+        const excerpt = decodeHtmlEntities(decodeHtmlEntities(rawDesc)).trim();
         const pubDate = dateM ? new Date(dateM[1].trim()) : new Date();
 
         if (title && !title.toLowerCase().includes('partner') && title.length > 15) {
@@ -277,7 +317,7 @@ function generateSitemapXml(articles, currentIsoTime) {
   // Articles with Google News tags
   for (const a of articles) {
     const pubDate = a.publishedAt || currentIsoTime;
-    const safeTitle = (a.title || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    const safeTitle = escapeXml(a.title || '');
     xml += `
   <url>
     <loc>https://worldstocknews.online/article.html?id=${encodeURIComponent(a.id)}</loc>
@@ -336,9 +376,11 @@ function generateFeedXml(articles, currentRfcDate) {
   const topArticles = articles.slice(0, 15);
   for (const a of topArticles) {
     const pubDateRfc = a.publishedAt ? new Date(a.publishedAt).toUTCString() : currentRfcDate;
-    const safeTitle = (a.title || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
-    const safeDesc = (a.excerpt || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+    const safeTitle = escapeXml(a.title || '');
+    const safeDesc = escapeXml(a.excerpt || '');
     const authorName = a.author && a.author.name ? a.author.name : "World Stock News Editorial";
+    const safeAuthor = escapeXml(authorName);
+    const safeCategory = escapeXml(a.category || 'US Markets');
 
     xml += `
     <item>
@@ -346,9 +388,9 @@ function generateFeedXml(articles, currentRfcDate) {
       <link>https://worldstocknews.online/article.html?id=${encodeURIComponent(a.id)}</link>
       <guid isPermaLink="true">https://worldstocknews.online/article.html?id=${encodeURIComponent(a.id)}</guid>
       <pubDate>${pubDateRfc}</pubDate>
-      <dc:creator>${authorName}</dc:creator>
+      <dc:creator>${safeAuthor}</dc:creator>
       <description>${safeDesc}</description>
-      <category>${a.category || 'US Markets'}</category>
+      <category>${safeCategory}</category>
     </item>`;
   }
 
