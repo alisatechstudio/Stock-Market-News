@@ -4,39 +4,53 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-10-18T06:40:07.806Z</lastmod>
+    <lastmod>2026-10-18T11:47:39.516Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=us-markets</loc>
-    <lastmod>2026-10-18T06:40:07.806Z</lastmod>
+    <lastmod>2026-10-18T11:47:39.516Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=tech-ai</loc>
-    <lastmod>2026-10-18T06:40:07.806Z</lastmod>
+    <lastmod>2026-10-18T11:47:39.516Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=macro-economy</loc>
-    <lastmod>2026-10-18T06:40:07.806Z</lastmod>
+    <lastmod>2026-10-18T11:47:39.516Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=crypto</loc>
-    <lastmod>2026-10-18T06:40:07.806Z</lastmod>
+    <lastmod>2026-10-18T11:47:39.516Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=earnings</loc>
-    <lastmod>2026-10-18T06:40:07.806Z</lastmod>
+    <lastmod>2026-10-18T11:47:39.516Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=hourly-market-brief-mvdrgvl1</loc>
+    <lastmod>2026-10-18T11:47:39.516Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T11:47:39.516Z</news:publication_date>
+      <news:title>Hourly Market Pulse: Global Indices Trade With Steady Breadth as Volume Accelerates</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article.html?id=hourly-market-brief-mvdghe3h</loc>
@@ -515,64 +529,50 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article.html?id=x2018its-a-wait-and-see-situation-im-63-and-diagnosed-with-l-xgmm</loc>
-    <lastmod>2026-10-16T11:30:00.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T11:30:00.000Z</news:publication_date>
-      <news:title>‘It&apos;s a wait-and-see situation&apos;: I&apos;m 63 and diagnosed with lymphoma. Should I take my Social Security next year?</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-10-18T06:40:07.806Z</lastmod>
+    <lastmod>2026-10-18T11:47:39.516Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-10-18T06:40:07.806Z</lastmod>
+    <lastmod>2026-10-18T11:47:39.516Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-10-18T06:40:07.806Z</lastmod>
+    <lastmod>2026-10-18T11:47:39.516Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/about.html</loc>
-    <lastmod>2026-10-18T06:40:07.806Z</lastmod>
+    <lastmod>2026-10-18T11:47:39.516Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact.html</loc>
-    <lastmod>2026-10-18T06:40:07.806Z</lastmod>
+    <lastmod>2026-10-18T11:47:39.516Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy.html</loc>
-    <lastmod>2026-10-18T06:40:07.806Z</lastmod>
+    <lastmod>2026-10-18T11:47:39.516Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms.html</loc>
-    <lastmod>2026-10-18T06:40:07.806Z</lastmod>
+    <lastmod>2026-10-18T11:47:39.516Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/ads.txt</loc>
-    <lastmod>2026-10-18T06:40:07.806Z</lastmod>
+    <lastmod>2026-10-18T11:47:39.516Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>

@@ -1,10 +1,46 @@
 /**
  * World Stock News - Editorial Database of In-Depth Financial Intelligence Articles
  * Automatically updated hourly by World Stock News Real-Time Ingestion Engine
- * Last Automated Update: 2026-10-18T06:40:08.094Z
+ * Last Automated Update: 2026-10-18T11:47:39.877Z
  */
 
 const ArticlesData = [
+  {
+    "id": "hourly-market-brief-mvdrgvl1",
+    "title": "Hourly Market Pulse: Global Indices Trade With Steady Breadth as Volume Accelerates",
+    "excerpt": "Mid-day institutional trading patterns reflect disciplined risk management and rotational inflows into cyclical leaders and technology infrastructure.",
+    "category": "US Markets",
+    "categorySlug": "us-markets",
+    "tickers": [
+      "^GSPC",
+      "^NDX",
+      "NVDA",
+      "BTC-USD"
+    ],
+    "sentiment": "Bullish",
+    "sentimentScore": "+82%",
+    "author": {
+      "name": "Elena Rostova",
+      "title": "Chief Macro Strategist & Former Senior Economist",
+      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=120&q=80"
+    },
+    "publishedAt": "2026-10-18T11:47:39.516Z",
+    "readTime": "4 min read",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "targetPrice": "7,850 Target",
+    "analystConsensus": "Overweight",
+    "tableOfContents": [
+      {
+        "id": "hourly-catalysts",
+        "title": "Hourly Market Catalysts"
+      },
+      {
+        "id": "liquidity-levels",
+        "title": "Institutional Order Flow and Breadth"
+      }
+    ],
+    "bodyHtml": "\n          <div class=\"article-takeaway-box\">\n            <strong>Hourly Wire Update:</strong> Global indices continue to trade with firm institutional footing. Market breadth metrics indicate consistent accumulation across large-cap tech, financials, and high-quality dividend payers.\n          </div>\n          <h3 id=\"hourly-catalysts\">Hourly Market Catalysts</h3>\n          <p>Equities are consolidating around key moving averages as participants evaluate latest yield curve dynamics and macro prints. Sub-second market telemetry highlights orderly liquidity without heightened hedging premiums in VIX options.</p>\n          <h3 id=\"liquidity-levels\">Institutional Order Flow and Breadth</h3>\n          <p>Over 70% of benchmark constituents continue to trade above their short-term moving averages. Algorithmic execution desks report steady institutional balance-of-day buying across prime ETFs.</p>\n        "
+  },
   {
     "id": "hourly-market-brief-mvdghe3h",
     "title": "Hourly Market Pulse: Global Indices Trade With Steady Breadth as Volume Accelerates",
@@ -1308,46 +1344,6 @@ const ArticlesData = [
       }
     ],
     "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> The stock market has already crashed: Why a Wall Street veteran says Nike is the ultimate turnaround trade.. Reported by MarketWatch. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>Larry McDonald says the S&amp;P 500&#x2019;s record chasing is hiding lots of companies with sliding stocks. He has ideas on how to play that.</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n    "
-  },
-  {
-    "id": "x2018its-a-wait-and-see-situation-im-63-and-diagnosed-with-l-xgmm",
-    "title": "&#x2018;It's a wait-and-see situation': I'm 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
-    "excerpt": "&#x201c;My plan is to continue working as long as I&#x2019;m able to do so and invest my Social Security benefits while I&#x2019;m still earning a paycheck.&#x201d;",
-    "category": "Tech & AI",
-    "categorySlug": "tech-ai",
-    "tickers": [
-      "NVDA",
-      "AAPL",
-      "MSFT",
-      "QQQ"
-    ],
-    "sentiment": "Bullish",
-    "sentimentScore": "+89%",
-    "author": {
-      "name": "Elena Rostova",
-      "title": "Chief Macro Strategist & Senior Economist",
-      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=120&q=80"
-    },
-    "publishedAt": "2026-10-16T11:30:00.000Z",
-    "readTime": "5 min read",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "targetPrice": "Overweight Target",
-    "analystConsensus": "Accumulate / Buy",
-    "tableOfContents": [
-      {
-        "id": "market-overview",
-        "title": "Market Context & Catalyst"
-      },
-      {
-        "id": "institutional-flows",
-        "title": "Institutional Liquidity & Order Flow"
-      },
-      {
-        "id": "strategic-outlook",
-        "title": "Strategic Positioning & Key Risk Levels"
-      }
-    ],
-    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> &#x2018;It's a wait-and-see situation': I'm 63 and diagnosed with lymphoma. Should I take my Social Security next year?. Reported by MarketWatch. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>&#x201c;My plan is to continue working as long as I&#x2019;m able to do so and invest my Social Security benefits while I&#x2019;m still earning a paycheck.&#x201d;</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n    "
   }
 ];
 
