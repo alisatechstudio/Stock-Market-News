@@ -4,39 +4,81 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-10-18T14:55:14.820Z</lastmod>
+    <lastmod>2026-10-18T17:36:59.339Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=us-markets</loc>
-    <lastmod>2026-10-18T14:55:14.820Z</lastmod>
+    <lastmod>2026-10-18T17:36:59.339Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=tech-ai</loc>
-    <lastmod>2026-10-18T14:55:14.820Z</lastmod>
+    <lastmod>2026-10-18T17:36:59.339Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=macro-economy</loc>
-    <lastmod>2026-10-18T14:55:14.820Z</lastmod>
+    <lastmod>2026-10-18T17:36:59.339Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=crypto</loc>
-    <lastmod>2026-10-18T14:55:14.820Z</lastmod>
+    <lastmod>2026-10-18T17:36:59.339Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=earnings</loc>
-    <lastmod>2026-10-18T14:55:14.820Z</lastmod>
+    <lastmod>2026-10-18T17:36:59.339Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=my-wife-says-we-cant-afford-to-retire-i-vetoed-her-8000-trip-y4dw</loc>
+    <lastmod>2026-10-18T17:00:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T17:00:00.000Z</news:publication_date>
+      <news:title>My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=im-64-with-two-sons-but-only-one-works-in-the-family-busines-y4dw</loc>
+    <lastmod>2026-10-18T15:15:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T15:15:00.000Z</news:publication_date>
+      <news:title>I’m 64 with two sons, but only one works in the family business. Is it ethical to leave him 70% of the company?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-se-y4dw</loc>
+    <lastmod>2026-10-18T15:00:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T15:00:00.000Z</news:publication_date>
+      <news:title>I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article.html?id=these-surprising-stocks-could-be-some-of-the-biggest-drivers-6477</loc>
@@ -487,92 +529,50 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article.html?id=could-an-anthropic-ipo-put-your-401k-at-risk-the-ai-safety-d-65oc</loc>
-    <lastmod>2026-10-16T18:37:00.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T18:37:00.000Z</news:publication_date>
-      <news:title>Could an Anthropic IPO put your 401(k) at risk? The AI safety debate hits a new dimension.</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=us-presses-china-on-mastercard-citigroup-market-access-in-bi-65oc</loc>
-    <lastmod>2026-10-16T16:46:18.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T16:46:18.000Z</news:publication_date>
-      <news:title>U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=china-indicates-rare-earths-will-keep-flowing-to-eu-regardle-65oc</loc>
-    <lastmod>2026-10-16T21:45:44.890Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T21:45:44.890Z</news:publication_date>
-      <news:title>China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-10-18T14:55:14.820Z</lastmod>
+    <lastmod>2026-10-18T17:36:59.339Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-10-18T14:55:14.820Z</lastmod>
+    <lastmod>2026-10-18T17:36:59.339Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-10-18T14:55:14.820Z</lastmod>
+    <lastmod>2026-10-18T17:36:59.339Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/about.html</loc>
-    <lastmod>2026-10-18T14:55:14.820Z</lastmod>
+    <lastmod>2026-10-18T17:36:59.339Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact.html</loc>
-    <lastmod>2026-10-18T14:55:14.820Z</lastmod>
+    <lastmod>2026-10-18T17:36:59.339Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy.html</loc>
-    <lastmod>2026-10-18T14:55:14.820Z</lastmod>
+    <lastmod>2026-10-18T17:36:59.339Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms.html</loc>
-    <lastmod>2026-10-18T14:55:14.820Z</lastmod>
+    <lastmod>2026-10-18T17:36:59.339Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/ads.txt</loc>
-    <lastmod>2026-10-18T14:55:14.820Z</lastmod>
+    <lastmod>2026-10-18T17:36:59.339Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
