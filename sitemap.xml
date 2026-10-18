@@ -4,39 +4,81 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-10-18T11:47:39.516Z</lastmod>
+    <lastmod>2026-10-18T14:55:14.820Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=us-markets</loc>
-    <lastmod>2026-10-18T11:47:39.516Z</lastmod>
+    <lastmod>2026-10-18T14:55:14.820Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=tech-ai</loc>
-    <lastmod>2026-10-18T11:47:39.516Z</lastmod>
+    <lastmod>2026-10-18T14:55:14.820Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=macro-economy</loc>
-    <lastmod>2026-10-18T11:47:39.516Z</lastmod>
+    <lastmod>2026-10-18T14:55:14.820Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=crypto</loc>
-    <lastmod>2026-10-18T11:47:39.516Z</lastmod>
+    <lastmod>2026-10-18T14:55:14.820Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=earnings</loc>
-    <lastmod>2026-10-18T11:47:39.516Z</lastmod>
+    <lastmod>2026-10-18T14:55:14.820Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=these-surprising-stocks-could-be-some-of-the-biggest-drivers-6477</loc>
+    <lastmod>2026-10-18T14:00:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T14:00:00.000Z</news:publication_date>
+      <news:title>These surprising stocks could be some of the biggest drivers of S&amp;P 500 earnings growth</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=stocks-are-heading-for-a-high-stakes-showdown-as-strong-earn-6478</loc>
+    <lastmod>2026-10-18T13:00:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T13:00:00.000Z</news:publication_date>
+      <news:title>Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=there-is-a-silent-market-rotation-inside-the-sp-500-thats-wa-6478</loc>
+    <lastmod>2026-10-18T12:00:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T12:00:00.000Z</news:publication_date>
+      <news:title>There is a silent market rotation inside the S&amp;P 500 that’s warning of more weakness ahead</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article.html?id=hourly-market-brief-mvdrgvl1</loc>
@@ -487,92 +529,50 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article.html?id=retiring-abroad-dont-cut-these-financial-ties-to-the-us-9oq7</loc>
-    <lastmod>2026-10-16T15:00:00.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T15:00:00.000Z</news:publication_date>
-      <news:title>Retiring abroad? Don&apos;t cut these financial ties to the U.S.</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=is-apples-foldable-iphone-duo-worth-2000-see-how-it-stacks-u-9oq7</loc>
-    <lastmod>2026-10-16T14:40:00.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T14:40:00.000Z</news:publication_date>
-      <news:title>Is Apple&apos;s foldable iPhone Duo worth $2,000? See how it stacks up against other foldable phones.</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=the-stock-market-has-already-crashed-why-a-wall-street-veter-9oq7</loc>
-    <lastmod>2026-10-16T14:28:00.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T14:28:00.000Z</news:publication_date>
-      <news:title>The stock market has already crashed: Why a Wall Street veteran says Nike is the ultimate turnaround trade.</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-10-18T11:47:39.516Z</lastmod>
+    <lastmod>2026-10-18T14:55:14.820Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-10-18T11:47:39.516Z</lastmod>
+    <lastmod>2026-10-18T14:55:14.820Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-10-18T11:47:39.516Z</lastmod>
+    <lastmod>2026-10-18T14:55:14.820Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/about.html</loc>
-    <lastmod>2026-10-18T11:47:39.516Z</lastmod>
+    <lastmod>2026-10-18T14:55:14.820Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact.html</loc>
-    <lastmod>2026-10-18T11:47:39.516Z</lastmod>
+    <lastmod>2026-10-18T14:55:14.820Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy.html</loc>
-    <lastmod>2026-10-18T11:47:39.516Z</lastmod>
+    <lastmod>2026-10-18T14:55:14.820Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms.html</loc>
-    <lastmod>2026-10-18T11:47:39.516Z</lastmod>
+    <lastmod>2026-10-18T14:55:14.820Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/ads.txt</loc>
-    <lastmod>2026-10-18T11:47:39.516Z</lastmod>
+    <lastmod>2026-10-18T14:55:14.820Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
