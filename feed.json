@@ -13,6 +13,26 @@
   ],
   "items": [
     {
+      "id": "https://worldstocknews.online/article.html?id=my-sister-moved-in-with-our-mother-78-and-says-she-deserves--95w6",
+      "url": "https://worldstocknews.online/article.html?id=my-sister-moved-in-with-our-mother-78-and-says-she-deserves--95w6",
+      "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
+      "content_text": "“The house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.”",
+      "summary": "“The house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.”",
+      "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-18T16:00:00.000Z",
+      "tags": [
+        "US Markets",
+        "^GSPC",
+        "SPY"
+      ],
+      "authors": [
+        {
+          "name": "Siddharth Mehta",
+          "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=120&q=80"
+        }
+      ]
+    },
+    {
       "id": "https://worldstocknews.online/article.html?id=hourly-market-brief-mved8qwr",
       "url": "https://worldstocknews.online/article.html?id=hourly-market-brief-mved8qwr",
       "title": "Hourly Market Pulse: Global Indices Trade With Steady Breadth as Volume Accelerates",
@@ -411,26 +431,6 @@
         {
           "name": "Elena Rostova",
           "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=120&q=80"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article.html?id=dead-money-for-a-decade-why-this-hedge-fund-approach-may-del-ig1b",
-      "url": "https://worldstocknews.online/article.html?id=dead-money-for-a-decade-why-this-hedge-fund-approach-may-del-ig1b",
-      "title": "'Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds",
-      "content_text": "Investors may want to rethink their bond allocation and opt for managed futures exposure.",
-      "summary": "Investors may want to rethink their bond allocation and opt for managed futures exposure.",
-      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-17T15:00:01.000Z",
-      "tags": [
-        "US Markets",
-        "^GSPC",
-        "SPY"
-      ],
-      "authors": [
-        {
-          "name": "Marcus Vance",
-          "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=120&q=80"
         }
       ]
     }
