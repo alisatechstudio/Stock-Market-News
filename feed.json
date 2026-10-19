@@ -13,6 +13,28 @@
   ],
   "items": [
     {
+      "id": "https://worldstocknews.online/article.html?id=hourly-market-brief-mvelqo50",
+      "url": "https://worldstocknews.online/article.html?id=hourly-market-brief-mvelqo50",
+      "title": "Hourly Market Pulse: Global Indices Trade With Steady Breadth as Volume Accelerates",
+      "content_text": "Mid-day institutional trading patterns reflect disciplined risk management and rotational inflows into cyclical leaders and technology infrastructure.",
+      "summary": "Mid-day institutional trading patterns reflect disciplined risk management and rotational inflows into cyclical leaders and technology infrastructure.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-19T01:55:04.732Z",
+      "tags": [
+        "US Markets",
+        "^GSPC",
+        "^NDX",
+        "NVDA",
+        "BTC-USD"
+      ],
+      "authors": [
+        {
+          "name": "Elena Rostova",
+          "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=120&q=80"
+        }
+      ]
+    },
+    {
       "id": "https://worldstocknews.online/article.html?id=my-sister-moved-in-with-our-mother-78-and-says-she-deserves--95w6",
       "url": "https://worldstocknews.online/article.html?id=my-sister-moved-in-with-our-mother-78-and-says-she-deserves--95w6",
       "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
@@ -404,28 +426,6 @@
         "US Markets",
         "^GSPC",
         "SPY"
-      ],
-      "authors": [
-        {
-          "name": "Elena Rostova",
-          "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=120&q=80"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article.html?id=people-in-china-are-spending-nearly-as-much-of-their-income--9hh3",
-      "url": "https://worldstocknews.online/article.html?id=people-in-china-are-spending-nearly-as-much-of-their-income--9hh3",
-      "title": "People in China are spending nearly as much of their income as Americans on healthcare",
-      "content_text": "Increasing government spending on healthcare could help boost consumption in China, the International Monetary Fund said.",
-      "summary": "Increasing government spending on healthcare could help boost consumption in China, the International Monetary Fund said.",
-      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-17T18:32:19.914Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
       ],
       "authors": [
         {
