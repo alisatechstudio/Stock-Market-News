@@ -4,39 +4,109 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-10-20T18:08:21.744Z</lastmod>
+    <lastmod>2026-10-20T21:57:07.829Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=us-markets</loc>
-    <lastmod>2026-10-20T18:08:21.744Z</lastmod>
+    <lastmod>2026-10-20T21:57:07.829Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=tech-ai</loc>
-    <lastmod>2026-10-20T18:08:21.744Z</lastmod>
+    <lastmod>2026-10-20T21:57:07.829Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=macro-economy</loc>
-    <lastmod>2026-10-20T18:08:21.744Z</lastmod>
+    <lastmod>2026-10-20T21:57:07.829Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=crypto</loc>
-    <lastmod>2026-10-20T18:08:21.744Z</lastmod>
+    <lastmod>2026-10-20T21:57:07.829Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=earnings</loc>
-    <lastmod>2026-10-20T18:08:21.744Z</lastmod>
+    <lastmod>2026-10-20T21:57:07.829Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=walmart-takes-aim-at-amazon-and-costco-with-new-membership-p-4dai</loc>
+    <lastmod>2026-10-20T21:47:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T21:47:00.000Z</news:publication_date>
+      <news:title>Walmart takes aim at Amazon and Costco with new membership program — but is it a good deal?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=its-no-secret-what-the-best-financial-advice-for-retirement--4dai</loc>
+    <lastmod>2026-10-20T20:57:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T20:57:00.000Z</news:publication_date>
+      <news:title>It’s no secret what the best financial advice for retirement is — but most people ignore it anyway</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=netflix-vows-to-revive-viewership-trends-but-investors-hit-s-4dai</loc>
+    <lastmod>2026-10-20T20:54:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T20:54:00.000Z</news:publication_date>
+      <news:title>Netflix vows to revive viewership trends, but investors hit ‘sell’ on the stock</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=bull-markets-tend-to-peak-with-a-whimper-not-a-bang-but-a-15-4dai</loc>
+    <lastmod>2026-10-20T20:45:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T20:45:00.000Z</news:publication_date>
+      <news:title>Bull markets tend to peak with a whimper, not a bang — but a 15% correction for the S&amp;P 500 may be next</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=the-social-security-administration-corrected-millions-of-rec-4dai</loc>
+    <lastmod>2026-10-20T20:26:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T20:26:00.000Z</news:publication_date>
+      <news:title>The Social Security Administration corrected millions of records, and says there’s more to fix</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article.html?id=investors-search-for-safety-has-made-toothpaste-stocks-more--y67p</loc>
@@ -459,120 +529,50 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article.html?id=hourly-market-brief-mvelqo50</loc>
-    <lastmod>2026-10-19T01:55:04.732Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T01:55:04.732Z</news:publication_date>
-      <news:title>Hourly Market Pulse: Global Indices Trade With Steady Breadth as Volume Accelerates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=my-sister-moved-in-with-our-mother-78-and-says-she-deserves--95w6</loc>
-    <lastmod>2026-10-19T10:08:21.744Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T10:08:21.744Z</news:publication_date>
-      <news:title>My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=hourly-market-brief-mved8qwr</loc>
-    <lastmod>2026-10-18T21:57:11.699Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-18T21:57:11.699Z</news:publication_date>
-      <news:title>Hourly Market Pulse: Global Indices Trade With Steady Breadth as Volume Accelerates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=us-presses-china-on-mastercard-citigroup-market-access-in-bi-gmoq</loc>
-    <lastmod>2026-10-18T18:43:21.368Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-18T18:43:21.368Z</news:publication_date>
-      <news:title>U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=my-wife-says-we-cant-afford-to-retire-i-vetoed-her-8000-trip-y4dw</loc>
-    <lastmod>2026-10-19T07:08:21.744Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T07:08:21.744Z</news:publication_date>
-      <news:title>My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-10-20T18:08:21.744Z</lastmod>
+    <lastmod>2026-10-20T21:57:07.829Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-10-20T18:08:21.744Z</lastmod>
+    <lastmod>2026-10-20T21:57:07.829Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-10-20T18:08:21.744Z</lastmod>
+    <lastmod>2026-10-20T21:57:07.829Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/about.html</loc>
-    <lastmod>2026-10-20T18:08:21.744Z</lastmod>
+    <lastmod>2026-10-20T21:57:07.829Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact.html</loc>
-    <lastmod>2026-10-20T18:08:21.744Z</lastmod>
+    <lastmod>2026-10-20T21:57:07.829Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy.html</loc>
-    <lastmod>2026-10-20T18:08:21.744Z</lastmod>
+    <lastmod>2026-10-20T21:57:07.829Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms.html</loc>
-    <lastmod>2026-10-20T18:08:21.744Z</lastmod>
+    <lastmod>2026-10-20T21:57:07.829Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/ads.txt</loc>
-    <lastmod>2026-10-20T18:08:21.744Z</lastmod>
+    <lastmod>2026-10-20T21:57:07.829Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
