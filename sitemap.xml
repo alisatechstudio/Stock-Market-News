@@ -4,39 +4,95 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-10-20T08:55:00.278Z</lastmod>
+    <lastmod>2026-10-20T13:54:03.861Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=us-markets</loc>
-    <lastmod>2026-10-20T08:55:00.278Z</lastmod>
+    <lastmod>2026-10-20T13:54:03.861Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=tech-ai</loc>
-    <lastmod>2026-10-20T08:55:00.278Z</lastmod>
+    <lastmod>2026-10-20T13:54:03.861Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=macro-economy</loc>
-    <lastmod>2026-10-20T08:55:00.278Z</lastmod>
+    <lastmod>2026-10-20T13:54:03.861Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=crypto</loc>
-    <lastmod>2026-10-20T08:55:00.278Z</lastmod>
+    <lastmod>2026-10-20T13:54:03.861Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=earnings</loc>
-    <lastmod>2026-10-20T08:55:00.278Z</lastmod>
+    <lastmod>2026-10-20T13:54:03.861Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=money-saving-hacks-to-cope-with-higher-prices-from-our-reade-v58n</loc>
+    <lastmod>2026-10-20T13:52:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T13:52:00.000Z</news:publication_date>
+      <news:title>Money-saving hacks to cope with higher prices — from our readers</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=salesforce-gets-a-chilly-investor-response-to-a-6-billion-de-v58n</loc>
+    <lastmod>2026-10-20T13:48:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T13:48:00.000Z</news:publication_date>
+      <news:title>Salesforce gets a chilly investor response to a $6 billion deal at a 58% premium</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=meet-the-college-students-trying-to-reverse-an-obscure-ban-o-v58n</loc>
+    <lastmod>2026-10-20T13:24:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T13:24:00.000Z</news:publication_date>
+      <news:title>Meet the college students trying to reverse an obscure ban on trading onion futures</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=hsbc-ceo-warns-the-ai-boom-wont-make-every-data-center-a-goo-v58n</loc>
+    <lastmod>2026-10-20T10:39:17.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T10:39:17.000Z</news:publication_date>
+      <news:title>HSBC CEO warns the AI boom won’t make every data center a good bet</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article.html?id=its-a-rough-housing-market-and-goldman-sachs-expects-it-to-g-6moc</loc>
@@ -460,7 +516,7 @@
   </url>
   <url>
     <loc>https://worldstocknews.online/article.html?id=stocks-are-heading-for-a-high-stakes-showdown-as-strong-earn-6478</loc>
-    <lastmod>2026-10-18T13:00:00.000Z</lastmod>
+    <lastmod>2026-10-19T02:54:03.861Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
     <news:news>
@@ -468,111 +524,55 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-18T13:00:00.000Z</news:publication_date>
+      <news:publication_date>2026-10-19T02:54:03.861Z</news:publication_date>
       <news:title>Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article.html?id=there-is-a-silent-market-rotation-inside-the-sp-500-thats-wa-6478</loc>
-    <lastmod>2026-10-18T12:00:00.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-18T12:00:00.000Z</news:publication_date>
-      <news:title>There is a silent market rotation inside the S&amp;P 500 that’s warning of more weakness ahead</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=hourly-market-brief-mvdrgvl1</loc>
-    <lastmod>2026-10-18T11:47:39.516Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-18T11:47:39.516Z</news:publication_date>
-      <news:title>Hourly Market Pulse: Global Indices Trade With Steady Breadth as Volume Accelerates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=hourly-market-brief-mvdghe3h</loc>
-    <lastmod>2026-10-18T22:55:00.278Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-18T22:55:00.278Z</news:publication_date>
-      <news:title>Hourly Market Pulse: Global Indices Trade With Steady Breadth as Volume Accelerates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=fake-shopping-sprees-and-happiness-insurance-the-latest-fint-w2jw</loc>
-    <lastmod>2026-10-18T19:45:06.353Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-18T19:45:06.353Z</news:publication_date>
-      <news:title>Fake shopping sprees and ‘happiness insurance’: The latest fintech apps reveal our financial anxieties</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-10-20T08:55:00.278Z</lastmod>
+    <lastmod>2026-10-20T13:54:03.861Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-10-20T08:55:00.278Z</lastmod>
+    <lastmod>2026-10-20T13:54:03.861Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-10-20T08:55:00.278Z</lastmod>
+    <lastmod>2026-10-20T13:54:03.861Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/about.html</loc>
-    <lastmod>2026-10-20T08:55:00.278Z</lastmod>
+    <lastmod>2026-10-20T13:54:03.861Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact.html</loc>
-    <lastmod>2026-10-20T08:55:00.278Z</lastmod>
+    <lastmod>2026-10-20T13:54:03.861Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy.html</loc>
-    <lastmod>2026-10-20T08:55:00.278Z</lastmod>
+    <lastmod>2026-10-20T13:54:03.861Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms.html</loc>
-    <lastmod>2026-10-20T08:55:00.278Z</lastmod>
+    <lastmod>2026-10-20T13:54:03.861Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/ads.txt</loc>
-    <lastmod>2026-10-20T08:55:00.278Z</lastmod>
+    <lastmod>2026-10-20T13:54:03.861Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
