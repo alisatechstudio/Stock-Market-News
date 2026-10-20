@@ -4,39 +4,67 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-10-20T03:16:32.145Z</lastmod>
+    <lastmod>2026-10-20T08:55:00.278Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=us-markets</loc>
-    <lastmod>2026-10-20T03:16:32.145Z</lastmod>
+    <lastmod>2026-10-20T08:55:00.278Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=tech-ai</loc>
-    <lastmod>2026-10-20T03:16:32.145Z</lastmod>
+    <lastmod>2026-10-20T08:55:00.278Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=macro-economy</loc>
-    <lastmod>2026-10-20T03:16:32.145Z</lastmod>
+    <lastmod>2026-10-20T08:55:00.278Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=crypto</loc>
-    <lastmod>2026-10-20T03:16:32.145Z</lastmod>
+    <lastmod>2026-10-20T08:55:00.278Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=earnings</loc>
-    <lastmod>2026-10-20T03:16:32.145Z</lastmod>
+    <lastmod>2026-10-20T08:55:00.278Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=its-a-rough-housing-market-and-goldman-sachs-expects-it-to-g-6moc</loc>
+    <lastmod>2026-10-20T08:13:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T08:13:00.000Z</news:publication_date>
+      <news:title>It’s a rough housing market, and Goldman Sachs expects it to get worse</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=the-worlds-finance-chiefs-see-new-risks-and-less-china-angst-6moc</loc>
+    <lastmod>2026-10-20T05:27:53.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T05:27:53.000Z</news:publication_date>
+      <news:title>The world’s finance chiefs see new risks — and less China angst</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article.html?id=three-big-takeaways-from-the-imf-world-bank-meetings-3a6m</loc>
@@ -474,7 +502,7 @@
   </url>
   <url>
     <loc>https://worldstocknews.online/article.html?id=hourly-market-brief-mvdghe3h</loc>
-    <lastmod>2026-10-18T06:40:07.806Z</lastmod>
+    <lastmod>2026-10-18T22:55:00.278Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
     <news:news>
@@ -482,7 +510,7 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-18T06:40:07.806Z</news:publication_date>
+      <news:publication_date>2026-10-18T22:55:00.278Z</news:publication_date>
       <news:title>Hourly Market Pulse: Global Indices Trade With Steady Breadth as Volume Accelerates</news:title>
     </news:news>
   </url>
@@ -501,78 +529,50 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article.html?id=is-apples-foldable-iphone-duo-worth-2000-see-how-it-stacks-u-w2jx</loc>
-    <lastmod>2026-10-18T18:45:06.353Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-18T18:45:06.353Z</news:publication_date>
-      <news:title>Is Apple’s foldable iPhone Duo worth $2,000? See how it stacks up against other foldable phones.</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=some-people-did-everything-right-i-lost-my-home-in-the-great-w2jy</loc>
-    <lastmod>2026-10-18T17:45:06.353Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-18T17:45:06.353Z</news:publication_date>
-      <news:title>‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-10-20T03:16:32.145Z</lastmod>
+    <lastmod>2026-10-20T08:55:00.278Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-10-20T03:16:32.145Z</lastmod>
+    <lastmod>2026-10-20T08:55:00.278Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-10-20T03:16:32.145Z</lastmod>
+    <lastmod>2026-10-20T08:55:00.278Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/about.html</loc>
-    <lastmod>2026-10-20T03:16:32.145Z</lastmod>
+    <lastmod>2026-10-20T08:55:00.278Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact.html</loc>
-    <lastmod>2026-10-20T03:16:32.145Z</lastmod>
+    <lastmod>2026-10-20T08:55:00.278Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy.html</loc>
-    <lastmod>2026-10-20T03:16:32.145Z</lastmod>
+    <lastmod>2026-10-20T08:55:00.278Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms.html</loc>
-    <lastmod>2026-10-20T03:16:32.145Z</lastmod>
+    <lastmod>2026-10-20T08:55:00.278Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/ads.txt</loc>
-    <lastmod>2026-10-20T03:16:32.145Z</lastmod>
+    <lastmod>2026-10-20T08:55:00.278Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>

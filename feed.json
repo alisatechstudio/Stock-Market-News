@@ -13,6 +13,49 @@
   ],
   "items": [
     {
+      "id": "https://worldstocknews.online/article.html?id=its-a-rough-housing-market-and-goldman-sachs-expects-it-to-g-6moc",
+      "url": "https://worldstocknews.online/article.html?id=its-a-rough-housing-market-and-goldman-sachs-expects-it-to-g-6moc",
+      "title": "It’s a rough housing market, and Goldman Sachs expects it to get worse",
+      "content_text": "As bad as it is for the housing market — starts and transactions basically flat for the last three years with mortgage rates over 7%— it can get still get worse.",
+      "summary": "As bad as it is for the housing market — starts and transactions basically flat for the last three years with mortgage rates over 7%— it can get still get worse.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-20T08:13:00.000Z",
+      "tags": [
+        "Macro Economy",
+        "^TNX",
+        "CL=F",
+        "GC=F"
+      ],
+      "authors": [
+        {
+          "name": "Elena Rostova",
+          "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=120&q=80"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article.html?id=the-worlds-finance-chiefs-see-new-risks-and-less-china-angst-6moc",
+      "url": "https://worldstocknews.online/article.html?id=the-worlds-finance-chiefs-see-new-risks-and-less-china-angst-6moc",
+      "title": "The world’s finance chiefs see new risks — and less China angst",
+      "content_text": "Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background.",
+      "summary": "Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-20T05:27:53.000Z",
+      "tags": [
+        "Tech & AI",
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "QQQ"
+      ],
+      "authors": [
+        {
+          "name": "Marcus Vance",
+          "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=120&q=80"
+        }
+      ]
+    },
+    {
       "id": "https://worldstocknews.online/article.html?id=three-big-takeaways-from-the-imf-world-bank-meetings-3a6m",
       "url": "https://worldstocknews.online/article.html?id=three-big-takeaways-from-the-imf-world-bank-meetings-3a6m",
       "title": "Three big takeaways from the IMF-World Bank meetings",
@@ -378,50 +421,6 @@
         "US Markets",
         "^GSPC",
         "SPY"
-      ],
-      "authors": [
-        {
-          "name": "Elena Rostova",
-          "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=120&q=80"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article.html?id=robot-factories-and-hypersonic-missiles-jpmorgan-chases-firs-updr",
-      "url": "https://worldstocknews.online/article.html?id=robot-factories-and-hypersonic-missiles-jpmorgan-chases-firs-updr",
-      "title": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
-      "content_text": "With $5 billion already deployed off its balance sheet, JPMorgan Chase is racing ahead on direct investments in defense tech, hardware and supply chains.",
-      "summary": "With $5 billion already deployed off its balance sheet, JPMorgan Chase is racing ahead on direct investments in defense tech, hardware and supply chains.",
-      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-19T12:34:01.000Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "Marcus Vance",
-          "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=120&q=80"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article.html?id=hourly-market-brief-mvewnoej",
-      "url": "https://worldstocknews.online/article.html?id=hourly-market-brief-mvewnoej",
-      "title": "Hourly Market Pulse: Global Indices Trade With Steady Breadth as Volume Accelerates",
-      "content_text": "Mid-day institutional trading patterns reflect disciplined risk management and rotational inflows into cyclical leaders and technology infrastructure.",
-      "summary": "Mid-day institutional trading patterns reflect disciplined risk management and rotational inflows into cyclical leaders and technology infrastructure.",
-      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-19T07:00:40.898Z",
-      "tags": [
-        "US Markets",
-        "^GSPC",
-        "^NDX",
-        "NVDA",
-        "BTC-USD"
       ],
       "authors": [
         {
