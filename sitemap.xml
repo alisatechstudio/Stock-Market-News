@@ -4,39 +4,95 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-10-21T05:25:25.185Z</lastmod>
+    <lastmod>2026-10-21T10:39:37.858Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=us-markets</loc>
-    <lastmod>2026-10-21T05:25:25.185Z</lastmod>
+    <lastmod>2026-10-21T10:39:37.858Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=tech-ai</loc>
-    <lastmod>2026-10-21T05:25:25.185Z</lastmod>
+    <lastmod>2026-10-21T10:39:37.858Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=macro-economy</loc>
-    <lastmod>2026-10-21T05:25:25.185Z</lastmod>
+    <lastmod>2026-10-21T10:39:37.858Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=crypto</loc>
-    <lastmod>2026-10-21T05:25:25.185Z</lastmod>
+    <lastmod>2026-10-21T10:39:37.858Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=earnings</loc>
-    <lastmod>2026-10-21T05:25:25.185Z</lastmod>
+    <lastmod>2026-10-21T10:39:37.858Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=in-the-battle-for-ai-supremacy-china-is-only-six-months-behi-cy9d</loc>
+    <lastmod>2026-10-21T10:12:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T10:12:00.000Z</news:publication_date>
+      <news:title>In the battle for AI supremacy, China is only six months behind the U.S — but that means it’s winning, says former Google CEO</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=we-have-a-300000-mortgage-with-a-275-interest-rate-i-want-to-cy9d</loc>
+    <lastmod>2026-10-21T09:15:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T09:15:00.000Z</news:publication_date>
+      <news:title>We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=george-foremans-lavish-texas-estate-with-50-car-garage-is-li-cy9d</loc>
+    <lastmod>2026-10-21T09:04:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T09:04:00.000Z</news:publication_date>
+      <news:title>George Foreman’s lavish Texas estate with 50-car garage is listed for $6 million</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=my-sister-moved-in-with-our-mother-78-and-says-she-deserves--cy9d</loc>
+    <lastmod>2026-10-21T09:00:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T09:00:00.000Z</news:publication_date>
+      <news:title>My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article.html?id=robot-factories-and-hypersonic-missiles-jpmorgan-chases-firs-4vmr</loc>
@@ -473,106 +529,50 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article.html?id=why-elon-musk-anthropic-and-other-ai-titans-are-giving-away--3w4r</loc>
-    <lastmod>2026-10-19T19:30:00.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T19:30:00.000Z</news:publication_date>
-      <news:title>Why Elon Musk, Anthropic and other AI titans are giving away shares</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=anthropic-is-ai-trades-last-big-hope-for-a-major-ipo-this-ye-3w4r</loc>
-    <lastmod>2026-10-19T16:42:14.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T16:42:14.000Z</news:publication_date>
-      <news:title>Anthropic is AI trade&apos;s last big hope for a major IPO this year</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-re-updr</loc>
-    <lastmod>2026-10-19T14:30:00.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T14:30:00.000Z</news:publication_date>
-      <news:title>‘My husband suffered a massive stroke at 53’: I’m 64 and will rent for the rest of my life — but I’m still hopeful</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=builders-slash-prices-on-new-homes-as-buyer-traffic-drops-to-updr</loc>
-    <lastmod>2026-10-19T14:00:00.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T14:00:00.000Z</news:publication_date>
-      <news:title>Builders slash prices on new homes as buyer traffic drops to 14-year low</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-10-21T05:25:25.185Z</lastmod>
+    <lastmod>2026-10-21T10:39:37.858Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-10-21T05:25:25.185Z</lastmod>
+    <lastmod>2026-10-21T10:39:37.858Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-10-21T05:25:25.185Z</lastmod>
+    <lastmod>2026-10-21T10:39:37.858Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/about.html</loc>
-    <lastmod>2026-10-21T05:25:25.185Z</lastmod>
+    <lastmod>2026-10-21T10:39:37.858Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact.html</loc>
-    <lastmod>2026-10-21T05:25:25.185Z</lastmod>
+    <lastmod>2026-10-21T10:39:37.858Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy.html</loc>
-    <lastmod>2026-10-21T05:25:25.185Z</lastmod>
+    <lastmod>2026-10-21T10:39:37.858Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms.html</loc>
-    <lastmod>2026-10-21T05:25:25.185Z</lastmod>
+    <lastmod>2026-10-21T10:39:37.858Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/ads.txt</loc>
-    <lastmod>2026-10-21T05:25:25.185Z</lastmod>
+    <lastmod>2026-10-21T10:39:37.858Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
