@@ -4,39 +4,95 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-10-21T15:40:40.839Z</lastmod>
+    <lastmod>2026-10-21T19:41:58.278Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=us-markets</loc>
-    <lastmod>2026-10-21T15:40:40.839Z</lastmod>
+    <lastmod>2026-10-21T19:41:58.278Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=tech-ai</loc>
-    <lastmod>2026-10-21T15:40:40.839Z</lastmod>
+    <lastmod>2026-10-21T19:41:58.278Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=macro-economy</loc>
-    <lastmod>2026-10-21T15:40:40.839Z</lastmod>
+    <lastmod>2026-10-21T19:41:58.278Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=crypto</loc>
-    <lastmod>2026-10-21T15:40:40.839Z</lastmod>
+    <lastmod>2026-10-21T19:41:58.278Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=earnings</loc>
-    <lastmod>2026-10-21T15:40:40.839Z</lastmod>
+    <lastmod>2026-10-21T19:41:58.278Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=super-el-nio-may-soon-make-your-coffee-super-expensive-qej1</loc>
+    <lastmod>2026-10-21T19:24:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T19:24:00.000Z</news:publication_date>
+      <news:title>‘Super’ El Niño may soon make your coffee super expensive</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=medicare-is-a-bargain-what-america-cant-afford-is-private-he-qej1</loc>
+    <lastmod>2026-10-21T16:34:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T16:34:00.000Z</news:publication_date>
+      <news:title>Medicare is a bargain. What America can’t afford is private health insurance.</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=polymarket-traders-see-a-10-chance-the-ai-bubble-bursts-befo-qej1</loc>
+    <lastmod>2026-10-21T15:59:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T15:59:00.000Z</news:publication_date>
+      <news:title>Polymarket traders see a 10% chance the AI bubble bursts before New Year’s Day</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=elon-musk-promised-a-spacex-share-to-every-kid-in-america-do-qej1</loc>
+    <lastmod>2026-10-21T15:50:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T15:50:00.000Z</news:publication_date>
+      <news:title>Elon Musk promised a SpaceX share to every kid in America — don’t hold your breath</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article.html?id=ai-stocks-are-probably-in-a-bubble-but-might-be-worth-holdin-43y7</loc>
@@ -110,7 +166,7 @@
   </url>
   <url>
     <loc>https://worldstocknews.online/article.html?id=anthropic-is-ai-trades-last-big-hope-for-a-major-ipo-this-ye-43y7</loc>
-    <lastmod>2026-10-19T16:42:14.000Z</lastmod>
+    <lastmod>2026-10-21T09:41:58.278Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
     <news:news>
@@ -118,7 +174,7 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-19T16:42:14.000Z</news:publication_date>
+      <news:publication_date>2026-10-21T09:41:58.278Z</news:publication_date>
       <news:title>Anthropic is AI trade&apos;s last big hope for a major IPO this year</news:title>
     </news:news>
   </url>
@@ -473,106 +529,50 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article.html?id=softwares-new-consolidator-gets-big-vote-of-confidence-from--3a6m</loc>
-    <lastmod>2026-10-20T00:16:32.145Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T00:16:32.145Z</news:publication_date>
-      <news:title>Software’s new consolidator gets big vote of confidence from Berkshire</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=blood-clots-are-incredibly-common-even-for-pro-athletes-like-13qb</loc>
-    <lastmod>2026-10-19T21:58:00.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T21:58:00.000Z</news:publication_date>
-      <news:title>Blood clots are ‘incredibly common,’ even for pro athletes like Jalen Hurts. Here’s what to know.</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=when-should-you-dump-your-target-date-funds-13qb</loc>
-    <lastmod>2026-10-19T21:37:00.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T21:37:00.000Z</news:publication_date>
-      <news:title>When should you dump your target-date funds?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=credit-markets-have-entered-uncharted-territory-as-the-riski-13qb</loc>
-    <lastmod>2026-10-19T21:36:00.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T21:36:00.000Z</news:publication_date>
-      <news:title>Credit markets have entered uncharted territory as the riskiest junk bonds send a warning to investors</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-10-21T15:40:40.839Z</lastmod>
+    <lastmod>2026-10-21T19:41:58.278Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-10-21T15:40:40.839Z</lastmod>
+    <lastmod>2026-10-21T19:41:58.278Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-10-21T15:40:40.839Z</lastmod>
+    <lastmod>2026-10-21T19:41:58.278Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/about.html</loc>
-    <lastmod>2026-10-21T15:40:40.839Z</lastmod>
+    <lastmod>2026-10-21T19:41:58.278Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact.html</loc>
-    <lastmod>2026-10-21T15:40:40.839Z</lastmod>
+    <lastmod>2026-10-21T19:41:58.278Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy.html</loc>
-    <lastmod>2026-10-21T15:40:40.839Z</lastmod>
+    <lastmod>2026-10-21T19:41:58.278Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms.html</loc>
-    <lastmod>2026-10-21T15:40:40.839Z</lastmod>
+    <lastmod>2026-10-21T19:41:58.278Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/ads.txt</loc>
-    <lastmod>2026-10-21T15:40:40.839Z</lastmod>
+    <lastmod>2026-10-21T19:41:58.278Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
