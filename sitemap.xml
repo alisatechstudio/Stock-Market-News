@@ -4,39 +4,109 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-10-21T19:41:58.278Z</lastmod>
+    <lastmod>2026-10-21T22:49:32.715Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=us-markets</loc>
-    <lastmod>2026-10-21T19:41:58.278Z</lastmod>
+    <lastmod>2026-10-21T22:49:32.715Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=tech-ai</loc>
-    <lastmod>2026-10-21T19:41:58.278Z</lastmod>
+    <lastmod>2026-10-21T22:49:32.715Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=macro-economy</loc>
-    <lastmod>2026-10-21T19:41:58.278Z</lastmod>
+    <lastmod>2026-10-21T22:49:32.715Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=crypto</loc>
-    <lastmod>2026-10-21T19:41:58.278Z</lastmod>
+    <lastmod>2026-10-21T22:49:32.715Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=earnings</loc>
-    <lastmod>2026-10-21T19:41:58.278Z</lastmod>
+    <lastmod>2026-10-21T22:49:32.715Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=why-investors-should-be-skeptical-of-a-potential-tesla-space-fmld</loc>
+    <lastmod>2026-10-21T21:44:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T21:44:00.000Z</news:publication_date>
+      <news:title>Why investors should be skeptical of a potential Tesla-SpaceX merger</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=trump-says-data-centers-should-generate-their-own-electricit-fmld</loc>
+    <lastmod>2026-10-21T21:31:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T21:31:00.000Z</news:publication_date>
+      <news:title>Trump says data centers should generate their own electricity — but experts say only states can mandate that</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=oil-is-now-flowing-out-of-the-persian-gulf-like-before-the-i-fmld</loc>
+    <lastmod>2026-10-21T21:14:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T21:14:00.000Z</news:publication_date>
+      <news:title>Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down anytime soon.</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=i-dont-feel-sorry-for-myself-im-64-and-will-be-renting-for-t-fmld</loc>
+    <lastmod>2026-10-21T21:00:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T21:00:00.000Z</news:publication_date>
+      <news:title>‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=7-healthcare-stocks-that-stand-out-as-investors-pay-up-for-t-fmld</loc>
+    <lastmod>2026-10-21T20:59:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T20:59:00.000Z</news:publication_date>
+      <news:title>7 healthcare stocks that stand out as investors pay up for the sector</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article.html?id=super-el-nio-may-soon-make-your-coffee-super-expensive-qej1</loc>
@@ -459,120 +529,50 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article.html?id=hsbc-ceo-warns-the-ai-boom-wont-make-every-data-center-a-goo-v58n</loc>
-    <lastmod>2026-10-20T10:39:17.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T10:39:17.000Z</news:publication_date>
-      <news:title>HSBC CEO warns the AI boom won’t make every data center a good bet</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=its-a-rough-housing-market-and-goldman-sachs-expects-it-to-g-6moc</loc>
-    <lastmod>2026-10-20T08:13:00.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T08:13:00.000Z</news:publication_date>
-      <news:title>It’s a rough housing market, and Goldman Sachs expects it to get worse</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=the-worlds-finance-chiefs-see-new-risks-and-less-china-angst-6moc</loc>
-    <lastmod>2026-10-20T05:27:53.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T05:27:53.000Z</news:publication_date>
-      <news:title>The world’s finance chiefs see new risks — and less China angst</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=three-big-takeaways-from-the-imf-world-bank-meetings-3a6m</loc>
-    <lastmod>2026-10-20T00:33:34.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T00:33:34.000Z</news:publication_date>
-      <news:title>Three big takeaways from the IMF-World Bank meetings</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=dead-money-for-a-decade-why-this-hedge-fund-approach-may-del-3a6m</loc>
-    <lastmod>2026-10-20T01:16:32.145Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T01:16:32.145Z</news:publication_date>
-      <news:title>&apos;Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-10-21T19:41:58.278Z</lastmod>
+    <lastmod>2026-10-21T22:49:32.715Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-10-21T19:41:58.278Z</lastmod>
+    <lastmod>2026-10-21T22:49:32.715Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-10-21T19:41:58.278Z</lastmod>
+    <lastmod>2026-10-21T22:49:32.715Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/about.html</loc>
-    <lastmod>2026-10-21T19:41:58.278Z</lastmod>
+    <lastmod>2026-10-21T22:49:32.715Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact.html</loc>
-    <lastmod>2026-10-21T19:41:58.278Z</lastmod>
+    <lastmod>2026-10-21T22:49:32.715Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy.html</loc>
-    <lastmod>2026-10-21T19:41:58.278Z</lastmod>
+    <lastmod>2026-10-21T22:49:32.715Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms.html</loc>
-    <lastmod>2026-10-21T19:41:58.278Z</lastmod>
+    <lastmod>2026-10-21T22:49:32.715Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/ads.txt</loc>
-    <lastmod>2026-10-21T19:41:58.278Z</lastmod>
+    <lastmod>2026-10-21T22:49:32.715Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
