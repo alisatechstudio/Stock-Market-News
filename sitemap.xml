@@ -4,39 +4,123 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-10-21T10:39:37.858Z</lastmod>
+    <lastmod>2026-10-21T15:40:40.839Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=us-markets</loc>
-    <lastmod>2026-10-21T10:39:37.858Z</lastmod>
+    <lastmod>2026-10-21T15:40:40.839Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=tech-ai</loc>
-    <lastmod>2026-10-21T10:39:37.858Z</lastmod>
+    <lastmod>2026-10-21T15:40:40.839Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=macro-economy</loc>
-    <lastmod>2026-10-21T10:39:37.858Z</lastmod>
+    <lastmod>2026-10-21T15:40:40.839Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=crypto</loc>
-    <lastmod>2026-10-21T10:39:37.858Z</lastmod>
+    <lastmod>2026-10-21T15:40:40.839Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=earnings</loc>
-    <lastmod>2026-10-21T10:39:37.858Z</lastmod>
+    <lastmod>2026-10-21T15:40:40.839Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=ai-stocks-are-probably-in-a-bubble-but-might-be-worth-holdin-43y7</loc>
+    <lastmod>2026-10-21T15:27:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T15:27:00.000Z</news:publication_date>
+      <news:title>AI stocks are probably in a bubble — but might be worth holding on to, says Citadel’s Ken Griffin</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=moderna-is-about-to-release-the-trial-results-for-its-cancer-43y7</loc>
+    <lastmod>2026-10-21T15:00:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T15:00:00.000Z</news:publication_date>
+      <news:title>Moderna is about to release the trial results for its cancer vaccine. A lot is riding on this data.</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=money-saving-habits-to-cope-with-higher-prices-from-our-read-43y7</loc>
+    <lastmod>2026-10-21T14:49:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T14:49:00.000Z</news:publication_date>
+      <news:title>Money-saving habits to cope with higher prices — from our readers</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=i-receive-10-calls-a-day-promising-me-15000-loans-at-8-inter-43y7</loc>
+    <lastmod>2026-10-21T14:45:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T14:45:00.000Z</news:publication_date>
+      <news:title>I receive 10 calls a day promising me $15,000 loans at 8% interest. Are these legitimate offers?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=goldman-sachs-jpmorgan-and-morgan-stanley-are-dominating-the-43y7</loc>
+    <lastmod>2026-10-21T15:30:50.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T15:30:50.000Z</news:publication_date>
+      <news:title>Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here&apos;s their edge</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=anthropic-is-ai-trades-last-big-hope-for-a-major-ipo-this-ye-43y7</loc>
+    <lastmod>2026-10-19T16:42:14.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T16:42:14.000Z</news:publication_date>
+      <news:title>Anthropic is AI trade&apos;s last big hope for a major IPO this year</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article.html?id=in-the-battle-for-ai-supremacy-china-is-only-six-months-behi-cy9d</loc>
@@ -96,7 +180,7 @@
   </url>
   <url>
     <loc>https://worldstocknews.online/article.html?id=robot-factories-and-hypersonic-missiles-jpmorgan-chases-firs-4vmr</loc>
-    <lastmod>2026-10-19T12:34:01.000Z</lastmod>
+    <lastmod>2026-10-21T04:40:40.839Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
     <news:news>
@@ -104,7 +188,7 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-19T12:34:01.000Z</news:publication_date>
+      <news:publication_date>2026-10-21T04:40:40.839Z</news:publication_date>
       <news:title>Robot factories and hypersonic missiles: JPMorgan Chase&apos;s first $5 billion of defense investments</news:title>
     </news:news>
   </url>
@@ -445,134 +529,50 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article.html?id=i-dont-feel-sorry-for-myself-im-64-and-will-be-renting-for-t-13qb</loc>
-    <lastmod>2026-10-19T21:30:00.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T21:30:00.000Z</news:publication_date>
-      <news:title>‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life — but here’s I’m still hopeful</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=im-naturally-skeptical-i-receive-10-calls-a-day-offering-me--13qb</loc>
-    <lastmod>2026-10-19T21:15:00.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T21:15:00.000Z</news:publication_date>
-      <news:title>‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=retiring-abroad-dont-cut-these-financial-ties-to-the-us-3w4r</loc>
-    <lastmod>2026-10-19T20:33:00.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T20:33:00.000Z</news:publication_date>
-      <news:title>Retiring abroad? Don’t cut these financial ties to the U.S.</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=colleges-raced-to-build-massive-computer-science-departments-3w4r</loc>
-    <lastmod>2026-10-19T19:56:00.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T19:56:00.000Z</news:publication_date>
-      <news:title>Colleges raced to build massive computer-science departments. Now the boom is turning to bust.</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=spacex-earnings-will-be-all-about-ai-for-better-or-for-worse-3w4r</loc>
-    <lastmod>2026-10-19T19:47:00.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T19:47:00.000Z</news:publication_date>
-      <news:title>SpaceX earnings will be all about AI — for better or for worse</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=why-the-treasurys-financing-plans-are-sparking-anxiety-on-wa-3w4r</loc>
-    <lastmod>2026-10-19T19:45:00.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T19:45:00.000Z</news:publication_date>
-      <news:title>Why the Treasury’s financing plans are sparking anxiety on Wall Street</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-10-21T10:39:37.858Z</lastmod>
+    <lastmod>2026-10-21T15:40:40.839Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-10-21T10:39:37.858Z</lastmod>
+    <lastmod>2026-10-21T15:40:40.839Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-10-21T10:39:37.858Z</lastmod>
+    <lastmod>2026-10-21T15:40:40.839Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/about.html</loc>
-    <lastmod>2026-10-21T10:39:37.858Z</lastmod>
+    <lastmod>2026-10-21T15:40:40.839Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact.html</loc>
-    <lastmod>2026-10-21T10:39:37.858Z</lastmod>
+    <lastmod>2026-10-21T15:40:40.839Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy.html</loc>
-    <lastmod>2026-10-21T10:39:37.858Z</lastmod>
+    <lastmod>2026-10-21T15:40:40.839Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms.html</loc>
-    <lastmod>2026-10-21T10:39:37.858Z</lastmod>
+    <lastmod>2026-10-21T15:40:40.839Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/ads.txt</loc>
-    <lastmod>2026-10-21T10:39:37.858Z</lastmod>
+    <lastmod>2026-10-21T15:40:40.839Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
