@@ -4,39 +4,81 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-10-20T21:57:07.829Z</lastmod>
+    <lastmod>2026-10-21T00:15:57.059Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=us-markets</loc>
-    <lastmod>2026-10-20T21:57:07.829Z</lastmod>
+    <lastmod>2026-10-21T00:15:57.059Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=tech-ai</loc>
-    <lastmod>2026-10-20T21:57:07.829Z</lastmod>
+    <lastmod>2026-10-21T00:15:57.059Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=macro-economy</loc>
-    <lastmod>2026-10-20T21:57:07.829Z</lastmod>
+    <lastmod>2026-10-21T00:15:57.059Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=crypto</loc>
-    <lastmod>2026-10-20T21:57:07.829Z</lastmod>
+    <lastmod>2026-10-21T00:15:57.059Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=earnings</loc>
-    <lastmod>2026-10-20T21:57:07.829Z</lastmod>
+    <lastmod>2026-10-21T00:15:57.059Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=teslas-stock-rises-as-elon-musk-drops-new-clues-about-a-poss-2w9h</loc>
+    <lastmod>2026-10-21T00:14:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T00:14:00.000Z</news:publication_date>
+      <news:title>Tesla’s stock rises as Elon Musk drops new clues about a possible SpaceX merger</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=why-spacexs-stock-is-surging-and-lifting-the-broader-ai-univ-2w9h</loc>
+    <lastmod>2026-10-20T23:10:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T23:10:00.000Z</news:publication_date>
+      <news:title>Why SpaceX’s stock is surging — and lifting the broader AI universe along with it</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=super-micros-stock-soars-after-surprise-update-with-dell-and-2w9h</loc>
+    <lastmod>2026-10-20T22:37:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T22:37:00.000Z</news:publication_date>
+      <news:title>Super Micro’s stock soars after surprise update — with Dell and HPE shares joining the rally</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article.html?id=walmart-takes-aim-at-amazon-and-costco-with-new-membership-p-4dai</loc>
@@ -487,92 +529,50 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article.html?id=france-and-the-us-share-the-same-debt-trap-why-the-us-has-an-updr</loc>
-    <lastmod>2026-10-19T13:19:00.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T13:19:00.000Z</news:publication_date>
-      <news:title>France and the U.S. share the same debt trap. Why the U.S. has an escape valve.</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=robot-factories-and-hypersonic-missiles-jpmorgan-chases-firs-updr</loc>
-    <lastmod>2026-10-19T12:34:01.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T12:34:01.000Z</news:publication_date>
-      <news:title>Robot factories and hypersonic missiles: JPMorgan Chase&apos;s first $5 billion of defense investments</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=hourly-market-brief-mvewnoej</loc>
-    <lastmod>2026-10-19T07:00:40.898Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T07:00:40.898Z</news:publication_date>
-      <news:title>Hourly Market Pulse: Global Indices Trade With Steady Breadth as Volume Accelerates</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-10-20T21:57:07.829Z</lastmod>
+    <lastmod>2026-10-21T00:15:57.059Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-10-20T21:57:07.829Z</lastmod>
+    <lastmod>2026-10-21T00:15:57.059Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-10-20T21:57:07.829Z</lastmod>
+    <lastmod>2026-10-21T00:15:57.059Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/about.html</loc>
-    <lastmod>2026-10-20T21:57:07.829Z</lastmod>
+    <lastmod>2026-10-21T00:15:57.059Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact.html</loc>
-    <lastmod>2026-10-20T21:57:07.829Z</lastmod>
+    <lastmod>2026-10-21T00:15:57.059Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy.html</loc>
-    <lastmod>2026-10-20T21:57:07.829Z</lastmod>
+    <lastmod>2026-10-21T00:15:57.059Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms.html</loc>
-    <lastmod>2026-10-20T21:57:07.829Z</lastmod>
+    <lastmod>2026-10-21T00:15:57.059Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/ads.txt</loc>
-    <lastmod>2026-10-20T21:57:07.829Z</lastmod>
+    <lastmod>2026-10-21T00:15:57.059Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
