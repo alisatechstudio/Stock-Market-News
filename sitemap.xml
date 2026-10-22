@@ -4,37 +4,37 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-10-22T06:07:17.662Z</lastmod>
+    <lastmod>2026-10-22T06:20:14.729Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/us-markets</loc>
-    <lastmod>2026-10-22T06:07:17.662Z</lastmod>
+    <lastmod>2026-10-22T06:20:14.729Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/tech-ai</loc>
-    <lastmod>2026-10-22T06:07:17.662Z</lastmod>
+    <lastmod>2026-10-22T06:20:14.729Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/macro-economy</loc>
-    <lastmod>2026-10-22T06:07:17.662Z</lastmod>
+    <lastmod>2026-10-22T06:20:14.729Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/crypto</loc>
-    <lastmod>2026-10-22T06:07:17.662Z</lastmod>
+    <lastmod>2026-10-22T06:20:14.729Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/earnings</loc>
-    <lastmod>2026-10-22T06:07:17.662Z</lastmod>
+    <lastmod>2026-10-22T06:20:14.729Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -530,43 +530,43 @@
   </url>
   <url>
     <loc>https://worldstocknews.online/about</loc>
-    <lastmod>2026-10-22T06:07:17.662Z</lastmod>
+    <lastmod>2026-10-22T06:20:14.729Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact</loc>
-    <lastmod>2026-10-22T06:07:17.662Z</lastmod>
+    <lastmod>2026-10-22T06:20:14.729Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy</loc>
-    <lastmod>2026-10-22T06:07:17.662Z</lastmod>
+    <lastmod>2026-10-22T06:20:14.729Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms</loc>
-    <lastmod>2026-10-22T06:07:17.662Z</lastmod>
+    <lastmod>2026-10-22T06:20:14.729Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-10-22T06:07:17.662Z</lastmod>
+    <lastmod>2026-10-22T06:20:14.729Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-10-22T06:07:17.662Z</lastmod>
+    <lastmod>2026-10-22T06:20:14.729Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-10-22T06:07:17.662Z</lastmod>
+    <lastmod>2026-10-22T06:20:14.729Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

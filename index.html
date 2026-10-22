@@ -45,6 +45,22 @@
   <link rel="alternate" type="application/feed+json" title="World Stock News JSON Feed" href="feed.json">
   <link rel="help" type="text/plain" title="LLM Context Manifest" href="llms.txt">
 
+  <!-- Immediate Global Stubs for Article Reader & Timestamps -->
+  <script>
+    var lastHourlySyncTime = Date.now();
+    window.lastHourlySyncTime = lastHourlySyncTime;
+    function openArticleModal(id) {
+      if (typeof window.openArticleModalFull === 'function') {
+        return window.openArticleModalFull(id);
+      }
+      if (typeof window.openArticleModal === 'function' && window.openArticleModal !== openArticleModal) {
+        return window.openArticleModal(id);
+      }
+      if (id) window.location.href = '/article/' + encodeURIComponent(id);
+    }
+    window.openArticleModal = openArticleModal;
+  </script>
+
   <!-- Google Consent Mode v2 & GDPR Consent Settings -->
   <script>
     window.GDPR_CONSENT_CONFIG = {
@@ -735,6 +751,6 @@
   <script src="js/api.js"></script>
   <script src="js/articles-data.js"></script>
   <script src="js/charts.js"></script>
-  <script src="js/main.js"></script>
+  <script src="js/main.js?v=2.2.1"></script>
 </body>
 </html>

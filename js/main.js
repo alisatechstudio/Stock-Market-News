@@ -3,12 +3,16 @@
  * Handles UI interactions, live telemetry, filters, modals, watchlist, calculator, and SEO Schema
  */
 
-// Immediate global handler to ensure openArticleModal is always defined immediately
-window.openArticleModal = window.openArticleModal || function(articleId) {
-  if (articleId) {
-    window.location.href = `/article/${encodeURIComponent(articleId)}`;
-  }
-};
+// Immediate global handler to ensure openArticleModal and timestamps are always defined
+var lastHourlySyncTime = Date.now();
+if (typeof window !== 'undefined') {
+  window.lastHourlySyncTime = lastHourlySyncTime;
+  window.openArticleModal = window.openArticleModal || function(articleId) {
+    if (articleId) {
+      window.location.href = `/article/${encodeURIComponent(articleId)}`;
+    }
+  };
+}
 
 document.addEventListener("DOMContentLoaded", () => {
   // Initialize APIs and charting engine defensively
@@ -23,7 +27,8 @@ document.addEventListener("DOMContentLoaded", () => {
   let currentCategory = "all";
   let userWatchlist = JSON.parse(localStorage.getItem("mp_watchlist") || '["NVDA", "AAPL", "BTC-USD"]');
   let currentTheme = localStorage.getItem("mp_theme") || "dark";
-  let lastHourlySyncTime = Date.now();
+  lastHourlySyncTime = Date.now();
+  window.lastHourlySyncTime = lastHourlySyncTime;
 
   // Apply Theme
   applyTheme(currentTheme);
@@ -689,7 +694,7 @@ document.addEventListener("DOMContentLoaded", () => {
   /* ========================================================================
      ARTICLE MODAL & DEEP DIVE READER
      ======================================================================== */
-  window.openArticleModal = async function(articleId) {
+  window.openArticleModalFull = async function(articleId) {
     const modalOverlay = document.getElementById("articleModal");
     const modalContent = document.getElementById("modalArticleContent");
     if (!modalOverlay || !modalContent) return;
@@ -766,6 +771,7 @@ document.addEventListener("DOMContentLoaded", () => {
     modalOverlay.classList.add("active");
     document.body.style.overflow = "hidden";
   };
+  window.openArticleModal = window.openArticleModalFull;
 
   function initArticleModal() {
     const modalOverlay = document.getElementById("articleModal");
