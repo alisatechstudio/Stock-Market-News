@@ -126,6 +126,30 @@ World Stock News features a multi-tiered hourly ingestion and auto-update archit
 
 ---
 
+## ☁️ Vercel & MongoDB Deployment
+
+The application is fully configured for deployment on **Vercel** with **MongoDB Atlas**:
+
+1. **Vercel Serverless Architecture**:
+   - [`vercel.json`](vercel.json): Configures Vercel edge caching headers, clean URLs, and routes dynamic SSR and API requests to [`api/index.js`](api/index.js).
+   - Dedicated Vercel Cron function at [`api/cron.js`](api/cron.js) scheduled to run every hour (`0 * * * *`).
+
+2. **MongoDB Atlas Integration**:
+   - Connect MongoDB via the Vercel Marketplace or add `MONGODB_URI` in **Vercel Project Settings > Environment Variables**.
+   - The application automatically connects via pooled serverless client in [`lib/mongodb.js`](lib/mongodb.js), creates unique indexes on articles, and auto-seeds initial data on first boot.
+   - If `MONGODB_URI` is omitted, the app smoothly falls back to bundled in-memory data with zero downtime.
+
+3. **Deploying to Vercel**:
+   ```bash
+   # Using Vercel CLI
+   vercel
+   
+   # Or push to GitHub repository connected to Vercel
+   git push origin main
+   ```
+
+---
+
 ## ⚡ Local Preview
 
 To launch the project locally:
@@ -133,8 +157,8 @@ To launch the project locally:
 # Start the live financial server with auto-updates:
 npm start
 
-# Or using Node directly:
-node serve.js
+# Run comprehensive test suite:
+npm test
 ```
 Then visit `http://localhost:3000` in your web browser.
 
@@ -142,4 +166,5 @@ Then visit `http://localhost:3000` in your web browser.
 
 ## 📄 License & Regulatory Disclaimer
 World Stock News is designed for educational and informational purposes only. Securities trading carries inherent financial risk. Always consult a certified financial advisor before trading.
+
 

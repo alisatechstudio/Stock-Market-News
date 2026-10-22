@@ -4,7 +4,7 @@
    Optimized for Desktop Financial Terminals & Mobile Native-App Experience
    ========================================================================== */
 
-@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600;700&display=swap');
+/* Fonts loaded via high-priority <link rel="preconnect"> and <link rel="stylesheet"> in document <head> */
 
 :root {
   /* Color Palette - Dark Obsidian Mode (Default) */

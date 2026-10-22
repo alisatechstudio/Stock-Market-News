@@ -37,6 +37,16 @@ const StockChart = (function() {
   let cachedHeight = 0;
 
   let animId = null;
+  let renderPending = false;
+
+  function requestRender() {
+    if (renderPending) return;
+    renderPending = true;
+    requestAnimationFrame(() => {
+      renderPending = false;
+      render();
+    });
+  }
 
   function init(canvasId) {
     canvas = document.getElementById(canvasId);
@@ -45,24 +55,19 @@ const StockChart = (function() {
 
     setupEvents();
     loadTicker(activeTicker, activeTimeframe);
-    startAnimationLoop();
+    requestRender();
     window.addEventListener("resize", handleResize);
   }
 
   function startAnimationLoop() {
-    if (animId) cancelAnimationFrame(animId);
-    function tick() {
-      render();
-      animId = requestAnimationFrame(tick);
-    }
-    animId = requestAnimationFrame(tick);
+    requestRender();
   }
 
   function handleResize() {
     if (!canvas) return;
     cachedWidth = 0;
     cachedHeight = 0;
-    render();
+    requestRender();
   }
 
   function setupEvents() {
@@ -86,12 +91,14 @@ const StockChart = (function() {
       const idx = Math.min(count - 1, Math.max(0, Math.floor(x / slotWidth)));
       hoverIndex = idx;
       updateTooltip(x, y, currentCandles[idx]);
+      requestRender();
     }
 
     function handlePointerLeave() {
       hoverIndex = -1;
       mousePos = { x: -1, y: -1 };
       hideTooltip();
+      requestRender();
     }
 
     // Mouse Events
@@ -168,11 +175,13 @@ const StockChart = (function() {
     } finally {
       isLoading = false;
       updateHeaderStats();
+      requestRender();
     }
   }
 
   function setChartType(type) {
     chartType = type;
+    requestRender();
   }
 
   function setTimeframe(tf) {
@@ -758,6 +767,7 @@ const StockChart = (function() {
     if (tickerData.price < last.low) last.low = tickerData.price;
     
     updateHeaderStats();
+    requestRender();
 
     if (oldPrice !== tickerData.price) {
       const priceEl = document.getElementById("chartPriceDisplay");

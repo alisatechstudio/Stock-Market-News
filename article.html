@@ -6,12 +6,19 @@
   <title>Financial Intelligence Deep Dive | World Stock News</title>
   <meta name="description" content="Read institutional stock market analysis, equity price targets, and macroeconomic reports on World Stock News.">
   <meta name="robots" content="index, follow, max-image-preview:large">
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <link rel="alternate icon" href="/favicon.ico">
   <link rel="canonical" href="https://worldstocknews.online/article.html">
 
-  <link rel="manifest" href="manifest.json">
-  <link rel="alternate" type="application/rss+xml" title="World Stock News RSS Feed" href="feed.xml">
-  <link rel="alternate" type="application/feed+json" title="World Stock News JSON Feed" href="feed.json">
-  <link rel="help" type="text/plain" title="LLM Context Manifest" href="llms.txt">
+  <!-- Preconnect & Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600;700&display=swap">
+
+  <link rel="manifest" href="/manifest.json">
+  <link rel="alternate" type="application/rss+xml" title="World Stock News RSS Feed" href="/feed.xml">
+  <link rel="alternate" type="application/feed+json" title="World Stock News JSON Feed" href="/feed.json">
+  <link rel="help" type="text/plain" title="LLM Context Manifest" href="/llms.txt">
 
   <!-- Google tag (gtag.js) -->
   <!-- Google Consent Mode v2 & GDPR Consent Settings -->
@@ -324,18 +331,25 @@
     </div>
   </nav>
 
-  <script src="js/api.js"></script>
-  <script src="js/articles-data.js"></script>
-  <script src="js/main.js"></script>
+  <script src="/js/api.js"></script>
+  <script src="/js/articles-data.js"></script>
+  <script src="/js/charts.js"></script>
+  <script src="/js/main.js"></script>
   <script>
-    // Standalone Article Loader
+    // Standalone & Hydration Article Loader
     document.addEventListener("DOMContentLoaded", () => {
       const params = new URLSearchParams(window.location.search);
-      const articleId = params.get("id") || ArticlesData[0].id;
-      const article = getArticleById(articleId);
+      const pathParts = window.location.pathname.split("/").filter(Boolean);
+      const urlId = pathParts[0] === "article" && pathParts[1] ? pathParts[1] : null;
+      const articleId = params.get("id") || urlId || (typeof ArticlesData !== 'undefined' ? ArticlesData[0].id : null);
+      const article = typeof getArticleById === 'function' ? getArticleById(articleId) : null;
 
       if (article) {
         document.title = `${article.title} | World Stock News`;
+        
+        // Update Canonical
+        const canLink = document.querySelector('link[rel="canonical"]');
+        if (canLink) canLink.href = `https://worldstocknews.online/article/${encodeURIComponent(article.id)}`;
         
         // Update Meta description
         const metaDesc = document.querySelector('meta[name="description"]');

@@ -11,7 +11,7 @@
     "dev": "node serve.js",
     "update": "node scripts/hourly-update.js",
     "update:daemon": "node scripts/hourly-update.js --daemon",
-    "test": "node -e \"console.log('Testing package build: OK'); process.exit(0);\""
+    "test": "node scripts/verify-node-server.js"
   },
   "repository": {
     "type": "git",
@@ -36,5 +36,10 @@
   "bugs": {
     "url": "https://github.com/alisatechstudio/Stock-Market-News/issues"
   },
-  "homepage": "https://github.com/alisatechstudio/Stock-Market-News#readme"
+  "homepage": "https://github.com/alisatechstudio/Stock-Market-News#readme",
+  "dependencies": {
+    "compression": "^1.8.2",
+    "express": "^5.3.0",
+    "mongodb": "^7.7.0"
+  }
 }

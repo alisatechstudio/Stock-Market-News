@@ -76,6 +76,8 @@ const MarketAPI = (function() {
           });
           return json.quotes;
         }
+      } else {
+        await fetchDirectPublicApis();
       }
     } catch (e) {
       // In standalone client context, fallback to direct open APIs

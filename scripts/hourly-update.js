@@ -307,10 +307,10 @@ function generateSitemapXml(articles, currentIsoTime) {
   for (const cat of categories) {
     xml += `
   <url>
-    <loc>https://worldstocknews.online/?category=${cat}</loc>
+    <loc>https://worldstocknews.online/category/${cat}</loc>
     <lastmod>${currentIsoTime}</lastmod>
     <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
+    <priority>0.8</priority>
   </url>`;
   }
 
@@ -320,10 +320,10 @@ function generateSitemapXml(articles, currentIsoTime) {
     const safeTitle = escapeXml(a.title || '');
     xml += `
   <url>
-    <loc>https://worldstocknews.online/article.html?id=${encodeURIComponent(a.id)}</loc>
+    <loc>https://worldstocknews.online/article/${encodeURIComponent(a.id)}</loc>
     <lastmod>${pubDate}</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
     <news:news>
       <news:publication>
         <news:name>World Stock News Financial Wire</news:name>
@@ -337,23 +337,22 @@ function generateSitemapXml(articles, currentIsoTime) {
 
   // Static ancillary pages & feeds
   const staticPages = [
-    'llms.txt',
-    'feed.json',
-    'feed.xml',
-    'about.html',
-    'contact.html',
-    'privacy-policy.html',
-    'terms.html',
-    'ads.txt'
+    { path: 'about', changefreq: 'monthly', priority: '0.7' },
+    { path: 'contact', changefreq: 'monthly', priority: '0.7' },
+    { path: 'privacy-policy', changefreq: 'monthly', priority: '0.5' },
+    { path: 'terms', changefreq: 'monthly', priority: '0.5' },
+    { path: 'feed.xml', changefreq: 'hourly', priority: '0.8' },
+    { path: 'feed.json', changefreq: 'hourly', priority: '0.8' },
+    { path: 'llms.txt', changefreq: 'weekly', priority: '0.6' }
   ];
 
   for (const page of staticPages) {
     xml += `
   <url>
-    <loc>https://worldstocknews.online/${page}</loc>
+    <loc>https://worldstocknews.online/${page.path}</loc>
     <lastmod>${currentIsoTime}</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
+    <changefreq>${page.changefreq}</changefreq>
+    <priority>${page.priority}</priority>
   </url>`;
   }
 
@@ -385,8 +384,8 @@ function generateFeedXml(articles, currentRfcDate) {
     xml += `
     <item>
       <title>${safeTitle}</title>
-      <link>https://worldstocknews.online/article.html?id=${encodeURIComponent(a.id)}</link>
-      <guid isPermaLink="true">https://worldstocknews.online/article.html?id=${encodeURIComponent(a.id)}</guid>
+      <link>https://worldstocknews.online/article/${encodeURIComponent(a.id)}</link>
+      <guid isPermaLink="true">https://worldstocknews.online/article/${encodeURIComponent(a.id)}</guid>
       <pubDate>${pubDateRfc}</pubDate>
       <dc:creator>${safeAuthor}</dc:creator>
       <description>${safeDesc}</description>
@@ -402,8 +401,8 @@ function generateFeedXml(articles, currentRfcDate) {
 function generateFeedJson(articles, currentIsoTime) {
   const topArticles = articles.slice(0, 20);
   const items = topArticles.map(a => ({
-    id: `https://worldstocknews.online/article.html?id=${encodeURIComponent(a.id)}`,
-    url: `https://worldstocknews.online/article.html?id=${encodeURIComponent(a.id)}`,
+    id: `https://worldstocknews.online/article/${encodeURIComponent(a.id)}`,
+    url: `https://worldstocknews.online/article/${encodeURIComponent(a.id)}`,
     title: a.title,
     content_text: a.excerpt,
     summary: a.excerpt,
@@ -450,9 +449,13 @@ function updateStaticIndexHtml(topArticle, currentIsoTime) {
     html = html.replace(/<time datetime="[^"]*" id="heroStoryTime">[^<]*<\/time>/,
       `<time datetime="${pubDate.toISOString()}" id="heroStoryTime">${dateFormatted}</time>`);
 
+    // Update hero onclick
+    html = html.replace(/<article class="featured-story" id="heroFeaturedStory" onclick="openArticleModal\('[^']*'\)">/,
+      `<article class="featured-story" id="heroFeaturedStory" onclick="openArticleModal('${topArticle.id}')">`);
+
     // Update story link
     html = html.replace(/<a id="heroStoryLink" href="[^"]*">[\s\S]*?<\/a>/,
-      `<a id="heroStoryLink" href="article.html?id=${encodeURIComponent(topArticle.id)}">\n                  ${topArticle.title}\n                </a>`);
+      `<a id="heroStoryLink" href="/article/${encodeURIComponent(topArticle.id)}">\n                  ${topArticle.title}\n                </a>`);
 
     // Update story excerpt
     html = html.replace(/<p class="story-excerpt" id="heroStoryExcerpt">[\s\S]*?<\/p>/,
@@ -460,7 +463,7 @@ function updateStaticIndexHtml(topArticle, currentIsoTime) {
 
     // Update breaking headline link
     html = html.replace(/<a id="breakingHeadlineLink" href="[^"]*">[\s\S]*?<\/a>/,
-      `<a id="breakingHeadlineLink" href="article.html?id=${encodeURIComponent(topArticle.id)}">\n          ${topArticle.title}\n        </a>`);
+      `<a id="breakingHeadlineLink" href="/article/${encodeURIComponent(topArticle.id)}">\n          ${topArticle.title}\n        </a>`);
 
     // Update target price
     if (topArticle.targetPrice) {
@@ -578,27 +581,38 @@ async function runUpdate() {
     return a;
   });
 
-  // 3. Write updated js/articles-data.js
-  fs.writeFileSync(ARTICLES_DATA_PATH, generateArticlesDataJs(existingArticles), 'utf8');
-  console.log(`[Hourly Update] Updated ${ARTICLES_DATA_PATH}`);
+  // 3. Persist to MongoDB Atlas if connected
+  try {
+    const mongodb = require('../lib/mongodb.js');
+    if (mongodb.isMongoConfigured()) {
+      await mongodb.upsertArticles(existingArticles);
+      console.log(`[Hourly Update] Persisted ${existingArticles.length} articles to MongoDB Atlas.`);
+    }
+  } catch (dbErr) {
+    console.warn(`[Hourly Update] MongoDB persist notice:`, dbErr.message);
+  }
 
-  // 4. Write updated sitemap.xml
-  const sitemapXml = generateSitemapXml(existingArticles, currentIsoTime);
-  fs.writeFileSync(SITEMAP_PATH, sitemapXml, 'utf8');
-  console.log(`[Hourly Update] Updated ${SITEMAP_PATH} (all entries updated to ${currentIsoTime})`);
+  // 4. Write updated static files (if filesystem is writable)
+  try {
+    fs.writeFileSync(ARTICLES_DATA_PATH, generateArticlesDataJs(existingArticles), 'utf8');
+    console.log(`[Hourly Update] Updated ${ARTICLES_DATA_PATH}`);
 
-  // 5. Write updated feed.xml
-  const feedXml = generateFeedXml(existingArticles, currentRfcDate);
-  fs.writeFileSync(FEED_XML_PATH, feedXml, 'utf8');
-  console.log(`[Hourly Update] Updated ${FEED_XML_PATH} (lastBuildDate: ${currentRfcDate})`);
+    const sitemapXml = generateSitemapXml(existingArticles, currentIsoTime);
+    fs.writeFileSync(SITEMAP_PATH, sitemapXml, 'utf8');
+    console.log(`[Hourly Update] Updated ${SITEMAP_PATH} (all entries updated to ${currentIsoTime})`);
 
-  // 6. Write updated feed.json
-  const feedJson = generateFeedJson(existingArticles, currentIsoTime);
-  fs.writeFileSync(FEED_JSON_PATH, feedJson, 'utf8');
-  console.log(`[Hourly Update] Updated ${FEED_JSON_PATH}`);
+    const feedXml = generateFeedXml(existingArticles, currentRfcDate);
+    fs.writeFileSync(FEED_XML_PATH, feedXml, 'utf8');
+    console.log(`[Hourly Update] Updated ${FEED_XML_PATH} (lastBuildDate: ${currentRfcDate})`);
 
-  // 7. Update static hero markup in index.html
-  updateStaticIndexHtml(existingArticles[0], currentIsoTime);
+    const feedJson = generateFeedJson(existingArticles, currentIsoTime);
+    fs.writeFileSync(FEED_JSON_PATH, feedJson, 'utf8');
+    console.log(`[Hourly Update] Updated ${FEED_JSON_PATH}`);
+
+    updateStaticIndexHtml(existingArticles[0], currentIsoTime);
+  } catch (fsErr) {
+    console.warn(`[Hourly Update] Notice: static file writes skipped (serverless environment):`, fsErr.message);
+  }
 
   console.log(`[Hourly Update] Complete! Next scheduled cycle in 60 minutes.`);
   return {

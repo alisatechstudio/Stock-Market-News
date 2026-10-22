@@ -4,9 +4,13 @@
  */
 
 document.addEventListener("DOMContentLoaded", () => {
-  // Initialize APIs and charting engine
-  MarketAPI.init();
-  StockChart.init("mainStockCanvas");
+  // Initialize APIs and charting engine defensively
+  if (typeof MarketAPI !== 'undefined' && typeof MarketAPI.init === 'function') {
+    MarketAPI.init();
+  }
+  if (typeof StockChart !== 'undefined' && typeof StockChart.init === 'function' && document.getElementById("mainStockCanvas")) {
+    StockChart.init("mainStockCanvas");
+  }
 
   // App State
   let currentCategory = "all";
@@ -16,13 +20,14 @@ document.addEventListener("DOMContentLoaded", () => {
   // Apply Theme
   applyTheme(currentTheme);
 
-  // Initialize UI Components
+  // Initialize UI Components defensively
   initTickerRibbon();
   initTelemetryCards();
   initFearGreedWidget();
   initMoversWidget();
   initCategoryTabs();
   renderArticlesList();
+  syncArticlesFromApi();
   initSearch();
   initCalculator();
   initFaqAccordions();
@@ -30,17 +35,21 @@ document.addEventListener("DOMContentLoaded", () => {
   initArticleModal();
   initChartControls();
   injectDynamicSeoSchema();
-  initCookieConsent();
+  // Cookie consent is handled by js/gdpr-consent.js
   initMobileMenu();
   initBreakingNewsWire();
   startClientHourlyAutoUpdate();
 
   // Listen to live price updates from MarketAPI
-  MarketAPI.subscribe((key, data) => {
-    updateTickerElement(key, data);
-    initMoversWidget();
-    StockChart.onPriceTick(key, data);
-  });
+  if (typeof MarketAPI !== 'undefined' && typeof MarketAPI.subscribe === 'function') {
+    MarketAPI.subscribe((key, data) => {
+      updateTickerElement(key, data);
+      initMoversWidget();
+      if (typeof StockChart !== 'undefined' && typeof StockChart.onPriceTick === 'function') {
+        StockChart.onPriceTick(key, data);
+      }
+    });
+  }
 
   let lastHourlySyncTime = Date.now();
 
@@ -123,11 +132,15 @@ document.addEventListener("DOMContentLoaded", () => {
         ? `<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>`
         : `<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>`;
     }
-    // Re-render chart for proper colors
+    // Re-render chart for proper colors defensively
     setTimeout(() => {
-      StockChart.render();
-      const fg = MarketAPI.getFearGreedIndex();
-      StockChart.drawFearGreedGauge("fearGreedCanvas", fg.score);
+      if (typeof StockChart !== 'undefined' && typeof StockChart.render === 'function' && document.getElementById("mainStockCanvas")) {
+        StockChart.render();
+      }
+      if (typeof MarketAPI !== 'undefined' && typeof StockChart !== 'undefined' && document.getElementById("fearGreedCanvas")) {
+        const fg = MarketAPI.getFearGreedIndex();
+        if (fg) StockChart.drawFearGreedGauge("fearGreedCanvas", fg.score);
+      }
     }, 100);
   }
 
@@ -145,9 +158,9 @@ document.addEventListener("DOMContentLoaded", () => {
      ======================================================================== */
   function initTickerRibbon() {
     const track = document.getElementById("tickerTrack");
-    if (!track) return;
+    if (!track || typeof MarketAPI === 'undefined') return;
 
-    const tickers = MarketAPI.getAllTickers();
+    const tickers = MarketAPI.getAllTickers ? MarketAPI.getAllTickers() : {};
     let html = "";
     // Duplicate twice for seamless infinite CSS animation
     for (let rep = 0; rep < 2; rep++) {
@@ -197,7 +210,7 @@ document.addEventListener("DOMContentLoaded", () => {
      ======================================================================== */
   function initTelemetryCards() {
     const grid = document.getElementById("telemetryGrid");
-    if (!grid) return;
+    if (!grid || typeof MarketAPI === 'undefined') return;
 
     const featuredKeys = ["^GSPC", "^NDX", "NVDA", "BTC-USD", "GC=F", "^TNX"];
     let html = "";
@@ -251,6 +264,7 @@ document.addEventListener("DOMContentLoaded", () => {
      FEAR & GREED INDEX WIDGET
      ======================================================================== */
   async function initFearGreedWidget() {
+    if (typeof MarketAPI === 'undefined' || typeof StockChart === 'undefined' || !document.getElementById("fearGreedCanvas")) return;
     const fg = await MarketAPI.fetchFearGreedIndex();
     const scoreEl = document.getElementById("fearGreedScore");
     const labelEl = document.getElementById("fearGreedLabel");
@@ -278,7 +292,7 @@ document.addEventListener("DOMContentLoaded", () => {
      ======================================================================== */
   function initMoversWidget() {
     const container = document.getElementById("moversList");
-    if (!container) return;
+    if (!container || typeof MarketAPI === 'undefined') return;
 
     const all = MarketAPI.getAllTickers();
     // Dynamically rank instruments by actual percentage change magnitude
@@ -309,6 +323,7 @@ document.addEventListener("DOMContentLoaded", () => {
      CHART CONTROLS
      ======================================================================== */
   function initChartControls() {
+    if (typeof StockChart === 'undefined') return;
     // 1. Timeframe filter buttons
     const tfButtons = document.querySelectorAll("[data-timeframe]");
     tfButtons.forEach(btn => {
@@ -564,6 +579,21 @@ document.addEventListener("DOMContentLoaded", () => {
         </article>
       `;
     }).join('');
+  }
+
+  async function syncArticlesFromApi() {
+    try {
+      const res = await fetch('/api/articles?limit=35');
+      if (res.ok) {
+        const data = await res.json();
+        if (data.success && Array.isArray(data.articles) && data.articles.length > 0) {
+          window.ArticlesData = data.articles;
+          renderArticlesList();
+        }
+      }
+    } catch (e) {
+      // Graceful fallback to bundled ArticlesData
+    }
   }
 
   /* ========================================================================
@@ -846,6 +876,7 @@ document.addEventListener("DOMContentLoaded", () => {
      DYNAMIC SEO JSON-LD INJECTION
      ======================================================================== */
   function injectDynamicSeoSchema() {
+    if (typeof ArticlesData === 'undefined' || !Array.isArray(ArticlesData) || ArticlesData.length === 0) return;
     const script = document.createElement("script");
     script.type = "application/ld+json";
     
@@ -859,11 +890,11 @@ document.addEventListener("DOMContentLoaded", () => {
           "url": "https://worldstocknews.online/",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://worldstocknews.online/assets/logo.png",
-            "width": 600,
-            "height": 60
+            "url": "https://worldstocknews.online/assets/logo.svg",
+            "width": 400,
+            "height": 80
           },
-          "publishingPrinciples": "https://worldstocknews.online/editorial-guidelines",
+          "publishingPrinciples": "https://worldstocknews.online/about",
           "sameAs": [
             "https://twitter.com/worldstocknews",
             "https://linkedin.com/company/world-stock-news"
@@ -883,10 +914,10 @@ document.addEventListener("DOMContentLoaded", () => {
         },
         {
           "@type": "ItemList",
-          "itemListElement": ArticlesData.map((a, idx) => ({
+          "itemListElement": ArticlesData.slice(0, 15).map((a, idx) => ({
             "@type": "ListItem",
             "position": idx + 1,
-            "url": `https://worldstocknews.online/article.html?id=${a.id}`,
+            "url": `https://worldstocknews.online/article/${encodeURIComponent(a.id)}`,
             "name": a.title
           }))
         }
@@ -898,37 +929,10 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   /* ========================================================================
-     COOKIE CONSENT BANNER (GDPR / CCPA / GOOGLE EU USER CONSENT)
+     COOKIE CONSENT & PRIVACY MANAGEMENT
      ======================================================================== */
   function initCookieConsent() {
-    if (localStorage.getItem("mp_cookie_consent")) return;
-
-    const banner = document.createElement("div");
-    banner.className = "cookie-consent-banner";
-    banner.id = "cookieConsentBanner";
-    banner.innerHTML = `
-      <div class="cookie-content">
-        <strong>Privacy &amp; Advertising Notice:</strong> We and our third-party advertising partners (including Google AdSense) use cookies and web beacons to personalize financial content, display relevant ads, and analyze traffic. Review our <a href="privacy-policy.html">Privacy Policy</a> to learn how your data is handled.
-      </div>
-      <div class="cookie-actions">
-        <button class="btn-outline" style="padding:6px 14px; font-size:0.8rem;" id="cookieRejectBtn">Essential Only</button>
-        <button class="btn-primary" style="padding:6px 16px; font-size:0.8rem;" id="cookieAcceptBtn">Accept All</button>
-      </div>
-    `;
-
-    document.body.appendChild(banner);
-
-    document.getElementById("cookieAcceptBtn").addEventListener("click", () => {
-      localStorage.setItem("mp_cookie_consent", "all");
-      banner.remove();
-      showToast("Cookie preferences saved.");
-    });
-
-    document.getElementById("cookieRejectBtn").addEventListener("click", () => {
-      localStorage.setItem("mp_cookie_consent", "essential");
-      banner.remove();
-      showToast("Only essential cookies enabled.");
-    });
+    // Cookie consent & Google Consent Mode v2 handled globally by js/gdpr-consent.js
   }
 
   /* ========================================================================
