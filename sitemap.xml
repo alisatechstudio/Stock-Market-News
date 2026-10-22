@@ -4,39 +4,123 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-10-22T20:52:52.089Z</lastmod>
+    <lastmod>2026-10-22T23:42:09.174Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/us-markets</loc>
-    <lastmod>2026-10-22T20:52:52.089Z</lastmod>
+    <lastmod>2026-10-22T23:42:09.174Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/tech-ai</loc>
-    <lastmod>2026-10-22T20:52:52.089Z</lastmod>
+    <lastmod>2026-10-22T23:42:09.174Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/macro-economy</loc>
-    <lastmod>2026-10-22T20:52:52.089Z</lastmod>
+    <lastmod>2026-10-22T23:42:09.174Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/crypto</loc>
-    <lastmod>2026-10-22T20:52:52.089Z</lastmod>
+    <lastmod>2026-10-22T23:42:09.174Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/earnings</loc>
-    <lastmod>2026-10-22T20:52:52.089Z</lastmod>
+    <lastmod>2026-10-22T23:42:09.174Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/i-dont-feel-sorry-for-myself-im-64-and-will-be-renting-for-t-r4p3</loc>
+    <lastmod>2026-10-22T23:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T23:00:00.000Z</news:publication_date>
+      <news:title>‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/coreweave-set-off-a-wave-of-anxiety-but-wall-streets-dire-pr-r4p3</loc>
+    <lastmod>2026-10-22T22:54:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T22:54:00.000Z</news:publication_date>
+      <news:title>CoreWeave set off a wave of anxiety — but Wall Street’s dire prognosis is premature</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/the-us-stock-market-is-fracturing-into-two-camps-and-its-lea-r4p3</loc>
+    <lastmod>2026-10-22T22:17:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T22:17:00.000Z</news:publication_date>
+      <news:title>The U.S. stock market is fracturing into two camps, and it’s leaving investors with a brutal case of whiplash</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/treasury-yields-log-biggest-drop-since-the-2023-banking-cris-r4p3</loc>
+    <lastmod>2026-10-22T22:07:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T22:07:00.000Z</news:publication_date>
+      <news:title>Treasury yields log biggest drop since the 2023 banking crisis. Here’s what’s going on.</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/americans-are-having-fewer-babies-and-pampering-them-with-lu-r4p3</loc>
+    <lastmod>2026-10-22T21:28:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T21:28:00.000Z</news:publication_date>
+      <news:title>Americans are having fewer babies — and pampering them with luxury diapers</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/anthropic-is-ai-trades-last-big-hope-for-a-major-ipo-this-ye-r4p3</loc>
+    <lastmod>2026-10-22T17:42:09.174Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T17:42:09.174Z</news:publication_date>
+      <news:title>Anthropic is AI trade&apos;s last big hope for a major IPO this year</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/oil-prices-approach-iran-war-highs-as-soaring-tanker-rates-t-pfjz</loc>
@@ -445,128 +529,44 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article/credit-markets-have-entered-uncharted-territory-as-the-riski-13qb</loc>
-    <lastmod>2026-10-21T13:38:20.874Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T13:38:20.874Z</news:publication_date>
-      <news:title>Credit markets have entered uncharted territory as the riskiest junk bonds send a warning to investors</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/i-dont-feel-sorry-for-myself-im-64-and-will-be-renting-for-t-13qb</loc>
-    <lastmod>2026-10-21T12:38:20.874Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T12:38:20.874Z</news:publication_date>
-      <news:title>‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life — but here’s I’m still hopeful</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me--13qb</loc>
-    <lastmod>2026-10-21T11:38:20.874Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T11:38:20.874Z</news:publication_date>
-      <news:title>‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/retiring-abroad-dont-cut-these-financial-ties-to-the-us-3w4r</loc>
-    <lastmod>2026-10-21T10:38:20.874Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T10:38:20.874Z</news:publication_date>
-      <news:title>Retiring abroad? Don’t cut these financial ties to the U.S.</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/colleges-raced-to-build-massive-computer-science-departments-3w4r</loc>
-    <lastmod>2026-10-21T09:38:20.874Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T09:38:20.874Z</news:publication_date>
-      <news:title>Colleges raced to build massive computer-science departments. Now the boom is turning to bust.</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/spacex-earnings-will-be-all-about-ai-for-better-or-for-worse-3w4r</loc>
-    <lastmod>2026-10-21T08:38:20.874Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T08:38:20.874Z</news:publication_date>
-      <news:title>SpaceX earnings will be all about AI — for better or for worse</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/about</loc>
-    <lastmod>2026-10-22T20:52:52.089Z</lastmod>
+    <lastmod>2026-10-22T23:42:09.174Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact</loc>
-    <lastmod>2026-10-22T20:52:52.089Z</lastmod>
+    <lastmod>2026-10-22T23:42:09.174Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy</loc>
-    <lastmod>2026-10-22T20:52:52.089Z</lastmod>
+    <lastmod>2026-10-22T23:42:09.174Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms</loc>
-    <lastmod>2026-10-22T20:52:52.089Z</lastmod>
+    <lastmod>2026-10-22T23:42:09.174Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-10-22T20:52:52.089Z</lastmod>
+    <lastmod>2026-10-22T23:42:09.174Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-10-22T20:52:52.089Z</lastmod>
+    <lastmod>2026-10-22T23:42:09.174Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-10-22T20:52:52.089Z</lastmod>
+    <lastmod>2026-10-22T23:42:09.174Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
