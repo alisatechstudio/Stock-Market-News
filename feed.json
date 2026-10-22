@@ -13,6 +13,112 @@
   ],
   "items": [
     {
+      "id": "https://worldstocknews.online/article/moderna-is-about-to-release-the-trial-results-for-its-cancer-upcu",
+      "url": "https://worldstocknews.online/article/moderna-is-about-to-release-the-trial-results-for-its-cancer-upcu",
+      "title": "Moderna is about to release the trial results for its cancer vaccine. A lot is riding on this data.",
+      "content_text": "Moderna is one of the hottest stocks of the year because of its custom cancer treatment. Full Phase 3 data are set to be revealed this weekend.",
+      "summary": "Moderna is one of the hottest stocks of the year because of its custom cancer treatment. Full Phase 3 data are set to be revealed this weekend.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-22T12:22:00.000Z",
+      "tags": [
+        "US Markets",
+        "^GSPC",
+        "SPY"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article/ibms-stock-falls-as-investors-struggle-to-shake-off-july-ear-upcu",
+      "url": "https://worldstocknews.online/article/ibms-stock-falls-as-investors-struggle-to-shake-off-july-ear-upcu",
+      "title": "IBM’s stock falls as investors struggle to shake off July earnings miss",
+      "content_text": "Shares in International Business Machines declined 5% in Thursday’s premarket trading as investors digested the company’s third-quarter results.",
+      "summary": "Shares in International Business Machines declined 5% in Thursday’s premarket trading as investors digested the company’s third-quarter results.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-22T12:04:00.000Z",
+      "tags": [
+        "Earnings",
+        "^DJI",
+        "AMZN",
+        "TSLA"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article/why-this-jpmorgan-strategist-thinks-the-stock-markets-tailsp-upcu",
+      "url": "https://worldstocknews.online/article/why-this-jpmorgan-strategist-thinks-the-stock-markets-tailsp-upcu",
+      "title": "Why this JPMorgan strategist thinks the stock market’s tailspin might have run its course",
+      "content_text": "Hedge fund positioning has lightened considerably since its recent September peak, and JPMorgan strategists deduce from this that downside for stocks is now limited.",
+      "summary": "Hedge fund positioning has lightened considerably since its recent September peak, and JPMorgan strategists deduce from this that downside for stocks is now limited.",
+      "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-22T11:57:00.000Z",
+      "tags": [
+        "Tech & AI",
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "QQQ"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article/mideast-oil-exports-are-recovering-fresh-attacks-in-saudi-ar-upcu",
+      "url": "https://worldstocknews.online/article/mideast-oil-exports-are-recovering-fresh-attacks-in-saudi-ar-upcu",
+      "title": "Mideast oil exports are recovering. Fresh attacks in Saudi Arabia show risks remain.",
+      "content_text": "More oil is flowing out of the Persian Gulf again, with exports approaching prewar levels. So why are prices so stubbornly high?",
+      "summary": "More oil is flowing out of the Persian Gulf again, with exports approaching prewar levels. So why are prices so stubbornly high?",
+      "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-22T11:35:00.000Z",
+      "tags": [
+        "Tech & AI",
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "QQQ"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article/meta-teases-an-opportunity-even-bigger-than-advertising-but--upcu",
+      "url": "https://worldstocknews.online/article/meta-teases-an-opportunity-even-bigger-than-advertising-but--upcu",
+      "title": "Meta teases an opportunity even bigger than advertising — but its stock is falling",
+      "content_text": "Meta’s core advertising business delivered a strong quarter, but investors are now eyeing promising new businesses around the Muse personal assistant.",
+      "summary": "Meta’s core advertising business delivered a strong quarter, but investors are now eyeing promising new businesses around the Muse personal assistant.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-22T09:55:00.000Z",
+      "tags": [
+        "Earnings",
+        "^DJI",
+        "AMZN",
+        "TSLA"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
       "id": "https://worldstocknews.online/article/top-hsbc-strategist-has-a-warning-for-retail-investors-chasi-kn4d",
       "url": "https://worldstocknews.online/article/top-hsbc-strategist-has-a-warning-for-retail-investors-chasi-kn4d",
       "title": "Top HSBC strategist has a warning for retail investors chasing the AI rally",
@@ -212,7 +318,7 @@
       "content_text": "Data center campuses house the servers that power AI and cloud computing.",
       "summary": "Data center campuses house the servers that power AI and cloud computing.",
       "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-20T10:39:17.000Z",
+      "date_published": "2026-10-21T21:33:05.020Z",
       "tags": [
         "Tech & AI",
         "NVDA",
@@ -319,108 +425,6 @@
       "summary": "Research has found that it can take more than six months for professional athletes to return to play after being treated for a deep-vein thrombosis or pulmonary embolism.",
       "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
       "date_published": "2026-10-21T15:38:20.874Z",
-      "tags": [
-        "US Markets",
-        "^GSPC",
-        "SPY"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/when-should-you-dump-your-target-date-funds-13qb",
-      "url": "https://worldstocknews.online/article/when-should-you-dump-your-target-date-funds-13qb",
-      "title": "When should you dump your target-date funds?",
-      "content_text": "Target-date funds aren’t necessarily built to handle many of the decisions retirees face.",
-      "summary": "Target-date funds aren’t necessarily built to handle many of the decisions retirees face.",
-      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-21T14:38:20.874Z",
-      "tags": [
-        "US Markets",
-        "^GSPC",
-        "SPY"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/credit-markets-have-entered-uncharted-territory-as-the-riski-13qb",
-      "url": "https://worldstocknews.online/article/credit-markets-have-entered-uncharted-territory-as-the-riski-13qb",
-      "title": "Credit markets have entered uncharted territory as the riskiest junk bonds send a warning to investors",
-      "content_text": "Credit markets are sending unusually mixed messages to investors right now, and it’s making some people nervous.",
-      "summary": "Credit markets are sending unusually mixed messages to investors right now, and it’s making some people nervous.",
-      "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-21T13:38:20.874Z",
-      "tags": [
-        "US Markets",
-        "^GSPC",
-        "SPY"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/i-dont-feel-sorry-for-myself-im-64-and-will-be-renting-for-t-13qb",
-      "url": "https://worldstocknews.online/article/i-dont-feel-sorry-for-myself-im-64-and-will-be-renting-for-t-13qb",
-      "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life — but here’s I’m still hopeful",
-      "content_text": "“Ill-timed circumstances can change our financial future in unexpected ways.”",
-      "summary": "“Ill-timed circumstances can change our financial future in unexpected ways.”",
-      "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-21T12:38:20.874Z",
-      "tags": [
-        "US Markets",
-        "^GSPC",
-        "SPY"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me--13qb",
-      "url": "https://worldstocknews.online/article/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me--13qb",
-      "title": "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
-      "content_text": "“They insist that the details will be provided after they have carried out a soft credit check.”",
-      "summary": "“They insist that the details will be provided after they have carried out a soft credit check.”",
-      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-21T11:38:20.874Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/retiring-abroad-dont-cut-these-financial-ties-to-the-us-3w4r",
-      "url": "https://worldstocknews.online/article/retiring-abroad-dont-cut-these-financial-ties-to-the-us-3w4r",
-      "title": "Retiring abroad? Don’t cut these financial ties to the U.S.",
-      "content_text": "Think carefully about your Social Security, Medicare, credit cards and bank accounts before picking your new home overseas.",
-      "summary": "Think carefully about your Social Security, Medicare, credit cards and bank accounts before picking your new home overseas.",
-      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-21T10:38:20.874Z",
       "tags": [
         "US Markets",
         "^GSPC",
