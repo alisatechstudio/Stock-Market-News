@@ -619,11 +619,14 @@ document.addEventListener("DOMContentLoaded", () => {
       const isBull = a.sentiment === "Bullish";
       const isBear = a.sentiment === "Bearish";
       const sentClass = isBull ? "pos" : (isBear ? "neg" : "neutral");
+      const articleUrl = `/article/${encodeURIComponent(a.id)}`;
 
       return `
-        <article class="article-card" onclick="openArticleModal('${a.id}')">
+        <article class="article-card" onclick="if(!event.target.closest('a') && !event.target.closest('button')) window.location.href='${articleUrl}'">
           <div class="card-media">
-            <img class="card-img" src="${a.image}" alt="${a.title}" loading="lazy" width="600" height="340">
+            <a href="${articleUrl}" aria-label="${a.title}">
+              <img class="card-img" src="${a.image}" alt="${a.title}" loading="lazy" width="600" height="340">
+            </a>
             <div class="story-floating-badges">
               <span class="category-pill">${a.category}</span>
               <span class="sentiment-pill ${sentClass}">${a.sentiment} ${a.sentimentScore}</span>
@@ -635,14 +638,25 @@ document.addEventListener("DOMContentLoaded", () => {
               <span>•</span>
               <span>${a.readTime}</span>
             </div>
-            <h3 class="card-title">${a.title}</h3>
+            <h3 class="card-title">
+              <a href="${articleUrl}" class="card-title-link" style="color:inherit; text-decoration:none;">
+                ${a.title}
+              </a>
+            </h3>
             <p class="card-summary">${a.excerpt}</p>
             <div class="card-tickers">
               ${a.tickers.map(t => `<span class="ticker-tag">${t}</span>`).join('')}
             </div>
-            <div class="card-footer">
-              <span>By ${a.author.name}</span>
-              <span class="read-btn">Read Deep Dive →</span>
+            <div class="card-footer" style="display:flex; justify-content:space-between; align-items:center; gap:8px;">
+              <span>By ${a.author ? a.author.name : 'World Stock News'}</span>
+              <div style="display:flex; gap:6px; align-items:center;">
+                <button type="button" class="btn-outline" onclick="event.stopPropagation(); openArticleModal('${a.id}')" style="padding:4px 10px; font-size:0.8rem;" title="Quick preview modal">
+                  ⚡ Preview
+                </button>
+                <a href="${articleUrl}" class="read-btn" style="text-decoration:none;">
+                  Read Deep Dive →
+                </a>
+              </div>
             </div>
           </div>
         </article>
@@ -668,13 +682,29 @@ document.addEventListener("DOMContentLoaded", () => {
   /* ========================================================================
      ARTICLE MODAL & DEEP DIVE READER
      ======================================================================== */
-  window.openArticleModal = function(articleId) {
+  window.openArticleModal = async function(articleId) {
     const modalOverlay = document.getElementById("articleModal");
     const modalContent = document.getElementById("modalArticleContent");
-    const article = typeof getArticleById === 'function'
-      ? getArticleById(articleId)
-      : (typeof ArticlesData !== 'undefined' && Array.isArray(ArticlesData) ? ArticlesData.find(a => a.id === articleId) : null);
-    if (!article || !modalOverlay || !modalContent) return;
+    if (!modalOverlay || !modalContent) return;
+
+    let article = typeof getArticleById === 'function' ? getArticleById(articleId) : null;
+    if (!article || (articleId && article.id !== articleId)) {
+      try {
+        const res = await fetch(`/api/articles?id=${encodeURIComponent(articleId)}`);
+        if (res.ok) {
+          const json = await res.json();
+          if (json.success && json.article) article = json.article;
+        }
+      } catch (e) {}
+    }
+    if (!article) {
+      article = (typeof ArticlesData !== 'undefined' && ArticlesData.find(a => a.id === articleId)) || (ArticlesData && ArticlesData[0]);
+    }
+    if (!article) return;
+
+    const sourceUrl = article.sourceUrl || article.link;
+    const sourceName = article.source || 'Financial Wire';
+    const fullArticleUrl = `/article/${encodeURIComponent(article.id)}`;
 
     modalContent.innerHTML = `
       <div class="story-media-wrap" style="height:280px; border-radius:var(--radius-md) var(--radius-md) 0 0;">
@@ -694,19 +724,29 @@ document.addEventListener("DOMContentLoaded", () => {
           <span>•</span>
           <span style="color:var(--bullish); font-weight:700;">Wall St Consensus: ${article.analystConsensus} (${article.targetPrice})</span>
         </div>
-        <h1 class="story-title" style="font-size:2rem;">${article.title}</h1>
+        <h1 class="story-title" style="font-size:1.85rem; line-height:1.25; margin:0.75rem 0;">${article.title}</h1>
+
+        ${sourceUrl && (sourceUrl.startsWith('http://') || sourceUrl.startsWith('https://')) ? `
+        <div style="margin: 1rem 0; padding: 0.85rem 1rem; background: var(--bg-surface); border: 1px solid var(--border-medium); border-left: 3px solid var(--accent-blue); border-radius: var(--radius-sm); display:flex; justify-content:space-between; align-items:center; gap:10px; flex-wrap:wrap;">
+          <div style="font-size:0.85rem; color:var(--text-secondary);">
+            📡 <strong>Primary Wire:</strong> Reported by ${sourceName}
+          </div>
+          <a href="${sourceUrl}" target="_blank" rel="noopener noreferrer" class="btn-primary" style="padding:5px 12px; font-size:0.82rem; text-decoration:none; font-weight:700;">
+            Read Full Wire on ${sourceName} ↗
+          </a>
+        </div>` : ''}
         
-        <div class="story-footer" style="margin: 1.5rem 0; padding: 1rem 0;">
+        <div class="story-footer" style="margin: 1.25rem 0; padding: 0.75rem 0; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:12px;">
           <div class="author-chip">
-            <img class="author-avatar" src="${article.author.avatar}" alt="${article.author.name}">
+            <img class="author-avatar" src="${article.author ? article.author.avatar : ''}" alt="${article.author ? article.author.name : ''}">
             <div class="author-info">
-              <span class="author-name">${article.author.name}</span>
-              <span class="author-title">${article.author.title}</span>
+              <span class="author-name">${article.author ? article.author.name : 'World Stock News'}</span>
+              <span class="author-title">${article.author ? article.author.title : 'Market Strategist'}</span>
             </div>
           </div>
           <div style="display:flex; gap:8px;">
             <button class="btn-outline" onclick="shareArticle('${article.id}', '${article.title.replace(/'/g, "\\'")}')">Share</button>
-            <a href="article.html?id=${article.id}" class="btn-primary" style="text-decoration:none;">Open Full Page ↗</a>
+            <a href="${fullArticleUrl}" class="btn-primary" style="text-decoration:none; font-weight:700;">Open Full Page ↗</a>
           </div>
         </div>
 

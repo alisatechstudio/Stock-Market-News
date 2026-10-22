@@ -207,6 +207,9 @@ function transformToArticleEntry(rawItem, idx) {
   ];
   const image = images[idx % images.length];
 
+  const sourceName = rawItem.source || 'Institutional Wire';
+  const sourceUrl = rawItem.link || '';
+
   return {
     id,
     title: rawItem.title,
@@ -220,16 +223,26 @@ function transformToArticleEntry(rawItem, idx) {
     publishedAt: rawItem.pubDate.toISOString(),
     readTime: "5 min read",
     image,
+    source: sourceName,
+    sourceUrl: sourceUrl,
     targetPrice: meta.category === 'Crypto' ? '$95,000 Target' : 'Overweight Target',
     analystConsensus: meta.sentiment === 'Bearish' ? 'Reduce' : 'Accumulate / Buy',
     tableOfContents: [
       { id: "market-overview", title: "Market Context & Catalyst" },
       { id: "institutional-flows", title: "Institutional Liquidity & Order Flow" },
-      { id: "strategic-outlook", title: "Strategic Positioning & Key Risk Levels" }
+      { id: "strategic-outlook", title: "Strategic Positioning & Key Risk Levels" },
+      { id: "original-wire", title: "Primary Wire & Full Coverage Link" }
     ],
     bodyHtml: `
       <div class="article-takeaway-box">
-        <strong>Hourly Intelligence Wire:</strong> ${rawItem.title}. Reported by ${rawItem.source || 'Institutional Wire'}. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.
+        <strong>Hourly Intelligence Wire:</strong> ${rawItem.title}. Reported by ${sourceName}. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.
+        ${sourceUrl ? `
+        <div style="margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);">
+          <a href="${sourceUrl}" target="_blank" rel="noopener noreferrer" class="btn-primary" style="display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;">
+            <span>Read Original Wire Story on ${sourceName}</span>
+            <span>↗</span>
+          </a>
+        </div>` : ''}
       </div>
 
       <h3 id="market-overview">Market Context & Catalyst</h3>
@@ -241,6 +254,16 @@ function transformToArticleEntry(rawItem, idx) {
 
       <h3 id="strategic-outlook">Strategic Positioning & Key Risk Levels</h3>
       <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>
+
+      ${sourceUrl ? `
+      <h3 id="original-wire">Primary Wire & Full Coverage Link</h3>
+      <p>This report incorporates real-time wire data provided by <strong>${sourceName}</strong>. You can inspect the primary external filing and full syndicated release directly:</p>
+      <p style="margin: 1.25rem 0;">
+        <a href="${sourceUrl}" target="_blank" rel="noopener noreferrer" class="btn-primary" style="display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;">
+          <span>Open Full Original Article on ${sourceName}</span>
+          <span style="font-size:1.1rem;">↗</span>
+        </a>
+      </p>` : ''}
     `
   };
 }

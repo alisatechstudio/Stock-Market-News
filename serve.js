@@ -539,6 +539,27 @@ async function renderArticleSsr(articleId) {
     html = html.replace(/<article[^>]*id="artBody"[^>]*>[\s\S]*?<\/article>/, `<article class="modal-article-body" id="artBody">\n${article.bodyHtml}\n</article>`);
   }
 
+  // Pre-render Wire Source Banner if sourceUrl exists
+  const sourceUrl = article.sourceUrl || article.link;
+  if (sourceUrl && (sourceUrl.startsWith('http://') || sourceUrl.startsWith('https://'))) {
+    const sourceName = escapeHtml(article.source || 'Financial Wire');
+    const bannerHtml = `
+    <div id="artSourceBanner" style="display:flex; margin: 1.5rem 0; padding: 1.1rem 1.25rem; background: var(--bg-surface); border: 1px solid var(--border-medium); border-left: 4px solid var(--accent-blue); border-radius: var(--radius-md); align-items: center; justify-content: space-between; gap: 14px; flex-wrap: wrap;">
+      <div style="display:flex; align-items:center; gap:10px;">
+        <span style="font-size:1.4rem;">📡</span>
+        <div>
+          <div style="font-size:0.75rem; text-transform:uppercase; letter-spacing:0.05em; color:var(--text-muted); font-weight:700;">Syndicated Wire Release</div>
+          <div id="artSourceName" style="font-size:0.95rem; font-weight:700; color:var(--text-primary);">${sourceName}</div>
+        </div>
+      </div>
+      <a id="artSourceLink" href="${escapeHtml(sourceUrl)}" target="_blank" rel="noopener noreferrer" class="btn-primary" style="text-decoration:none; display:inline-flex; align-items:center; gap:6px; padding:8px 16px; font-size:0.88rem; font-weight:700;">
+        <span>Read Full Story on ${sourceName}</span>
+        <span>↗</span>
+      </a>
+    </div>`;
+    html = html.replace(/<div id="artSourceBanner"[\s\S]*?<\/a>\s*<\/div>/, bannerHtml);
+  }
+
   return html;
 }
 

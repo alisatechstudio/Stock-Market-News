@@ -275,9 +275,24 @@
       <button class="btn-outline" onclick="window.open('https://www.linkedin.com/sharing/share-offsite/?url=' + encodeURIComponent(window.location.href), '_blank')">💼 LinkedIn</button>
     </div>
 
+    <!-- Original Wire Source Banner -->
+    <div id="artSourceBanner" style="display:none; margin: 1.5rem 0; padding: 1.1rem 1.25rem; background: var(--bg-surface); border: 1px solid var(--border-medium); border-left: 4px solid var(--accent-blue); border-radius: var(--radius-md); align-items: center; justify-content: space-between; gap: 14px; flex-wrap: wrap;">
+      <div style="display:flex; align-items:center; gap:10px;">
+        <span style="font-size:1.4rem;">📡</span>
+        <div>
+          <div style="font-size:0.75rem; text-transform:uppercase; letter-spacing:0.05em; color:var(--text-muted); font-weight:700;">Syndicated Wire Release</div>
+          <div id="artSourceName" style="font-size:0.95rem; font-weight:700; color:var(--text-primary);">Financial Wire</div>
+        </div>
+      </div>
+      <a id="artSourceLink" href="#" target="_blank" rel="noopener noreferrer" class="btn-primary" style="text-decoration:none; display:inline-flex; align-items:center; gap:6px; padding:8px 16px; font-size:0.88rem; font-weight:700;">
+        <span>Read Full Story on Original Wire</span>
+        <span>↗</span>
+      </a>
+    </div>
+
     <!-- Article Content -->
     <article class="modal-article-body" id="artBody">
-      <!-- Injected via JS -->
+      <!-- Injected via JS or SSR -->
     </article>
 
     <!-- Financial Disclaimer Box -->
@@ -337,12 +352,32 @@
   <script src="/js/main.js"></script>
   <script>
     // Standalone & Hydration Article Loader
-    document.addEventListener("DOMContentLoaded", () => {
+    document.addEventListener("DOMContentLoaded", async () => {
       const params = new URLSearchParams(window.location.search);
       const pathParts = window.location.pathname.split("/").filter(Boolean);
-      const urlId = pathParts[0] === "article" && pathParts[1] ? pathParts[1] : null;
+      const urlId = pathParts[0] === "article" && pathParts[1] ? decodeURIComponent(pathParts[1]) : null;
       const articleId = params.get("id") || urlId || (typeof ArticlesData !== 'undefined' ? ArticlesData[0].id : null);
-      const article = typeof getArticleById === 'function' ? getArticleById(articleId) : null;
+
+      let article = typeof getArticleById === 'function' ? getArticleById(articleId) : null;
+
+      // If not matched exactly or if getArticleById returned a fallback, fetch single article from API
+      if (!article || (articleId && article.id !== articleId)) {
+        try {
+          const res = await fetch(`/api/articles?id=${encodeURIComponent(articleId)}`);
+          if (res.ok) {
+            const json = await res.json();
+            if (json.success && json.article) {
+              article = json.article;
+            }
+          }
+        } catch (e) {
+          console.warn("Notice fetching article from API:", e.message);
+        }
+      }
+
+      if (!article && typeof ArticlesData !== 'undefined') {
+        article = ArticlesData[0];
+      }
 
       if (article) {
         document.title = `${article.title} | World Stock News`;
@@ -355,26 +390,62 @@
         const metaDesc = document.querySelector('meta[name="description"]');
         if (metaDesc) metaDesc.setAttribute("content", article.excerpt);
 
-        document.getElementById("bcCategory").textContent = article.category;
-        document.getElementById("bcTitle").textContent = article.title;
-        document.getElementById("artCatBadge").textContent = article.category;
+        const bcCategory = document.getElementById("bcCategory");
+        if (bcCategory) bcCategory.textContent = article.category;
+        const bcTitle = document.getElementById("bcTitle");
+        if (bcTitle) bcTitle.textContent = article.title;
+        const catBadge = document.getElementById("artCatBadge");
+        if (catBadge) catBadge.textContent = article.category;
         
         const sentBadge = document.getElementById("artSentBadge");
-        sentBadge.textContent = `${article.sentiment} ${article.sentimentScore}`;
-        sentBadge.className = `sentiment-pill ${article.sentiment === 'Bullish' ? 'pos' : (article.sentiment === 'Bearish' ? 'neg' : 'neutral')}`;
+        if (sentBadge) {
+          sentBadge.textContent = `${article.sentiment} ${article.sentimentScore}`;
+          sentBadge.className = `sentiment-pill ${article.sentiment === 'Bullish' ? 'pos' : (article.sentiment === 'Bearish' ? 'neg' : 'neutral')}`;
+        }
 
-        document.getElementById("artTitle").textContent = article.title;
-        document.getElementById("artDate").textContent = new Date(article.publishedAt).toLocaleDateString(undefined, { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
-        document.getElementById("artReadTime").textContent = article.readTime;
-        document.getElementById("artConsensus").textContent = `Consensus: ${article.analystConsensus} (${article.targetPrice})`;
+        const artTitle = document.getElementById("artTitle");
+        if (artTitle) artTitle.textContent = article.title;
+        const artDate = document.getElementById("artDate");
+        if (artDate) artDate.textContent = new Date(article.publishedAt).toLocaleDateString(undefined, { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
+        const readTime = document.getElementById("artReadTime");
+        if (readTime) readTime.textContent = article.readTime;
+        const consensus = document.getElementById("artConsensus");
+        if (consensus) consensus.textContent = `Consensus: ${article.analystConsensus} (${article.targetPrice})`;
 
-        document.getElementById("artAuthorImg").src = article.author.avatar;
-        document.getElementById("artAuthorImg").alt = article.author.name;
-        document.getElementById("artAuthorName").textContent = article.author.name;
-        document.getElementById("artAuthorTitle").textContent = article.author.title;
+        if (article.author) {
+          const aImg = document.getElementById("artAuthorImg");
+          if (aImg) {
+            aImg.src = article.author.avatar;
+            aImg.alt = article.author.name;
+          }
+          const aName = document.getElementById("artAuthorName");
+          if (aName) aName.textContent = article.author.name;
+          const aTitle = document.getElementById("artAuthorTitle");
+          if (aTitle) aTitle.textContent = article.author.title;
+        }
 
-        document.getElementById("artHeroImg").src = article.image;
-        document.getElementById("artHeroImg").alt = article.title;
+        const heroImg = document.getElementById("artHeroImg");
+        if (heroImg) {
+          heroImg.src = article.image;
+          heroImg.alt = article.title;
+        }
+
+        // Original wire source button
+        const sourceUrl = article.sourceUrl || article.link;
+        const sourceBanner = document.getElementById("artSourceBanner");
+        const sourceName = document.getElementById("artSourceName");
+        const sourceLink = document.getElementById("artSourceLink");
+        if (sourceBanner && sourceLink) {
+          if (sourceUrl && (sourceUrl.startsWith('http://') || sourceUrl.startsWith('https://'))) {
+            sourceBanner.style.display = "flex";
+            if (sourceName) sourceName.textContent = article.source || 'Financial News Wire';
+            sourceLink.href = sourceUrl;
+            const btnSpan = sourceLink.querySelector('span');
+            if (btnSpan) btnSpan.textContent = `Read Full Story on ${article.source || 'Wire'}`;
+          } else {
+            sourceBanner.style.display = "none";
+          }
+        }
 
         // Table of contents
         const tocList = document.getElementById("tocList");
@@ -383,11 +454,15 @@
             <li><a href="#${toc.id}">${toc.title}</a></li>
           `).join('');
         } else {
-          document.getElementById("tocBox").style.display = "none";
+          const tocBox = document.getElementById("tocBox");
+          if (tocBox) tocBox.style.display = "none";
         }
 
         // Body
-        document.getElementById("artBody").innerHTML = article.bodyHtml;
+        const artBody = document.getElementById("artBody");
+        if (artBody && article.bodyHtml) {
+          artBody.innerHTML = article.bodyHtml;
+        }
 
         // Inject JSON-LD NewsArticle
         const ldScript = document.createElement("script");
@@ -402,8 +477,8 @@
           "dateModified": article.publishedAt,
           "author": [{
             "@type": "Person",
-            "name": article.author.name,
-            "jobTitle": article.author.title
+            "name": article.author ? article.author.name : "World Stock News",
+            "jobTitle": article.author ? article.author.title : "Market Strategist"
           }],
           "publisher": {
             "@type": "Organization",
@@ -417,11 +492,7 @@
             "@type": "WebPage",
             "@id": window.location.href
           },
-          "keywords": article.tickers.join(", "),
-          "speakable": {
-            "@type": "SpeakableSpecification",
-            "cssSelector": ["#artTitle", ".story-excerpt", ".article-takeaway-box"]
-          }
+          "keywords": (article.tickers || []).join(", ")
         });
         document.head.appendChild(ldScript);
       }
