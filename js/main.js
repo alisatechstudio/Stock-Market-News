@@ -3,6 +3,13 @@
  * Handles UI interactions, live telemetry, filters, modals, watchlist, calculator, and SEO Schema
  */
 
+// Immediate global handler to ensure openArticleModal is always defined immediately
+window.openArticleModal = window.openArticleModal || function(articleId) {
+  if (articleId) {
+    window.location.href = `/article/${encodeURIComponent(articleId)}`;
+  }
+};
+
 document.addEventListener("DOMContentLoaded", () => {
   // Initialize APIs and charting engine defensively
   if (typeof MarketAPI !== 'undefined' && typeof MarketAPI.init === 'function') {
@@ -16,6 +23,7 @@ document.addEventListener("DOMContentLoaded", () => {
   let currentCategory = "all";
   let userWatchlist = JSON.parse(localStorage.getItem("mp_watchlist") || '["NVDA", "AAPL", "BTC-USD"]');
   let currentTheme = localStorage.getItem("mp_theme") || "dark";
+  let lastHourlySyncTime = Date.now();
 
   // Apply Theme
   applyTheme(currentTheme);
@@ -50,8 +58,6 @@ document.addEventListener("DOMContentLoaded", () => {
       }
     });
   }
-
-  let lastHourlySyncTime = Date.now();
 
   async function initBreakingNewsWire() {
     try {
@@ -112,7 +118,8 @@ document.addEventListener("DOMContentLoaded", () => {
   function updateHourlyBadgeStatus() {
     const badgeText = document.getElementById("autoUpdateStatusText");
     if (!badgeText) return;
-    const minsAgo = Math.floor((Date.now() - lastHourlySyncTime) / 60000);
+    const syncTime = (typeof lastHourlySyncTime !== 'undefined' && lastHourlySyncTime) ? lastHourlySyncTime : Date.now();
+    const minsAgo = Math.floor((Date.now() - syncTime) / 60000);
     if (minsAgo <= 0) {
       badgeText.textContent = "Auto-updated hourly • Updated just now";
     } else {
