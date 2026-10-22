@@ -138,7 +138,17 @@ async function runTests() {
       const sitemap = await makeRequest('/sitemap.xml');
       assert('GET /sitemap.xml returns 200 OK', sitemap.statusCode === 200 && sitemap.body.includes('<urlset'));
 
-      // 14. GET /non-existent-route-404
+      // 14. Static Stylesheet & Subpath Fallback Tests
+      const cssDirect = await makeRequest('/css/style.css');
+      assert('GET /css/style.css returns 200 and text/css', cssDirect.statusCode === 200 && cssDirect.headers['content-type'].includes('text/css'));
+
+      const cssSubpath = await makeRequest('/article/css/style.css');
+      assert('GET /article/css/style.css subpath returns 200 and text/css', cssSubpath.statusCode === 200 && cssSubpath.headers['content-type'].includes('text/css'));
+
+      assert('GET /article/:id includes <base href="/">', articleSsr.body.includes('<base href="/">'));
+      assert('GET /article/:id includes root-relative stylesheet', articleSsr.body.includes('href="/css/style.css'));
+
+      // 15. GET /non-existent-route-404
       const notFound = await makeRequest('/this-page-does-not-exist');
       assert('GET 404 returns 404 status', notFound.statusCode === 404);
       assert('GET 404 returns custom institutional 404 page', notFound.body.includes('404') && notFound.body.includes('World Stock News'));

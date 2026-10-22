@@ -619,6 +619,11 @@ app.get('/index.html', (req, res) => {
   res.redirect(301, '/');
 });
 
+// Static asset fallbacks for nested routes (/article/css, /category/js, etc.)
+app.use(['/article/css', '/category/css'], express.static(path.join(ROOT_DIR, 'css')));
+app.use(['/article/js', '/category/js'], express.static(path.join(ROOT_DIR, 'js')));
+app.use(['/article/assets', '/category/assets'], express.static(path.join(ROOT_DIR, 'assets')));
+
 // 2. SSR Clean Article Route (/article/:id)
 app.get('/article/:id', async (req, res) => {
   const articleId = req.params.id;

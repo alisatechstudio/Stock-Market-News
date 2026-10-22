@@ -22,6 +22,18 @@
       "destination": "/api/index.js"
     },
     {
+      "source": "/(article|category)/css/(.*)",
+      "destination": "/css/$2"
+    },
+    {
+      "source": "/(article|category)/js/(.*)",
+      "destination": "/js/$2"
+    },
+    {
+      "source": "/(article|category)/assets/(.*)",
+      "destination": "/assets/$2"
+    },
+    {
       "source": "/article/(.*)",
       "destination": "/api/index.js"
     },

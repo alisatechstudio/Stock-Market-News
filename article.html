@@ -9,6 +9,7 @@
   <link rel="icon" type="image/svg+xml" href="/favicon.svg">
   <link rel="alternate icon" href="/favicon.ico">
   <link rel="canonical" href="https://worldstocknews.online/article.html">
+  <base href="/">
 
   <!-- Preconnect & Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -20,12 +21,25 @@
   <link rel="alternate" type="application/feed+json" title="World Stock News JSON Feed" href="/feed.json">
   <link rel="help" type="text/plain" title="LLM Context Manifest" href="/llms.txt">
 
+  <!-- Immediate Global Stubs for Article Reader & Timestamps -->
+  <script>
+    var lastHourlySyncTime = Date.now();
+    window.lastHourlySyncTime = lastHourlySyncTime;
+    function openArticleModal(id) {
+      if (typeof window.openArticleModalFull === 'function') {
+        return window.openArticleModalFull(id);
+      }
+      if (id) window.location.href = '/article/' + encodeURIComponent(id);
+    }
+    window.openArticleModal = openArticleModal;
+  </script>
+
   <!-- Google tag (gtag.js) -->
   <!-- Google Consent Mode v2 & GDPR Consent Settings -->
   <script>
     window.GDPR_CONSENT_CONFIG = { privacyUrl: 'privacy-policy.html', gaMeasurementId: 'G-SS9QWKY2TF' };
   </script>
-  <script src="js/gdpr-consent.js"></script>
+  <script src="/js/gdpr-consent.js"></script>
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-SS9QWKY2TF"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
@@ -49,7 +63,7 @@
   <!-- Google AdSense Auto Ads (Global Tag) -->
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2862340185854650" crossorigin="anonymous"></script>
 
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="/css/style.css?v=2.2.1">
   <style>
     .reading-progress-bar {
       position: fixed;
