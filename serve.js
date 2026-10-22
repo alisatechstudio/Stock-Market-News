@@ -462,9 +462,9 @@ async function renderArticleSsr(articleId) {
     "datePublished": article.publishedAt,
     "dateModified": article.publishedAt,
     "author": [{
-      "@type": "Person",
-      "name": article.author.name,
-      "jobTitle": article.author.title
+      "@type": "Organization",
+      "name": (article.author && article.author.name) ? article.author.name : "World Stock News Editorial Desk",
+      "url": "https://worldstocknews.online/about"
     }],
     "publisher": {
       "@type": "Organization",
@@ -522,9 +522,12 @@ async function renderArticleSsr(articleId) {
   html = html.replace(/id="artConsensus">[\s\S]*?<\/span>/, `id="artConsensus">Consensus: ${escapeHtml(article.analystConsensus)} (${escapeHtml(article.targetPrice)})</span>`);
 
   // Replace Author
-  html = html.replace(/id="artAuthorImg" src="[^"]*" alt="[^"]*"/, `id="artAuthorImg" src="${escapeHtml(article.author.avatar)}" alt="${escapeHtml(article.author.name)}"`);
-  html = html.replace(/id="artAuthorName">[\s\S]*?<\/div>/, `id="artAuthorName">${escapeHtml(article.author.name)}</div>`);
-  html = html.replace(/id="artAuthorTitle">[\s\S]*?<\/div>/, `id="artAuthorTitle">${escapeHtml(article.author.title)}</div>`);
+  const authorName = (article.author && article.author.name) ? article.author.name : 'World Stock News Editorial Desk';
+  const authorTitle = (article.author && article.author.title) ? article.author.title : 'Financial Market Intelligence';
+  const authorAvatar = (article.author && article.author.avatar) ? article.author.avatar : '/assets/logo.png';
+  html = html.replace(/id="artAuthorImg" class="[^"]*" src="[^"]*" alt="[^"]*"/, `id="artAuthorImg" class="author-avatar" src="${escapeHtml(authorAvatar)}" alt="${escapeHtml(authorName)}"`);
+  html = html.replace(/id="artAuthorName"[^>]*>[\s\S]*?<\/(span|div)>/, `id="artAuthorName" class="author-name" style="font-size:1rem;">${escapeHtml(authorName)}</span>`);
+  html = html.replace(/id="artAuthorTitle"[^>]*>[\s\S]*?<\/(span|div)>/, `id="artAuthorTitle" class="author-title">${escapeHtml(authorTitle)}</span>`);
 
   // Replace Hero Image
   html = html.replace(/id="artHeroImg" class="[^"]*" src="[^"]*" alt="[^"]*"/, `id="artHeroImg" class="article-hero-img" src="${safeImg}" alt="${escapeHtml(article.title)}"`);

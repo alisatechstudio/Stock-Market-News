@@ -1,10 +1,56 @@
 /**
  * World Stock News - Editorial Database of In-Depth Financial Intelligence Articles
  * Automatically updated hourly by World Stock News Real-Time Ingestion Engine
- * Last Automated Update: 2026-10-22T06:41:55.716Z
+ * Last Automated Update: 2026-10-22T06:49:20.654Z
  */
 
 const ArticlesData = [
+  {
+    "id": "top-hsbc-strategist-has-a-warning-for-retail-investors-chasi-kn4d",
+    "title": "Top HSBC strategist has a warning for retail investors chasing the AI rally",
+    "excerpt": "Maxx Kettner, HSBC’s chief multiasset strategist, says the investors need to understand the goal posts are constantly moving with AI investing.",
+    "category": "Tech & AI",
+    "categorySlug": "tech-ai",
+    "tickers": [
+      "NVDA",
+      "AAPL",
+      "MSFT",
+      "QQQ"
+    ],
+    "sentiment": "Bearish",
+    "sentimentScore": "-65%",
+    "author": {
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
+    },
+    "publishedAt": "2026-10-22T06:46:00.000Z",
+    "readTime": "5 min read",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "source": "MarketWatch",
+    "sourceUrl": "https://www.marketwatch.com/story/top-hsbc-strategist-has-a-warning-for-retail-investors-chasing-the-ai-rally-e0318ada?mod=mw_rss_topstories",
+    "targetPrice": "Overweight Target",
+    "analystConsensus": "Reduce",
+    "tableOfContents": [
+      {
+        "id": "market-overview",
+        "title": "Market Context & Catalyst"
+      },
+      {
+        "id": "institutional-flows",
+        "title": "Institutional Liquidity & Order Flow"
+      },
+      {
+        "id": "strategic-outlook",
+        "title": "Strategic Positioning & Key Risk Levels"
+      },
+      {
+        "id": "original-wire",
+        "title": "Primary Wire & Full Coverage Link"
+      }
+    ],
+    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> Top HSBC strategist has a warning for retail investors chasing the AI rally. Reported by MarketWatch. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n        \n        <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);\">\n          <a href=\"https://www.marketwatch.com/story/top-hsbc-strategist-has-a-warning-for-retail-investors-chasing-the-ai-rally-e0318ada?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;\">\n            <span>Read Original Wire Story on MarketWatch</span>\n            <span>↗</span>\n          </a>\n        </div>\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>Maxx Kettner, HSBC’s chief multiasset strategist, says the investors need to understand the goal posts are constantly moving with AI investing.</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n\n      \n      <h3 id=\"original-wire\">Primary Wire & Full Coverage Link</h3>\n      <p>This report incorporates real-time wire data provided by <strong>MarketWatch</strong>. You can inspect the primary external filing and full syndicated release directly:</p>\n      <p style=\"margin: 1.25rem 0;\">\n        <a href=\"https://www.marketwatch.com/story/top-hsbc-strategist-has-a-warning-for-retail-investors-chasing-the-ai-rally-e0318ada?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;\">\n          <span>Open Full Original Article on MarketWatch</span>\n          <span style=\"font-size:1.1rem;\">↗</span>\n        </a>\n      </p>\n    "
+  },
   {
     "id": "hourly-market-brief-mvj4tot3",
     "title": "Hourly Market Pulse: Global Indices Trade With Steady Breadth as Volume Accelerates",
@@ -20,9 +66,9 @@ const ArticlesData = [
     "sentiment": "Bullish",
     "sentimentScore": "+82%",
     "author": {
-      "name": "Elena Rostova",
-      "title": "Chief Macro Strategist & Former Senior Economist",
-      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=120&q=80"
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
     },
     "publishedAt": "2026-10-22T06:00:22.052Z",
     "readTime": "4 min read",
@@ -56,9 +102,9 @@ const ArticlesData = [
     "sentiment": "Bullish",
     "sentimentScore": "+82%",
     "author": {
-      "name": "Elena Rostova",
-      "title": "Chief Macro Strategist & Former Senior Economist",
-      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=120&q=80"
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
     },
     "publishedAt": "2026-10-22T04:50:21.576Z",
     "readTime": "4 min read",
@@ -92,9 +138,9 @@ const ArticlesData = [
     "sentiment": "Bullish",
     "sentimentScore": "+89%",
     "author": {
-      "name": "Elena Rostova",
-      "title": "Chief Macro Strategist & Senior Economist",
-      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=120&q=80"
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
     },
     "publishedAt": "2026-10-22T03:15:00.000Z",
     "readTime": "5 min read",
@@ -130,9 +176,9 @@ const ArticlesData = [
     "sentiment": "Bullish",
     "sentimentScore": "+78%",
     "author": {
-      "name": "Marcus Vance",
-      "title": "Senior Technology & Semiconductor Analyst",
-      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=120&q=80"
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
     },
     "publishedAt": "2026-10-22T01:50:00.000Z",
     "readTime": "5 min read",
@@ -170,9 +216,9 @@ const ArticlesData = [
     "sentiment": "Bullish",
     "sentimentScore": "+89%",
     "author": {
-      "name": "Siddharth Mehta",
-      "title": "Head of Digital Asset Research",
-      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=120&q=80"
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
     },
     "publishedAt": "2026-10-22T00:48:00.000Z",
     "readTime": "5 min read",
@@ -208,9 +254,9 @@ const ArticlesData = [
     "sentiment": "Bearish",
     "sentimentScore": "-65%",
     "author": {
-      "name": "Claire Montclaire",
-      "title": "Global Commodities & Energy Strategist",
-      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=120&q=80"
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
     },
     "publishedAt": "2026-10-21T23:29:00.000Z",
     "readTime": "5 min read",
@@ -247,9 +293,9 @@ const ArticlesData = [
     "sentiment": "Bullish",
     "sentimentScore": "+75%",
     "author": {
-      "name": "Elena Rostova",
-      "title": "Chief Macro Strategist & Senior Economist",
-      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=120&q=80"
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
     },
     "publishedAt": "2026-10-21T23:07:00.000Z",
     "readTime": "5 min read",
@@ -287,9 +333,9 @@ const ArticlesData = [
     "sentiment": "Bullish",
     "sentimentScore": "+89%",
     "author": {
-      "name": "Marcus Vance",
-      "title": "Senior Technology & Semiconductor Analyst",
-      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=120&q=80"
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
     },
     "publishedAt": "2026-10-21T15:30:50.000Z",
     "readTime": "5 min read",
@@ -327,9 +373,9 @@ const ArticlesData = [
     "sentiment": "Bearish",
     "sentimentScore": "-65%",
     "author": {
-      "name": "Siddharth Mehta",
-      "title": "Head of Digital Asset Research",
-      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=120&q=80"
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
     },
     "publishedAt": "2026-10-20T10:39:17.000Z",
     "readTime": "5 min read",
@@ -367,9 +413,9 @@ const ArticlesData = [
     "sentiment": "Bullish",
     "sentimentScore": "+89%",
     "author": {
-      "name": "Claire Montclaire",
-      "title": "Global Commodities & Energy Strategist",
-      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=120&q=80"
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
     },
     "publishedAt": "2026-10-21T20:30:33.241Z",
     "readTime": "5 min read",
@@ -407,9 +453,9 @@ const ArticlesData = [
     "sentiment": "Bullish",
     "sentimentScore": "+89%",
     "author": {
-      "name": "Marcus Vance",
-      "title": "Senior Technology & Semiconductor Analyst",
-      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=120&q=80"
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
     },
     "publishedAt": "2026-10-21T18:38:20.874Z",
     "readTime": "5 min read",
@@ -445,9 +491,9 @@ const ArticlesData = [
     "sentiment": "Bullish",
     "sentimentScore": "+78%",
     "author": {
-      "name": "Elena Rostova",
-      "title": "Chief Macro Strategist & Senior Economist",
-      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=120&q=80"
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
     },
     "publishedAt": "2026-10-21T17:38:20.874Z",
     "readTime": "5 min read",
@@ -483,9 +529,9 @@ const ArticlesData = [
     "sentiment": "Bullish",
     "sentimentScore": "+78%",
     "author": {
-      "name": "Marcus Vance",
-      "title": "Senior Technology & Semiconductor Analyst",
-      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=120&q=80"
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
     },
     "publishedAt": "2026-10-21T16:38:20.874Z",
     "readTime": "5 min read",
@@ -521,9 +567,9 @@ const ArticlesData = [
     "sentiment": "Bullish",
     "sentimentScore": "+78%",
     "author": {
-      "name": "Elena Rostova",
-      "title": "Chief Macro Strategist & Senior Economist",
-      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=120&q=80"
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
     },
     "publishedAt": "2026-10-21T15:38:20.874Z",
     "readTime": "5 min read",
@@ -559,9 +605,9 @@ const ArticlesData = [
     "sentiment": "Bullish",
     "sentimentScore": "+78%",
     "author": {
-      "name": "Marcus Vance",
-      "title": "Senior Technology & Semiconductor Analyst",
-      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=120&q=80"
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
     },
     "publishedAt": "2026-10-21T14:38:20.874Z",
     "readTime": "5 min read",
@@ -597,9 +643,9 @@ const ArticlesData = [
     "sentiment": "Bearish",
     "sentimentScore": "-65%",
     "author": {
-      "name": "Siddharth Mehta",
-      "title": "Head of Digital Asset Research",
-      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=120&q=80"
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
     },
     "publishedAt": "2026-10-21T13:38:20.874Z",
     "readTime": "5 min read",
@@ -635,9 +681,9 @@ const ArticlesData = [
     "sentiment": "Bullish",
     "sentimentScore": "+78%",
     "author": {
-      "name": "Claire Montclaire",
-      "title": "Global Commodities & Energy Strategist",
-      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=120&q=80"
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
     },
     "publishedAt": "2026-10-21T12:38:20.874Z",
     "readTime": "5 min read",
@@ -675,9 +721,9 @@ const ArticlesData = [
     "sentiment": "Bullish",
     "sentimentScore": "+89%",
     "author": {
-      "name": "Elena Rostova",
-      "title": "Chief Macro Strategist & Senior Economist",
-      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=120&q=80"
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
     },
     "publishedAt": "2026-10-21T11:38:20.874Z",
     "readTime": "5 min read",
@@ -713,9 +759,9 @@ const ArticlesData = [
     "sentiment": "Bullish",
     "sentimentScore": "+78%",
     "author": {
-      "name": "Elena Rostova",
-      "title": "Chief Macro Strategist & Senior Economist",
-      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=120&q=80"
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
     },
     "publishedAt": "2026-10-21T10:38:20.874Z",
     "readTime": "5 min read",
@@ -751,9 +797,9 @@ const ArticlesData = [
     "sentiment": "Bullish",
     "sentimentScore": "+78%",
     "author": {
-      "name": "Marcus Vance",
-      "title": "Senior Technology & Semiconductor Analyst",
-      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=120&q=80"
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
     },
     "publishedAt": "2026-10-21T09:38:20.874Z",
     "readTime": "5 min read",
@@ -791,9 +837,9 @@ const ArticlesData = [
     "sentiment": "Bullish",
     "sentimentScore": "+89%",
     "author": {
-      "name": "Siddharth Mehta",
-      "title": "Head of Digital Asset Research",
-      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=120&q=80"
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
     },
     "publishedAt": "2026-10-21T08:38:20.874Z",
     "readTime": "5 min read",
@@ -831,9 +877,9 @@ const ArticlesData = [
     "sentiment": "Bearish",
     "sentimentScore": "-65%",
     "author": {
-      "name": "Claire Montclaire",
-      "title": "Global Commodities & Energy Strategist",
-      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=120&q=80"
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
     },
     "publishedAt": "2026-10-21T07:38:20.874Z",
     "readTime": "5 min read",
@@ -871,9 +917,9 @@ const ArticlesData = [
     "sentiment": "Bullish",
     "sentimentScore": "+89%",
     "author": {
-      "name": "Elena Rostova",
-      "title": "Chief Macro Strategist & Senior Economist",
-      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=120&q=80"
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
     },
     "publishedAt": "2026-10-21T06:38:20.874Z",
     "readTime": "5 min read",
@@ -911,9 +957,9 @@ const ArticlesData = [
     "sentiment": "Bullish",
     "sentimentScore": "+89%",
     "author": {
-      "name": "Marcus Vance",
-      "title": "Senior Technology & Semiconductor Analyst",
-      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=120&q=80"
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
     },
     "publishedAt": "2026-10-21T05:38:20.874Z",
     "readTime": "5 min read",
@@ -949,9 +995,9 @@ const ArticlesData = [
     "sentiment": "Bullish",
     "sentimentScore": "+78%",
     "author": {
-      "name": "Elena Rostova",
-      "title": "Chief Macro Strategist & Senior Economist",
-      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=120&q=80"
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
     },
     "publishedAt": "2026-10-21T04:38:20.874Z",
     "readTime": "5 min read",
@@ -987,9 +1033,9 @@ const ArticlesData = [
     "sentiment": "Bearish",
     "sentimentScore": "-65%",
     "author": {
-      "name": "Marcus Vance",
-      "title": "Senior Technology & Semiconductor Analyst",
-      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=120&q=80"
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
     },
     "publishedAt": "2026-10-21T03:38:20.874Z",
     "readTime": "5 min read",
@@ -1027,9 +1073,9 @@ const ArticlesData = [
     "sentiment": "Bullish",
     "sentimentScore": "+89%",
     "author": {
-      "name": "Claire Montclaire",
-      "title": "Global Commodities & Energy Strategist",
-      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=120&q=80"
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
     },
     "publishedAt": "2026-10-21T02:38:20.874Z",
     "readTime": "5 min read",
@@ -1065,9 +1111,9 @@ const ArticlesData = [
     "sentiment": "Bullish",
     "sentimentScore": "+78%",
     "author": {
-      "name": "Elena Rostova",
-      "title": "Chief Macro Strategist & Senior Economist",
-      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=120&q=80"
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
     },
     "publishedAt": "2026-10-21T01:38:20.874Z",
     "readTime": "5 min read",
@@ -1105,9 +1151,9 @@ const ArticlesData = [
     "sentiment": "Bullish",
     "sentimentScore": "+89%",
     "author": {
-      "name": "Marcus Vance",
-      "title": "Senior Technology & Semiconductor Analyst",
-      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=120&q=80"
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
     },
     "publishedAt": "2026-10-21T00:38:20.874Z",
     "readTime": "5 min read",
@@ -1145,9 +1191,9 @@ const ArticlesData = [
     "sentiment": "Bullish",
     "sentimentScore": "+82%",
     "author": {
-      "name": "Elena Rostova",
-      "title": "Chief Macro Strategist & Former Senior Economist",
-      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=120&q=80"
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
     },
     "publishedAt": "2026-10-20T23:38:20.874Z",
     "readTime": "4 min read",
@@ -1181,9 +1227,9 @@ const ArticlesData = [
     "sentiment": "Bullish",
     "sentimentScore": "+82%",
     "author": {
-      "name": "Elena Rostova",
-      "title": "Chief Macro Strategist & Former Senior Economist",
-      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=120&q=80"
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
     },
     "publishedAt": "2026-10-20T22:38:20.874Z",
     "readTime": "4 min read",
@@ -1215,9 +1261,9 @@ const ArticlesData = [
     "sentiment": "Bullish",
     "sentimentScore": "+78%",
     "author": {
-      "name": "Siddharth Mehta",
-      "title": "Head of Digital Asset Research",
-      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=120&q=80"
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
     },
     "publishedAt": "2026-10-20T21:38:20.874Z",
     "readTime": "5 min read",
@@ -1255,9 +1301,9 @@ const ArticlesData = [
     "sentiment": "Bullish",
     "sentimentScore": "+82%",
     "author": {
-      "name": "Elena Rostova",
-      "title": "Chief Macro Strategist & Former Senior Economist",
-      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=120&q=80"
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
     },
     "publishedAt": "2026-10-20T20:38:20.874Z",
     "readTime": "4 min read",
@@ -1291,9 +1337,9 @@ const ArticlesData = [
     "sentiment": "Bullish",
     "sentimentScore": "+89%",
     "author": {
-      "name": "Claire Montclaire",
-      "title": "Global Commodities & Energy Strategist",
-      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=120&q=80"
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
     },
     "publishedAt": "2026-10-20T19:38:20.874Z",
     "readTime": "5 min read",
@@ -1315,45 +1361,6 @@ const ArticlesData = [
       }
     ],
     "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says. Reported by CNBC Finance. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n    "
-  },
-  {
-    "id": "my-wife-says-we-cant-afford-to-retire-i-vetoed-her-8000-trip-y4dw",
-    "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
-    "excerpt": "“I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”",
-    "category": "Macro Economy",
-    "categorySlug": "macro-economy",
-    "tickers": [
-      "^TNX",
-      "CL=F",
-      "GC=F"
-    ],
-    "sentiment": "Neutral",
-    "sentimentScore": "50%",
-    "author": {
-      "name": "Elena Rostova",
-      "title": "Chief Macro Strategist & Senior Economist",
-      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=120&q=80"
-    },
-    "publishedAt": "2026-10-20T18:38:20.874Z",
-    "readTime": "5 min read",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "targetPrice": "Overweight Target",
-    "analystConsensus": "Accumulate / Buy",
-    "tableOfContents": [
-      {
-        "id": "market-overview",
-        "title": "Market Context & Catalyst"
-      },
-      {
-        "id": "institutional-flows",
-        "title": "Institutional Liquidity & Order Flow"
-      },
-      {
-        "id": "strategic-outlook",
-        "title": "Strategic Positioning & Key Risk Levels"
-      }
-    ],
-    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?. Reported by MarketWatch. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>“I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n    "
   }
 ];
 

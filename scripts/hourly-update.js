@@ -191,13 +191,11 @@ function inferMetadata(title, excerpt) {
 function transformToArticleEntry(rawItem, idx) {
   const id = `${slugify(rawItem.title)}-${Date.now().toString(36).slice(-4)}`;
   const meta = inferMetadata(rawItem.title, rawItem.excerpt);
-  const authors = [
-    { name: "Elena Rostova", title: "Chief Macro Strategist & Senior Economist", avatar: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=120&q=80" },
-    { name: "Marcus Vance", title: "Senior Technology & Semiconductor Analyst", avatar: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=120&q=80" },
-    { name: "Siddharth Mehta", title: "Head of Digital Asset Research", avatar: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=120&q=80" },
-    { name: "Claire Montclaire", title: "Global Commodities & Energy Strategist", avatar: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=120&q=80" }
-  ];
-  const author = authors[idx % authors.length];
+  const author = {
+    name: "World Stock News Editorial Desk",
+    title: "Financial Market Intelligence & Macro Analytics",
+    avatar: "/assets/logo.png"
+  };
 
   const images = [
     "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
@@ -567,9 +565,9 @@ async function runUpdate() {
         sentiment: "Bullish",
         sentimentScore: "+82%",
         author: {
-          name: "Elena Rostova",
-          title: "Chief Macro Strategist & Former Senior Economist",
-          avatar: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=120&q=80"
+          name: "World Stock News Editorial Desk",
+          title: "Financial Market Intelligence & Macro Analytics",
+          avatar: "/assets/logo.png"
         },
         publishedAt: currentIsoTime,
         readTime: "4 min read",

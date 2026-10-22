@@ -490,9 +490,9 @@
           "datePublished": article.publishedAt,
           "dateModified": article.publishedAt,
           "author": [{
-            "@type": "Person",
-            "name": article.author ? article.author.name : "World Stock News",
-            "jobTitle": article.author ? article.author.title : "Market Strategist"
+            "@type": "Organization",
+            "name": (article.author && article.author.name) ? article.author.name : "World Stock News Editorial Desk",
+            "url": "https://worldstocknews.online/about"
           }],
           "publisher": {
             "@type": "Organization",
