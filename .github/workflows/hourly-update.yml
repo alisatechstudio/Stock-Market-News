@@ -25,7 +25,16 @@ jobs:
         with:
           node-version: '20.x'
 
-      - name: Run Hourly Ingestion & Regeneration Engine
+      - name: Trigger Live Vercel Cron Endpoint (Sync MongoDB & Production Feeds)
+        run: |
+          echo "Triggering live production cron at https://worldstocknews.online/api/cron..."
+          RESPONSE=$(curl -s -S --max-time 30 -X GET "https://worldstocknews.online/api/cron" \
+            -H "User-Agent: GitHubActions-HourlyCron/2.0" \
+            -H "Authorization: Bearer ${{ secrets.CRON_SECRET }}")
+          echo "Response from live Vercel cron:"
+          echo "$RESPONSE"
+
+      - name: Run Hourly Ingestion & Regeneration Engine (Local File Sync)
         env:
           MONGODB_URI: ${{ secrets.MONGODB_URI }}
         run: node scripts/hourly-update.js
