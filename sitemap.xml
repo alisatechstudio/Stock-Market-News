@@ -4,39 +4,109 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-10-21T22:49:32.715Z</lastmod>
+    <lastmod>2026-10-22T01:00:56.519Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=us-markets</loc>
-    <lastmod>2026-10-21T22:49:32.715Z</lastmod>
+    <lastmod>2026-10-22T01:00:56.519Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=tech-ai</loc>
-    <lastmod>2026-10-21T22:49:32.715Z</lastmod>
+    <lastmod>2026-10-22T01:00:56.519Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=macro-economy</loc>
-    <lastmod>2026-10-21T22:49:32.715Z</lastmod>
+    <lastmod>2026-10-22T01:00:56.519Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=crypto</loc>
-    <lastmod>2026-10-21T22:49:32.715Z</lastmod>
+    <lastmod>2026-10-22T01:00:56.519Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/?category=earnings</loc>
-    <lastmod>2026-10-21T22:49:32.715Z</lastmod>
+    <lastmod>2026-10-22T01:00:56.519Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=this-wonky-maneuver-kept-mark-zuckerberg-from-fleeing-a-cali-4lrw</loc>
+    <lastmod>2026-10-22T00:48:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T00:48:00.000Z</news:publication_date>
+      <news:title>This wonky maneuver kept Mark Zuckerberg from fleeing a California billionaire tax</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=teslas-stock-falls-as-elon-musk-leaves-investors-wanting-mor-4lrw</loc>
+    <lastmod>2026-10-21T23:29:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T23:29:00.000Z</news:publication_date>
+      <news:title>Tesla’s stock falls as Elon Musk leaves investors wanting more</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=metas-stock-rises-as-investors-glimpse-an-opportunity-that-c-4lrw</loc>
+    <lastmod>2026-10-21T23:07:00.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T23:07:00.000Z</news:publication_date>
+      <news:title>Meta’s stock rises as investors glimpse an opportunity that could dwarf the ad business</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=hsbc-ceo-warns-the-ai-boom-wont-make-every-data-center-a-goo-4lrw</loc>
+    <lastmod>2026-10-20T10:39:17.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T10:39:17.000Z</news:publication_date>
+      <news:title>HSBC CEO warns the AI boom won’t make every data center a good bet</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article.html?id=the-worlds-finance-chiefs-see-new-risks-and-less-china-angst-4lrw</loc>
+    <lastmod>2026-10-20T05:27:53.000Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T05:27:53.000Z</news:publication_date>
+      <news:title>The world’s finance chiefs see new risks — and less China angst</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article.html?id=why-investors-should-be-skeptical-of-a-potential-tesla-space-fmld</loc>
@@ -459,120 +529,50 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article.html?id=its-not-just-californias-billionaire-tax-wealth-is-on-the-ba-y67p</loc>
-    <lastmod>2026-10-20T16:55:00.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T16:55:00.000Z</news:publication_date>
-      <news:title>It’s not just California’s billionaire tax. Wealth is on the ballot in the midterm elections.</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=looking-for-ai-stocks-that-are-still-cheap-consider-these-tw-y67p</loc>
-    <lastmod>2026-10-20T15:58:00.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T15:58:00.000Z</news:publication_date>
-      <news:title>Looking for AI stocks that are still cheap? Consider these two under-the-radar picks.</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=money-saving-hacks-to-cope-with-higher-prices-from-our-reade-v58n</loc>
-    <lastmod>2026-10-20T13:52:00.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T13:52:00.000Z</news:publication_date>
-      <news:title>Money-saving hacks to cope with higher prices — from our readers</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=salesforce-gets-a-chilly-investor-response-to-a-6-billion-de-v58n</loc>
-    <lastmod>2026-10-20T13:48:00.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T13:48:00.000Z</news:publication_date>
-      <news:title>Salesforce gets a chilly investor response to a $6 billion deal at a 58% premium</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article.html?id=meet-the-college-students-trying-to-reverse-an-obscure-ban-o-v58n</loc>
-    <lastmod>2026-10-20T13:24:00.000Z</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T13:24:00.000Z</news:publication_date>
-      <news:title>Meet the college students trying to reverse an obscure ban on trading onion futures</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-10-21T22:49:32.715Z</lastmod>
+    <lastmod>2026-10-22T01:00:56.519Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-10-21T22:49:32.715Z</lastmod>
+    <lastmod>2026-10-22T01:00:56.519Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-10-21T22:49:32.715Z</lastmod>
+    <lastmod>2026-10-22T01:00:56.519Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/about.html</loc>
-    <lastmod>2026-10-21T22:49:32.715Z</lastmod>
+    <lastmod>2026-10-22T01:00:56.519Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact.html</loc>
-    <lastmod>2026-10-21T22:49:32.715Z</lastmod>
+    <lastmod>2026-10-22T01:00:56.519Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy.html</loc>
-    <lastmod>2026-10-21T22:49:32.715Z</lastmod>
+    <lastmod>2026-10-22T01:00:56.519Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms.html</loc>
-    <lastmod>2026-10-21T22:49:32.715Z</lastmod>
+    <lastmod>2026-10-22T01:00:56.519Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/ads.txt</loc>
-    <lastmod>2026-10-21T22:49:32.715Z</lastmod>
+    <lastmod>2026-10-22T01:00:56.519Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>

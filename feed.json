@@ -13,6 +13,113 @@
   ],
   "items": [
     {
+      "id": "https://worldstocknews.online/article.html?id=this-wonky-maneuver-kept-mark-zuckerberg-from-fleeing-a-cali-4lrw",
+      "url": "https://worldstocknews.online/article.html?id=this-wonky-maneuver-kept-mark-zuckerberg-from-fleeing-a-cali-4lrw",
+      "title": "This wonky maneuver kept Mark Zuckerberg from fleeing a California billionaire tax",
+      "content_text": "Facing a potentially giant tax bill that could threaten his voting power, Zuckerberg was days away from listing his Palo Alto home when Meta agreed to create a new class of stock.",
+      "summary": "Facing a potentially giant tax bill that could threaten his voting power, Zuckerberg was days away from listing his Palo Alto home when Meta agreed to create a new class of stock.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-22T00:48:00.000Z",
+      "tags": [
+        "Tech & AI",
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "QQQ"
+      ],
+      "authors": [
+        {
+          "name": "Elena Rostova",
+          "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=120&q=80"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article.html?id=teslas-stock-falls-as-elon-musk-leaves-investors-wanting-mor-4lrw",
+      "url": "https://worldstocknews.online/article.html?id=teslas-stock-falls-as-elon-musk-leaves-investors-wanting-mor-4lrw",
+      "title": "Tesla’s stock falls as Elon Musk leaves investors wanting more",
+      "content_text": "SpaceX merger commentary is arguably the biggest thing on the minds of Tesla investors right now — and Musk had nothing new to offer on Wednesday.",
+      "summary": "SpaceX merger commentary is arguably the biggest thing on the minds of Tesla investors right now — and Musk had nothing new to offer on Wednesday.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-21T23:29:00.000Z",
+      "tags": [
+        "US Markets",
+        "^GSPC",
+        "SPY"
+      ],
+      "authors": [
+        {
+          "name": "Marcus Vance",
+          "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=120&q=80"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article.html?id=metas-stock-rises-as-investors-glimpse-an-opportunity-that-c-4lrw",
+      "url": "https://worldstocknews.online/article.html?id=metas-stock-rises-as-investors-glimpse-an-opportunity-that-c-4lrw",
+      "title": "Meta’s stock rises as investors glimpse an opportunity that could dwarf the ad business",
+      "content_text": "Meta’s core advertising business delivered a strong quarter, but investors are eyeing promising new businesses around the Muse personal assistant",
+      "summary": "Meta’s core advertising business delivered a strong quarter, but investors are eyeing promising new businesses around the Muse personal assistant",
+      "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-21T23:07:00.000Z",
+      "tags": [
+        "Earnings",
+        "^DJI",
+        "AMZN",
+        "TSLA"
+      ],
+      "authors": [
+        {
+          "name": "Siddharth Mehta",
+          "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=120&q=80"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article.html?id=hsbc-ceo-warns-the-ai-boom-wont-make-every-data-center-a-goo-4lrw",
+      "url": "https://worldstocknews.online/article.html?id=hsbc-ceo-warns-the-ai-boom-wont-make-every-data-center-a-goo-4lrw",
+      "title": "HSBC CEO warns the AI boom won’t make every data center a good bet",
+      "content_text": "Data center campuses house the servers that power AI and cloud computing.",
+      "summary": "Data center campuses house the servers that power AI and cloud computing.",
+      "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-20T10:39:17.000Z",
+      "tags": [
+        "Tech & AI",
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "QQQ"
+      ],
+      "authors": [
+        {
+          "name": "Siddharth Mehta",
+          "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=120&q=80"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article.html?id=the-worlds-finance-chiefs-see-new-risks-and-less-china-angst-4lrw",
+      "url": "https://worldstocknews.online/article.html?id=the-worlds-finance-chiefs-see-new-risks-and-less-china-angst-4lrw",
+      "title": "The world’s finance chiefs see new risks — and less China angst",
+      "content_text": "Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background.",
+      "summary": "Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background.",
+      "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-20T05:27:53.000Z",
+      "tags": [
+        "Tech & AI",
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "QQQ"
+      ],
+      "authors": [
+        {
+          "name": "Claire Montclaire",
+          "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=120&q=80"
+        }
+      ]
+    },
+    {
       "id": "https://worldstocknews.online/article.html?id=why-investors-should-be-skeptical-of-a-potential-tesla-space-fmld",
       "url": "https://worldstocknews.online/article.html?id=why-investors-should-be-skeptical-of-a-potential-tesla-space-fmld",
       "title": "Why investors should be skeptical of a potential Tesla-SpaceX merger",
@@ -315,111 +422,6 @@
       "summary": "On Kalshi, Anthropic is seen as the last major IPO in 2026 after OpenAI delayed its public market debut. Others have postponed too.",
       "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
       "date_published": "2026-10-21T09:41:58.278Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "Elena Rostova",
-          "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=120&q=80"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article.html?id=in-the-battle-for-ai-supremacy-china-is-only-six-months-behi-cy9d",
-      "url": "https://worldstocknews.online/article.html?id=in-the-battle-for-ai-supremacy-china-is-only-six-months-behi-cy9d",
-      "title": "In the battle for AI supremacy, China is only six months behind the U.S — but that means it’s winning, says former Google CEO",
-      "content_text": "AI is not a bubble, says Google’s former CEO. It’s real growth, real money, real customers paying for something useful.",
-      "summary": "AI is not a bubble, says Google’s former CEO. It’s real growth, real money, real customers paying for something useful.",
-      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-21T10:12:00.000Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "Elena Rostova",
-          "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=120&q=80"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article.html?id=we-have-a-300000-mortgage-with-a-275-interest-rate-i-want-to-cy9d",
-      "url": "https://worldstocknews.online/article.html?id=we-have-a-300000-mortgage-with-a-275-interest-rate-i-want-to-cy9d",
-      "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
-      "content_text": "“I don’t want to enter retirement owing six figures when we have the cash to clear it.”",
-      "summary": "“I don’t want to enter retirement owing six figures when we have the cash to clear it.”",
-      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-21T09:15:00.000Z",
-      "tags": [
-        "Macro Economy",
-        "^TNX",
-        "CL=F",
-        "GC=F"
-      ],
-      "authors": [
-        {
-          "name": "Marcus Vance",
-          "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=120&q=80"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article.html?id=george-foremans-lavish-texas-estate-with-50-car-garage-is-li-cy9d",
-      "url": "https://worldstocknews.online/article.html?id=george-foremans-lavish-texas-estate-with-50-car-garage-is-li-cy9d",
-      "title": "George Foreman’s lavish Texas estate with 50-car garage is listed for $6 million",
-      "content_text": "The sprawling Texas estate where boxing legend George Foreman spent the final decades of his life has hit the market for $6 million—offering a rare glimpse inside the private world of the heavyweight champion.",
-      "summary": "The sprawling Texas estate where boxing legend George Foreman spent the final decades of his life has hit the market for $6 million—offering a rare glimpse inside the private world of the heavyweight champion.",
-      "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-21T09:04:00.000Z",
-      "tags": [
-        "US Markets",
-        "^GSPC",
-        "SPY"
-      ],
-      "authors": [
-        {
-          "name": "Siddharth Mehta",
-          "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=120&q=80"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article.html?id=my-sister-moved-in-with-our-mother-78-and-says-she-deserves--cy9d",
-      "url": "https://worldstocknews.online/article.html?id=my-sister-moved-in-with-our-mother-78-and-says-she-deserves--cy9d",
-      "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
-      "content_text": "“The house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.”",
-      "summary": "“The house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.”",
-      "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-21T09:00:00.000Z",
-      "tags": [
-        "US Markets",
-        "^GSPC",
-        "SPY"
-      ],
-      "authors": [
-        {
-          "name": "Claire Montclaire",
-          "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=120&q=80"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article.html?id=robot-factories-and-hypersonic-missiles-jpmorgan-chases-firs-4vmr",
-      "url": "https://worldstocknews.online/article.html?id=robot-factories-and-hypersonic-missiles-jpmorgan-chases-firs-4vmr",
-      "title": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
-      "content_text": "With $5 billion already deployed off its balance sheet, JPMorgan Chase is racing ahead on direct investments in defense tech, hardware and supply chains.",
-      "summary": "With $5 billion already deployed off its balance sheet, JPMorgan Chase is racing ahead on direct investments in defense tech, hardware and supply chains.",
-      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-21T04:40:40.839Z",
       "tags": [
         "Tech & AI",
         "NVDA",
