@@ -662,7 +662,7 @@ app.get(['/api/health', '/health'], (req, res) => {
 });
 
 // API: MongoDB Diagnostic Status
-app.get('/api/db-status', async (req, res) => {
+app.get(['/api/db-status', '/db-status'], async (req, res) => {
   res.setHeader('Cache-Control', 'no-cache');
   const status = await mongodb.getDbStatus();
   res.json({
@@ -674,7 +674,7 @@ app.get('/api/db-status', async (req, res) => {
 });
 
 // API: Manual / Remote Seed Trigger
-app.all('/api/seed', async (req, res) => {
+app.all(['/api/seed', '/seed'], async (req, res) => {
   res.setHeader('Cache-Control', 'no-cache');
   await loadArticlesData();
   const seedItems = cachedArticles.length > 0
@@ -695,7 +695,7 @@ app.all('/api/seed', async (req, res) => {
 });
 
 // API: Articles Feed from MongoDB Atlas or Cache
-app.get(['/api/articles', '/api/news-feed'], async (req, res) => {
+app.get(['/api/articles', '/articles', '/api/news-feed'], async (req, res) => {
   const limit = Math.min(parseInt(req.query.limit, 10) || 35, 100);
   const category = req.query.category || null;
   const skip = parseInt(req.query.skip, 10) || 0;
@@ -733,7 +733,7 @@ app.get(['/api/articles', '/api/news-feed'], async (req, res) => {
 });
 
 // API: Vercel Cron Scheduled Ingestion Endpoint
-app.all(['/api/cron', '/api/hourly-update'], async (req, res) => {
+app.all(['/api/cron', '/cron', '/api/hourly-update'], async (req, res) => {
   const authHeader = req.headers['authorization'];
   if (process.env.CRON_SECRET) {
     if (authHeader !== `Bearer ${process.env.CRON_SECRET}`) {
@@ -758,7 +758,7 @@ app.all(['/api/cron', '/api/hourly-update'], async (req, res) => {
 });
 
 // API 1: Live Real-Time Quotes
-app.get('/api/quotes', async (req, res) => {
+app.get(['/api/quotes', '/quotes'], async (req, res) => {
   try {
     const data = await fetchAllRealQuotes();
     res.setHeader('Cache-Control', 'public, max-age=4');
@@ -769,7 +769,7 @@ app.get('/api/quotes', async (req, res) => {
 });
 
 // API 2: Historical Candle Data
-app.get('/api/chart', async (req, res) => {
+app.get(['/api/chart', '/chart'], async (req, res) => {
   const symbol = req.query.symbol || '^GSPC';
   const timeframe = req.query.timeframe || '1M';
   try {
@@ -782,7 +782,7 @@ app.get('/api/chart', async (req, res) => {
 });
 
 // API 3: Fear & Greed Index
-app.get('/api/fng', async (req, res) => {
+app.get(['/api/fng', '/fng'], async (req, res) => {
   try {
     const data = await fetchRealFearGreed();
     res.setHeader('Cache-Control', 'public, max-age=120');
@@ -793,7 +793,7 @@ app.get('/api/fng', async (req, res) => {
 });
 
 // API 4: Real-time News Wire
-app.get('/api/news', async (req, res) => {
+app.get(['/api/news', '/news'], async (req, res) => {
   try {
     const data = await fetchRealNews();
     res.setHeader('Cache-Control', 'public, max-age=60');
