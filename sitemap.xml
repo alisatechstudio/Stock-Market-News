@@ -4,39 +4,95 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-10-22T17:41:08.205Z</lastmod>
+    <lastmod>2026-10-22T20:52:52.089Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/us-markets</loc>
-    <lastmod>2026-10-22T17:41:08.205Z</lastmod>
+    <lastmod>2026-10-22T20:52:52.089Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/tech-ai</loc>
-    <lastmod>2026-10-22T17:41:08.205Z</lastmod>
+    <lastmod>2026-10-22T20:52:52.089Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/macro-economy</loc>
-    <lastmod>2026-10-22T17:41:08.205Z</lastmod>
+    <lastmod>2026-10-22T20:52:52.089Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/crypto</loc>
-    <lastmod>2026-10-22T17:41:08.205Z</lastmod>
+    <lastmod>2026-10-22T20:52:52.089Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/earnings</loc>
-    <lastmod>2026-10-22T17:41:08.205Z</lastmod>
+    <lastmod>2026-10-22T20:52:52.089Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/oil-prices-approach-iran-war-highs-as-soaring-tanker-rates-t-pfjz</loc>
+    <lastmod>2026-10-22T20:46:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T20:46:00.000Z</news:publication_date>
+      <news:title>Oil prices approach Iran-war highs as soaring tanker rates trigger a second energy squeeze</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/modernas-cancer-vaccine-hits-its-targets-but-a-data-leak-rat-pfjz</loc>
+    <lastmod>2026-10-22T20:14:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T20:14:00.000Z</news:publication_date>
+      <news:title>Moderna’s cancer vaccine hits its targets, but a data leak rattled investors and the stock tumbled</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/is-getting-a-wedding-band-from-quince-a-bad-idea-its-a-third-pfk0</loc>
+    <lastmod>2026-10-22T19:25:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T19:25:00.000Z</news:publication_date>
+      <news:title>Is getting a wedding band from Quince a bad idea? ‘It’s a third of the price.’</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/robot-factories-and-hypersonic-missiles-jpmorgan-chases-firs-pfk0</loc>
+    <lastmod>2026-10-22T16:52:52.089Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T16:52:52.089Z</news:publication_date>
+      <news:title>Robot factories and hypersonic missiles: JPMorgan Chase&apos;s first $5 billion of defense investments</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/elon-musk-promised-a-spacex-share-to-every-kid-in-america-do-uv0r</loc>
@@ -473,100 +529,44 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article/why-the-treasurys-financing-plans-are-sparking-anxiety-on-wa-3w4r</loc>
-    <lastmod>2026-10-21T07:38:20.874Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T07:38:20.874Z</news:publication_date>
-      <news:title>Why the Treasury’s financing plans are sparking anxiety on Wall Street</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/why-elon-musk-anthropic-and-other-ai-titans-are-giving-away--3w4r</loc>
-    <lastmod>2026-10-21T06:38:20.874Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T06:38:20.874Z</news:publication_date>
-      <news:title>Why Elon Musk, Anthropic and other AI titans are giving away shares</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/anthropic-is-ai-trades-last-big-hope-for-a-major-ipo-this-ye-3w4r</loc>
-    <lastmod>2026-10-21T05:38:20.874Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T05:38:20.874Z</news:publication_date>
-      <news:title>Anthropic is AI trade&apos;s last big hope for a major IPO this year</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-re-updr</loc>
-    <lastmod>2026-10-21T04:38:20.874Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T04:38:20.874Z</news:publication_date>
-      <news:title>‘My husband suffered a massive stroke at 53’: I’m 64 and will rent for the rest of my life — but I’m still hopeful</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/about</loc>
-    <lastmod>2026-10-22T17:41:08.205Z</lastmod>
+    <lastmod>2026-10-22T20:52:52.089Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact</loc>
-    <lastmod>2026-10-22T17:41:08.205Z</lastmod>
+    <lastmod>2026-10-22T20:52:52.089Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy</loc>
-    <lastmod>2026-10-22T17:41:08.205Z</lastmod>
+    <lastmod>2026-10-22T20:52:52.089Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms</loc>
-    <lastmod>2026-10-22T17:41:08.205Z</lastmod>
+    <lastmod>2026-10-22T20:52:52.089Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-10-22T17:41:08.205Z</lastmod>
+    <lastmod>2026-10-22T20:52:52.089Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-10-22T17:41:08.205Z</lastmod>
+    <lastmod>2026-10-22T20:52:52.089Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-10-22T17:41:08.205Z</lastmod>
+    <lastmod>2026-10-22T20:52:52.089Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
