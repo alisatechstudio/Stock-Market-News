@@ -203,6 +203,20 @@ document.addEventListener("DOMContentLoaded", () => {
       cardChange.className = `telemetry-badge ${isPos ? 'pos' : 'neg'}`;
       cardChange.textContent = `${isPos ? '+' : ''}${data.changePct.toFixed(2)}%`;
     }
+
+    // Filter chip price update if rendered in toolbar
+    const chip = document.querySelector(`[data-chart-ticker="${key}"]`);
+    if (chip) {
+      const isPos = data.change >= 0;
+      const isFx = data.type === "forex" || key === "EURUSD";
+      const priceSpan = chip.querySelector(".chip-price");
+      const changeSpan = chip.querySelector(".chip-change");
+      if (priceSpan) priceSpan.textContent = `$${data.price.toLocaleString(undefined, { minimumFractionDigits: isFx ? 4 : 2 })}`;
+      if (changeSpan) {
+        changeSpan.className = `chip-change ${isPos ? 'pos' : 'neg'}`;
+        changeSpan.textContent = `${isPos ? '+' : ''}${data.changePct.toFixed(2)}%`;
+      }
+    }
   }
 
   /* ========================================================================
@@ -322,8 +336,68 @@ document.addEventListener("DOMContentLoaded", () => {
   /* ========================================================================
      CHART CONTROLS
      ======================================================================== */
+  /* ========================================================================
+     CHART CONTROLS & INSTRUMENT FILTERS
+     ======================================================================== */
+  window.selectChartTicker = function(tickerKey) {
+    if (!tickerKey) return;
+    if (typeof StockChart !== 'undefined' && typeof StockChart.loadTicker === 'function') {
+      StockChart.loadTicker(tickerKey);
+    }
+
+    // Sync dropdown select element
+    const instrumentSelect = document.getElementById("chartInstrumentSelect");
+    if (instrumentSelect && instrumentSelect.value !== tickerKey) {
+      instrumentSelect.value = tickerKey;
+    }
+
+    // Sync active state on ticker filter chips
+    document.querySelectorAll("[data-chart-ticker]").forEach(chip => {
+      if (chip.getAttribute("data-chart-ticker") === tickerKey) {
+        chip.classList.add("active");
+        try {
+          chip.scrollIntoView({ behavior: "smooth", block: "nearest", inline: "center" });
+        } catch (_) {}
+      } else {
+        chip.classList.remove("active");
+      }
+    });
+
+    // Check if the selected ticker belongs to a specific category
+    if (typeof MarketAPI !== 'undefined' && typeof MarketAPI.getTicker === 'function') {
+      const item = MarketAPI.getTicker(tickerKey);
+      if (item && item.type) {
+        const catName = (item.type === "forex" || item.type === "bond") ? "forex" : item.type;
+        const activeCatBtn = document.querySelector("[data-chart-category].active");
+        const curCat = activeCatBtn ? activeCatBtn.getAttribute("data-chart-category") : "all";
+        // If current active category doesn't include this ticker, switch category to match
+        if (curCat !== "all" && curCat !== catName) {
+          const matchingCatBtn = document.querySelector(`[data-chart-category="${catName}"]`);
+          if (matchingCatBtn) {
+            document.querySelectorAll("[data-chart-category]").forEach(b => b.classList.remove("active"));
+            matchingCatBtn.classList.add("active");
+            if (typeof window.refreshChartChips === 'function') {
+              window.refreshChartChips(catName);
+            }
+          }
+        }
+      }
+    }
+
+    // Only scroll into view if the chart section is not already visible on screen
+    const chartSection = document.getElementById("stockChartSection");
+    if (chartSection) {
+      const rect = chartSection.getBoundingClientRect();
+      const inView = rect.top >= -80 && rect.bottom <= (window.innerHeight + 120);
+      if (!inView) {
+        chartSection.scrollIntoView({ behavior: "smooth", block: "start" });
+      }
+    }
+  };
+
   function initChartControls() {
     if (typeof StockChart === 'undefined') return;
+
     // 1. Timeframe filter buttons
     const tfButtons = document.querySelectorAll("[data-timeframe]");
     tfButtons.forEach(btn => {
@@ -373,10 +447,12 @@ document.addEventListener("DOMContentLoaded", () => {
     const categoryBtns = document.querySelectorAll("[data-chart-category]");
     if (!container) return;
 
-    const allTickers = MarketAPI.getAllTickers();
     let activeCat = "all";
 
     function renderTickerChips(cat) {
+      const allTickers = (typeof MarketAPI !== 'undefined' && typeof MarketAPI.getAllTickers === 'function')
+        ? MarketAPI.getAllTickers()
+        : {};
       const keys = Object.keys(allTickers).filter(k => {
         if (cat === "all") return true;
         const item = allTickers[k];
@@ -384,7 +460,9 @@ document.addEventListener("DOMContentLoaded", () => {
         return item.type === cat;
       });
 
-      const currentActive = StockChart.getActiveTicker ? StockChart.getActiveTicker() : "^GSPC";
+      const currentActive = (typeof StockChart !== 'undefined' && typeof StockChart.getActiveTicker === 'function')
+        ? StockChart.getActiveTicker()
+        : "^GSPC";
 
       container.innerHTML = keys.map(k => {
         const item = allTickers[k];
@@ -409,6 +487,8 @@ document.addEventListener("DOMContentLoaded", () => {
       });
     }
 
+    window.refreshChartChips = renderTickerChips;
+
     categoryBtns.forEach(btn => {
       btn.addEventListener("click", function(e) {
         e.preventDefault();
@@ -416,39 +496,28 @@ document.addEventListener("DOMContentLoaded", () => {
         this.classList.add("active");
         activeCat = this.getAttribute("data-chart-category");
         renderTickerChips(activeCat);
+
+        // Auto-select first ticker in category if current active ticker is not in this category
+        const allTickers = (typeof MarketAPI !== 'undefined' && typeof MarketAPI.getAllTickers === 'function')
+          ? MarketAPI.getAllTickers()
+          : {};
+        const keys = Object.keys(allTickers).filter(k => {
+          if (activeCat === "all") return true;
+          const item = allTickers[k];
+          if (activeCat === "forex") return item.type === "forex" || item.type === "bond";
+          return item.type === activeCat;
+        });
+        const currentActive = (typeof StockChart !== 'undefined' && typeof StockChart.getActiveTicker === 'function')
+          ? StockChart.getActiveTicker()
+          : "^GSPC";
+        if (keys.length > 0 && !keys.includes(currentActive)) {
+          selectChartTicker(keys[0]);
+        }
       });
     });
 
     renderTickerChips("all");
   }
-
-  window.selectChartTicker = function(tickerKey) {
-    if (!tickerKey) return;
-    StockChart.loadTicker(tickerKey);
-
-    // Sync dropdown select element
-    const instrumentSelect = document.getElementById("chartInstrumentSelect");
-    if (instrumentSelect && instrumentSelect.value !== tickerKey) {
-      instrumentSelect.value = tickerKey;
-    }
-
-    // Sync active state on ticker filter chips
-    document.querySelectorAll("[data-chart-ticker]").forEach(chip => {
-      if (chip.getAttribute("data-chart-ticker") === tickerKey) {
-        chip.classList.add("active");
-        try {
-          chip.scrollIntoView({ behavior: "smooth", block: "nearest", inline: "center" });
-        } catch (_) {}
-      } else {
-        chip.classList.remove("active");
-      }
-    });
-
-    const chartSection = document.getElementById("stockChartSection");
-    if (chartSection) {
-      chartSection.scrollIntoView({ behavior: "smooth", block: "center" });
-    }
-  };
 
   /* ========================================================================
      CATEGORY TABS & ARTICLES FEED
@@ -599,12 +668,12 @@ document.addEventListener("DOMContentLoaded", () => {
   /* ========================================================================
      ARTICLE MODAL & DEEP DIVE READER
      ======================================================================== */
-  const modalOverlay = document.getElementById("articleModal");
-  const modalContent = document.getElementById("modalArticleContent");
-  const modalClose = document.getElementById("modalCloseBtn");
-
   window.openArticleModal = function(articleId) {
-    const article = getArticleById(articleId);
+    const modalOverlay = document.getElementById("articleModal");
+    const modalContent = document.getElementById("modalArticleContent");
+    const article = typeof getArticleById === 'function'
+      ? getArticleById(articleId)
+      : (typeof ArticlesData !== 'undefined' && Array.isArray(ArticlesData) ? ArticlesData.find(a => a.id === articleId) : null);
     if (!article || !modalOverlay || !modalContent) return;
 
     modalContent.innerHTML = `
@@ -652,6 +721,8 @@ document.addEventListener("DOMContentLoaded", () => {
   };
 
   function initArticleModal() {
+    const modalOverlay = document.getElementById("articleModal");
+    const modalClose = document.getElementById("modalCloseBtn");
     if (modalClose && modalOverlay) {
       modalClose.addEventListener("click", () => {
         modalOverlay.classList.remove("active");
@@ -666,8 +737,9 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     document.addEventListener("keydown", (e) => {
-      if (e.key === "Escape" && modalOverlay && modalOverlay.classList.contains("active")) {
-        modalOverlay.classList.remove("active");
+      const overlay = document.getElementById("articleModal");
+      if (e.key === "Escape" && overlay && overlay.classList.contains("active")) {
+        overlay.classList.remove("active");
         document.body.style.overflow = "";
       }
     });

@@ -83,6 +83,12 @@ async function runTests() {
       assert('GET /api/quotes returns quote object with data', quotesJson.success && quotesJson.quotes && Object.keys(quotesJson.quotes).length > 0);
       assert('GET /api/quotes includes S&P 500 (^GSPC)', quotesJson.quotes && quotesJson.quotes['^GSPC'] && quotesJson.quotes['^GSPC'].name);
 
+      // 6b. GET /api/chart (Candle feed)
+      const chartRes = await makeRequest('/api/chart?symbol=%5EGSPC&timeframe=1M');
+      assert('GET /api/chart returns 200 OK', chartRes.statusCode === 200);
+      const chartJson = JSON.parse(chartRes.body);
+      assert('GET /api/chart returns candle telemetry array', chartJson.success && Array.isArray(chartJson.candles) && chartJson.candles.length > 0);
+
       // 7. GET /api/health
       const health = await makeRequest('/api/health');
       assert('GET /api/health returns 200 OK', health.statusCode === 200);
