@@ -245,8 +245,15 @@ function transformToArticleEntry(rawItem, idx) {
   };
 }
 
-// Read current ArticlesData
+// Read current ArticlesData (supports both direct require for serverless and fs for CLI)
 function readCurrentArticlesData() {
+  try {
+    const mod = require('../js/articles-data.js');
+    if (mod && Array.isArray(mod.ArticlesData) && mod.ArticlesData.length > 0) {
+      return mod.ArticlesData;
+    }
+  } catch (_) {}
+
   try {
     const content = fs.readFileSync(ARTICLES_DATA_PATH, 'utf8');
     const sandbox = {};

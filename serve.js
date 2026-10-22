@@ -48,21 +48,31 @@ app.use((req, res, next) => {
 let cachedArticles = [];
 async function loadArticlesData() {
   try {
-    const raw = fs.readFileSync(path.join(ROOT_DIR, 'js', 'articles-data.js'), 'utf8');
-    const fn = new Function(`${raw}; return ArticlesData;`);
-    const data = fn();
-    if (Array.isArray(data) && data.length > 0) {
-      cachedArticles = data;
+    // 1. Try direct CommonJS require (guarantees bundling in Vercel Serverless Function)
+    try {
+      const mod = require('./js/articles-data.js');
+      if (mod && Array.isArray(mod.ArticlesData) && mod.ArticlesData.length > 0) {
+        cachedArticles = mod.ArticlesData;
+      }
+    } catch (_) {}
+
+    if (cachedArticles.length === 0) {
+      const raw = fs.readFileSync(path.join(ROOT_DIR, 'js', 'articles-data.js'), 'utf8');
+      const fn = new Function(`${raw}; return ArticlesData;`);
+      const data = fn();
+      if (Array.isArray(data) && data.length > 0) {
+        cachedArticles = data;
+      }
     }
   } catch (err) {
     console.warn('[Server] Notice loading ArticlesData:', err.message);
   }
 
   // If MongoDB is connected on Vercel, seed if empty and sync latest articles
-  if (mongodb.isMongoConfigured()) {
+  if (mongodb.isMongoConfigured() && cachedArticles.length > 0) {
     try {
       await mongodb.seedInitialArticles(cachedArticles);
-      const dbArticles = await mongodb.getArticles({ limit: 35 });
+      const dbArticles = await mongodb.getArticles({ limit: 35, autoSeed: false });
       if (Array.isArray(dbArticles) && dbArticles.length > 0) {
         cachedArticles = dbArticles;
       }
@@ -648,6 +658,39 @@ app.get(['/api/health', '/health'], (req, res) => {
     uptime: Math.floor(process.uptime()),
     timestamp: new Date().toISOString(),
     articlesLoaded: cachedArticles.length
+  });
+});
+
+// API: MongoDB Diagnostic Status
+app.get('/api/db-status', async (req, res) => {
+  res.setHeader('Cache-Control', 'no-cache');
+  const status = await mongodb.getDbStatus();
+  res.json({
+    success: status.connected === true,
+    server: 'WorldStockNews-Node/2.0.0',
+    deployment: process.env.VERCEL ? 'vercel-serverless' : 'standalone-node',
+    ...status
+  });
+});
+
+// API: Manual / Remote Seed Trigger
+app.all('/api/seed', async (req, res) => {
+  res.setHeader('Cache-Control', 'no-cache');
+  await loadArticlesData();
+  const seedItems = cachedArticles.length > 0
+    ? cachedArticles
+    : (require('./js/articles-data.js').ArticlesData || []);
+
+  const result = await mongodb.seedInitialArticles(seedItems);
+  const status = await mongodb.getDbStatus();
+
+  res.json({
+    success: result.success === true,
+    message: result.success ? 'MongoDB articles collection seeded successfully.' : 'Seeding incomplete or skipped.',
+    database: mongodb.getDbName(),
+    articlesInMemory: seedItems.length,
+    articlesInDb: status.articleCount || 0,
+    details: result
   });
 });
 

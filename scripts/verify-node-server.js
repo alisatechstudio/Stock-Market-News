@@ -96,6 +96,17 @@ async function runTests() {
       assert('GET /api/health status is ok', healthJson.status === 'ok' && healthJson.server === 'WorldStockNews-Node/2.0.0');
       assert('GET /api/health reports mongodb connection status', typeof healthJson.mongodb === 'string');
 
+      // 7b. GET /api/db-status & /api/seed
+      const dbStatus = await makeRequest('/api/db-status');
+      assert('GET /api/db-status returns 200 OK', dbStatus.statusCode === 200);
+      const dbStatusJson = JSON.parse(dbStatus.body);
+      assert('GET /api/db-status reports database metadata', typeof dbStatusJson.database === 'string');
+
+      const seedRes = await makeRequest('/api/seed');
+      assert('GET /api/seed returns 200 OK', seedRes.statusCode === 200);
+      const seedJson = JSON.parse(seedRes.body);
+      assert('GET /api/seed reports articles count', typeof seedJson.articlesInMemory === 'number' && seedJson.articlesInMemory > 0);
+
       // 8. GET /api/articles (MongoDB / in-memory feed)
       const articlesRes = await makeRequest('/api/articles?limit=10');
       assert('GET /api/articles returns 200 OK', articlesRes.statusCode === 200);

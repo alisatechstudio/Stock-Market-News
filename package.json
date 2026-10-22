@@ -11,6 +11,7 @@
     "dev": "node serve.js",
     "update": "node scripts/hourly-update.js",
     "update:daemon": "node scripts/hourly-update.js --daemon",
+    "seed": "node scripts/seed-mongodb.js",
     "test": "node scripts/verify-node-server.js"
   },
   "repository": {

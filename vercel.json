@@ -7,6 +7,11 @@
       "schedule": "0 6 * * *"
     }
   ],
+  "functions": {
+    "api/*.js": {
+      "includeFiles": "js/**"
+    }
+  },
   "rewrites": [
     {
       "source": "/api/cron",
