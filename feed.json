@@ -13,6 +13,47 @@
   ],
   "items": [
     {
+      "id": "https://worldstocknews.online/article/my-father-in-law-81-sold-his-75000-home-to-pay-his-daughters-hv3z",
+      "url": "https://worldstocknews.online/article/my-father-in-law-81-sold-his-75000-home-to-pay-his-daughters-hv3z",
+      "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
+      "content_text": "“Nothing has been set aside for his needs.”",
+      "summary": "“Nothing has been set aside for his needs.”",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-23T07:15:00.000Z",
+      "tags": [
+        "US Markets",
+        "^GSPC",
+        "SPY"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article/we-have-a-300000-mortgage-with-a-275-interest-rate-i-want-to-hv3z",
+      "url": "https://worldstocknews.online/article/we-have-a-300000-mortgage-with-a-275-interest-rate-i-want-to-hv3z",
+      "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
+      "content_text": "“I don’t want to enter retirement owing six figures when we have the cash to clear it.”",
+      "summary": "“I don’t want to enter retirement owing six figures when we have the cash to clear it.”",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-23T06:15:00.000Z",
+      "tags": [
+        "Macro Economy",
+        "^TNX",
+        "CL=F",
+        "GC=F"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
       "id": "https://worldstocknews.online/article/hourly-market-brief-mvkbusg1",
       "url": "https://worldstocknews.online/article/hourly-market-brief-mvkbusg1",
       "title": "Hourly Market Pulse: Global Indices Trade With Steady Breadth as Volume Accelerates",
@@ -380,49 +421,6 @@
         "AAPL",
         "MSFT",
         "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/mideast-oil-exports-are-recovering-fresh-attacks-in-saudi-ar-upcu",
-      "url": "https://worldstocknews.online/article/mideast-oil-exports-are-recovering-fresh-attacks-in-saudi-ar-upcu",
-      "title": "Mideast oil exports are recovering. Fresh attacks in Saudi Arabia show risks remain.",
-      "content_text": "More oil is flowing out of the Persian Gulf again, with exports approaching prewar levels. So why are prices so stubbornly high?",
-      "summary": "More oil is flowing out of the Persian Gulf again, with exports approaching prewar levels. So why are prices so stubbornly high?",
-      "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-22T11:35:00.000Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/meta-teases-an-opportunity-even-bigger-than-advertising-but--upcu",
-      "url": "https://worldstocknews.online/article/meta-teases-an-opportunity-even-bigger-than-advertising-but--upcu",
-      "title": "Meta teases an opportunity even bigger than advertising — but its stock is falling",
-      "content_text": "Meta’s core advertising business delivered a strong quarter, but investors are now eyeing promising new businesses around the Muse personal assistant.",
-      "summary": "Meta’s core advertising business delivered a strong quarter, but investors are now eyeing promising new businesses around the Muse personal assistant.",
-      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-22T09:55:00.000Z",
-      "tags": [
-        "Earnings",
-        "^DJI",
-        "AMZN",
-        "TSLA"
       ],
       "authors": [
         {
