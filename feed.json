@@ -13,6 +13,114 @@
   ],
   "items": [
     {
+      "id": "https://worldstocknews.online/article/over-40-of-americans-are-heading-toward-retirement-blind-wit-d29a",
+      "url": "https://worldstocknews.online/article/over-40-of-americans-are-heading-toward-retirement-blind-wit-d29a",
+      "title": "Over 40% of Americans are heading toward retirement ‘blind’ — with no plan",
+      "content_text": "Nearly half of Americans haven’t calculated what they’ll need in retirement.",
+      "summary": "Nearly half of Americans haven’t calculated what they’ll need in retirement.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-23T13:00:00.000Z",
+      "tags": [
+        "US Markets",
+        "^GSPC",
+        "SPY"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article/smart-financial-advisers-are-dropping-roi-nav-and-qcd-for-pl-d29a",
+      "url": "https://worldstocknews.online/article/smart-financial-advisers-are-dropping-roi-nav-and-qcd-for-pl-d29a",
+      "title": "Smart financial advisers are dropping ROI, NAV and QCD for plain English when talking to clients",
+      "content_text": "Not everyone is familiar with the ABCs of financial planning",
+      "summary": "Not everyone is familiar with the ABCs of financial planning",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-23T12:30:00.000Z",
+      "tags": [
+        "Tech & AI",
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "QQQ"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article/its-been-a-painful-month-for-hedge-funds-to-turn-it-around-t-d29a",
+      "url": "https://worldstocknews.online/article/its-been-a-painful-month-for-hedge-funds-to-turn-it-around-t-d29a",
+      "title": "It’s been a painful month for hedge funds. To turn it around, they are shorting U.S. stocks.",
+      "content_text": "In response to losses on popular trades, hedge funds are now shorting U.S. stocks aggressively to try and win back some performance.",
+      "summary": "In response to losses on popular trades, hedge funds are now shorting U.S. stocks aggressively to try and win back some performance.",
+      "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-23T12:23:00.000Z",
+      "tags": [
+        "Tech & AI",
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "QQQ"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article/my-spouse-was-awarded-90000-from-my-401k-in-our-divorce-how--d29a",
+      "url": "https://worldstocknews.online/article/my-spouse-was-awarded-90000-from-my-401k-in-our-divorce-how--d29a",
+      "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
+      "content_text": "“I retired in 2020 and subsequently went through a divorce a few years later.”",
+      "summary": "“I retired in 2020 and subsequently went through a divorce a few years later.”",
+      "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-23T12:16:00.000Z",
+      "tags": [
+        "Tech & AI",
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "QQQ"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article/the-mobile-ambitions-of-spacex-are-hitting-telecom-stocks-ag-d29a",
+      "url": "https://worldstocknews.online/article/the-mobile-ambitions-of-spacex-are-hitting-telecom-stocks-ag-d29a",
+      "title": "The mobile ambitions of SpaceX are hitting telecom stocks again. Here’s what the latest developments mean.",
+      "content_text": "Reports of Starlink’s discussions with cell-tower owners were noticed by shareholders of Verizon, AT&T and T-Mobile.",
+      "summary": "Reports of Starlink’s discussions with cell-tower owners were noticed by shareholders of Verizon, AT&T and T-Mobile.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-23T11:32:00.000Z",
+      "tags": [
+        "Tech & AI",
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "QQQ"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
       "id": "https://worldstocknews.online/article/my-father-in-law-81-sold-his-75000-home-to-pay-his-daughters-hv3z",
       "url": "https://worldstocknews.online/article/my-father-in-law-81-sold-his-75000-home-to-pay-his-daughters-hv3z",
       "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
@@ -316,111 +424,6 @@
         "BTC-USD",
         "ETH-USD",
         "COIN"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/ai-is-on-trial-bond-yields-sink-below-5-as-investors-look-fo-uv0r",
-      "url": "https://worldstocknews.online/article/ai-is-on-trial-bond-yields-sink-below-5-as-investors-look-fo-uv0r",
-      "title": "‘AI is on trial’: Bond yields sink below 5% as investors look for safety",
-      "content_text": "Investors are flooding back into Treasurys for safety to hedge the risks of more AI fallout in stock and credit markets.",
-      "summary": "Investors are flooding back into Treasurys for safety to hedge the risks of more AI fallout in stock and credit markets.",
-      "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-22T17:16:00.000Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/young-americans-are-giving-up-their-cars-its-a-path-to-finan-uv0r",
-      "url": "https://worldstocknews.online/article/young-americans-are-giving-up-their-cars-its-a-path-to-finan-uv0r",
-      "title": "Young Americans are giving up their cars. It’s a path to financial freedom, for some.",
-      "content_text": "With vehicle prices soaring and ownership increasingly out of reach, some young adults are discovering that life without a car leaves them with breathing room to spend on other things",
-      "summary": "With vehicle prices soaring and ownership increasingly out of reach, some young adults are discovering that life without a car leaves them with breathing room to spend on other things",
-      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-22T16:48:00.000Z",
-      "tags": [
-        "US Markets",
-        "^GSPC",
-        "SPY"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/moderna-is-about-to-release-the-trial-results-for-its-cancer-upcu",
-      "url": "https://worldstocknews.online/article/moderna-is-about-to-release-the-trial-results-for-its-cancer-upcu",
-      "title": "Moderna is about to release the trial results for its cancer vaccine. A lot is riding on this data.",
-      "content_text": "Moderna is one of the hottest stocks of the year because of its custom cancer treatment. Full Phase 3 data are set to be revealed this weekend.",
-      "summary": "Moderna is one of the hottest stocks of the year because of its custom cancer treatment. Full Phase 3 data are set to be revealed this weekend.",
-      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-22T12:22:00.000Z",
-      "tags": [
-        "US Markets",
-        "^GSPC",
-        "SPY"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/ibms-stock-falls-as-investors-struggle-to-shake-off-july-ear-upcu",
-      "url": "https://worldstocknews.online/article/ibms-stock-falls-as-investors-struggle-to-shake-off-july-ear-upcu",
-      "title": "IBM’s stock falls as investors struggle to shake off July earnings miss",
-      "content_text": "Shares in International Business Machines declined 5% in Thursday’s premarket trading as investors digested the company’s third-quarter results.",
-      "summary": "Shares in International Business Machines declined 5% in Thursday’s premarket trading as investors digested the company’s third-quarter results.",
-      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-22T12:04:00.000Z",
-      "tags": [
-        "Earnings",
-        "^DJI",
-        "AMZN",
-        "TSLA"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/why-this-jpmorgan-strategist-thinks-the-stock-markets-tailsp-upcu",
-      "url": "https://worldstocknews.online/article/why-this-jpmorgan-strategist-thinks-the-stock-markets-tailsp-upcu",
-      "title": "Why this JPMorgan strategist thinks the stock market’s tailspin might have run its course",
-      "content_text": "Hedge fund positioning has lightened considerably since its recent September peak, and JPMorgan strategists deduce from this that downside for stocks is now limited.",
-      "summary": "Hedge fund positioning has lightened considerably since its recent September peak, and JPMorgan strategists deduce from this that downside for stocks is now limited.",
-      "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-22T11:57:00.000Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
       ],
       "authors": [
         {
