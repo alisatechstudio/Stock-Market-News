@@ -4,39 +4,81 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-10-23T20:59:13.520Z</lastmod>
+    <lastmod>2026-10-23T23:44:46.024Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/us-markets</loc>
-    <lastmod>2026-10-23T20:59:13.520Z</lastmod>
+    <lastmod>2026-10-23T23:44:46.024Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/tech-ai</loc>
-    <lastmod>2026-10-23T20:59:13.520Z</lastmod>
+    <lastmod>2026-10-23T23:44:46.024Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/macro-economy</loc>
-    <lastmod>2026-10-23T20:59:13.520Z</lastmod>
+    <lastmod>2026-10-23T23:44:46.024Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/crypto</loc>
-    <lastmod>2026-10-23T20:59:13.520Z</lastmod>
+    <lastmod>2026-10-23T23:44:46.024Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/earnings</loc>
-    <lastmod>2026-10-23T20:59:13.520Z</lastmod>
+    <lastmod>2026-10-23T23:44:46.024Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/will-anthropic-pull-off-a-november-ipo-time-is-running-out-t-acjt</loc>
+    <lastmod>2026-10-23T22:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T22:00:00.000Z</news:publication_date>
+      <news:title>Will Anthropic pull off a November IPO? Time is running out to file key paperwork.</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/investors-piled-a-record-sum-into-a-leveraged-semiconductor--acjt</loc>
+    <lastmod>2026-10-23T21:46:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T21:46:00.000Z</news:publication_date>
+      <news:title>Investors piled a record sum into a leveraged semiconductor ETF last week. Things didn’t work out.</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/this-hot-ai-fueled-stock-has-been-in-a-rut-it-just-beat-earn-acjt</loc>
+    <lastmod>2026-10-23T21:13:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T21:13:00.000Z</news:publication_date>
+      <news:title>This hot AI-fueled stock has been in a rut. It just beat earnings expectations by 36%.</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/some-republicans-are-opposing-trump-on-tariffs-maines-susan--dgaj</loc>
@@ -487,86 +529,44 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article/young-americans-are-giving-up-their-cars-its-a-path-to-finan-uv0r</loc>
-    <lastmod>2026-10-22T16:48:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T16:48:00.000Z</news:publication_date>
-      <news:title>Young Americans are giving up their cars. It’s a path to financial freedom, for some.</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/moderna-is-about-to-release-the-trial-results-for-its-cancer-upcu</loc>
-    <lastmod>2026-10-22T12:22:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T12:22:00.000Z</news:publication_date>
-      <news:title>Moderna is about to release the trial results for its cancer vaccine. A lot is riding on this data.</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/ibms-stock-falls-as-investors-struggle-to-shake-off-july-ear-upcu</loc>
-    <lastmod>2026-10-22T12:04:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T12:04:00.000Z</news:publication_date>
-      <news:title>IBM’s stock falls as investors struggle to shake off July earnings miss</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/about</loc>
-    <lastmod>2026-10-23T20:59:13.520Z</lastmod>
+    <lastmod>2026-10-23T23:44:46.024Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact</loc>
-    <lastmod>2026-10-23T20:59:13.520Z</lastmod>
+    <lastmod>2026-10-23T23:44:46.024Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy</loc>
-    <lastmod>2026-10-23T20:59:13.520Z</lastmod>
+    <lastmod>2026-10-23T23:44:46.024Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms</loc>
-    <lastmod>2026-10-23T20:59:13.520Z</lastmod>
+    <lastmod>2026-10-23T23:44:46.024Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-10-23T20:59:13.520Z</lastmod>
+    <lastmod>2026-10-23T23:44:46.024Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-10-23T20:59:13.520Z</lastmod>
+    <lastmod>2026-10-23T23:44:46.024Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-10-23T20:59:13.520Z</lastmod>
+    <lastmod>2026-10-23T23:44:46.024Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
