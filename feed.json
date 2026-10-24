@@ -13,6 +13,28 @@
   ],
   "items": [
     {
+      "id": "https://worldstocknews.online/article/hourly-market-brief-mvmy00i8",
+      "url": "https://worldstocknews.online/article/hourly-market-brief-mvmy00i8",
+      "title": "Hourly Market Pulse: Global Indices Trade With Steady Breadth as Volume Accelerates",
+      "content_text": "Mid-day institutional trading patterns reflect disciplined risk management and rotational inflows into cyclical leaders and technology infrastructure.",
+      "summary": "Mid-day institutional trading patterns reflect disciplined risk management and rotational inflows into cyclical leaders and technology infrastructure.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-24T22:00:25.712Z",
+      "tags": [
+        "US Markets",
+        "^GSPC",
+        "^NDX",
+        "NVDA",
+        "BTC-USD"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
       "id": "https://worldstocknews.online/article/young-americans-are-giving-up-on-car-ownership-its-a-path-to-sb0m",
       "url": "https://worldstocknews.online/article/young-americans-are-giving-up-on-car-ownership-its-a-path-to-sb0m",
       "title": "Young Americans are giving up on car ownership. It’s a path to financial freedom for some.",
@@ -414,26 +436,6 @@
         "AAPL",
         "MSFT",
         "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/the-us-economy-is-great-by-this-measure-and-the-good-times-a-dgaj",
-      "url": "https://worldstocknews.online/article/the-us-economy-is-great-by-this-measure-and-the-good-times-a-dgaj",
-      "title": "The U.S. economy is great by this measure, and the good times aren’t over. So why are Americans so sour?",
-      "content_text": "A once-in-a-generation investment boom has created lots of winners — but many Americans are feeling left out.",
-      "summary": "A once-in-a-generation investment boom has created lots of winners — but many Americans are feeling left out.",
-      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-23T20:19:00.000Z",
-      "tags": [
-        "US Markets",
-        "^GSPC",
-        "SPY"
       ],
       "authors": [
         {
