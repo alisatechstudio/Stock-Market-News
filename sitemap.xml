@@ -4,39 +4,95 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-10-24T12:16:05.612Z</lastmod>
+    <lastmod>2026-10-24T16:18:23.374Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/us-markets</loc>
-    <lastmod>2026-10-24T12:16:05.612Z</lastmod>
+    <lastmod>2026-10-24T16:18:23.374Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/tech-ai</loc>
-    <lastmod>2026-10-24T12:16:05.612Z</lastmod>
+    <lastmod>2026-10-24T16:18:23.374Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/macro-economy</loc>
-    <lastmod>2026-10-24T12:16:05.612Z</lastmod>
+    <lastmod>2026-10-24T16:18:23.374Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/crypto</loc>
-    <lastmod>2026-10-24T12:16:05.612Z</lastmod>
+    <lastmod>2026-10-24T16:18:23.374Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/earnings</loc>
-    <lastmod>2026-10-24T12:16:05.612Z</lastmod>
+    <lastmod>2026-10-24T16:18:23.374Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/money-saving-habits-to-cope-with-higher-prices-from-our-read-s5dr</loc>
+    <lastmod>2026-10-24T15:27:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T15:27:00.000Z</news:publication_date>
+      <news:title>Money-saving habits to cope with higher prices — from our readers</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/is-getting-a-wedding-band-from-quince-a-bad-idea-its-a-third-s5dr</loc>
+    <lastmod>2026-10-24T15:10:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T15:10:00.000Z</news:publication_date>
+      <news:title>Is getting a wedding band from Quince a bad idea? It’s a third of the price of a local jeweler.</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/looking-for-ai-stocks-that-are-still-cheap-consider-these-tw-s5dr</loc>
+    <lastmod>2026-10-24T14:40:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T14:40:00.000Z</news:publication_date>
+      <news:title>Looking for AI stocks that are still cheap? Consider these two under-the-radar picks.</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/robot-factories-and-hypersonic-missiles-jpmorgan-chases-firs-s5dr</loc>
+    <lastmod>2026-10-24T12:18:23.374Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T12:18:23.374Z</news:publication_date>
+      <news:title>Robot factories and hypersonic missiles: JPMorgan Chase&apos;s first $5 billion of defense investments</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/ai-fever-ignites-a-boom-in-thematic-etfs-as-fund-managers-hu-4k49</loc>
@@ -473,100 +529,44 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article/the-us-stock-market-is-fracturing-into-two-camps-and-its-lea-r4p3</loc>
-    <lastmod>2026-10-22T22:17:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T22:17:00.000Z</news:publication_date>
-      <news:title>The U.S. stock market is fracturing into two camps, and it’s leaving investors with a brutal case of whiplash</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/treasury-yields-log-biggest-drop-since-the-2023-banking-cris-r4p3</loc>
-    <lastmod>2026-10-22T22:07:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T22:07:00.000Z</news:publication_date>
-      <news:title>Treasury yields log biggest drop since the 2023 banking crisis. Here’s what’s going on.</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/americans-are-having-fewer-babies-and-pampering-them-with-lu-r4p3</loc>
-    <lastmod>2026-10-22T21:28:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T21:28:00.000Z</news:publication_date>
-      <news:title>Americans are having fewer babies — and pampering them with luxury diapers</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/anthropic-is-ai-trades-last-big-hope-for-a-major-ipo-this-ye-r4p3</loc>
-    <lastmod>2026-10-22T17:42:09.174Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T17:42:09.174Z</news:publication_date>
-      <news:title>Anthropic is AI trade&apos;s last big hope for a major IPO this year</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/about</loc>
-    <lastmod>2026-10-24T12:16:05.612Z</lastmod>
+    <lastmod>2026-10-24T16:18:23.374Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact</loc>
-    <lastmod>2026-10-24T12:16:05.612Z</lastmod>
+    <lastmod>2026-10-24T16:18:23.374Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy</loc>
-    <lastmod>2026-10-24T12:16:05.612Z</lastmod>
+    <lastmod>2026-10-24T16:18:23.374Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms</loc>
-    <lastmod>2026-10-24T12:16:05.612Z</lastmod>
+    <lastmod>2026-10-24T16:18:23.374Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-10-24T12:16:05.612Z</lastmod>
+    <lastmod>2026-10-24T16:18:23.374Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-10-24T12:16:05.612Z</lastmod>
+    <lastmod>2026-10-24T16:18:23.374Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-10-24T12:16:05.612Z</lastmod>
+    <lastmod>2026-10-24T16:18:23.374Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
