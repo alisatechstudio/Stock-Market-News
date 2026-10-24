@@ -4,39 +4,95 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-10-24T16:18:23.374Z</lastmod>
+    <lastmod>2026-10-24T19:06:28.086Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/us-markets</loc>
-    <lastmod>2026-10-24T16:18:23.374Z</lastmod>
+    <lastmod>2026-10-24T19:06:28.086Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/tech-ai</loc>
-    <lastmod>2026-10-24T16:18:23.374Z</lastmod>
+    <lastmod>2026-10-24T19:06:28.086Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/macro-economy</loc>
-    <lastmod>2026-10-24T16:18:23.374Z</lastmod>
+    <lastmod>2026-10-24T19:06:28.086Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/crypto</loc>
-    <lastmod>2026-10-24T16:18:23.374Z</lastmod>
+    <lastmod>2026-10-24T19:06:28.086Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/earnings</loc>
-    <lastmod>2026-10-24T16:18:23.374Z</lastmod>
+    <lastmod>2026-10-24T19:06:28.086Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/young-americans-are-giving-up-on-car-ownership-its-a-path-to-sb0m</loc>
+    <lastmod>2026-10-24T18:45:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T18:45:00.000Z</news:publication_date>
+      <news:title>Young Americans are giving up on car ownership. It’s a path to financial freedom for some.</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/im-58-and-hate-annuities-how-can-i-get-dependable-income-in--sb0m</loc>
+    <lastmod>2026-10-24T18:03:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T18:03:00.000Z</news:publication_date>
+      <news:title>I’m 58 and hate annuities. How can I get dependable income in retirement?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/elon-musk-promised-a-spacex-share-to-every-kid-in-america-do-sb0m</loc>
+    <lastmod>2026-10-24T16:59:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T16:59:00.000Z</news:publication_date>
+      <news:title>Elon Musk promised a SpaceX share to every kid in America — don’t hold your breath</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/anthropic-is-ai-trades-last-big-hope-for-a-major-ipo-this-ye-sb0m</loc>
+    <lastmod>2026-10-24T15:06:28.086Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T15:06:28.086Z</news:publication_date>
+      <news:title>Anthropic is AI trade&apos;s last big hope for a major IPO this year</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/money-saving-habits-to-cope-with-higher-prices-from-our-read-s5dr</loc>
@@ -473,100 +529,44 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article/we-have-a-300000-mortgage-with-a-275-interest-rate-i-want-to-hv3z</loc>
-    <lastmod>2026-10-23T06:15:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T06:15:00.000Z</news:publication_date>
-      <news:title>We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/hourly-market-brief-mvkbusg1</loc>
-    <lastmod>2026-10-23T02:04:57.801Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T02:04:57.801Z</news:publication_date>
-      <news:title>Hourly Market Pulse: Global Indices Trade With Steady Breadth as Volume Accelerates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/i-dont-feel-sorry-for-myself-im-64-and-will-be-renting-for-t-r4p3</loc>
-    <lastmod>2026-10-22T23:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T23:00:00.000Z</news:publication_date>
-      <news:title>‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/coreweave-set-off-a-wave-of-anxiety-but-wall-streets-dire-pr-r4p3</loc>
-    <lastmod>2026-10-22T22:54:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T22:54:00.000Z</news:publication_date>
-      <news:title>CoreWeave set off a wave of anxiety — but Wall Street’s dire prognosis is premature</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/about</loc>
-    <lastmod>2026-10-24T16:18:23.374Z</lastmod>
+    <lastmod>2026-10-24T19:06:28.086Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact</loc>
-    <lastmod>2026-10-24T16:18:23.374Z</lastmod>
+    <lastmod>2026-10-24T19:06:28.086Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy</loc>
-    <lastmod>2026-10-24T16:18:23.374Z</lastmod>
+    <lastmod>2026-10-24T19:06:28.086Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms</loc>
-    <lastmod>2026-10-24T16:18:23.374Z</lastmod>
+    <lastmod>2026-10-24T19:06:28.086Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-10-24T16:18:23.374Z</lastmod>
+    <lastmod>2026-10-24T19:06:28.086Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-10-24T16:18:23.374Z</lastmod>
+    <lastmod>2026-10-24T19:06:28.086Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-10-24T16:18:23.374Z</lastmod>
+    <lastmod>2026-10-24T19:06:28.086Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

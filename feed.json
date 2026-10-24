@@ -13,6 +13,88 @@
   ],
   "items": [
     {
+      "id": "https://worldstocknews.online/article/young-americans-are-giving-up-on-car-ownership-its-a-path-to-sb0m",
+      "url": "https://worldstocknews.online/article/young-americans-are-giving-up-on-car-ownership-its-a-path-to-sb0m",
+      "title": "Young Americans are giving up on car ownership. It’s a path to financial freedom for some.",
+      "content_text": "With vehicle prices soaring and ownership increasingly out of reach, some young adults are discovering that life without a car leaves them with breathing room to spend on other things.",
+      "summary": "With vehicle prices soaring and ownership increasingly out of reach, some young adults are discovering that life without a car leaves them with breathing room to spend on other things.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-24T18:45:00.000Z",
+      "tags": [
+        "US Markets",
+        "^GSPC",
+        "SPY"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article/im-58-and-hate-annuities-how-can-i-get-dependable-income-in--sb0m",
+      "url": "https://worldstocknews.online/article/im-58-and-hate-annuities-how-can-i-get-dependable-income-in--sb0m",
+      "title": "I’m 58 and hate annuities. How can I get dependable income in retirement?",
+      "content_text": "For a person looking to make their portfolio more conservative, a TIPS ladder may achieve the same effect",
+      "summary": "For a person looking to make their portfolio more conservative, a TIPS ladder may achieve the same effect",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-24T18:03:00.000Z",
+      "tags": [
+        "US Markets",
+        "^GSPC",
+        "SPY"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article/elon-musk-promised-a-spacex-share-to-every-kid-in-america-do-sb0m",
+      "url": "https://worldstocknews.online/article/elon-musk-promised-a-spacex-share-to-every-kid-in-america-do-sb0m",
+      "title": "Elon Musk promised a SpaceX share to every kid in America — don’t hold your breath",
+      "content_text": "Trick or treat? Musk has a long record of saying things have little relation to reality.",
+      "summary": "Trick or treat? Musk has a long record of saying things have little relation to reality.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-24T16:59:00.000Z",
+      "tags": [
+        "US Markets",
+        "^GSPC",
+        "SPY"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article/anthropic-is-ai-trades-last-big-hope-for-a-major-ipo-this-ye-sb0m",
+      "url": "https://worldstocknews.online/article/anthropic-is-ai-trades-last-big-hope-for-a-major-ipo-this-ye-sb0m",
+      "title": "Anthropic is AI trade's last big hope for a major IPO this year",
+      "content_text": "On Kalshi, Anthropic is seen as the last major IPO in 2026 after OpenAI delayed its public market debut. Others have postponed too.",
+      "summary": "On Kalshi, Anthropic is seen as the last major IPO in 2026 after OpenAI delayed its public market debut. Others have postponed too.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-24T15:06:28.086Z",
+      "tags": [
+        "Tech & AI",
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "QQQ"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
       "id": "https://worldstocknews.online/article/money-saving-habits-to-cope-with-higher-prices-from-our-read-s5dr",
       "url": "https://worldstocknews.online/article/money-saving-habits-to-cope-with-higher-prices-from-our-read-s5dr",
       "title": "Money-saving habits to cope with higher prices — from our readers",
@@ -352,91 +434,6 @@
         "US Markets",
         "^GSPC",
         "SPY"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/oil-markets-are-on-edge-ahead-of-the-weekend-as-midterm-elec-dgak",
-      "url": "https://worldstocknews.online/article/oil-markets-are-on-edge-ahead-of-the-weekend-as-midterm-elec-dgak",
-      "title": "Oil markets are on edge ahead of the weekend, as midterm elections near and fresh U.S. strikes on Iran are predicted",
-      "content_text": "Oil has climbed back to an Iran-war high and may soon go higher, if the U.S. and Israel strike Iran after their respective voters go to the polls in the coming days.",
-      "summary": "Oil has climbed back to an Iran-war high and may soon go higher, if the U.S. and Israel strike Iran after their respective voters go to the polls in the coming days.",
-      "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-23T20:19:00.000Z",
-      "tags": [
-        "Macro Economy",
-        "^TNX",
-        "CL=F",
-        "GC=F"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/i-want-to-pay-off-4500-in-credit-card-debt-in-2-months-is-th-dgak",
-      "url": "https://worldstocknews.online/article/i-want-to-pay-off-4500-in-credit-card-debt-in-2-months-is-th-dgak",
-      "title": "I want to pay off $4,500 in credit-card debt in 2 months. Is this possible?",
-      "content_text": "“I’m 32 years old and feel like I should know how to do this stuff by now.”",
-      "summary": "“I’m 32 years old and feel like I should know how to do this stuff by now.”",
-      "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-23T20:02:00.000Z",
-      "tags": [
-        "US Markets",
-        "^GSPC",
-        "SPY"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/some-people-did-everything-right-i-lost-my-home-in-the-great-yamc",
-      "url": "https://worldstocknews.online/article/some-people-did-everything-right-i-lost-my-home-in-the-great-yamc",
-      "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-      "content_text": "”I earn $110,000 a year.”",
-      "summary": "”I earn $110,000 a year.”",
-      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-23T17:00:00.000Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/walmart-best-buy-and-other-stores-now-use-digital-price-tags-yamc",
-      "url": "https://worldstocknews.online/article/walmart-best-buy-and-other-stores-now-use-digital-price-tags-yamc",
-      "title": "Walmart, Best Buy and other stores now use digital price tags. Critics say they could lead to different prices for different shoppers.",
-      "content_text": "Store aisles are getting a digital makeover.",
-      "summary": "Store aisles are getting a digital makeover.",
-      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-23T16:41:00.000Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
       ],
       "authors": [
         {
