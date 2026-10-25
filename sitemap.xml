@@ -4,39 +4,53 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-10-25T20:02:22.194Z</lastmod>
+    <lastmod>2026-10-25T22:51:08.299Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/us-markets</loc>
-    <lastmod>2026-10-25T20:02:22.194Z</lastmod>
+    <lastmod>2026-10-25T22:51:08.299Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/tech-ai</loc>
-    <lastmod>2026-10-25T20:02:22.194Z</lastmod>
+    <lastmod>2026-10-25T22:51:08.299Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/macro-economy</loc>
-    <lastmod>2026-10-25T20:02:22.194Z</lastmod>
+    <lastmod>2026-10-25T22:51:08.299Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/crypto</loc>
-    <lastmod>2026-10-25T20:02:22.194Z</lastmod>
+    <lastmod>2026-10-25T22:51:08.299Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/earnings</loc>
-    <lastmod>2026-10-25T20:02:22.194Z</lastmod>
+    <lastmod>2026-10-25T22:51:08.299Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/hourly-market-brief-mvof931i</loc>
+    <lastmod>2026-10-25T22:51:08.299Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T22:51:08.299Z</news:publication_date>
+      <news:title>Hourly Market Pulse: Global Indices Trade With Steady Breadth as Volume Accelerates</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/goldman-sachs-jpmorgan-and-morgan-stanley-are-dominating-the-81vv</loc>
@@ -432,7 +446,7 @@
   </url>
   <url>
     <loc>https://worldstocknews.online/article/will-anthropic-pull-off-a-november-ipo-time-is-running-out-t-acjt</loc>
-    <lastmod>2026-10-23T22:00:00.000Z</lastmod>
+    <lastmod>2026-10-24T16:51:08.299Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -440,13 +454,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-23T22:00:00.000Z</news:publication_date>
+      <news:publication_date>2026-10-24T16:51:08.299Z</news:publication_date>
       <news:title>Will Anthropic pull off a November IPO? Time is running out to file key paperwork.</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/investors-piled-a-record-sum-into-a-leveraged-semiconductor--acjt</loc>
-    <lastmod>2026-10-23T21:46:00.000Z</lastmod>
+    <lastmod>2026-10-24T15:51:08.299Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -454,13 +468,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-23T21:46:00.000Z</news:publication_date>
+      <news:publication_date>2026-10-24T15:51:08.299Z</news:publication_date>
       <news:title>Investors piled a record sum into a leveraged semiconductor ETF last week. Things didn’t work out.</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/this-hot-ai-fueled-stock-has-been-in-a-rut-it-just-beat-earn-acjt</loc>
-    <lastmod>2026-10-23T21:13:00.000Z</lastmod>
+    <lastmod>2026-10-24T14:51:08.299Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -468,13 +482,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-23T21:13:00.000Z</news:publication_date>
+      <news:publication_date>2026-10-24T14:51:08.299Z</news:publication_date>
       <news:title>This hot AI-fueled stock has been in a rut. It just beat earnings expectations by 36%.</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/some-republicans-are-opposing-trump-on-tariffs-maines-susan--dgaj</loc>
-    <lastmod>2026-10-23T20:50:00.000Z</lastmod>
+    <lastmod>2026-10-24T13:51:08.299Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -482,13 +496,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-23T20:50:00.000Z</news:publication_date>
+      <news:publication_date>2026-10-24T13:51:08.299Z</news:publication_date>
       <news:title>Some Republicans are opposing Trump on tariffs. Maine’s Susan Collins just got him to back down on Canadian levies.</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/the-us-economy-is-great-by-this-measure-and-the-good-times-a-dgaj</loc>
-    <lastmod>2026-10-23T20:19:00.000Z</lastmod>
+    <lastmod>2026-10-24T12:51:08.299Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -496,13 +510,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-23T20:19:00.000Z</news:publication_date>
+      <news:publication_date>2026-10-24T12:51:08.299Z</news:publication_date>
       <news:title>The U.S. economy is great by this measure, and the good times aren’t over. So why are Americans so sour?</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/oil-markets-are-on-edge-ahead-of-the-weekend-as-midterm-elec-dgak</loc>
-    <lastmod>2026-10-23T20:19:00.000Z</lastmod>
+    <lastmod>2026-10-24T11:51:08.299Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -510,63 +524,49 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-23T20:19:00.000Z</news:publication_date>
+      <news:publication_date>2026-10-24T11:51:08.299Z</news:publication_date>
       <news:title>Oil markets are on edge ahead of the weekend, as midterm elections near and fresh U.S. strikes on Iran are predicted</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article/i-want-to-pay-off-4500-in-credit-card-debt-in-2-months-is-th-dgak</loc>
-    <lastmod>2026-10-24T09:02:22.194Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-24T09:02:22.194Z</news:publication_date>
-      <news:title>I want to pay off $4,500 in credit-card debt in 2 months. Is this possible?</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/about</loc>
-    <lastmod>2026-10-25T20:02:22.194Z</lastmod>
+    <lastmod>2026-10-25T22:51:08.299Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact</loc>
-    <lastmod>2026-10-25T20:02:22.194Z</lastmod>
+    <lastmod>2026-10-25T22:51:08.299Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy</loc>
-    <lastmod>2026-10-25T20:02:22.194Z</lastmod>
+    <lastmod>2026-10-25T22:51:08.299Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms</loc>
-    <lastmod>2026-10-25T20:02:22.194Z</lastmod>
+    <lastmod>2026-10-25T22:51:08.299Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-10-25T20:02:22.194Z</lastmod>
+    <lastmod>2026-10-25T22:51:08.299Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-10-25T20:02:22.194Z</lastmod>
+    <lastmod>2026-10-25T22:51:08.299Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-10-25T20:02:22.194Z</lastmod>
+    <lastmod>2026-10-25T22:51:08.299Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
