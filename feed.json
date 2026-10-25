@@ -13,6 +13,26 @@
   ],
   "items": [
     {
+      "id": "https://worldstocknews.online/article/my-father-in-law-81-sold-his-75000-home-to-pay-his-daughters-kkcd",
+      "url": "https://worldstocknews.online/article/my-father-in-law-81-sold-his-75000-home-to-pay-his-daughters-kkcd",
+      "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
+      "content_text": "“Nothing has been set aside for his needs.”",
+      "summary": "“Nothing has been set aside for his needs.”",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-24T20:15:00.000Z",
+      "tags": [
+        "US Markets",
+        "^GSPC",
+        "SPY"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
       "id": "https://worldstocknews.online/article/hourly-market-brief-mvmy00i8",
       "url": "https://worldstocknews.online/article/hourly-market-brief-mvmy00i8",
       "title": "Hourly Market Pulse: Global Indices Trade With Steady Breadth as Volume Accelerates",
@@ -408,28 +428,6 @@
       "summary": "A company beating earnings expectations by 36% and revenue expectations by 15% would usually see a postresults bump. But not for Bloom Energy, the fuel-cell maker that has flourished due to data-center demand.",
       "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
       "date_published": "2026-10-23T21:13:00.000Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/some-republicans-are-opposing-trump-on-tariffs-maines-susan--dgaj",
-      "url": "https://worldstocknews.online/article/some-republicans-are-opposing-trump-on-tariffs-maines-susan--dgaj",
-      "title": "Some Republicans are opposing Trump on tariffs. Maine’s Susan Collins just got him to back down on Canadian levies.",
-      "content_text": "As she faces a tough midterm race, the five-term GOP senator is touting her successful lobbying effort against certain tariffs on Canada",
-      "summary": "As she faces a tough midterm race, the five-term GOP senator is touting her successful lobbying effort against certain tariffs on Canada",
-      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-23T20:50:00.000Z",
       "tags": [
         "Tech & AI",
         "NVDA",
