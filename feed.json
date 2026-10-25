@@ -13,6 +13,28 @@
   ],
   "items": [
     {
+      "id": "https://worldstocknews.online/article/hourly-market-brief-mvndv826",
+      "url": "https://worldstocknews.online/article/hourly-market-brief-mvndv826",
+      "title": "Hourly Market Pulse: Global Indices Trade With Steady Breadth as Volume Accelerates",
+      "content_text": "Mid-day institutional trading patterns reflect disciplined risk management and rotational inflows into cyclical leaders and technology infrastructure.",
+      "summary": "Mid-day institutional trading patterns reflect disciplined risk management and rotational inflows into cyclical leaders and technology infrastructure.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-25T05:24:36.011Z",
+      "tags": [
+        "US Markets",
+        "^GSPC",
+        "^NDX",
+        "NVDA",
+        "BTC-USD"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
       "id": "https://worldstocknews.online/article/my-father-in-law-81-sold-his-75000-home-to-pay-his-daughters-kkcd",
       "url": "https://worldstocknews.online/article/my-father-in-law-81-sold-his-75000-home-to-pay-his-daughters-kkcd",
       "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
@@ -406,28 +428,6 @@
       "summary": "Traders making bullish bets on chip stocks are getting walloped this month, as renewed fears emerged about investment returns on the buildout of artificial intelligence.",
       "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1200&q=80",
       "date_published": "2026-10-23T21:46:00.000Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/this-hot-ai-fueled-stock-has-been-in-a-rut-it-just-beat-earn-acjt",
-      "url": "https://worldstocknews.online/article/this-hot-ai-fueled-stock-has-been-in-a-rut-it-just-beat-earn-acjt",
-      "title": "This hot AI-fueled stock has been in a rut. It just beat earnings expectations by 36%.",
-      "content_text": "A company beating earnings expectations by 36% and revenue expectations by 15% would usually see a postresults bump. But not for Bloom Energy, the fuel-cell maker that has flourished due to data-center demand.",
-      "summary": "A company beating earnings expectations by 36% and revenue expectations by 15% would usually see a postresults bump. But not for Bloom Energy, the fuel-cell maker that has flourished due to data-center demand.",
-      "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-23T21:13:00.000Z",
       "tags": [
         "Tech & AI",
         "NVDA",
