@@ -4,39 +4,95 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-10-26T17:41:37.261Z</lastmod>
+    <lastmod>2026-10-26T21:56:47.151Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/us-markets</loc>
-    <lastmod>2026-10-26T17:41:37.261Z</lastmod>
+    <lastmod>2026-10-26T21:56:47.151Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/tech-ai</loc>
-    <lastmod>2026-10-26T17:41:37.261Z</lastmod>
+    <lastmod>2026-10-26T21:56:47.151Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/macro-economy</loc>
-    <lastmod>2026-10-26T17:41:37.261Z</lastmod>
+    <lastmod>2026-10-26T21:56:47.151Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/crypto</loc>
-    <lastmod>2026-10-26T17:41:37.261Z</lastmod>
+    <lastmod>2026-10-26T21:56:47.151Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/earnings</loc>
-    <lastmod>2026-10-26T17:41:37.261Z</lastmod>
+    <lastmod>2026-10-26T21:56:47.151Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/a-possible-doordash-instacart-deal-is-all-about-keeping-up-w-r1fu</loc>
+    <lastmod>2026-10-26T21:46:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T21:46:00.000Z</news:publication_date>
+      <news:title>A possible DoorDash-Instacart deal is all about keeping up with Walmart and Amazon, analysts say</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35--r1fu</loc>
+    <lastmod>2026-10-26T21:44:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T21:44:00.000Z</news:publication_date>
+      <news:title>Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/why-lumentums-stock-led-the-sp-500-higher-on-monday-r1fu</loc>
+    <lastmod>2026-10-26T21:04:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T21:04:00.000Z</news:publication_date>
+      <news:title>Why Lumentum’s stock led the S&amp;P 500 higher on Monday</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/with-the-anthropic-ipo-the-devil-is-in-the-details-r1fu</loc>
+    <lastmod>2026-10-26T20:50:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T20:50:00.000Z</news:publication_date>
+      <news:title>With the Anthropic IPO, the devil is in the details</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/meet-the-financial-literacy-teacher-who-helps-high-school-st-mw1r</loc>
@@ -334,7 +390,7 @@
   </url>
   <url>
     <loc>https://worldstocknews.online/article/my-father-in-law-81-sold-his-75000-home-to-pay-his-daughters-kkcd</loc>
-    <lastmod>2026-10-24T20:15:00.000Z</lastmod>
+    <lastmod>2026-10-25T19:56:47.151Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -342,7 +398,7 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-24T20:15:00.000Z</news:publication_date>
+      <news:publication_date>2026-10-25T19:56:47.151Z</news:publication_date>
       <news:title>My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?</news:title>
     </news:news>
   </url>
@@ -362,7 +418,7 @@
   </url>
   <url>
     <loc>https://worldstocknews.online/article/young-americans-are-giving-up-on-car-ownership-its-a-path-to-sb0m</loc>
-    <lastmod>2026-10-24T18:45:00.000Z</lastmod>
+    <lastmod>2026-10-25T17:56:47.151Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -370,13 +426,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-24T18:45:00.000Z</news:publication_date>
+      <news:publication_date>2026-10-25T17:56:47.151Z</news:publication_date>
       <news:title>Young Americans are giving up on car ownership. It’s a path to financial freedom for some.</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/im-58-and-hate-annuities-how-can-i-get-dependable-income-in--sb0m</loc>
-    <lastmod>2026-10-24T18:03:00.000Z</lastmod>
+    <lastmod>2026-10-25T16:56:47.151Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -384,7 +440,7 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-24T18:03:00.000Z</news:publication_date>
+      <news:publication_date>2026-10-25T16:56:47.151Z</news:publication_date>
       <news:title>I’m 58 and hate annuities. How can I get dependable income in retirement?</news:title>
     </news:news>
   </url>
@@ -473,100 +529,44 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article/ai-fever-ignites-a-boom-in-thematic-etfs-as-fund-managers-hu-4k49</loc>
-    <lastmod>2026-10-25T09:41:37.261Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T09:41:37.261Z</news:publication_date>
-      <news:title>AI fever ignites a boom in thematic ETFs as fund managers hunt for their next big hit</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/my-husband-wants-to-sell-our-15-million-home-and-invest-the--4k49</loc>
-    <lastmod>2026-10-25T08:41:37.261Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T08:41:37.261Z</news:publication_date>
-      <news:title>My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave.</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/non-answers-arent-working-this-is-what-investors-really-need-4k49</loc>
-    <lastmod>2026-10-25T04:36:29.409Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T04:36:29.409Z</news:publication_date>
-      <news:title>‘Non-answers’ aren’t working. This is what investors really need from the Fed.</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/do-machines-have-feelings-ai-has-philosophers-and-tech-leade-4k49</loc>
-    <lastmod>2026-10-25T03:36:29.409Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T03:36:29.409Z</news:publication_date>
-      <news:title>Do machines have feelings? AI has philosophers and tech leaders rethinking consciousness.</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/about</loc>
-    <lastmod>2026-10-26T17:41:37.261Z</lastmod>
+    <lastmod>2026-10-26T21:56:47.151Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact</loc>
-    <lastmod>2026-10-26T17:41:37.261Z</lastmod>
+    <lastmod>2026-10-26T21:56:47.151Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy</loc>
-    <lastmod>2026-10-26T17:41:37.261Z</lastmod>
+    <lastmod>2026-10-26T21:56:47.151Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms</loc>
-    <lastmod>2026-10-26T17:41:37.261Z</lastmod>
+    <lastmod>2026-10-26T21:56:47.151Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-10-26T17:41:37.261Z</lastmod>
+    <lastmod>2026-10-26T21:56:47.151Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-10-26T17:41:37.261Z</lastmod>
+    <lastmod>2026-10-26T21:56:47.151Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-10-26T17:41:37.261Z</lastmod>
+    <lastmod>2026-10-26T21:56:47.151Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
