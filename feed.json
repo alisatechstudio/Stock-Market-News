@@ -13,6 +13,28 @@
   ],
   "items": [
     {
+      "id": "https://worldstocknews.online/article/musk-says-spacex-landed-a-40-billion-debt-deal-and-forecasts-gx95",
+      "url": "https://worldstocknews.online/article/musk-says-spacex-landed-a-40-billion-debt-deal-and-forecasts-gx95",
+      "title": "Musk says SpaceX landed a $40 billion debt deal — and forecasts doom for some AI rivals",
+      "content_text": "SpaceX is rapidly growing an AI business that rents out access to advanced chips.",
+      "summary": "SpaceX is rapidly growing an AI business that rents out access to advanced chips.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-26T01:50:00.000Z",
+      "tags": [
+        "Tech & AI",
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "QQQ"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
       "id": "https://worldstocknews.online/article/hourly-market-brief-mvojdmh4",
       "url": "https://worldstocknews.online/article/hourly-market-brief-mvojdmh4",
       "title": "Hourly Market Pulse: Global Indices Trade With Steady Breadth as Volume Accelerates",
@@ -408,26 +430,6 @@
         "AAPL",
         "MSFT",
         "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/money-saving-habits-to-cope-with-higher-prices-from-our-read-s5dr",
-      "url": "https://worldstocknews.online/article/money-saving-habits-to-cope-with-higher-prices-from-our-read-s5dr",
-      "title": "Money-saving habits to cope with higher prices — from our readers",
-      "content_text": "I asked people what they’re doing to make life more affordable today. I’ll definitely be trying some of these.",
-      "summary": "I asked people what they’re doing to make life more affordable today. I’ll definitely be trying some of these.",
-      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-24T15:27:00.000Z",
-      "tags": [
-        "US Markets",
-        "^GSPC",
-        "SPY"
       ],
       "authors": [
         {
