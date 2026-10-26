@@ -4,39 +4,95 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-10-26T05:29:08.946Z</lastmod>
+    <lastmod>2026-10-26T11:36:29.409Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/us-markets</loc>
-    <lastmod>2026-10-26T05:29:08.946Z</lastmod>
+    <lastmod>2026-10-26T11:36:29.409Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/tech-ai</loc>
-    <lastmod>2026-10-26T05:29:08.946Z</lastmod>
+    <lastmod>2026-10-26T11:36:29.409Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/macro-economy</loc>
-    <lastmod>2026-10-26T05:29:08.946Z</lastmod>
+    <lastmod>2026-10-26T11:36:29.409Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/crypto</loc>
-    <lastmod>2026-10-26T05:29:08.946Z</lastmod>
+    <lastmod>2026-10-26T11:36:29.409Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/earnings</loc>
-    <lastmod>2026-10-26T05:29:08.946Z</lastmod>
+    <lastmod>2026-10-26T11:36:29.409Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/verizons-stock-rises-as-subscriber-surge-impresses-wall-stre-lbul</loc>
+    <lastmod>2026-10-26T11:11:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T11:11:00.000Z</news:publication_date>
+      <news:title>Verizon’s stock rises as subscriber surge impresses Wall Street</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/these-four-shocks-could-hand-investors-an-unexpected-buying--lbul</loc>
+    <lastmod>2026-10-26T10:58:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T10:58:00.000Z</news:publication_date>
+      <news:title>These four shocks could hand investors an unexpected buying window, strategists say</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/the-kospi-index-is-the-leading-indicator-for-the-global-ai-t-lbul</loc>
+    <lastmod>2026-10-26T10:43:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T10:43:00.000Z</news:publication_date>
+      <news:title>The Kospi index is the leading indicator for the global AI trade — and Goldman just slashed its forecast by 25%</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/my-wife-has-only-80000-saved-for-retirement-i-have-22-millio-lbul</loc>
+    <lastmod>2026-10-26T10:15:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T10:15:00.000Z</news:publication_date>
+      <news:title>My wife has only $80,000 saved for retirement. I have $2.2 million. Am I wrong to be shocked?</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/musk-says-spacex-landed-a-40-billion-debt-deal-and-forecasts-gx95</loc>
@@ -404,7 +460,7 @@
   </url>
   <url>
     <loc>https://worldstocknews.online/article/non-answers-arent-working-this-is-what-investors-really-need-4k49</loc>
-    <lastmod>2026-10-24T11:30:00.000Z</lastmod>
+    <lastmod>2026-10-25T04:36:29.409Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -412,13 +468,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-24T11:30:00.000Z</news:publication_date>
+      <news:publication_date>2026-10-25T04:36:29.409Z</news:publication_date>
       <news:title>‘Non-answers’ aren’t working. This is what investors really need from the Fed.</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/do-machines-have-feelings-ai-has-philosophers-and-tech-leade-4k49</loc>
-    <lastmod>2026-10-24T11:00:00.000Z</lastmod>
+    <lastmod>2026-10-25T03:36:29.409Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -426,13 +482,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-24T11:00:00.000Z</news:publication_date>
+      <news:publication_date>2026-10-25T03:36:29.409Z</news:publication_date>
       <news:title>Do machines have feelings? AI has philosophers and tech leaders rethinking consciousness.</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childh-4k49</loc>
-    <lastmod>2026-10-24T08:00:00.000Z</lastmod>
+    <lastmod>2026-10-25T02:36:29.409Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -440,13 +496,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-24T08:00:00.000Z</news:publication_date>
+      <news:publication_date>2026-10-25T02:36:29.409Z</news:publication_date>
       <news:title>‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/hourly-market-brief-mvm37j2l</loc>
-    <lastmod>2026-10-24T07:38:27.857Z</lastmod>
+    <lastmod>2026-10-25T01:36:29.409Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -454,7 +510,7 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-24T07:38:27.857Z</news:publication_date>
+      <news:publication_date>2026-10-25T01:36:29.409Z</news:publication_date>
       <news:title>Hourly Market Pulse: Global Indices Trade With Steady Breadth as Volume Accelerates</news:title>
     </news:news>
   </url>
@@ -473,100 +529,44 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article/will-anthropic-pull-off-a-november-ipo-time-is-running-out-t-acjt</loc>
-    <lastmod>2026-10-24T16:51:08.299Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-24T16:51:08.299Z</news:publication_date>
-      <news:title>Will Anthropic pull off a November IPO? Time is running out to file key paperwork.</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/investors-piled-a-record-sum-into-a-leveraged-semiconductor--acjt</loc>
-    <lastmod>2026-10-24T15:51:08.299Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-24T15:51:08.299Z</news:publication_date>
-      <news:title>Investors piled a record sum into a leveraged semiconductor ETF last week. Things didn’t work out.</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/this-hot-ai-fueled-stock-has-been-in-a-rut-it-just-beat-earn-acjt</loc>
-    <lastmod>2026-10-24T14:51:08.299Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-24T14:51:08.299Z</news:publication_date>
-      <news:title>This hot AI-fueled stock has been in a rut. It just beat earnings expectations by 36%.</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/some-republicans-are-opposing-trump-on-tariffs-maines-susan--dgaj</loc>
-    <lastmod>2026-10-24T13:51:08.299Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-24T13:51:08.299Z</news:publication_date>
-      <news:title>Some Republicans are opposing Trump on tariffs. Maine’s Susan Collins just got him to back down on Canadian levies.</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/about</loc>
-    <lastmod>2026-10-26T05:29:08.946Z</lastmod>
+    <lastmod>2026-10-26T11:36:29.409Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact</loc>
-    <lastmod>2026-10-26T05:29:08.946Z</lastmod>
+    <lastmod>2026-10-26T11:36:29.409Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy</loc>
-    <lastmod>2026-10-26T05:29:08.946Z</lastmod>
+    <lastmod>2026-10-26T11:36:29.409Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms</loc>
-    <lastmod>2026-10-26T05:29:08.946Z</lastmod>
+    <lastmod>2026-10-26T11:36:29.409Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-10-26T05:29:08.946Z</lastmod>
+    <lastmod>2026-10-26T11:36:29.409Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-10-26T05:29:08.946Z</lastmod>
+    <lastmod>2026-10-26T11:36:29.409Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-10-26T05:29:08.946Z</lastmod>
+    <lastmod>2026-10-26T11:36:29.409Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
