@@ -4,39 +4,123 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-10-27T18:24:38.103Z</lastmod>
+    <lastmod>2026-10-27T22:41:24.240Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/us-markets</loc>
-    <lastmod>2026-10-27T18:24:38.103Z</lastmod>
+    <lastmod>2026-10-27T22:41:24.240Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/tech-ai</loc>
-    <lastmod>2026-10-27T18:24:38.103Z</lastmod>
+    <lastmod>2026-10-27T22:41:24.240Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/macro-economy</loc>
-    <lastmod>2026-10-27T18:24:38.103Z</lastmod>
+    <lastmod>2026-10-27T22:41:24.240Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/crypto</loc>
-    <lastmod>2026-10-27T18:24:38.103Z</lastmod>
+    <lastmod>2026-10-27T22:41:24.240Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/earnings</loc>
-    <lastmod>2026-10-27T18:24:38.103Z</lastmod>
+    <lastmod>2026-10-27T22:41:24.240Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childh-s9mb</loc>
+    <lastmod>2026-10-27T22:18:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T22:18:00.000Z</news:publication_date>
+      <news:title>‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/coreweave-and-other-ai-stocks-rise-as-anthropic-restores-the-s9mb</loc>
+    <lastmod>2026-10-27T21:41:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T21:41:00.000Z</news:publication_date>
+      <news:title>CoreWeave and other AI stocks rise as Anthropic restores the market’s faith in sustained spending</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/as-trump-touts-energy-companies-fortunes-us-consumers-face-t-s9mb</loc>
+    <lastmod>2026-10-27T21:29:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T21:29:00.000Z</news:publication_date>
+      <news:title>As Trump touts energy companies’ fortunes, U.S. consumers face the most expensive year for gas prices ever</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/the-rest-of-the-market-is-leaving-big-tech-behind-after-a-hi-s9mb</loc>
+    <lastmod>2026-10-27T21:28:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T21:28:00.000Z</news:publication_date>
+      <news:title>The rest of the market is leaving Big Tech behind after a historic comeback</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/retail-traders-buy-the-dip-on-chip-stocks-but-robinhood-gets-s9mb</loc>
+    <lastmod>2026-10-27T21:20:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T21:20:00.000Z</news:publication_date>
+      <news:title>Retail traders buy the dip on chip stocks — but Robinhood gets burned by the crypto market</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/the-worlds-finance-chiefs-see-new-risks-and-less-china-angst-s9mb</loc>
+    <lastmod>2026-10-27T16:41:24.240Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T16:41:24.240Z</news:publication_date>
+      <news:title>The world’s finance chiefs see new risks — and less China angst</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/the-big-reason-boeings-stock-is-falling-so-hard-after-earnin-m29s</loc>
@@ -445,128 +529,44 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article/hourly-market-brief-mvojdmh4</loc>
-    <lastmod>2026-10-26T00:46:38.648Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T00:46:38.648Z</news:publication_date>
-      <news:title>Hourly Market Pulse: Global Indices Trade With Steady Breadth as Volume Accelerates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/hourly-market-brief-mvof931i</loc>
-    <lastmod>2026-10-25T22:51:08.299Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T22:51:08.299Z</news:publication_date>
-      <news:title>Hourly Market Pulse: Global Indices Trade With Steady Breadth as Volume Accelerates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/goldman-sachs-jpmorgan-and-morgan-stanley-are-dominating-the-81vv</loc>
-    <lastmod>2026-10-25T19:02:22.194Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T19:02:22.194Z</news:publication_date>
-      <news:title>Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here&apos;s their edge</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/hsbc-ceo-warns-the-ai-boom-wont-make-every-data-center-a-goo-81vv</loc>
-    <lastmod>2026-10-26T09:24:38.103Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T09:24:38.103Z</news:publication_date>
-      <news:title>HSBC CEO warns the AI boom won’t make every data center a good bet</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/we-have-a-300000-mortgage-with-a-275-interest-rate-i-want-to-nfzd</loc>
-    <lastmod>2026-10-26T08:24:38.103Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T08:24:38.103Z</news:publication_date>
-      <news:title>We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/we-stopped-helping-our-neighbors-with-free-home-repairs-and--nfzd</loc>
-    <lastmod>2026-10-26T07:24:38.103Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T07:24:38.103Z</news:publication_date>
-      <news:title>We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/about</loc>
-    <lastmod>2026-10-27T18:24:38.103Z</lastmod>
+    <lastmod>2026-10-27T22:41:24.240Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact</loc>
-    <lastmod>2026-10-27T18:24:38.103Z</lastmod>
+    <lastmod>2026-10-27T22:41:24.240Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy</loc>
-    <lastmod>2026-10-27T18:24:38.103Z</lastmod>
+    <lastmod>2026-10-27T22:41:24.240Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms</loc>
-    <lastmod>2026-10-27T18:24:38.103Z</lastmod>
+    <lastmod>2026-10-27T22:41:24.240Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-10-27T18:24:38.103Z</lastmod>
+    <lastmod>2026-10-27T22:41:24.240Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-10-27T18:24:38.103Z</lastmod>
+    <lastmod>2026-10-27T22:41:24.240Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-10-27T18:24:38.103Z</lastmod>
+    <lastmod>2026-10-27T22:41:24.240Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
