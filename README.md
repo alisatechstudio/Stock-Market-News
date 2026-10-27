@@ -15,7 +15,7 @@ An institutional-grade, high-performance Stock Market News and Financial Intelli
 - **High-Frequency Micro-Tick Simulator**: Realistic market depth engine simulating sub-second ticks, volatility, bid/ask spreads, and flash color pulses for the S&P 500, Nasdaq 100, Dow Jones, Russell 2000, Crude Oil, Gold Spot, and 10-Yr Treasury Yields.
 
 ### 2. State-of-the-Art Financial Terminal Design
-- **Theme Engine**: Ultra-sleek Obsidian Dark Mode (default) & Clean Financial Light Mode with smooth CSS variable transitions.
+- **Theme Engine**: Crisp, high-contrast Financial White Theme optimized for institutional clarity and readability.
 - **Live Ticker Ribbon**: Infinite CSS hardware-accelerated ticker marquee with hover pause and dynamic tick updates.
 - **Interactive Financial Chart Explorer**: HTML5 Canvas engine supporting Candlestick and Line charts, 20-period Simple Moving Average (SMA 20), dynamic trading volume histogram, timeframes (1D, 1W, 1M, 1Y, 5Y), and interactive crosshairs.
 - **Fear & Greed Index Gauge**: Custom canvas dial gauge visualizing real-time market sentiment from Extreme Fear to Extreme Greed with historical tracking.

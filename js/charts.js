@@ -362,7 +362,7 @@ const StockChart = (function() {
     const height = displayH;
 
     // Theme detection
-    const isDark = document.documentElement.getAttribute("data-theme") !== "light";
+    const isDark = false;
     const colorBg = isDark ? "#090d18" : "#ffffff";
     const colorLadderBg = isDark ? "rgba(15, 23, 42, 0.40)" : "rgba(241, 245, 249, 0.65)";
     const colorGrid = isDark ? "rgba(255, 255, 255, 0.05)" : "rgba(0, 0, 0, 0.06)";
@@ -827,15 +827,15 @@ const StockChart = (function() {
     c.moveTo(0, -5);
     c.lineTo(radius - 8, 0);
     c.lineTo(0, 5);
-    c.fillStyle = "#ffffff";
-    c.shadowColor = "rgba(0,0,0,0.5)";
+    c.fillStyle = "#0f172a";
+    c.shadowColor = "rgba(0,0,0,0.18)";
     c.shadowBlur = 6;
     c.fill();
     c.restore();
 
     c.beginPath();
     c.arc(cx, cy, 7, 0, Math.PI * 2);
-    c.fillStyle = "#38bdf8";
+    c.fillStyle = "#0284c7";
     c.fill();
 
     c.restore();

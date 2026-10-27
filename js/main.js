@@ -26,7 +26,8 @@ document.addEventListener("DOMContentLoaded", () => {
   // App State
   let currentCategory = "all";
   let userWatchlist = JSON.parse(localStorage.getItem("mp_watchlist") || '["NVDA", "AAPL", "BTC-USD"]');
-  let currentTheme = localStorage.getItem("mp_theme") || "dark";
+  let currentTheme = "light";
+  localStorage.setItem("mp_theme", "light");
   lastHourlySyncTime = Date.now();
   window.lastHourlySyncTime = lastHourlySyncTime;
 
@@ -133,23 +134,21 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   /* ========================================================================
-     THEME SWITCHER
+     THEME (FIXED INSTITUTIONAL WHITE THEME)
      ======================================================================== */
-  function applyTheme(theme) {
-    document.documentElement.setAttribute("data-theme", theme);
-    localStorage.setItem("mp_theme", theme);
+  function applyTheme(_theme = "light") {
+    document.documentElement.setAttribute("data-theme", "light");
+    localStorage.setItem("mp_theme", "light");
     const themeBtn = document.getElementById("themeToggleBtn");
     if (themeBtn) {
-      themeBtn.innerHTML = theme === "dark" 
-        ? `<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>`
-        : `<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>`;
+      themeBtn.style.display = "none";
     }
     // Re-render chart for proper colors defensively
     setTimeout(() => {
-      if (typeof StockChart !== 'undefined' && typeof StockChart.render === 'function' && document.getElementById("mainStockCanvas")) {
+      if (typeof StockChart !== "undefined" && typeof StockChart.render === "function" && document.getElementById("mainStockCanvas")) {
         StockChart.render();
       }
-      if (typeof MarketAPI !== 'undefined' && typeof StockChart !== 'undefined' && document.getElementById("fearGreedCanvas")) {
+      if (typeof MarketAPI !== "undefined" && typeof StockChart !== "undefined" && document.getElementById("fearGreedCanvas")) {
         const fg = MarketAPI.getFearGreedIndex();
         if (fg) StockChart.drawFearGreedGauge("fearGreedCanvas", fg.score);
       }
@@ -158,11 +157,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   const themeToggle = document.getElementById("themeToggleBtn");
   if (themeToggle) {
-    themeToggle.addEventListener("click", () => {
-      currentTheme = currentTheme === "dark" ? "light" : "dark";
-      applyTheme(currentTheme);
-      showToast(`Switched to ${currentTheme} mode`);
-    });
+    themeToggle.style.display = "none";
   }
 
   /* ========================================================================

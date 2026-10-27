@@ -16,7 +16,7 @@
     position: 'bottom', // 'bottom'
     floatingBadge: true,
     floatingPosition: 'bottom-left', // 'bottom-left' or 'bottom-right'
-    theme: 'auto', // 'auto', 'dark', 'light'
+    theme: 'light', // 'auto', 'dark', 'light'
     gaMeasurementId: null,
     onConsentUpdate: null
   }, window.GDPR_CONSENT_CONFIG || {});
@@ -218,18 +218,18 @@
     style.textContent = `
       :root {
         --gdpr-font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-        --gdpr-bg: #0f172a;
-        --gdpr-surface: #1e293b;
-        --gdpr-surface-hover: #334155;
-        --gdpr-text: #f8fafc;
-        --gdpr-text-muted: #94a3b8;
-        --gdpr-border: rgba(255, 255, 255, 0.12);
-        --gdpr-primary: #3b82f6;
-        --gdpr-primary-hover: #2563eb;
+        --gdpr-bg: #ffffff;
+        --gdpr-surface: #f1f5f9;
+        --gdpr-surface-hover: #e2e8f0;
+        --gdpr-text: #0f172a;
+        --gdpr-text-muted: #64748b;
+        --gdpr-border: rgba(0, 0, 0, 0.1);
+        --gdpr-primary: #0284c7;
+        --gdpr-primary-hover: #0369a1;
         --gdpr-primary-text: #ffffff;
         --gdpr-success: #10b981;
         --gdpr-radius: 12px;
-        --gdpr-shadow: 0 20px 40px -15px rgba(0, 0, 0, 0.5), 0 0 0 1px rgba(255, 255, 255, 0.1);
+        --gdpr-shadow: 0 20px 40px -15px rgba(0, 0, 0, 0.12), 0 0 0 1px rgba(0, 0, 0, 0.08);
       }
 
       /* Light mode support if requested or if document is light theme */

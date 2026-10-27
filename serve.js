@@ -895,12 +895,12 @@ app.all('/api/update', async (req, res) => {
 });
 
 /* ==========================================================================
-   CUSTOM 404 NOT FOUND HANDLER (INSTITUTIONAL OBSIDIAN THEME)
+   CUSTOM 404 NOT FOUND HANDLER (INSTITUTIONAL WHITE THEME)
    ========================================================================== */
 
 app.use((req, res) => {
   res.status(404).send(`<!DOCTYPE html>
-<html lang="en" data-theme="dark">
+<html lang="en" data-theme="light">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
