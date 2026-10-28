@@ -4,39 +4,95 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-10-28T07:35:07.681Z</lastmod>
+    <lastmod>2026-10-28T14:34:17.629Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/us-markets</loc>
-    <lastmod>2026-10-28T07:35:07.681Z</lastmod>
+    <lastmod>2026-10-28T14:34:17.629Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/tech-ai</loc>
-    <lastmod>2026-10-28T07:35:07.681Z</lastmod>
+    <lastmod>2026-10-28T14:34:17.629Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/macro-economy</loc>
-    <lastmod>2026-10-28T07:35:07.681Z</lastmod>
+    <lastmod>2026-10-28T14:34:17.629Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/crypto</loc>
-    <lastmod>2026-10-28T07:35:07.681Z</lastmod>
+    <lastmod>2026-10-28T14:34:17.629Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/earnings</loc>
-    <lastmod>2026-10-28T07:35:07.681Z</lastmod>
+    <lastmod>2026-10-28T14:34:17.629Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/we-stopped-helping-our-neighbors-with-free-home-repairs-and--toxa</loc>
+    <lastmod>2026-10-28T14:15:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T14:15:00.000Z</news:publication_date>
+      <news:title>We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/when-do-i-sell-my-stocks-ignore-the-noise-and-focus-on-these-toxa</loc>
+    <lastmod>2026-10-28T14:10:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T14:10:00.000Z</news:publication_date>
+      <news:title>‘When do I sell my stocks?’ Ignore the noise and focus on these things.</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/is-that-used-ev-worth-the-price-this-checklist-could-save-yo-toxa</loc>
+    <lastmod>2026-10-28T13:53:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T13:53:00.000Z</news:publication_date>
+      <news:title>Is that used EV worth the price? This checklist could save you thousands of dollars.</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/want-guaranteed-income-in-retirement-without-an-annuity-try--toxa</loc>
+    <lastmod>2026-10-28T13:27:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T13:27:00.000Z</news:publication_date>
+      <news:title>Want guaranteed income in retirement without an annuity? Try laddering I bonds.</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/a-leading-silicon-valley-cheerleader-just-showed-all-the-rea-un3u</loc>
@@ -473,100 +529,44 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article/is-it-curtains-for-cola-saving-social-security-could-mean-ch-mw1s</loc>
-    <lastmod>2026-10-26T17:19:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T17:19:00.000Z</news:publication_date>
-      <news:title>Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why--mw1s</loc>
-    <lastmod>2026-10-26T16:15:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T16:15:00.000Z</news:publication_date>
-      <news:title>‘You need only watch episodes of Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/verizons-stock-rises-as-subscriber-surge-impresses-wall-stre-lbul</loc>
-    <lastmod>2026-10-26T11:11:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T11:11:00.000Z</news:publication_date>
-      <news:title>Verizon’s stock rises as subscriber surge impresses Wall Street</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/these-four-shocks-could-hand-investors-an-unexpected-buying--lbul</loc>
-    <lastmod>2026-10-26T10:58:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T10:58:00.000Z</news:publication_date>
-      <news:title>These four shocks could hand investors an unexpected buying window, strategists say</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/about</loc>
-    <lastmod>2026-10-28T07:35:07.681Z</lastmod>
+    <lastmod>2026-10-28T14:34:17.629Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact</loc>
-    <lastmod>2026-10-28T07:35:07.681Z</lastmod>
+    <lastmod>2026-10-28T14:34:17.629Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy</loc>
-    <lastmod>2026-10-28T07:35:07.681Z</lastmod>
+    <lastmod>2026-10-28T14:34:17.629Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms</loc>
-    <lastmod>2026-10-28T07:35:07.681Z</lastmod>
+    <lastmod>2026-10-28T14:34:17.629Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-10-28T07:35:07.681Z</lastmod>
+    <lastmod>2026-10-28T14:34:17.629Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-10-28T07:35:07.681Z</lastmod>
+    <lastmod>2026-10-28T14:34:17.629Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-10-28T07:35:07.681Z</lastmod>
+    <lastmod>2026-10-28T14:34:17.629Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
