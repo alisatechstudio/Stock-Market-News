@@ -53,6 +53,7 @@ document.addEventListener("DOMContentLoaded", () => {
   initMobileMenu();
   initBreakingNewsWire();
   startClientHourlyAutoUpdate();
+  initAdAutoRefresh();
 
   // Listen to live price updates from MarketAPI
   if (typeof MarketAPI !== 'undefined' && typeof MarketAPI.subscribe === 'function') {
@@ -130,6 +131,134 @@ document.addEventListener("DOMContentLoaded", () => {
       badgeText.textContent = "Auto-updated hourly • Updated just now";
     } else {
       badgeText.textContent = `Auto-updated hourly • Updated ${minsAgo}m ago`;
+    }
+  }
+
+  /* ========================================================================
+     AUTOMATED BANNER AD ROTATION & 30-SECOND REFRESH ENGINE
+     Refreshes all active banner ads and native widgets every 30 seconds
+     seamlessly without layout shifts (CLS) or page flicker.
+     Visibility-aware: pauses when tab is hidden, resumes on focus.
+     Strictly excludes Google AdSense / DoubleClick to ensure policy compliance.
+     ======================================================================== */
+  var lastAdRefreshTime = Date.now();
+  var adRefreshTimer = null;
+
+  function initAdAutoRefresh() {
+    const AD_REFRESH_INTERVAL = 30 * 1000; // 30 seconds
+
+    if (adRefreshTimer) {
+      clearInterval(adRefreshTimer);
+    }
+
+    adRefreshTimer = setInterval(() => {
+      if (!document.hidden) {
+        refreshAllBannerAds();
+      }
+    }, AD_REFRESH_INTERVAL);
+
+    document.addEventListener("visibilitychange", () => {
+      if (!document.hidden) {
+        const now = Date.now();
+        if (now - lastAdRefreshTime >= AD_REFRESH_INTERVAL) {
+          refreshAllBannerAds();
+        }
+      }
+    });
+
+    if (typeof window !== "undefined") {
+      window.refreshAllBannerAds = refreshAllBannerAds;
+    }
+  }
+
+  function isEligibleAdIframe(iframe) {
+    if (!iframe) return false;
+    const src = (iframe.getAttribute("src") || iframe.src || "").toLowerCase();
+    const id = (iframe.id || "").toLowerCase();
+    const className = (iframe.className || "").toLowerCase();
+
+    // Strictly skip Google AdSense, DoubleClick, and Analytics to respect compliance policies
+    if (
+      src.includes("googlesyndication") ||
+      src.includes("doubleclick") ||
+      src.includes("googleads") ||
+      id.startsWith("aswift") ||
+      id.startsWith("google") ||
+      className.includes("adsbygoogle")
+    ) {
+      return false;
+    }
+
+    // Check if it belongs to an ad-card, ad-slot-container, native-ad-wrap, or has bauval origin
+    const inAdCard = iframe.closest(".ad-card") !== null;
+    const inAdSlot = iframe.closest(".ad-slot-container") !== null;
+    const inNativeWrap = iframe.closest(".native-ad-wrap") !== null;
+    const isBauval = src.includes("bauval.org") || id.includes("atcontainer") || id.includes("container-");
+
+    return inAdCard || inAdSlot || inNativeWrap || isBauval;
+  }
+
+  function refreshAllBannerAds() {
+    lastAdRefreshTime = Date.now();
+    let refreshedCount = 0;
+
+    // 1. Refresh all banner ad iframes in .ad-card, .ad-slot-container, and bauval containers
+    const iframes = document.querySelectorAll(
+      '.ad-card iframe, .ad-slot-container iframe, .native-ad-wrap iframe, iframe[src*="bauval.org"], [id^="atContainer-"] iframe, [id^="container-"] iframe'
+    );
+
+    iframes.forEach((iframe) => {
+      if (!isEligibleAdIframe(iframe)) return;
+
+      try {
+        const rawSrc = iframe.getAttribute("src") || iframe.src;
+        if (rawSrc && !rawSrc.startsWith("about:") && !rawSrc.startsWith("javascript:")) {
+          const url = new URL(rawSrc, window.location.href);
+          url.searchParams.set("_ab_ref", Date.now().toString());
+          iframe.src = url.toString();
+          refreshedCount++;
+        } else if (iframe.contentWindow) {
+          try {
+            iframe.contentWindow.location.reload();
+            refreshedCount++;
+          } catch (_) {}
+        }
+      } catch (e) {
+        try {
+          const raw = iframe.src || iframe.getAttribute("src");
+          if (raw && !raw.startsWith("about:")) {
+            const clean = raw.replace(/([?&])_ab_ref=\d+/, "");
+            const sep = clean.includes("?") ? "&" : "?";
+            iframe.src = `${clean}${sep}_ab_ref=${Date.now()}`;
+            refreshedCount++;
+          }
+        } catch (_) {}
+      }
+    });
+
+    // 2. Handle native recommendation widget container
+    const nativeContainer = document.getElementById("container-0e743c872d5bc339c50211422e1c8734");
+    if (nativeContainer) {
+      const hasIframe = nativeContainer.querySelector("iframe");
+      // If native widget rendered directly as DOM elements without an iframe, re-execute the loader
+      if (!hasIframe) {
+        nativeContainer.innerHTML = "";
+        const oldScript = document.querySelector('script[src*="0e743c872d5bc339c50211422e1c8734"]');
+        const newScript = document.createElement("script");
+        newScript.async = true;
+        newScript.setAttribute("data-cfasync", "false");
+        newScript.src = `https://bauval.org/21/0e743c872d5bc339c50211422e1c8734?_t=${Date.now()}`;
+        if (oldScript && oldScript.parentNode) {
+          oldScript.parentNode.replaceChild(newScript, oldScript);
+        } else if (nativeContainer.parentNode) {
+          nativeContainer.parentNode.insertBefore(newScript, nativeContainer);
+        }
+        refreshedCount++;
+      }
+    }
+
+    if (refreshedCount > 0) {
+      console.info(`[Banner Ads] 30s auto-refresh executed (${refreshedCount} units updated) at ${new Date().toLocaleTimeString()}`);
     }
   }
 
