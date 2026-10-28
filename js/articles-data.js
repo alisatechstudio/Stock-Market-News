@@ -1,10 +1,236 @@
 /**
  * World Stock News - Editorial Database of In-Depth Financial Intelligence Articles
  * Automatically updated hourly by World Stock News Real-Time Ingestion Engine
- * Last Automated Update: 2026-10-28T14:34:18.095Z
+ * Last Automated Update: 2026-10-28T19:55:56.926Z
  */
 
 const ArticlesData = [
+  {
+    "id": "the-us-government-will-no-longer-penalize-american-companies-bbzx",
+    "title": "The U.S. government will no longer penalize American companies for making six popular peptides",
+    "excerpt": "It won’t take action against compounding pharmacies that make popular wellness products like BPC-157 and TB-500.",
+    "category": "Tech & AI",
+    "categorySlug": "tech-ai",
+    "tickers": [
+      "NVDA",
+      "AAPL",
+      "MSFT",
+      "QQQ"
+    ],
+    "sentiment": "Bullish",
+    "sentimentScore": "+89%",
+    "author": {
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
+    },
+    "publishedAt": "2026-10-28T19:50:00.000Z",
+    "readTime": "5 min read",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "source": "MarketWatch",
+    "sourceUrl": "https://www.marketwatch.com/story/trump-administration-clears-the-way-for-production-of-peptides-like-bpc-157-and-tb-500-28ac2d11?mod=mw_rss_topstories",
+    "targetPrice": "Overweight Target",
+    "analystConsensus": "Accumulate / Buy",
+    "tableOfContents": [
+      {
+        "id": "market-overview",
+        "title": "Market Context & Catalyst"
+      },
+      {
+        "id": "institutional-flows",
+        "title": "Institutional Liquidity & Order Flow"
+      },
+      {
+        "id": "strategic-outlook",
+        "title": "Strategic Positioning & Key Risk Levels"
+      },
+      {
+        "id": "original-wire",
+        "title": "Primary Wire & Full Coverage Link"
+      }
+    ],
+    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> The U.S. government will no longer penalize American companies for making six popular peptides. Reported by MarketWatch. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n        \n        <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);\">\n          <a href=\"https://www.marketwatch.com/story/trump-administration-clears-the-way-for-production-of-peptides-like-bpc-157-and-tb-500-28ac2d11?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;\">\n            <span>Read Original Wire Story on MarketWatch</span>\n            <span>↗</span>\n          </a>\n        </div>\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>It won’t take action against compounding pharmacies that make popular wellness products like BPC-157 and TB-500.</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n\n      \n      <h3 id=\"original-wire\">Primary Wire & Full Coverage Link</h3>\n      <p>This report incorporates real-time wire data provided by <strong>MarketWatch</strong>. You can inspect the primary external filing and full syndicated release directly:</p>\n      <p style=\"margin: 1.25rem 0;\">\n        <a href=\"https://www.marketwatch.com/story/trump-administration-clears-the-way-for-production-of-peptides-like-bpc-157-and-tb-500-28ac2d11?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;\">\n          <span>Open Full Original Article on MarketWatch</span>\n          <span style=\"font-size:1.1rem;\">↗</span>\n        </a>\n      </p>\n    "
+  },
+  {
+    "id": "heres-what-just-sent-oracles-stock-soaring-bbzx",
+    "title": "Here’s what just sent Oracle’s stock soaring",
+    "excerpt": "The company’s new financial targets paint a rosier picture of its AI economics than investors had feared.",
+    "category": "Tech & AI",
+    "categorySlug": "tech-ai",
+    "tickers": [
+      "NVDA",
+      "AAPL",
+      "MSFT",
+      "QQQ"
+    ],
+    "sentiment": "Bearish",
+    "sentimentScore": "-65%",
+    "author": {
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
+    },
+    "publishedAt": "2026-10-28T19:40:00.000Z",
+    "readTime": "5 min read",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "source": "MarketWatch",
+    "sourceUrl": "https://www.marketwatch.com/story/heres-what-just-sent-oracles-stock-soaring-7a1a91e2?mod=mw_rss_topstories",
+    "targetPrice": "Overweight Target",
+    "analystConsensus": "Reduce",
+    "tableOfContents": [
+      {
+        "id": "market-overview",
+        "title": "Market Context & Catalyst"
+      },
+      {
+        "id": "institutional-flows",
+        "title": "Institutional Liquidity & Order Flow"
+      },
+      {
+        "id": "strategic-outlook",
+        "title": "Strategic Positioning & Key Risk Levels"
+      },
+      {
+        "id": "original-wire",
+        "title": "Primary Wire & Full Coverage Link"
+      }
+    ],
+    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> Here’s what just sent Oracle’s stock soaring. Reported by MarketWatch. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n        \n        <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);\">\n          <a href=\"https://www.marketwatch.com/story/heres-what-just-sent-oracles-stock-soaring-7a1a91e2?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;\">\n            <span>Read Original Wire Story on MarketWatch</span>\n            <span>↗</span>\n          </a>\n        </div>\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>The company’s new financial targets paint a rosier picture of its AI economics than investors had feared.</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n\n      \n      <h3 id=\"original-wire\">Primary Wire & Full Coverage Link</h3>\n      <p>This report incorporates real-time wire data provided by <strong>MarketWatch</strong>. You can inspect the primary external filing and full syndicated release directly:</p>\n      <p style=\"margin: 1.25rem 0;\">\n        <a href=\"https://www.marketwatch.com/story/heres-what-just-sent-oracles-stock-soaring-7a1a91e2?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;\">\n          <span>Open Full Original Article on MarketWatch</span>\n          <span style=\"font-size:1.1rem;\">↗</span>\n        </a>\n      </p>\n    "
+  },
+  {
+    "id": "elon-musk-says-he-can-build-a-wireless-carrier-in-two-to-thr-bbzx",
+    "title": "Elon Musk says he can build a wireless carrier in two to three years. Is that possible?",
+    "excerpt": "Verizon says there is ‘no magic wand,’ but analysts note SpaceX may be targeting some shortcuts.",
+    "category": "US Markets",
+    "categorySlug": "us-markets",
+    "tickers": [
+      "^GSPC",
+      "SPY"
+    ],
+    "sentiment": "Bullish",
+    "sentimentScore": "+78%",
+    "author": {
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
+    },
+    "publishedAt": "2026-10-28T18:58:00.000Z",
+    "readTime": "5 min read",
+    "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1200&q=80",
+    "source": "MarketWatch",
+    "sourceUrl": "https://www.marketwatch.com/story/elon-musk-says-he-can-build-a-wireless-carrier-in-two-to-three-years-is-that-possible-5ccf9685?mod=mw_rss_topstories",
+    "targetPrice": "Overweight Target",
+    "analystConsensus": "Accumulate / Buy",
+    "tableOfContents": [
+      {
+        "id": "market-overview",
+        "title": "Market Context & Catalyst"
+      },
+      {
+        "id": "institutional-flows",
+        "title": "Institutional Liquidity & Order Flow"
+      },
+      {
+        "id": "strategic-outlook",
+        "title": "Strategic Positioning & Key Risk Levels"
+      },
+      {
+        "id": "original-wire",
+        "title": "Primary Wire & Full Coverage Link"
+      }
+    ],
+    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> Elon Musk says he can build a wireless carrier in two to three years. Is that possible?. Reported by MarketWatch. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n        \n        <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);\">\n          <a href=\"https://www.marketwatch.com/story/elon-musk-says-he-can-build-a-wireless-carrier-in-two-to-three-years-is-that-possible-5ccf9685?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;\">\n            <span>Read Original Wire Story on MarketWatch</span>\n            <span>↗</span>\n          </a>\n        </div>\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>Verizon says there is ‘no magic wand,’ but analysts note SpaceX may be targeting some shortcuts.</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n\n      \n      <h3 id=\"original-wire\">Primary Wire & Full Coverage Link</h3>\n      <p>This report incorporates real-time wire data provided by <strong>MarketWatch</strong>. You can inspect the primary external filing and full syndicated release directly:</p>\n      <p style=\"margin: 1.25rem 0;\">\n        <a href=\"https://www.marketwatch.com/story/elon-musk-says-he-can-build-a-wireless-carrier-in-two-to-three-years-is-that-possible-5ccf9685?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;\">\n          <span>Open Full Original Article on MarketWatch</span>\n          <span style=\"font-size:1.1rem;\">↗</span>\n        </a>\n      </p>\n    "
+  },
+  {
+    "id": "gen-z-voters-told-us-the-midterms-will-boil-down-to-affordin-bbzx",
+    "title": "Gen Z voters told us the midterms will boil down to affording life, not social issues",
+    "excerpt": "MarketWatch talked to younger voters who said many life goals feel unattainable for their generation.",
+    "category": "Tech & AI",
+    "categorySlug": "tech-ai",
+    "tickers": [
+      "NVDA",
+      "AAPL",
+      "MSFT",
+      "QQQ"
+    ],
+    "sentiment": "Bullish",
+    "sentimentScore": "+89%",
+    "author": {
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
+    },
+    "publishedAt": "2026-10-28T18:56:00.000Z",
+    "readTime": "5 min read",
+    "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
+    "source": "MarketWatch",
+    "sourceUrl": "https://www.marketwatch.com/story/gen-z-voters-told-us-the-midterms-will-boil-down-to-affording-life-not-social-issues-11bd1734?mod=mw_rss_topstories",
+    "targetPrice": "Overweight Target",
+    "analystConsensus": "Accumulate / Buy",
+    "tableOfContents": [
+      {
+        "id": "market-overview",
+        "title": "Market Context & Catalyst"
+      },
+      {
+        "id": "institutional-flows",
+        "title": "Institutional Liquidity & Order Flow"
+      },
+      {
+        "id": "strategic-outlook",
+        "title": "Strategic Positioning & Key Risk Levels"
+      },
+      {
+        "id": "original-wire",
+        "title": "Primary Wire & Full Coverage Link"
+      }
+    ],
+    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> Gen Z voters told us the midterms will boil down to affording life, not social issues. Reported by MarketWatch. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n        \n        <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);\">\n          <a href=\"https://www.marketwatch.com/story/gen-z-voters-told-us-the-midterms-will-boil-down-to-affording-life-not-social-issues-11bd1734?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;\">\n            <span>Read Original Wire Story on MarketWatch</span>\n            <span>↗</span>\n          </a>\n        </div>\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>MarketWatch talked to younger voters who said many life goals feel unattainable for their generation.</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n\n      \n      <h3 id=\"original-wire\">Primary Wire & Full Coverage Link</h3>\n      <p>This report incorporates real-time wire data provided by <strong>MarketWatch</strong>. You can inspect the primary external filing and full syndicated release directly:</p>\n      <p style=\"margin: 1.25rem 0;\">\n        <a href=\"https://www.marketwatch.com/story/gen-z-voters-told-us-the-midterms-will-boil-down-to-affording-life-not-social-issues-11bd1734?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;\">\n          <span>Open Full Original Article on MarketWatch</span>\n          <span style=\"font-size:1.1rem;\">↗</span>\n        </a>\n      </p>\n    "
+  },
+  {
+    "id": "im-planning-a-trip-to-europe-is-it-dumb-to-take-travel-advic-bbzx",
+    "title": "I’m planning a trip to Europe. Is it dumb to take travel advice from influencers?",
+    "excerpt": "“How can I tell if something is a real experience in my price range?”",
+    "category": "US Markets",
+    "categorySlug": "us-markets",
+    "tickers": [
+      "^GSPC",
+      "SPY"
+    ],
+    "sentiment": "Bullish",
+    "sentimentScore": "+78%",
+    "author": {
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
+    },
+    "publishedAt": "2026-10-28T18:30:00.000Z",
+    "readTime": "5 min read",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "source": "MarketWatch",
+    "sourceUrl": "https://www.marketwatch.com/story/im-planning-a-trip-to-europe-is-it-dumb-to-take-travel-advice-from-influencers-f25ae756?mod=mw_rss_topstories",
+    "targetPrice": "Overweight Target",
+    "analystConsensus": "Accumulate / Buy",
+    "tableOfContents": [
+      {
+        "id": "market-overview",
+        "title": "Market Context & Catalyst"
+      },
+      {
+        "id": "institutional-flows",
+        "title": "Institutional Liquidity & Order Flow"
+      },
+      {
+        "id": "strategic-outlook",
+        "title": "Strategic Positioning & Key Risk Levels"
+      },
+      {
+        "id": "original-wire",
+        "title": "Primary Wire & Full Coverage Link"
+      }
+    ],
+    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> I’m planning a trip to Europe. Is it dumb to take travel advice from influencers?. Reported by MarketWatch. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n        \n        <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);\">\n          <a href=\"https://www.marketwatch.com/story/im-planning-a-trip-to-europe-is-it-dumb-to-take-travel-advice-from-influencers-f25ae756?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;\">\n            <span>Read Original Wire Story on MarketWatch</span>\n            <span>↗</span>\n          </a>\n        </div>\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>“How can I tell if something is a real experience in my price range?”</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n\n      \n      <h3 id=\"original-wire\">Primary Wire & Full Coverage Link</h3>\n      <p>This report incorporates real-time wire data provided by <strong>MarketWatch</strong>. You can inspect the primary external filing and full syndicated release directly:</p>\n      <p style=\"margin: 1.25rem 0;\">\n        <a href=\"https://www.marketwatch.com/story/im-planning-a-trip-to-europe-is-it-dumb-to-take-travel-advice-from-influencers-f25ae756?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;\">\n          <span>Open Full Original Article on MarketWatch</span>\n          <span style=\"font-size:1.1rem;\">↗</span>\n        </a>\n      </p>\n    "
+  },
   {
     "id": "we-stopped-helping-our-neighbors-with-free-home-repairs-and--toxa",
     "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
@@ -1363,230 +1589,6 @@ const ArticlesData = [
       }
     ],
     "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> Over 40% of Americans are heading toward retirement ‘blind’ — with no plan. Reported by MarketWatch. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n        \n        <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);\">\n          <a href=\"https://www.marketwatch.com/story/over-40-of-americans-are-heading-toward-retirement-blind-with-no-plan-e49b502f?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;\">\n            <span>Read Original Wire Story on MarketWatch</span>\n            <span>↗</span>\n          </a>\n        </div>\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>Nearly half of Americans haven’t calculated what they’ll need in retirement.</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n\n      \n      <h3 id=\"original-wire\">Primary Wire & Full Coverage Link</h3>\n      <p>This report incorporates real-time wire data provided by <strong>MarketWatch</strong>. You can inspect the primary external filing and full syndicated release directly:</p>\n      <p style=\"margin: 1.25rem 0;\">\n        <a href=\"https://www.marketwatch.com/story/over-40-of-americans-are-heading-toward-retirement-blind-with-no-plan-e49b502f?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;\">\n          <span>Open Full Original Article on MarketWatch</span>\n          <span style=\"font-size:1.1rem;\">↗</span>\n        </a>\n      </p>\n    "
-  },
-  {
-    "id": "a-possible-doordash-instacart-deal-is-all-about-keeping-up-w-r1fu",
-    "title": "A possible DoorDash-Instacart deal is all about keeping up with Walmart and Amazon, analysts say",
-    "excerpt": "The Wall Street Journal reports that DoorDash was in ‘advanced talks’ to buy Instacart in a deal that would value Instacart at roughly $17 billion",
-    "category": "US Markets",
-    "categorySlug": "us-markets",
-    "tickers": [
-      "^GSPC",
-      "SPY"
-    ],
-    "sentiment": "Bullish",
-    "sentimentScore": "+78%",
-    "author": {
-      "name": "World Stock News Editorial Desk",
-      "title": "Financial Market Intelligence & Macro Analytics",
-      "avatar": "/assets/logo.png"
-    },
-    "publishedAt": "2026-10-26T21:46:00.000Z",
-    "readTime": "5 min read",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "source": "MarketWatch",
-    "sourceUrl": "https://www.marketwatch.com/story/a-possible-doordash-instacart-deal-is-all-about-keeping-up-with-walmart-and-amazon-analysts-say-17049bb1?mod=mw_rss_topstories",
-    "targetPrice": "Overweight Target",
-    "analystConsensus": "Accumulate / Buy",
-    "tableOfContents": [
-      {
-        "id": "market-overview",
-        "title": "Market Context & Catalyst"
-      },
-      {
-        "id": "institutional-flows",
-        "title": "Institutional Liquidity & Order Flow"
-      },
-      {
-        "id": "strategic-outlook",
-        "title": "Strategic Positioning & Key Risk Levels"
-      },
-      {
-        "id": "original-wire",
-        "title": "Primary Wire & Full Coverage Link"
-      }
-    ],
-    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> A possible DoorDash-Instacart deal is all about keeping up with Walmart and Amazon, analysts say. Reported by MarketWatch. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n        \n        <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);\">\n          <a href=\"https://www.marketwatch.com/story/a-possible-doordash-instacart-deal-is-all-about-keeping-up-with-walmart-and-amazon-analysts-say-17049bb1?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;\">\n            <span>Read Original Wire Story on MarketWatch</span>\n            <span>↗</span>\n          </a>\n        </div>\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>The Wall Street Journal reports that DoorDash was in ‘advanced talks’ to buy Instacart in a deal that would value Instacart at roughly $17 billion</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n\n      \n      <h3 id=\"original-wire\">Primary Wire & Full Coverage Link</h3>\n      <p>This report incorporates real-time wire data provided by <strong>MarketWatch</strong>. You can inspect the primary external filing and full syndicated release directly:</p>\n      <p style=\"margin: 1.25rem 0;\">\n        <a href=\"https://www.marketwatch.com/story/a-possible-doordash-instacart-deal-is-all-about-keeping-up-with-walmart-and-amazon-analysts-say-17049bb1?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;\">\n          <span>Open Full Original Article on MarketWatch</span>\n          <span style=\"font-size:1.1rem;\">↗</span>\n        </a>\n      </p>\n    "
-  },
-  {
-    "id": "nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35--r1fu",
-    "title": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering",
-    "excerpt": "Meta is looking to raise a total of $95 billion through stock-related deals that stretch into early next year.",
-    "category": "Tech & AI",
-    "categorySlug": "tech-ai",
-    "tickers": [
-      "NVDA",
-      "AAPL",
-      "MSFT",
-      "QQQ"
-    ],
-    "sentiment": "Bullish",
-    "sentimentScore": "+89%",
-    "author": {
-      "name": "World Stock News Editorial Desk",
-      "title": "Financial Market Intelligence & Macro Analytics",
-      "avatar": "/assets/logo.png"
-    },
-    "publishedAt": "2026-10-26T21:44:00.000Z",
-    "readTime": "5 min read",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "source": "MarketWatch",
-    "sourceUrl": "https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories",
-    "targetPrice": "Overweight Target",
-    "analystConsensus": "Accumulate / Buy",
-    "tableOfContents": [
-      {
-        "id": "market-overview",
-        "title": "Market Context & Catalyst"
-      },
-      {
-        "id": "institutional-flows",
-        "title": "Institutional Liquidity & Order Flow"
-      },
-      {
-        "id": "strategic-outlook",
-        "title": "Strategic Positioning & Key Risk Levels"
-      },
-      {
-        "id": "original-wire",
-        "title": "Primary Wire & Full Coverage Link"
-      }
-    ],
-    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering. Reported by MarketWatch. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n        \n        <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);\">\n          <a href=\"https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;\">\n            <span>Read Original Wire Story on MarketWatch</span>\n            <span>↗</span>\n          </a>\n        </div>\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>Meta is looking to raise a total of $95 billion through stock-related deals that stretch into early next year.</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n\n      \n      <h3 id=\"original-wire\">Primary Wire & Full Coverage Link</h3>\n      <p>This report incorporates real-time wire data provided by <strong>MarketWatch</strong>. You can inspect the primary external filing and full syndicated release directly:</p>\n      <p style=\"margin: 1.25rem 0;\">\n        <a href=\"https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;\">\n          <span>Open Full Original Article on MarketWatch</span>\n          <span style=\"font-size:1.1rem;\">↗</span>\n        </a>\n      </p>\n    "
-  },
-  {
-    "id": "why-lumentums-stock-led-the-sp-500-higher-on-monday-r1fu",
-    "title": "Why Lumentum’s stock led the S&P 500 higher on Monday",
-    "excerpt": "Optical stocks are staging a comeback following Anthropic’s IPO filing and some other good news",
-    "category": "US Markets",
-    "categorySlug": "us-markets",
-    "tickers": [
-      "^GSPC",
-      "SPY"
-    ],
-    "sentiment": "Bullish",
-    "sentimentScore": "+78%",
-    "author": {
-      "name": "World Stock News Editorial Desk",
-      "title": "Financial Market Intelligence & Macro Analytics",
-      "avatar": "/assets/logo.png"
-    },
-    "publishedAt": "2026-10-26T21:04:00.000Z",
-    "readTime": "5 min read",
-    "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1200&q=80",
-    "source": "MarketWatch",
-    "sourceUrl": "https://www.marketwatch.com/story/why-lumentums-stock-led-the-s-p-500-higher-on-monday-0dff125b?mod=mw_rss_topstories",
-    "targetPrice": "Overweight Target",
-    "analystConsensus": "Accumulate / Buy",
-    "tableOfContents": [
-      {
-        "id": "market-overview",
-        "title": "Market Context & Catalyst"
-      },
-      {
-        "id": "institutional-flows",
-        "title": "Institutional Liquidity & Order Flow"
-      },
-      {
-        "id": "strategic-outlook",
-        "title": "Strategic Positioning & Key Risk Levels"
-      },
-      {
-        "id": "original-wire",
-        "title": "Primary Wire & Full Coverage Link"
-      }
-    ],
-    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> Why Lumentum’s stock led the S&P 500 higher on Monday. Reported by MarketWatch. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n        \n        <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);\">\n          <a href=\"https://www.marketwatch.com/story/why-lumentums-stock-led-the-s-p-500-higher-on-monday-0dff125b?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;\">\n            <span>Read Original Wire Story on MarketWatch</span>\n            <span>↗</span>\n          </a>\n        </div>\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>Optical stocks are staging a comeback following Anthropic’s IPO filing and some other good news</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n\n      \n      <h3 id=\"original-wire\">Primary Wire & Full Coverage Link</h3>\n      <p>This report incorporates real-time wire data provided by <strong>MarketWatch</strong>. You can inspect the primary external filing and full syndicated release directly:</p>\n      <p style=\"margin: 1.25rem 0;\">\n        <a href=\"https://www.marketwatch.com/story/why-lumentums-stock-led-the-s-p-500-higher-on-monday-0dff125b?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;\">\n          <span>Open Full Original Article on MarketWatch</span>\n          <span style=\"font-size:1.1rem;\">↗</span>\n        </a>\n      </p>\n    "
-  },
-  {
-    "id": "with-the-anthropic-ipo-the-devil-is-in-the-details-r1fu",
-    "title": "With the Anthropic IPO, the devil is in the details",
-    "excerpt": "The first draft of the AI company’s prospectus is light on details, but some things immediately leap out.",
-    "category": "Tech & AI",
-    "categorySlug": "tech-ai",
-    "tickers": [
-      "NVDA",
-      "AAPL",
-      "MSFT",
-      "QQQ"
-    ],
-    "sentiment": "Bullish",
-    "sentimentScore": "+89%",
-    "author": {
-      "name": "World Stock News Editorial Desk",
-      "title": "Financial Market Intelligence & Macro Analytics",
-      "avatar": "/assets/logo.png"
-    },
-    "publishedAt": "2026-10-26T20:50:00.000Z",
-    "readTime": "5 min read",
-    "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
-    "source": "MarketWatch",
-    "sourceUrl": "https://www.marketwatch.com/story/with-the-anthropic-ipo-the-devil-is-in-the-details-239d571d?mod=mw_rss_topstories",
-    "targetPrice": "Overweight Target",
-    "analystConsensus": "Accumulate / Buy",
-    "tableOfContents": [
-      {
-        "id": "market-overview",
-        "title": "Market Context & Catalyst"
-      },
-      {
-        "id": "institutional-flows",
-        "title": "Institutional Liquidity & Order Flow"
-      },
-      {
-        "id": "strategic-outlook",
-        "title": "Strategic Positioning & Key Risk Levels"
-      },
-      {
-        "id": "original-wire",
-        "title": "Primary Wire & Full Coverage Link"
-      }
-    ],
-    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> With the Anthropic IPO, the devil is in the details. Reported by MarketWatch. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n        \n        <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);\">\n          <a href=\"https://www.marketwatch.com/story/with-the-anthropic-ipo-the-devil-is-in-the-details-239d571d?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;\">\n            <span>Read Original Wire Story on MarketWatch</span>\n            <span>↗</span>\n          </a>\n        </div>\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>The first draft of the AI company’s prospectus is light on details, but some things immediately leap out.</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n\n      \n      <h3 id=\"original-wire\">Primary Wire & Full Coverage Link</h3>\n      <p>This report incorporates real-time wire data provided by <strong>MarketWatch</strong>. You can inspect the primary external filing and full syndicated release directly:</p>\n      <p style=\"margin: 1.25rem 0;\">\n        <a href=\"https://www.marketwatch.com/story/with-the-anthropic-ipo-the-devil-is-in-the-details-239d571d?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;\">\n          <span>Open Full Original Article on MarketWatch</span>\n          <span style=\"font-size:1.1rem;\">↗</span>\n        </a>\n      </p>\n    "
-  },
-  {
-    "id": "meet-the-financial-literacy-teacher-who-helps-high-school-st-mw1r",
-    "title": "Meet the financial-literacy teacher who helps high-school students open their own Roth IRAs",
-    "excerpt": "Christopher Jackson got hurt before his first NFL game. He now coaches teens on building wealth.",
-    "category": "US Markets",
-    "categorySlug": "us-markets",
-    "tickers": [
-      "^GSPC",
-      "SPY"
-    ],
-    "sentiment": "Bullish",
-    "sentimentScore": "+78%",
-    "author": {
-      "name": "World Stock News Editorial Desk",
-      "title": "Financial Market Intelligence & Macro Analytics",
-      "avatar": "/assets/logo.png"
-    },
-    "publishedAt": "2026-10-26T17:32:00.000Z",
-    "readTime": "5 min read",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "source": "MarketWatch",
-    "sourceUrl": "https://www.marketwatch.com/story/meet-the-financial-literacy-teacher-who-helps-high-school-students-open-their-own-roth-iras-652d56a8?mod=mw_rss_topstories",
-    "targetPrice": "Overweight Target",
-    "analystConsensus": "Accumulate / Buy",
-    "tableOfContents": [
-      {
-        "id": "market-overview",
-        "title": "Market Context & Catalyst"
-      },
-      {
-        "id": "institutional-flows",
-        "title": "Institutional Liquidity & Order Flow"
-      },
-      {
-        "id": "strategic-outlook",
-        "title": "Strategic Positioning & Key Risk Levels"
-      },
-      {
-        "id": "original-wire",
-        "title": "Primary Wire & Full Coverage Link"
-      }
-    ],
-    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> Meet the financial-literacy teacher who helps high-school students open their own Roth IRAs. Reported by MarketWatch. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n        \n        <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);\">\n          <a href=\"https://www.marketwatch.com/story/meet-the-financial-literacy-teacher-who-helps-high-school-students-open-their-own-roth-iras-652d56a8?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;\">\n            <span>Read Original Wire Story on MarketWatch</span>\n            <span>↗</span>\n          </a>\n        </div>\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>Christopher Jackson got hurt before his first NFL game. He now coaches teens on building wealth.</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n\n      \n      <h3 id=\"original-wire\">Primary Wire & Full Coverage Link</h3>\n      <p>This report incorporates real-time wire data provided by <strong>MarketWatch</strong>. You can inspect the primary external filing and full syndicated release directly:</p>\n      <p style=\"margin: 1.25rem 0;\">\n        <a href=\"https://www.marketwatch.com/story/meet-the-financial-literacy-teacher-who-helps-high-school-students-open-their-own-roth-iras-652d56a8?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;\">\n          <span>Open Full Original Article on MarketWatch</span>\n          <span style=\"font-size:1.1rem;\">↗</span>\n        </a>\n      </p>\n    "
   }
 ];
 
