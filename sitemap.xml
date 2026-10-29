@@ -4,39 +4,81 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-10-29T02:58:22.437Z</lastmod>
+    <lastmod>2026-10-29T09:14:39.031Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/us-markets</loc>
-    <lastmod>2026-10-29T02:58:22.437Z</lastmod>
+    <lastmod>2026-10-29T09:14:39.031Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/tech-ai</loc>
-    <lastmod>2026-10-29T02:58:22.437Z</lastmod>
+    <lastmod>2026-10-29T09:14:39.031Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/macro-economy</loc>
-    <lastmod>2026-10-29T02:58:22.437Z</lastmod>
+    <lastmod>2026-10-29T09:14:39.031Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/crypto</loc>
-    <lastmod>2026-10-29T02:58:22.437Z</lastmod>
+    <lastmod>2026-10-29T09:14:39.031Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/earnings</loc>
-    <lastmod>2026-10-29T02:58:22.437Z</lastmod>
+    <lastmod>2026-10-29T09:14:39.031Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/nba-star-lamelo-ball-is-selling-his-26-million-luxury-condo--uhd4</loc>
+    <lastmod>2026-10-29T09:02:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T09:02:00.000Z</news:publication_date>
+      <news:title>NBA star LaMelo Ball is selling his $2.6 million luxury condo in Charlotte after leaving the Hornets</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/samsung-electronics-earned-nearly-as-much-as-microsoft-and-a-uhd4</loc>
+    <lastmod>2026-10-29T09:01:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T09:01:00.000Z</news:publication_date>
+      <news:title>Samsung Electronics earned nearly as much as Microsoft and Alphabet combined. What the Korean giant is now saying about the memory-chip outlook.</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/anthropic-is-ai-trades-last-big-hope-for-a-major-ipo-this-ye-uhd4</loc>
+    <lastmod>2026-10-29T06:14:39.031Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T06:14:39.031Z</news:publication_date>
+      <news:title>Anthropic is AI trade&apos;s last big hope for a major IPO this year</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/why-alphabets-stock-could-see-its-worst-drop-in-years-after--ekzw</loc>
@@ -487,86 +529,44 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article/why-sofis-stock-is-soaring-after-earnings-klac</loc>
-    <lastmod>2026-10-27T12:21:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T12:21:00.000Z</news:publication_date>
-      <news:title>Why SoFi’s stock is soaring after earnings</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/heres-the-question-three-tech-sector-earnings-reports-raise--klac</loc>
-    <lastmod>2026-10-27T11:51:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T11:51:00.000Z</news:publication_date>
-      <news:title>Here’s the question three tech-sector earnings reports raise about the future of AI</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/just-watch-judge-judy-im-in-my-70s-why-do-people-keep-making-klac</loc>
-    <lastmod>2026-10-27T11:45:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T11:45:00.000Z</news:publication_date>
-      <news:title>‘Just watch Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/about</loc>
-    <lastmod>2026-10-29T02:58:22.437Z</lastmod>
+    <lastmod>2026-10-29T09:14:39.031Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact</loc>
-    <lastmod>2026-10-29T02:58:22.437Z</lastmod>
+    <lastmod>2026-10-29T09:14:39.031Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy</loc>
-    <lastmod>2026-10-29T02:58:22.437Z</lastmod>
+    <lastmod>2026-10-29T09:14:39.031Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms</loc>
-    <lastmod>2026-10-29T02:58:22.437Z</lastmod>
+    <lastmod>2026-10-29T09:14:39.031Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-10-29T02:58:22.437Z</lastmod>
+    <lastmod>2026-10-29T09:14:39.031Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-10-29T02:58:22.437Z</lastmod>
+    <lastmod>2026-10-29T09:14:39.031Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-10-29T02:58:22.437Z</lastmod>
+    <lastmod>2026-10-29T09:14:39.031Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
