@@ -4,39 +4,109 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-10-29T09:14:39.031Z</lastmod>
+    <lastmod>2026-10-29T16:28:21.949Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/us-markets</loc>
-    <lastmod>2026-10-29T09:14:39.031Z</lastmod>
+    <lastmod>2026-10-29T16:28:21.949Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/tech-ai</loc>
-    <lastmod>2026-10-29T09:14:39.031Z</lastmod>
+    <lastmod>2026-10-29T16:28:21.949Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/macro-economy</loc>
-    <lastmod>2026-10-29T09:14:39.031Z</lastmod>
+    <lastmod>2026-10-29T16:28:21.949Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/crypto</loc>
-    <lastmod>2026-10-29T09:14:39.031Z</lastmod>
+    <lastmod>2026-10-29T16:28:21.949Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/earnings</loc>
-    <lastmod>2026-10-29T09:14:39.031Z</lastmod>
+    <lastmod>2026-10-29T16:28:21.949Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/you-cant-rely-on-the-sp-500-as-much-as-you-may-think-c8pe</loc>
+    <lastmod>2026-10-29T16:26:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T16:26:00.000Z</news:publication_date>
+      <news:title>You can’t rely on the S&amp;P 500 as much as you may think</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/our-church-has-a-15-million-bequest-earning-375-in-a-bank-ac-c8pe</loc>
+    <lastmod>2026-10-29T16:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T16:00:00.000Z</news:publication_date>
+      <news:title>Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/looking-for-income-these-dividend-stocks-have-high-yields-th-c8pe</loc>
+    <lastmod>2026-10-29T15:54:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T15:54:00.000Z</news:publication_date>
+      <news:title>Looking for income? These dividend stocks have high yields that seem well supported.</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/fancy-cars-hold-no-appeal-we-have-a-99-chance-of-outliving-o-c8pe</loc>
+    <lastmod>2026-10-29T15:45:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T15:45:00.000Z</news:publication_date>
+      <news:title>‘Fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend, spend, spend?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/florida-is-voting-on-whether-to-slash-property-taxes-heres-w-c8pe</loc>
+    <lastmod>2026-10-29T15:39:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T15:39:00.000Z</news:publication_date>
+      <news:title>Florida is voting on whether to slash property taxes. Here’s who it would benefit — and hurt.</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/nba-star-lamelo-ball-is-selling-his-26-million-luxury-condo--uhd4</loc>
@@ -459,114 +529,44 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article/cryptodad-on-stablecoins-bitcoins-role-in-a-portfolio-and-wh-m29s</loc>
-    <lastmod>2026-10-27T17:53:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T17:53:00.000Z</news:publication_date>
-      <news:title>‘CryptoDad’ on stablecoins, bitcoin’s role in a portfolio and why he does not directly own any crypto</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/jetblue-has-been-losing-money-for-years-it-just-charted-a-pa-m29s</loc>
-    <lastmod>2026-10-27T16:52:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T16:52:00.000Z</news:publication_date>
-      <news:title>JetBlue has been losing money for years. It just charted a path to profitability.</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/when-will-anthropic-go-public-heres-what-to-know-about-the-i-m29s</loc>
-    <lastmod>2026-10-27T16:38:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T16:38:00.000Z</news:publication_date>
-      <news:title>When will Anthropic go public? Here’s what to know about the IPO timeline.</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/bond-investors-are-starting-to-say-anything-but-tech-what-th-m29s</loc>
-    <lastmod>2026-10-27T16:24:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T16:24:00.000Z</news:publication_date>
-      <news:title>Bond investors are starting to say ‘anything but tech.’ What that means for the AI boom.</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/my-wife-cried-when-i-found-out-she-had-only-80000-in-her-401-klac</loc>
-    <lastmod>2026-10-27T12:30:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T12:30:00.000Z</news:publication_date>
-      <news:title>My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/about</loc>
-    <lastmod>2026-10-29T09:14:39.031Z</lastmod>
+    <lastmod>2026-10-29T16:28:21.949Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact</loc>
-    <lastmod>2026-10-29T09:14:39.031Z</lastmod>
+    <lastmod>2026-10-29T16:28:21.949Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy</loc>
-    <lastmod>2026-10-29T09:14:39.031Z</lastmod>
+    <lastmod>2026-10-29T16:28:21.949Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms</loc>
-    <lastmod>2026-10-29T09:14:39.031Z</lastmod>
+    <lastmod>2026-10-29T16:28:21.949Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-10-29T09:14:39.031Z</lastmod>
+    <lastmod>2026-10-29T16:28:21.949Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-10-29T09:14:39.031Z</lastmod>
+    <lastmod>2026-10-29T16:28:21.949Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-10-29T09:14:39.031Z</lastmod>
+    <lastmod>2026-10-29T16:28:21.949Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

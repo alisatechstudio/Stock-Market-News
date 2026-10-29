@@ -13,6 +13,110 @@
   ],
   "items": [
     {
+      "id": "https://worldstocknews.online/article/you-cant-rely-on-the-sp-500-as-much-as-you-may-think-c8pe",
+      "url": "https://worldstocknews.online/article/you-cant-rely-on-the-sp-500-as-much-as-you-may-think-c8pe",
+      "title": "You can’t rely on the S&P 500 as much as you may think",
+      "content_text": "The index’s weakness may surprise a generation of investors raised on the cult of “stocks always go up.”",
+      "summary": "The index’s weakness may surprise a generation of investors raised on the cult of “stocks always go up.”",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-29T16:26:00.000Z",
+      "tags": [
+        "Tech & AI",
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "QQQ"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article/our-church-has-a-15-million-bequest-earning-375-in-a-bank-ac-c8pe",
+      "url": "https://worldstocknews.online/article/our-church-has-a-15-million-bequest-earning-375-in-a-bank-ac-c8pe",
+      "title": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
+      "content_text": "“Given the size and long-term nature of this gift, we want to make sure the funds are managed prudently.”",
+      "summary": "“Given the size and long-term nature of this gift, we want to make sure the funds are managed prudently.”",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-29T16:00:00.000Z",
+      "tags": [
+        "Macro Economy",
+        "^TNX",
+        "CL=F",
+        "GC=F"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article/looking-for-income-these-dividend-stocks-have-high-yields-th-c8pe",
+      "url": "https://worldstocknews.online/article/looking-for-income-these-dividend-stocks-have-high-yields-th-c8pe",
+      "title": "Looking for income? These dividend stocks have high yields that seem well supported.",
+      "content_text": "Ford, Pfizer and Verizon are among 11 stocks that passed a screen of the S&P 500 for high dividend yields that are expected to be well covered by the companies’ free cash flow.",
+      "summary": "Ford, Pfizer and Verizon are among 11 stocks that passed a screen of the S&P 500 for high dividend yields that are expected to be well covered by the companies’ free cash flow.",
+      "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-29T15:54:00.000Z",
+      "tags": [
+        "Macro Economy",
+        "^TNX",
+        "CL=F",
+        "GC=F"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article/fancy-cars-hold-no-appeal-we-have-a-99-chance-of-outliving-o-c8pe",
+      "url": "https://worldstocknews.online/article/fancy-cars-hold-no-appeal-we-have-a-99-chance-of-outliving-o-c8pe",
+      "title": "‘Fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend, spend, spend?",
+      "content_text": "“I’m 68, she’s 74, and we’re both in good health. We married later in life and have no children.”",
+      "summary": "“I’m 68, she’s 74, and we’re both in good health. We married later in life and have no children.”",
+      "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-29T15:45:00.000Z",
+      "tags": [
+        "US Markets",
+        "^GSPC",
+        "SPY"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article/florida-is-voting-on-whether-to-slash-property-taxes-heres-w-c8pe",
+      "url": "https://worldstocknews.online/article/florida-is-voting-on-whether-to-slash-property-taxes-heres-w-c8pe",
+      "title": "Florida is voting on whether to slash property taxes. Here’s who it would benefit — and hurt.",
+      "content_text": "Amendment 3’s passage could add momentum to other states’ efforts to slash property taxes",
+      "summary": "Amendment 3’s passage could add momentum to other states’ efforts to slash property taxes",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-29T15:39:00.000Z",
+      "tags": [
+        "US Markets",
+        "^GSPC",
+        "SPY"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
       "id": "https://worldstocknews.online/article/nba-star-lamelo-ball-is-selling-his-26-million-luxury-condo--uhd4",
       "url": "https://worldstocknews.online/article/nba-star-lamelo-ball-is-selling-his-26-million-luxury-condo--uhd4",
       "title": "NBA star LaMelo Ball is selling his $2.6 million luxury condo in Charlotte after leaving the Hornets",
@@ -327,111 +431,6 @@
         "AAPL",
         "MSFT",
         "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/im-planning-a-trip-to-europe-is-it-dumb-to-take-travel-advic-bbzx",
-      "url": "https://worldstocknews.online/article/im-planning-a-trip-to-europe-is-it-dumb-to-take-travel-advic-bbzx",
-      "title": "I’m planning a trip to Europe. Is it dumb to take travel advice from influencers?",
-      "content_text": "“How can I tell if something is a real experience in my price range?”",
-      "summary": "“How can I tell if something is a real experience in my price range?”",
-      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-28T18:30:00.000Z",
-      "tags": [
-        "US Markets",
-        "^GSPC",
-        "SPY"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/we-stopped-helping-our-neighbors-with-free-home-repairs-and--toxa",
-      "url": "https://worldstocknews.online/article/we-stopped-helping-our-neighbors-with-free-home-repairs-and--toxa",
-      "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
-      "content_text": "“Last summer, they complained about needing to replace their roof. A few months later, they bought a new SUV.”",
-      "summary": "“Last summer, they complained about needing to replace their roof. A few months later, they bought a new SUV.”",
-      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-28T14:15:00.000Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/when-do-i-sell-my-stocks-ignore-the-noise-and-focus-on-these-toxa",
-      "url": "https://worldstocknews.online/article/when-do-i-sell-my-stocks-ignore-the-noise-and-focus-on-these-toxa",
-      "title": "‘When do I sell my stocks?’ Ignore the noise and focus on these things.",
-      "content_text": "Before you sell, ask whether a rising or falling stock price actually represents a change in the company’s business prospects",
-      "summary": "Before you sell, ask whether a rising or falling stock price actually represents a change in the company’s business prospects",
-      "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-28T14:10:00.000Z",
-      "tags": [
-        "US Markets",
-        "^GSPC",
-        "SPY"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/is-that-used-ev-worth-the-price-this-checklist-could-save-yo-toxa",
-      "url": "https://worldstocknews.online/article/is-that-used-ev-worth-the-price-this-checklist-could-save-yo-toxa",
-      "title": "Is that used EV worth the price? This checklist could save you thousands of dollars.",
-      "content_text": "Pain at the pump is pushing cost-conscious drivers away from traditional gas-powered cars toward electric vehicles.",
-      "summary": "Pain at the pump is pushing cost-conscious drivers away from traditional gas-powered cars toward electric vehicles.",
-      "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-28T13:53:00.000Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/want-guaranteed-income-in-retirement-without-an-annuity-try--toxa",
-      "url": "https://worldstocknews.online/article/want-guaranteed-income-in-retirement-without-an-annuity-try--toxa",
-      "title": "Want guaranteed income in retirement without an annuity? Try laddering I bonds.",
-      "content_text": "The new I-bond interest rate could be 5.5% or 5.4%, but that shouldn’t change your strategy.",
-      "summary": "The new I-bond interest rate could be 5.5% or 5.4%, but that shouldn’t change your strategy.",
-      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-28T13:27:00.000Z",
-      "tags": [
-        "Macro Economy",
-        "^TNX",
-        "CL=F",
-        "GC=F"
       ],
       "authors": [
         {
