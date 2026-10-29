@@ -4,39 +4,109 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-10-29T16:28:21.949Z</lastmod>
+    <lastmod>2026-10-29T21:28:14.575Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/us-markets</loc>
-    <lastmod>2026-10-29T16:28:21.949Z</lastmod>
+    <lastmod>2026-10-29T21:28:14.575Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/tech-ai</loc>
-    <lastmod>2026-10-29T16:28:21.949Z</lastmod>
+    <lastmod>2026-10-29T21:28:14.575Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/macro-economy</loc>
-    <lastmod>2026-10-29T16:28:21.949Z</lastmod>
+    <lastmod>2026-10-29T21:28:14.575Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/crypto</loc>
-    <lastmod>2026-10-29T16:28:21.949Z</lastmod>
+    <lastmod>2026-10-29T21:28:14.575Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/earnings</loc>
-    <lastmod>2026-10-29T16:28:21.949Z</lastmod>
+    <lastmod>2026-10-29T21:28:14.575Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/a-starbucks-turnaround-is-brewing-but-perhaps-not-quickly-en-1vst</loc>
+    <lastmod>2026-10-29T21:07:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T21:07:00.000Z</news:publication_date>
+      <news:title>A Starbucks turnaround is brewing — but perhaps not quickly enough</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/my-wife-cried-when-i-found-out-she-had-only-80000-in-her-401-1vst</loc>
+    <lastmod>2026-10-29T20:45:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T20:45:00.000Z</news:publication_date>
+      <news:title>My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/the-sp-500-isnt-the-big-winner-you-may-think-it-is-1vst</loc>
+    <lastmod>2026-10-29T20:39:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T20:39:00.000Z</news:publication_date>
+      <news:title>The S&amp;P 500 isn’t the big winner you may think it is</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/sandisk-sees-revenue-nearly-quintuple-and-its-stock-is-headi-1vst</loc>
+    <lastmod>2026-10-29T20:39:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T20:39:00.000Z</news:publication_date>
+      <news:title>Sandisk sees revenue nearly quintuple — and its stock is heading higher</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/all-the-reasons-marvell-investors-are-freaking-out-as-lument-1vsu</loc>
+    <lastmod>2026-10-29T20:31:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T20:31:00.000Z</news:publication_date>
+      <news:title>All the reasons Marvell investors are ‘freaking out’ as Lumentum deal rumors swirl</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/you-cant-rely-on-the-sp-500-as-much-as-you-may-think-c8pe</loc>
@@ -459,114 +529,44 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article/as-trump-touts-energy-companies-fortunes-us-consumers-face-t-s9mb</loc>
-    <lastmod>2026-10-27T21:29:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T21:29:00.000Z</news:publication_date>
-      <news:title>As Trump touts energy companies’ fortunes, U.S. consumers face the most expensive year for gas prices ever</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/the-rest-of-the-market-is-leaving-big-tech-behind-after-a-hi-s9mb</loc>
-    <lastmod>2026-10-27T21:28:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T21:28:00.000Z</news:publication_date>
-      <news:title>The rest of the market is leaving Big Tech behind after a historic comeback</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/retail-traders-buy-the-dip-on-chip-stocks-but-robinhood-gets-s9mb</loc>
-    <lastmod>2026-10-27T21:20:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T21:20:00.000Z</news:publication_date>
-      <news:title>Retail traders buy the dip on chip stocks — but Robinhood gets burned by the crypto market</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/the-worlds-finance-chiefs-see-new-risks-and-less-china-angst-s9mb</loc>
-    <lastmod>2026-10-27T16:41:24.240Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T16:41:24.240Z</news:publication_date>
-      <news:title>The world’s finance chiefs see new risks — and less China angst</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/the-big-reason-boeings-stock-is-falling-so-hard-after-earnin-m29s</loc>
-    <lastmod>2026-10-27T17:59:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T17:59:00.000Z</news:publication_date>
-      <news:title>The big reason Boeing’s stock is falling so hard after earnings</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/about</loc>
-    <lastmod>2026-10-29T16:28:21.949Z</lastmod>
+    <lastmod>2026-10-29T21:28:14.575Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact</loc>
-    <lastmod>2026-10-29T16:28:21.949Z</lastmod>
+    <lastmod>2026-10-29T21:28:14.575Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy</loc>
-    <lastmod>2026-10-29T16:28:21.949Z</lastmod>
+    <lastmod>2026-10-29T21:28:14.575Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms</loc>
-    <lastmod>2026-10-29T16:28:21.949Z</lastmod>
+    <lastmod>2026-10-29T21:28:14.575Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-10-29T16:28:21.949Z</lastmod>
+    <lastmod>2026-10-29T21:28:14.575Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-10-29T16:28:21.949Z</lastmod>
+    <lastmod>2026-10-29T21:28:14.575Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-10-29T16:28:21.949Z</lastmod>
+    <lastmod>2026-10-29T21:28:14.575Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
