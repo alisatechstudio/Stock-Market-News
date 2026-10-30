@@ -13,6 +13,111 @@
   ],
   "items": [
     {
+      "id": "https://worldstocknews.online/article/has-the-tech-bubble-burst-why-the-nasdaqs-rough-ride-looks-e-gahc",
+      "url": "https://worldstocknews.online/article/has-the-tech-bubble-burst-why-the-nasdaqs-rough-ride-looks-e-gahc",
+      "title": "Has the tech bubble burst? Why the Nasdaq’s rough ride looks eerily like 2000.",
+      "content_text": "Friday’s big plunge raises disturbing parallels with the top of the dot-com bubble",
+      "summary": "Friday’s big plunge raises disturbing parallels with the top of the dot-com bubble",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-30T23:14:00.000Z",
+      "tags": [
+        "Tech & AI",
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "QQQ"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article/this-cybersecurity-stock-will-be-the-next-to-join-the-sp-500-gahc",
+      "url": "https://worldstocknews.online/article/this-cybersecurity-stock-will-be-the-next-to-join-the-sp-500-gahc",
+      "title": "This cybersecurity stock will be the next to join the S&P 500",
+      "content_text": "Okta is slated to join the index on Wednesday, replacing Kenvue.",
+      "summary": "Okta is slated to join the index on Wednesday, replacing Kenvue.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-30T22:20:00.000Z",
+      "tags": [
+        "US Markets",
+        "^GSPC",
+        "SPY"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article/why-gold-plunged-to-its-lowest-price-in-a-year-despite-renew-gahc",
+      "url": "https://worldstocknews.online/article/why-gold-plunged-to-its-lowest-price-in-a-year-despite-renew-gahc",
+      "title": "Why gold plunged to its lowest price in a year despite renewed Iran jitters",
+      "content_text": "Safe-haven gold fell to its lowest price in a year, despite jitters around the potential for fresh Middle East attacks following the U.S. midterm elections on Tuesday",
+      "summary": "Safe-haven gold fell to its lowest price in a year, despite jitters around the potential for fresh Middle East attacks following the U.S. midterm elections on Tuesday",
+      "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-30T21:30:00.000Z",
+      "tags": [
+        "US Markets",
+        "^GSPC",
+        "SPY"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article/warsh-wants-the-fed-to-say-less-two-officials-are-pushing-fo-gahc",
+      "url": "https://worldstocknews.online/article/warsh-wants-the-fed-to-say-less-two-officials-are-pushing-fo-gahc",
+      "title": "Warsh wants the Fed to say less. Two officials are pushing for more transparency.",
+      "content_text": "More interest-rate hikes are needed to fight inflation, Fed officials say.",
+      "summary": "More interest-rate hikes are needed to fight inflation, Fed officials say.",
+      "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-30T21:23:00.000Z",
+      "tags": [
+        "Macro Economy",
+        "^TNX",
+        "CL=F",
+        "GC=F"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article/in-a-wild-october-for-markets-these-stocks-were-the-biggest--gahc",
+      "url": "https://worldstocknews.online/article/in-a-wild-october-for-markets-these-stocks-were-the-biggest--gahc",
+      "title": "In a wild October for markets, these stocks were the biggest winners and losers",
+      "content_text": "Many Big Tech stocks were hit hard but the S&P 500 showed strength under the surface, with a majority of stocks showing gains for the month.",
+      "summary": "Many Big Tech stocks were hit hard but the S&P 500 showed strength under the surface, with a majority of stocks showing gains for the month.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-30T20:52:00.000Z",
+      "tags": [
+        "Tech & AI",
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "QQQ"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
       "id": "https://worldstocknews.online/article/wage-growth-hits-5-year-low-as-american-workers-find-their-t-tmsa",
       "url": "https://worldstocknews.online/article/wage-growth-hits-5-year-low-as-american-workers-find-their-t-tmsa",
       "title": "Wage growth hits 5-year low as American workers find their take-home pay is ‘stretched thinner and thinner’",
@@ -324,115 +429,6 @@
         "AAPL",
         "MSFT",
         "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/the-worlds-finance-chiefs-see-new-risks-and-less-china-angst-g5pm",
-      "url": "https://worldstocknews.online/article/the-worlds-finance-chiefs-see-new-risks-and-less-china-angst-g5pm",
-      "title": "The world’s finance chiefs see new risks — and less China angst",
-      "content_text": "Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background.",
-      "summary": "Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background.",
-      "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-29T20:23:17.459Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/a-starbucks-turnaround-is-brewing-but-perhaps-not-quickly-en-1vst",
-      "url": "https://worldstocknews.online/article/a-starbucks-turnaround-is-brewing-but-perhaps-not-quickly-en-1vst",
-      "title": "A Starbucks turnaround is brewing — but perhaps not quickly enough",
-      "content_text": "The coffee chain beat expectations on a key sales metric, but its stock was still moving lower.",
-      "summary": "The coffee chain beat expectations on a key sales metric, but its stock was still moving lower.",
-      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-29T21:07:00.000Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/my-wife-cried-when-i-found-out-she-had-only-80000-in-her-401-1vst",
-      "url": "https://worldstocknews.online/article/my-wife-cried-when-i-found-out-she-had-only-80000-in-her-401-1vst",
-      "title": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
-      "content_text": "“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”",
-      "summary": "“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”",
-      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-29T20:45:00.000Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/the-sp-500-isnt-the-big-winner-you-may-think-it-is-1vst",
-      "url": "https://worldstocknews.online/article/the-sp-500-isnt-the-big-winner-you-may-think-it-is-1vst",
-      "title": "The S&P 500 isn’t the big winner you may think it is",
-      "content_text": "The index’s weakness may surprise a generation of investors raised on the cult of “stocks always go up.”",
-      "summary": "The index’s weakness may surprise a generation of investors raised on the cult of “stocks always go up.”",
-      "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-29T20:39:00.000Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/sandisk-sees-revenue-nearly-quintuple-and-its-stock-is-headi-1vst",
-      "url": "https://worldstocknews.online/article/sandisk-sees-revenue-nearly-quintuple-and-its-stock-is-headi-1vst",
-      "title": "Sandisk sees revenue nearly quintuple — and its stock is heading higher",
-      "content_text": "Sandisk’s earnings show that the company is growing quite profitably.",
-      "summary": "Sandisk’s earnings show that the company is growing quite profitably.",
-      "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-29T20:39:00.000Z",
-      "tags": [
-        "Earnings",
-        "^DJI",
-        "AMZN",
-        "TSLA"
       ],
       "authors": [
         {
