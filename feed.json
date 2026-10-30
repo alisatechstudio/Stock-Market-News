@@ -13,6 +13,114 @@
   ],
   "items": [
     {
+      "id": "https://worldstocknews.online/article/amazons-stock-drops-even-in-the-face-of-a-bold-new-cloud-for-g5pm",
+      "url": "https://worldstocknews.online/article/amazons-stock-drops-even-in-the-face-of-a-bold-new-cloud-for-g5pm",
+      "title": "Amazon’s stock drops — even in the face of a bold new cloud forecast",
+      "content_text": "Modest AWS results and weak advertising growth left Wall Street disappointed in Amazon’s third-quarter earnings",
+      "summary": "Modest AWS results and weak advertising growth left Wall Street disappointed in Amazon’s third-quarter earnings",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-30T00:15:00.000Z",
+      "tags": [
+        "Earnings",
+        "^DJI",
+        "AMZN",
+        "TSLA"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article/a-starbucks-turnaround-is-brewing-but-perhaps-not-quickly-en-g5pm",
+      "url": "https://worldstocknews.online/article/a-starbucks-turnaround-is-brewing-but-perhaps-not-quickly-en-g5pm",
+      "title": "A Starbucks turnaround is brewing — but perhaps not quickly enough for investors",
+      "content_text": "The coffee chain beat expectations on a key sales metric, but its stock was still moving lower.",
+      "summary": "The coffee chain beat expectations on a key sales metric, but its stock was still moving lower.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-30T00:14:00.000Z",
+      "tags": [
+        "Tech & AI",
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "QQQ"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article/sandisk-sees-revenue-nearly-quintuple-and-a-stock-split-is-o-g5pm",
+      "url": "https://worldstocknews.online/article/sandisk-sees-revenue-nearly-quintuple-and-a-stock-split-is-o-g5pm",
+      "title": "Sandisk sees revenue nearly quintuple — and a stock split is on the way",
+      "content_text": "Sandisk’s stock has climbed more than 2,600% since the company separated from Western Digital 20 months ago — and it has one of the highest prices in the S&P 500.",
+      "summary": "Sandisk’s stock has climbed more than 2,600% since the company separated from Western Digital 20 months ago — and it has one of the highest prices in the S&P 500.",
+      "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-30T00:06:00.000Z",
+      "tags": [
+        "Macro Economy",
+        "^TNX",
+        "CL=F",
+        "GC=F"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-yea-g5pm",
+      "url": "https://worldstocknews.online/article/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-yea-g5pm",
+      "title": "Why Intel’s stock is sinking toward its worst drop in two years",
+      "content_text": "Intel’s PC business is under pressure as memory-chip prices dent demand and as corporate IT teams have less budget for laptops.",
+      "summary": "Intel’s PC business is under pressure as memory-chip prices dent demand and as corporate IT teams have less budget for laptops.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-29T23:21:00.000Z",
+      "tags": [
+        "Tech & AI",
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "QQQ"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article/the-worlds-finance-chiefs-see-new-risks-and-less-china-angst-g5pm",
+      "url": "https://worldstocknews.online/article/the-worlds-finance-chiefs-see-new-risks-and-less-china-angst-g5pm",
+      "title": "The world’s finance chiefs see new risks — and less China angst",
+      "content_text": "Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background.",
+      "summary": "Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background.",
+      "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-29T20:23:17.459Z",
+      "tags": [
+        "Tech & AI",
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "QQQ"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
       "id": "https://worldstocknews.online/article/a-starbucks-turnaround-is-brewing-but-perhaps-not-quickly-en-1vst",
       "url": "https://worldstocknews.online/article/a-starbucks-turnaround-is-brewing-but-perhaps-not-quickly-en-1vst",
       "title": "A Starbucks turnaround is brewing — but perhaps not quickly enough",
@@ -319,115 +427,6 @@
       "summary": "Microsoft showed investors that it’s able to grow rapidly while keeping spending in check.",
       "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
       "date_published": "2026-10-29T00:10:00.000Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/robot-factories-and-hypersonic-missiles-jpmorgan-chases-firs-ekzw",
-      "url": "https://worldstocknews.online/article/robot-factories-and-hypersonic-missiles-jpmorgan-chases-firs-ekzw",
-      "title": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
-      "content_text": "With $5 billion already deployed off its balance sheet, JPMorgan Chase is racing ahead on direct investments in defense tech, hardware and supply chains.",
-      "summary": "With $5 billion already deployed off its balance sheet, JPMorgan Chase is racing ahead on direct investments in defense tech, hardware and supply chains.",
-      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-28T23:58:22.437Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/fortinets-stock-is-taking-a-dive-after-earnings-heres-why-damr",
-      "url": "https://worldstocknews.online/article/fortinets-stock-is-taking-a-dive-after-earnings-heres-why-damr",
-      "title": "Fortinet’s stock is taking a dive after earnings. Here’s why.",
-      "content_text": "Cybersecurity stocks are broadly falling as growth slows significantly in one of Fortinet’s business segments.",
-      "summary": "Cybersecurity stocks are broadly falling as growth slows significantly in one of Fortinet’s business segments.",
-      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-28T23:18:00.000Z",
-      "tags": [
-        "Earnings",
-        "^DJI",
-        "AMZN",
-        "TSLA"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/servicenows-stock-slides-as-earnings-miss-overshadows-a-rais-damr",
-      "url": "https://worldstocknews.online/article/servicenows-stock-slides-as-earnings-miss-overshadows-a-rais-damr",
-      "title": "ServiceNow’s stock slides as earnings miss overshadows a raised AI outlook",
-      "content_text": "Even with an uptick in multimillion-dollar AI deals, ServiceNow’s earnings results weren’t enough to win over software skeptics.",
-      "summary": "Even with an uptick in multimillion-dollar AI deals, ServiceNow’s earnings results weren’t enough to win over software skeptics.",
-      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-28T23:02:00.000Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/is-it-curtains-for-cola-saving-social-security-could-mean-ch-damr",
-      "url": "https://worldstocknews.online/article/is-it-curtains-for-cola-saving-social-security-could-mean-ch-damr",
-      "title": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
-      "content_text": "Several proposals consider changing the way retirees receive inflation protection. Here’s what it could cost you.",
-      "summary": "Several proposals consider changing the way retirees receive inflation protection. Here’s what it could cost you.",
-      "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-28T22:41:00.000Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/chipotle-now-has-more-demand-from-lower-income-diners-than-h-damr",
-      "url": "https://worldstocknews.online/article/chipotle-now-has-more-demand-from-lower-income-diners-than-h-damr",
-      "title": "Chipotle now has more demand from lower-income diners than higher-income ones",
-      "content_text": "The fast-casual chain says menu-price increases helped results. It also noted rising beef costs and “higher protein usage” as people try to find ways to pack more protein into their diets.",
-      "summary": "The fast-casual chain says menu-price increases helped results. It also noted rising beef costs and “higher protein usage” as people try to find ways to pack more protein into their diets.",
-      "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-28T22:25:00.000Z",
       "tags": [
         "Tech & AI",
         "NVDA",
