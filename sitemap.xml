@@ -4,39 +4,81 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-10-31T14:58:31.160Z</lastmod>
+    <lastmod>2026-10-31T19:02:02.724Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/us-markets</loc>
-    <lastmod>2026-10-31T14:58:31.160Z</lastmod>
+    <lastmod>2026-10-31T19:02:02.724Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/tech-ai</loc>
-    <lastmod>2026-10-31T14:58:31.160Z</lastmod>
+    <lastmod>2026-10-31T19:02:02.724Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/macro-economy</loc>
-    <lastmod>2026-10-31T14:58:31.160Z</lastmod>
+    <lastmod>2026-10-31T19:02:02.724Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/crypto</loc>
-    <lastmod>2026-10-31T14:58:31.160Z</lastmod>
+    <lastmod>2026-10-31T19:02:02.724Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/earnings</loc>
-    <lastmod>2026-10-31T14:58:31.160Z</lastmod>
+    <lastmod>2026-10-31T19:02:02.724Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/is-it-curtains-for-cola-saving-social-security-could-mean-ch-pkw6</loc>
+    <lastmod>2026-10-31T18:33:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T18:33:00.000Z</news:publication_date>
+      <news:title>Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/medicare-used-ai-to-pre-approve-patient-care-and-it-immediat-pkw6</loc>
+    <lastmod>2026-10-31T17:26:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T17:26:00.000Z</news:publication_date>
+      <news:title>Medicare used AI to pre-approve patient care, and it immediately led to a large drop in medical services</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/80-of-workers-make-this-401k-mistake-when-they-retire-pkw6</loc>
+    <lastmod>2026-10-31T16:46:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T16:46:00.000Z</news:publication_date>
+      <news:title>80% of workers make this 401(k)  mistake when they retire</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/social-securitys-fate-and-your-benefits-are-in-the-hands-of--0ejz</loc>
@@ -487,86 +529,44 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article/you-cant-rely-on-the-sp-500-as-much-as-you-may-think-c8pe</loc>
-    <lastmod>2026-10-29T16:26:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T16:26:00.000Z</news:publication_date>
-      <news:title>You can’t rely on the S&amp;P 500 as much as you may think</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/our-church-has-a-15-million-bequest-earning-375-in-a-bank-ac-c8pe</loc>
-    <lastmod>2026-10-29T16:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T16:00:00.000Z</news:publication_date>
-      <news:title>Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/looking-for-income-these-dividend-stocks-have-high-yields-th-c8pe</loc>
-    <lastmod>2026-10-29T15:54:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T15:54:00.000Z</news:publication_date>
-      <news:title>Looking for income? These dividend stocks have high yields that seem well supported.</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/about</loc>
-    <lastmod>2026-10-31T14:58:31.160Z</lastmod>
+    <lastmod>2026-10-31T19:02:02.724Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact</loc>
-    <lastmod>2026-10-31T14:58:31.160Z</lastmod>
+    <lastmod>2026-10-31T19:02:02.724Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy</loc>
-    <lastmod>2026-10-31T14:58:31.160Z</lastmod>
+    <lastmod>2026-10-31T19:02:02.724Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms</loc>
-    <lastmod>2026-10-31T14:58:31.160Z</lastmod>
+    <lastmod>2026-10-31T19:02:02.724Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-10-31T14:58:31.160Z</lastmod>
+    <lastmod>2026-10-31T19:02:02.724Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-10-31T14:58:31.160Z</lastmod>
+    <lastmod>2026-10-31T19:02:02.724Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-10-31T14:58:31.160Z</lastmod>
+    <lastmod>2026-10-31T19:02:02.724Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
