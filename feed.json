@@ -13,6 +13,28 @@
   ],
   "items": [
     {
+      "id": "https://worldstocknews.online/article/robot-factories-and-hypersonic-missiles-jpmorgan-chases-firs-ziok",
+      "url": "https://worldstocknews.online/article/robot-factories-and-hypersonic-missiles-jpmorgan-chases-firs-ziok",
+      "title": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
+      "content_text": "With $5 billion already deployed off its balance sheet, JPMorgan Chase is racing ahead on direct investments in defense tech, hardware and supply chains.",
+      "summary": "With $5 billion already deployed off its balance sheet, JPMorgan Chase is racing ahead on direct investments in defense tech, hardware and supply chains.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-10-31T01:49:59.792Z",
+      "tags": [
+        "Tech & AI",
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "QQQ"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
       "id": "https://worldstocknews.online/article/has-the-tech-bubble-burst-why-the-nasdaqs-rough-ride-looks-e-gahc",
       "url": "https://worldstocknews.online/article/has-the-tech-bubble-burst-why-the-nasdaqs-rough-ride-looks-e-gahc",
       "title": "Has the tech bubble burst? Why the Nasdaq’s rough ride looks eerily like 2000.",
@@ -407,28 +429,6 @@
         "^TNX",
         "CL=F",
         "GC=F"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-yea-g5pm",
-      "url": "https://worldstocknews.online/article/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-yea-g5pm",
-      "title": "Why Intel’s stock is sinking toward its worst drop in two years",
-      "content_text": "Intel’s PC business is under pressure as memory-chip prices dent demand and as corporate IT teams have less budget for laptops.",
-      "summary": "Intel’s PC business is under pressure as memory-chip prices dent demand and as corporate IT teams have less budget for laptops.",
-      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-29T23:21:00.000Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
       ],
       "authors": [
         {
