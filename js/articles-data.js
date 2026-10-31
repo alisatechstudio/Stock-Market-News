@@ -1,10 +1,191 @@
 /**
  * World Stock News - Editorial Database of In-Depth Financial Intelligence Articles
  * Automatically updated hourly by World Stock News Real-Time Ingestion Engine
- * Last Automated Update: 2026-10-31T08:58:40.841Z
+ * Last Automated Update: 2026-10-31T14:58:31.728Z
  */
 
 const ArticlesData = [
+  {
+    "id": "social-securitys-fate-and-your-benefits-are-in-the-hands-of--0ejz",
+    "title": "Social Security’s fate — and your benefits — are in the hands of the candidates elected this year",
+    "excerpt": "The program is expected to run out of money in the next six years, which is the same amount of time as a senator’s term.",
+    "category": "US Markets",
+    "categorySlug": "us-markets",
+    "tickers": [
+      "^GSPC",
+      "SPY"
+    ],
+    "sentiment": "Bullish",
+    "sentimentScore": "+78%",
+    "author": {
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
+    },
+    "publishedAt": "2026-10-31T14:35:00.000Z",
+    "readTime": "5 min read",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "source": "MarketWatch",
+    "sourceUrl": "https://www.marketwatch.com/story/the-midterms-are-crucial-to-the-future-of-social-security-no-matter-how-old-you-are-0f080a9c?mod=mw_rss_topstories",
+    "targetPrice": "Overweight Target",
+    "analystConsensus": "Accumulate / Buy",
+    "tableOfContents": [
+      {
+        "id": "market-overview",
+        "title": "Market Context & Catalyst"
+      },
+      {
+        "id": "institutional-flows",
+        "title": "Institutional Liquidity & Order Flow"
+      },
+      {
+        "id": "strategic-outlook",
+        "title": "Strategic Positioning & Key Risk Levels"
+      },
+      {
+        "id": "original-wire",
+        "title": "Primary Wire & Full Coverage Link"
+      }
+    ],
+    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> Social Security’s fate — and your benefits — are in the hands of the candidates elected this year. Reported by MarketWatch. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n        \n        <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);\">\n          <a href=\"https://www.marketwatch.com/story/the-midterms-are-crucial-to-the-future-of-social-security-no-matter-how-old-you-are-0f080a9c?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;\">\n            <span>Read Original Wire Story on MarketWatch</span>\n            <span>↗</span>\n          </a>\n        </div>\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>The program is expected to run out of money in the next six years, which is the same amount of time as a senator’s term.</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n\n      \n      <h3 id=\"original-wire\">Primary Wire & Full Coverage Link</h3>\n      <p>This report incorporates real-time wire data provided by <strong>MarketWatch</strong>. You can inspect the primary external filing and full syndicated release directly:</p>\n      <p style=\"margin: 1.25rem 0;\">\n        <a href=\"https://www.marketwatch.com/story/the-midterms-are-crucial-to-the-future-of-social-security-no-matter-how-old-you-are-0f080a9c?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;\">\n          <span>Open Full Original Article on MarketWatch</span>\n          <span style=\"font-size:1.1rem;\">↗</span>\n        </a>\n      </p>\n    "
+  },
+  {
+    "id": "your-stock-portfolio-increasingly-hinges-on-the-bond-market--0ejz",
+    "title": "Your stock portfolio increasingly hinges on the bond market — and the midterm elections",
+    "excerpt": "Tech stocks in late October caught the cold that for months has been a drag on the corporate bond market.",
+    "category": "Macro Economy",
+    "categorySlug": "macro-economy",
+    "tickers": [
+      "^TNX",
+      "CL=F",
+      "GC=F"
+    ],
+    "sentiment": "Neutral",
+    "sentimentScore": "50%",
+    "author": {
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
+    },
+    "publishedAt": "2026-10-31T14:03:00.000Z",
+    "readTime": "5 min read",
+    "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
+    "source": "MarketWatch",
+    "sourceUrl": "https://www.marketwatch.com/story/your-stock-portfolio-increasingly-hinges-on-the-bond-market-and-the-midterm-elections-dc1abadb?mod=mw_rss_topstories",
+    "targetPrice": "Overweight Target",
+    "analystConsensus": "Accumulate / Buy",
+    "tableOfContents": [
+      {
+        "id": "market-overview",
+        "title": "Market Context & Catalyst"
+      },
+      {
+        "id": "institutional-flows",
+        "title": "Institutional Liquidity & Order Flow"
+      },
+      {
+        "id": "strategic-outlook",
+        "title": "Strategic Positioning & Key Risk Levels"
+      },
+      {
+        "id": "original-wire",
+        "title": "Primary Wire & Full Coverage Link"
+      }
+    ],
+    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> Your stock portfolio increasingly hinges on the bond market — and the midterm elections. Reported by MarketWatch. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n        \n        <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);\">\n          <a href=\"https://www.marketwatch.com/story/your-stock-portfolio-increasingly-hinges-on-the-bond-market-and-the-midterm-elections-dc1abadb?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;\">\n            <span>Read Original Wire Story on MarketWatch</span>\n            <span>↗</span>\n          </a>\n        </div>\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>Tech stocks in late October caught the cold that for months has been a drag on the corporate bond market.</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n\n      \n      <h3 id=\"original-wire\">Primary Wire & Full Coverage Link</h3>\n      <p>This report incorporates real-time wire data provided by <strong>MarketWatch</strong>. You can inspect the primary external filing and full syndicated release directly:</p>\n      <p style=\"margin: 1.25rem 0;\">\n        <a href=\"https://www.marketwatch.com/story/your-stock-portfolio-increasingly-hinges-on-the-bond-market-and-the-midterm-elections-dc1abadb?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;\">\n          <span>Open Full Original Article on MarketWatch</span>\n          <span style=\"font-size:1.1rem;\">↗</span>\n        </a>\n      </p>\n    "
+  },
+  {
+    "id": "google-taught-the-world-how-to-search-now-it-faces-a-revolut-0ejz",
+    "title": "Google taught the world how to search. Now it faces a revolution it can’t afford to lose.",
+    "excerpt": "Wall Street is grappling with a fundamental question: Are Google’s AI Overviews bound to save search — or ruin the whole business?",
+    "category": "Tech & AI",
+    "categorySlug": "tech-ai",
+    "tickers": [
+      "NVDA",
+      "AAPL",
+      "MSFT",
+      "QQQ"
+    ],
+    "sentiment": "Bullish",
+    "sentimentScore": "+89%",
+    "author": {
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
+    },
+    "publishedAt": "2026-10-31T13:15:00.000Z",
+    "readTime": "5 min read",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "source": "MarketWatch",
+    "sourceUrl": "https://www.marketwatch.com/story/google-taught-the-world-how-to-search-now-it-faces-a-revolution-it-cant-afford-to-lose-b7a01394?mod=mw_rss_topstories",
+    "targetPrice": "Overweight Target",
+    "analystConsensus": "Accumulate / Buy",
+    "tableOfContents": [
+      {
+        "id": "market-overview",
+        "title": "Market Context & Catalyst"
+      },
+      {
+        "id": "institutional-flows",
+        "title": "Institutional Liquidity & Order Flow"
+      },
+      {
+        "id": "strategic-outlook",
+        "title": "Strategic Positioning & Key Risk Levels"
+      },
+      {
+        "id": "original-wire",
+        "title": "Primary Wire & Full Coverage Link"
+      }
+    ],
+    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> Google taught the world how to search. Now it faces a revolution it can’t afford to lose.. Reported by MarketWatch. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n        \n        <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);\">\n          <a href=\"https://www.marketwatch.com/story/google-taught-the-world-how-to-search-now-it-faces-a-revolution-it-cant-afford-to-lose-b7a01394?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;\">\n            <span>Read Original Wire Story on MarketWatch</span>\n            <span>↗</span>\n          </a>\n        </div>\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>Wall Street is grappling with a fundamental question: Are Google’s AI Overviews bound to save search — or ruin the whole business?</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n\n      \n      <h3 id=\"original-wire\">Primary Wire & Full Coverage Link</h3>\n      <p>This report incorporates real-time wire data provided by <strong>MarketWatch</strong>. You can inspect the primary external filing and full syndicated release directly:</p>\n      <p style=\"margin: 1.25rem 0;\">\n        <a href=\"https://www.marketwatch.com/story/google-taught-the-world-how-to-search-now-it-faces-a-revolution-it-cant-afford-to-lose-b7a01394?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;\">\n          <span>Open Full Original Article on MarketWatch</span>\n          <span style=\"font-size:1.1rem;\">↗</span>\n        </a>\n      </p>\n    "
+  },
+  {
+    "id": "anthropic-is-ai-trades-last-big-hope-for-a-major-ipo-this-ye-0ejz",
+    "title": "Anthropic is AI trade's last big hope for a major IPO this year",
+    "excerpt": "On Kalshi, Anthropic is seen as the last major IPO in 2026 after OpenAI delayed its public market debut. Others have postponed too.",
+    "category": "Tech & AI",
+    "categorySlug": "tech-ai",
+    "tickers": [
+      "NVDA",
+      "AAPL",
+      "MSFT",
+      "QQQ"
+    ],
+    "sentiment": "Bullish",
+    "sentimentScore": "+89%",
+    "author": {
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
+    },
+    "publishedAt": "2026-10-31T10:58:31.160Z",
+    "readTime": "5 min read",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "source": "CNBC Finance",
+    "sourceUrl": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
+    "targetPrice": "Overweight Target",
+    "analystConsensus": "Accumulate / Buy",
+    "tableOfContents": [
+      {
+        "id": "market-overview",
+        "title": "Market Context & Catalyst"
+      },
+      {
+        "id": "institutional-flows",
+        "title": "Institutional Liquidity & Order Flow"
+      },
+      {
+        "id": "strategic-outlook",
+        "title": "Strategic Positioning & Key Risk Levels"
+      },
+      {
+        "id": "original-wire",
+        "title": "Primary Wire & Full Coverage Link"
+      }
+    ],
+    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> Anthropic is AI trade's last big hope for a major IPO this year. Reported by CNBC Finance. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n        \n        <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);\">\n          <a href=\"https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;\">\n            <span>Read Original Wire Story on CNBC Finance</span>\n            <span>↗</span>\n          </a>\n        </div>\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>On Kalshi, Anthropic is seen as the last major IPO in 2026 after OpenAI delayed its public market debut. Others have postponed too.</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n\n      \n      <h3 id=\"original-wire\">Primary Wire & Full Coverage Link</h3>\n      <p>This report incorporates real-time wire data provided by <strong>CNBC Finance</strong>. You can inspect the primary external filing and full syndicated release directly:</p>\n      <p style=\"margin: 1.25rem 0;\">\n        <a href=\"https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;\">\n          <span>Open Full Original Article on CNBC Finance</span>\n          <span style=\"font-size:1.1rem;\">↗</span>\n        </a>\n      </p>\n    "
+  },
   {
     "id": "grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-5mx3",
     "title": "Grand Theft Callout: ‘GTA 6’ fans are missing work on the game’s release day because they ‘don’t want to wait’ anymore",
@@ -1412,184 +1593,6 @@ const ArticlesData = [
       }
     ],
     "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> Looking for income? These dividend stocks have high yields that seem well supported.. Reported by MarketWatch. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n        \n        <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);\">\n          <a href=\"https://www.marketwatch.com/story/looking-for-income-these-dividend-stocks-have-high-yields-that-seem-well-supported-81093bdf?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;\">\n            <span>Read Original Wire Story on MarketWatch</span>\n            <span>↗</span>\n          </a>\n        </div>\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>Ford, Pfizer and Verizon are among 11 stocks that passed a screen of the S&P 500 for high dividend yields that are expected to be well covered by the companies’ free cash flow.</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n\n      \n      <h3 id=\"original-wire\">Primary Wire & Full Coverage Link</h3>\n      <p>This report incorporates real-time wire data provided by <strong>MarketWatch</strong>. You can inspect the primary external filing and full syndicated release directly:</p>\n      <p style=\"margin: 1.25rem 0;\">\n        <a href=\"https://www.marketwatch.com/story/looking-for-income-these-dividend-stocks-have-high-yields-that-seem-well-supported-81093bdf?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;\">\n          <span>Open Full Original Article on MarketWatch</span>\n          <span style=\"font-size:1.1rem;\">↗</span>\n        </a>\n      </p>\n    "
-  },
-  {
-    "id": "fancy-cars-hold-no-appeal-we-have-a-99-chance-of-outliving-o-c8pe",
-    "title": "‘Fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend, spend, spend?",
-    "excerpt": "“I’m 68, she’s 74, and we’re both in good health. We married later in life and have no children.”",
-    "category": "US Markets",
-    "categorySlug": "us-markets",
-    "tickers": [
-      "^GSPC",
-      "SPY"
-    ],
-    "sentiment": "Bullish",
-    "sentimentScore": "+78%",
-    "author": {
-      "name": "World Stock News Editorial Desk",
-      "title": "Financial Market Intelligence & Macro Analytics",
-      "avatar": "/assets/logo.png"
-    },
-    "publishedAt": "2026-10-29T15:45:00.000Z",
-    "readTime": "5 min read",
-    "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
-    "source": "MarketWatch",
-    "sourceUrl": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
-    "targetPrice": "Overweight Target",
-    "analystConsensus": "Accumulate / Buy",
-    "tableOfContents": [
-      {
-        "id": "market-overview",
-        "title": "Market Context & Catalyst"
-      },
-      {
-        "id": "institutional-flows",
-        "title": "Institutional Liquidity & Order Flow"
-      },
-      {
-        "id": "strategic-outlook",
-        "title": "Strategic Positioning & Key Risk Levels"
-      },
-      {
-        "id": "original-wire",
-        "title": "Primary Wire & Full Coverage Link"
-      }
-    ],
-    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> ‘Fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend, spend, spend?. Reported by MarketWatch. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n        \n        <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);\">\n          <a href=\"https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;\">\n            <span>Read Original Wire Story on MarketWatch</span>\n            <span>↗</span>\n          </a>\n        </div>\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>“I’m 68, she’s 74, and we’re both in good health. We married later in life and have no children.”</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n\n      \n      <h3 id=\"original-wire\">Primary Wire & Full Coverage Link</h3>\n      <p>This report incorporates real-time wire data provided by <strong>MarketWatch</strong>. You can inspect the primary external filing and full syndicated release directly:</p>\n      <p style=\"margin: 1.25rem 0;\">\n        <a href=\"https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;\">\n          <span>Open Full Original Article on MarketWatch</span>\n          <span style=\"font-size:1.1rem;\">↗</span>\n        </a>\n      </p>\n    "
-  },
-  {
-    "id": "florida-is-voting-on-whether-to-slash-property-taxes-heres-w-c8pe",
-    "title": "Florida is voting on whether to slash property taxes. Here’s who it would benefit — and hurt.",
-    "excerpt": "Amendment 3’s passage could add momentum to other states’ efforts to slash property taxes",
-    "category": "US Markets",
-    "categorySlug": "us-markets",
-    "tickers": [
-      "^GSPC",
-      "SPY"
-    ],
-    "sentiment": "Bullish",
-    "sentimentScore": "+78%",
-    "author": {
-      "name": "World Stock News Editorial Desk",
-      "title": "Financial Market Intelligence & Macro Analytics",
-      "avatar": "/assets/logo.png"
-    },
-    "publishedAt": "2026-10-29T15:39:00.000Z",
-    "readTime": "5 min read",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "source": "MarketWatch",
-    "sourceUrl": "https://www.marketwatch.com/story/florida-is-voting-on-whether-to-slash-property-taxes-heres-who-it-would-benefit-and-hurt-6c34b470?mod=mw_rss_topstories",
-    "targetPrice": "Overweight Target",
-    "analystConsensus": "Accumulate / Buy",
-    "tableOfContents": [
-      {
-        "id": "market-overview",
-        "title": "Market Context & Catalyst"
-      },
-      {
-        "id": "institutional-flows",
-        "title": "Institutional Liquidity & Order Flow"
-      },
-      {
-        "id": "strategic-outlook",
-        "title": "Strategic Positioning & Key Risk Levels"
-      },
-      {
-        "id": "original-wire",
-        "title": "Primary Wire & Full Coverage Link"
-      }
-    ],
-    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> Florida is voting on whether to slash property taxes. Here’s who it would benefit — and hurt.. Reported by MarketWatch. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n        \n        <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);\">\n          <a href=\"https://www.marketwatch.com/story/florida-is-voting-on-whether-to-slash-property-taxes-heres-who-it-would-benefit-and-hurt-6c34b470?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;\">\n            <span>Read Original Wire Story on MarketWatch</span>\n            <span>↗</span>\n          </a>\n        </div>\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>Amendment 3’s passage could add momentum to other states’ efforts to slash property taxes</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n\n      \n      <h3 id=\"original-wire\">Primary Wire & Full Coverage Link</h3>\n      <p>This report incorporates real-time wire data provided by <strong>MarketWatch</strong>. You can inspect the primary external filing and full syndicated release directly:</p>\n      <p style=\"margin: 1.25rem 0;\">\n        <a href=\"https://www.marketwatch.com/story/florida-is-voting-on-whether-to-slash-property-taxes-heres-who-it-would-benefit-and-hurt-6c34b470?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;\">\n          <span>Open Full Original Article on MarketWatch</span>\n          <span style=\"font-size:1.1rem;\">↗</span>\n        </a>\n      </p>\n    "
-  },
-  {
-    "id": "nba-star-lamelo-ball-is-selling-his-26-million-luxury-condo--uhd4",
-    "title": "NBA star LaMelo Ball is selling his $2.6 million luxury condo in Charlotte after leaving the Hornets",
-    "excerpt": "NBA point guard LaMelo Ball is making another major move: selling his $2.6 million home in one of Uptown Charlotte’s most exclusive residential buildings.",
-    "category": "US Markets",
-    "categorySlug": "us-markets",
-    "tickers": [
-      "^GSPC",
-      "SPY"
-    ],
-    "sentiment": "Bullish",
-    "sentimentScore": "+78%",
-    "author": {
-      "name": "World Stock News Editorial Desk",
-      "title": "Financial Market Intelligence & Macro Analytics",
-      "avatar": "/assets/logo.png"
-    },
-    "publishedAt": "2026-10-29T09:02:00.000Z",
-    "readTime": "5 min read",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "source": "MarketWatch",
-    "sourceUrl": "https://www.marketwatch.com/story/nba-star-lamelo-ball-is-selling-his-2-6-million-luxury-condo-in-charlotte-after-leaving-the-hornets-2356414e?mod=mw_rss_topstories",
-    "targetPrice": "Overweight Target",
-    "analystConsensus": "Accumulate / Buy",
-    "tableOfContents": [
-      {
-        "id": "market-overview",
-        "title": "Market Context & Catalyst"
-      },
-      {
-        "id": "institutional-flows",
-        "title": "Institutional Liquidity & Order Flow"
-      },
-      {
-        "id": "strategic-outlook",
-        "title": "Strategic Positioning & Key Risk Levels"
-      },
-      {
-        "id": "original-wire",
-        "title": "Primary Wire & Full Coverage Link"
-      }
-    ],
-    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> NBA star LaMelo Ball is selling his $2.6 million luxury condo in Charlotte after leaving the Hornets. Reported by MarketWatch. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n        \n        <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);\">\n          <a href=\"https://www.marketwatch.com/story/nba-star-lamelo-ball-is-selling-his-2-6-million-luxury-condo-in-charlotte-after-leaving-the-hornets-2356414e?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;\">\n            <span>Read Original Wire Story on MarketWatch</span>\n            <span>↗</span>\n          </a>\n        </div>\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>NBA point guard LaMelo Ball is making another major move: selling his $2.6 million home in one of Uptown Charlotte’s most exclusive residential buildings.</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n\n      \n      <h3 id=\"original-wire\">Primary Wire & Full Coverage Link</h3>\n      <p>This report incorporates real-time wire data provided by <strong>MarketWatch</strong>. You can inspect the primary external filing and full syndicated release directly:</p>\n      <p style=\"margin: 1.25rem 0;\">\n        <a href=\"https://www.marketwatch.com/story/nba-star-lamelo-ball-is-selling-his-2-6-million-luxury-condo-in-charlotte-after-leaving-the-hornets-2356414e?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;\">\n          <span>Open Full Original Article on MarketWatch</span>\n          <span style=\"font-size:1.1rem;\">↗</span>\n        </a>\n      </p>\n    "
-  },
-  {
-    "id": "samsung-electronics-earned-nearly-as-much-as-microsoft-and-a-uhd4",
-    "title": "Samsung Electronics earned nearly as much as Microsoft and Alphabet combined. What the Korean giant is now saying about the memory-chip outlook.",
-    "excerpt": "Samsung Electronics just posted a quarter that no other tech company has ever seen.",
-    "category": "Tech & AI",
-    "categorySlug": "tech-ai",
-    "tickers": [
-      "NVDA",
-      "AAPL",
-      "MSFT",
-      "QQQ"
-    ],
-    "sentiment": "Bullish",
-    "sentimentScore": "+89%",
-    "author": {
-      "name": "World Stock News Editorial Desk",
-      "title": "Financial Market Intelligence & Macro Analytics",
-      "avatar": "/assets/logo.png"
-    },
-    "publishedAt": "2026-10-29T09:01:00.000Z",
-    "readTime": "5 min read",
-    "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1200&q=80",
-    "source": "MarketWatch",
-    "sourceUrl": "https://www.marketwatch.com/story/samsung-electronics-earned-nearly-as-much-as-microsoft-and-alphabet-combined-what-the-korean-giant-is-now-saying-about-the-memory-chip-outlook-e5c94b94?mod=mw_rss_topstories",
-    "targetPrice": "Overweight Target",
-    "analystConsensus": "Accumulate / Buy",
-    "tableOfContents": [
-      {
-        "id": "market-overview",
-        "title": "Market Context & Catalyst"
-      },
-      {
-        "id": "institutional-flows",
-        "title": "Institutional Liquidity & Order Flow"
-      },
-      {
-        "id": "strategic-outlook",
-        "title": "Strategic Positioning & Key Risk Levels"
-      },
-      {
-        "id": "original-wire",
-        "title": "Primary Wire & Full Coverage Link"
-      }
-    ],
-    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> Samsung Electronics earned nearly as much as Microsoft and Alphabet combined. What the Korean giant is now saying about the memory-chip outlook.. Reported by MarketWatch. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n        \n        <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);\">\n          <a href=\"https://www.marketwatch.com/story/samsung-electronics-earned-nearly-as-much-as-microsoft-and-alphabet-combined-what-the-korean-giant-is-now-saying-about-the-memory-chip-outlook-e5c94b94?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;\">\n            <span>Read Original Wire Story on MarketWatch</span>\n            <span>↗</span>\n          </a>\n        </div>\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>Samsung Electronics just posted a quarter that no other tech company has ever seen.</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n\n      \n      <h3 id=\"original-wire\">Primary Wire & Full Coverage Link</h3>\n      <p>This report incorporates real-time wire data provided by <strong>MarketWatch</strong>. You can inspect the primary external filing and full syndicated release directly:</p>\n      <p style=\"margin: 1.25rem 0;\">\n        <a href=\"https://www.marketwatch.com/story/samsung-electronics-earned-nearly-as-much-as-microsoft-and-alphabet-combined-what-the-korean-giant-is-now-saying-about-the-memory-chip-outlook-e5c94b94?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;\">\n          <span>Open Full Original Article on MarketWatch</span>\n          <span style=\"font-size:1.1rem;\">↗</span>\n        </a>\n      </p>\n    "
   }
 ];
 

@@ -4,39 +4,95 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-10-31T08:58:40.303Z</lastmod>
+    <lastmod>2026-10-31T14:58:31.160Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/us-markets</loc>
-    <lastmod>2026-10-31T08:58:40.303Z</lastmod>
+    <lastmod>2026-10-31T14:58:31.160Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/tech-ai</loc>
-    <lastmod>2026-10-31T08:58:40.303Z</lastmod>
+    <lastmod>2026-10-31T14:58:31.160Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/macro-economy</loc>
-    <lastmod>2026-10-31T08:58:40.303Z</lastmod>
+    <lastmod>2026-10-31T14:58:31.160Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/crypto</loc>
-    <lastmod>2026-10-31T08:58:40.303Z</lastmod>
+    <lastmod>2026-10-31T14:58:31.160Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/earnings</loc>
-    <lastmod>2026-10-31T08:58:40.303Z</lastmod>
+    <lastmod>2026-10-31T14:58:31.160Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/social-securitys-fate-and-your-benefits-are-in-the-hands-of--0ejz</loc>
+    <lastmod>2026-10-31T14:35:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T14:35:00.000Z</news:publication_date>
+      <news:title>Social Security’s fate — and your benefits — are in the hands of the candidates elected this year</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/your-stock-portfolio-increasingly-hinges-on-the-bond-market--0ejz</loc>
+    <lastmod>2026-10-31T14:03:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T14:03:00.000Z</news:publication_date>
+      <news:title>Your stock portfolio increasingly hinges on the bond market — and the midterm elections</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/google-taught-the-world-how-to-search-now-it-faces-a-revolut-0ejz</loc>
+    <lastmod>2026-10-31T13:15:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T13:15:00.000Z</news:publication_date>
+      <news:title>Google taught the world how to search. Now it faces a revolution it can’t afford to lose.</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/anthropic-is-ai-trades-last-big-hope-for-a-major-ipo-this-ye-0ejz</loc>
+    <lastmod>2026-10-31T10:58:31.160Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T10:58:31.160Z</news:publication_date>
+      <news:title>Anthropic is AI trade&apos;s last big hope for a major IPO this year</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-5mx3</loc>
@@ -473,100 +529,44 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article/fancy-cars-hold-no-appeal-we-have-a-99-chance-of-outliving-o-c8pe</loc>
-    <lastmod>2026-10-29T15:45:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T15:45:00.000Z</news:publication_date>
-      <news:title>‘Fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend, spend, spend?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/florida-is-voting-on-whether-to-slash-property-taxes-heres-w-c8pe</loc>
-    <lastmod>2026-10-29T15:39:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T15:39:00.000Z</news:publication_date>
-      <news:title>Florida is voting on whether to slash property taxes. Here’s who it would benefit — and hurt.</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/nba-star-lamelo-ball-is-selling-his-26-million-luxury-condo--uhd4</loc>
-    <lastmod>2026-10-29T09:02:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T09:02:00.000Z</news:publication_date>
-      <news:title>NBA star LaMelo Ball is selling his $2.6 million luxury condo in Charlotte after leaving the Hornets</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/samsung-electronics-earned-nearly-as-much-as-microsoft-and-a-uhd4</loc>
-    <lastmod>2026-10-29T09:01:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T09:01:00.000Z</news:publication_date>
-      <news:title>Samsung Electronics earned nearly as much as Microsoft and Alphabet combined. What the Korean giant is now saying about the memory-chip outlook.</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/about</loc>
-    <lastmod>2026-10-31T08:58:40.303Z</lastmod>
+    <lastmod>2026-10-31T14:58:31.160Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact</loc>
-    <lastmod>2026-10-31T08:58:40.303Z</lastmod>
+    <lastmod>2026-10-31T14:58:31.160Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy</loc>
-    <lastmod>2026-10-31T08:58:40.303Z</lastmod>
+    <lastmod>2026-10-31T14:58:31.160Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms</loc>
-    <lastmod>2026-10-31T08:58:40.303Z</lastmod>
+    <lastmod>2026-10-31T14:58:31.160Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-10-31T08:58:40.303Z</lastmod>
+    <lastmod>2026-10-31T14:58:31.160Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-10-31T08:58:40.303Z</lastmod>
+    <lastmod>2026-10-31T14:58:31.160Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-10-31T08:58:40.303Z</lastmod>
+    <lastmod>2026-10-31T14:58:31.160Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
