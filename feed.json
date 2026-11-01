@@ -13,6 +13,48 @@
   ],
   "items": [
     {
+      "id": "https://worldstocknews.online/article/my-father-has-alzheimers-and-his-caregiver-is-using-his-debi-1vl3",
+      "url": "https://worldstocknews.online/article/my-father-has-alzheimers-and-his-caregiver-is-using-his-debi-1vl3",
+      "title": "My father has Alzheimer’s and his caregiver is using his debit card for DoorDash. Do I intervene?",
+      "content_text": "“I suspect the live-in caregiver is benefiting from my parent’s generosity.”",
+      "summary": "“I suspect the live-in caregiver is benefiting from my parent’s generosity.”",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-11-01T17:30:00.000Z",
+      "tags": [
+        "US Markets",
+        "^GSPC",
+        "SPY"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article/the-worlds-finance-chiefs-see-new-risks-and-less-china-angst-1vl3",
+      "url": "https://worldstocknews.online/article/the-worlds-finance-chiefs-see-new-risks-and-less-china-angst-1vl3",
+      "title": "The world’s finance chiefs see new risks — and less China angst",
+      "content_text": "Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background.",
+      "summary": "Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background.",
+      "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-11-01T17:55:15.812Z",
+      "tags": [
+        "Tech & AI",
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "QQQ"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
       "id": "https://worldstocknews.online/article/apples-new-earnings-era-begins-at-a-critical-time-for-big-te-l1e5",
       "url": "https://worldstocknews.online/article/apples-new-earnings-era-begins-at-a-critical-time-for-big-te-l1e5",
       "title": "Apple’s new earnings era begins at a critical time for Big Tech",
@@ -386,48 +428,6 @@
         "AAPL",
         "MSFT",
         "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/has-the-tech-bubble-burst-why-the-nasdaqs-rough-ride-looks-e-gahc",
-      "url": "https://worldstocknews.online/article/has-the-tech-bubble-burst-why-the-nasdaqs-rough-ride-looks-e-gahc",
-      "title": "Has the tech bubble burst? Why the Nasdaq’s rough ride looks eerily like 2000.",
-      "content_text": "Friday’s big plunge raises disturbing parallels with the top of the dot-com bubble",
-      "summary": "Friday’s big plunge raises disturbing parallels with the top of the dot-com bubble",
-      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-30T23:14:00.000Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/this-cybersecurity-stock-will-be-the-next-to-join-the-sp-500-gahc",
-      "url": "https://worldstocknews.online/article/this-cybersecurity-stock-will-be-the-next-to-join-the-sp-500-gahc",
-      "title": "This cybersecurity stock will be the next to join the S&P 500",
-      "content_text": "Okta is slated to join the index on Wednesday, replacing Kenvue.",
-      "summary": "Okta is slated to join the index on Wednesday, replacing Kenvue.",
-      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-10-30T22:20:00.000Z",
-      "tags": [
-        "US Markets",
-        "^GSPC",
-        "SPY"
       ],
       "authors": [
         {
