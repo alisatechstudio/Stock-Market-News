@@ -4,39 +4,53 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-10-31T22:52:29.713Z</lastmod>
+    <lastmod>2026-11-01T01:34:24.930Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/us-markets</loc>
-    <lastmod>2026-10-31T22:52:29.713Z</lastmod>
+    <lastmod>2026-11-01T01:34:24.930Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/tech-ai</loc>
-    <lastmod>2026-10-31T22:52:29.713Z</lastmod>
+    <lastmod>2026-11-01T01:34:24.930Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/macro-economy</loc>
-    <lastmod>2026-10-31T22:52:29.713Z</lastmod>
+    <lastmod>2026-11-01T01:34:24.930Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/crypto</loc>
-    <lastmod>2026-10-31T22:52:29.713Z</lastmod>
+    <lastmod>2026-11-01T01:34:24.930Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/earnings</loc>
-    <lastmod>2026-10-31T22:52:29.713Z</lastmod>
+    <lastmod>2026-11-01T01:34:24.930Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/hourly-market-brief-mvx5q6g2</loc>
+    <lastmod>2026-11-01T01:34:24.930Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T01:34:24.930Z</news:publication_date>
+      <news:title>Hourly Market Pulse: Global Indices Trade With Steady Breadth as Volume Accelerates</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/my-abusive-ex-husband-promised-20000-for-our-kids-education--xxlq</loc>
@@ -432,7 +446,7 @@
   </url>
   <url>
     <loc>https://worldstocknews.online/article/amazons-stock-drops-even-in-the-face-of-a-bold-new-cloud-for-g5pm</loc>
-    <lastmod>2026-10-30T00:15:00.000Z</lastmod>
+    <lastmod>2026-10-30T19:34:24.930Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -440,13 +454,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-30T00:15:00.000Z</news:publication_date>
+      <news:publication_date>2026-10-30T19:34:24.930Z</news:publication_date>
       <news:title>Amazon’s stock drops — even in the face of a bold new cloud forecast</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/a-starbucks-turnaround-is-brewing-but-perhaps-not-quickly-en-g5pm</loc>
-    <lastmod>2026-10-30T00:14:00.000Z</lastmod>
+    <lastmod>2026-10-30T18:34:24.930Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -454,13 +468,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-30T00:14:00.000Z</news:publication_date>
+      <news:publication_date>2026-10-30T18:34:24.930Z</news:publication_date>
       <news:title>A Starbucks turnaround is brewing — but perhaps not quickly enough for investors</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/sandisk-sees-revenue-nearly-quintuple-and-a-stock-split-is-o-g5pm</loc>
-    <lastmod>2026-10-30T00:06:00.000Z</lastmod>
+    <lastmod>2026-10-30T17:34:24.930Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -468,13 +482,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-30T00:06:00.000Z</news:publication_date>
+      <news:publication_date>2026-10-30T17:34:24.930Z</news:publication_date>
       <news:title>Sandisk sees revenue nearly quintuple — and a stock split is on the way</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-yea-g5pm</loc>
-    <lastmod>2026-10-29T23:21:00.000Z</lastmod>
+    <lastmod>2026-10-30T16:34:24.930Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -482,7 +496,7 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-29T23:21:00.000Z</news:publication_date>
+      <news:publication_date>2026-10-30T16:34:24.930Z</news:publication_date>
       <news:title>Why Intel’s stock is sinking toward its worst drop in two years</news:title>
     </news:news>
   </url>
@@ -515,58 +529,44 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article/my-wife-cried-when-i-found-out-she-had-only-80000-in-her-401-1vst</loc>
-    <lastmod>2026-10-30T11:52:29.713Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T11:52:29.713Z</news:publication_date>
-      <news:title>My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/about</loc>
-    <lastmod>2026-10-31T22:52:29.713Z</lastmod>
+    <lastmod>2026-11-01T01:34:24.930Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact</loc>
-    <lastmod>2026-10-31T22:52:29.713Z</lastmod>
+    <lastmod>2026-11-01T01:34:24.930Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy</loc>
-    <lastmod>2026-10-31T22:52:29.713Z</lastmod>
+    <lastmod>2026-11-01T01:34:24.930Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms</loc>
-    <lastmod>2026-10-31T22:52:29.713Z</lastmod>
+    <lastmod>2026-11-01T01:34:24.930Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-10-31T22:52:29.713Z</lastmod>
+    <lastmod>2026-11-01T01:34:24.930Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-10-31T22:52:29.713Z</lastmod>
+    <lastmod>2026-11-01T01:34:24.930Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-10-31T22:52:29.713Z</lastmod>
+    <lastmod>2026-11-01T01:34:24.930Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
