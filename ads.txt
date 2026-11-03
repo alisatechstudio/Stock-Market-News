@@ -2,4 +2,4 @@
 # World Stock News (worldstocknews.online) - Official Authorized Digital Sellers (ads.txt)
 # Google AdSense Publisher Account
 # ==============================================================================
-google.com, pub-2862340185854650, DIRECT, f08c47fec0942fa0
+# google.com, pub-2862340185854650, DIRECT, f08c47fec0942fa0
