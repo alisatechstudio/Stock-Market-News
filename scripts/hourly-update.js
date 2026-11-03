@@ -638,6 +638,21 @@ async function runUpdate() {
     console.log(`[Hourly Update] Updated ${FEED_JSON_PATH}`);
 
     updateStaticIndexHtml(existingArticles[0], currentIsoTime);
+
+    // 5. Periodically refresh Adcash Anti-Adblock library
+    try {
+      const adcashRes = await fetchWithTimeout('https://adbpage.com/adblock?v=3&format=js', {}, 8000);
+      if (adcashRes.ok) {
+        const adcashCode = await adcashRes.text();
+        if (adcashCode && adcashCode.length > 1000) {
+          const adcashDest = path.join(ROOT_DIR, 'js', 'adcash-lib.js');
+          fs.writeFileSync(adcashDest, adcashCode, 'utf8');
+          console.log('[Hourly Update] Refreshed Adcash Anti-Adblock library (' + adcashCode.length + ' bytes)');
+        }
+      }
+    } catch (adcashErr) {
+      console.warn('[Hourly Update] Notice refreshing Adcash lib:', adcashErr.message);
+    }
   } catch (fsErr) {
     console.warn(`[Hourly Update] Notice: static file writes skipped (serverless environment):`, fsErr.message);
   }
