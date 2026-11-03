@@ -4,39 +4,109 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-11-02T20:32:06.314Z</lastmod>
+    <lastmod>2026-11-03T02:41:34.412Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/us-markets</loc>
-    <lastmod>2026-11-02T20:32:06.314Z</lastmod>
+    <lastmod>2026-11-03T02:41:34.412Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/tech-ai</loc>
-    <lastmod>2026-11-02T20:32:06.314Z</lastmod>
+    <lastmod>2026-11-03T02:41:34.412Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/macro-economy</loc>
-    <lastmod>2026-11-02T20:32:06.314Z</lastmod>
+    <lastmod>2026-11-03T02:41:34.412Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/crypto</loc>
-    <lastmod>2026-11-02T20:32:06.314Z</lastmod>
+    <lastmod>2026-11-03T02:41:34.412Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/earnings</loc>
-    <lastmod>2026-11-02T20:32:06.314Z</lastmod>
+    <lastmod>2026-11-03T02:41:34.412Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/heres-why-palantirs-stock-is-down-despite-a-bombastic-quarte-08td</loc>
+    <lastmod>2026-11-03T00:59:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T00:59:00.000Z</news:publication_date>
+      <news:title>Here’s why Palantir’s stock is down despite a ‘bombastic’ quarter</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/apples-iphone-business-is-booming-heres-why-the-stock-is-fal-08te</loc>
+    <lastmod>2026-11-03T00:52:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T00:52:00.000Z</news:publication_date>
+      <news:title>Apple’s iPhone business is booming. Here’s why the stock is falling anyway.</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/nasdaq-100-tumbles-into-its-third-correction-this-year-as-ai-08te</loc>
+    <lastmod>2026-11-03T00:03:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T00:03:00.000Z</news:publication_date>
+      <news:title>Nasdaq-100 tumbles into its third correction this year as AI worries mount</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/marvell-and-lumentum-shareholders-unite-in-panning-merger-de-08te</loc>
+    <lastmod>2026-11-02T23:39:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T23:39:00.000Z</news:publication_date>
+      <news:title>Marvell and Lumentum shareholders unite in panning merger deal: ‘It’s a trash offer’</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/traders-rushing-into-a-leveraged-etf-to-make-a-bullish-bet-o-08te</loc>
+    <lastmod>2026-11-02T22:03:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T22:03:00.000Z</news:publication_date>
+      <news:title>Traders rushing into a leveraged ETF to make a bullish bet on the Nasdaq-100 just got burned</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/how-soon-gas-prices-could-go-down-now-that-oil-is-tumbling-t3fg</loc>
@@ -376,7 +446,7 @@
   </url>
   <url>
     <loc>https://worldstocknews.online/article/hourly-market-brief-mvx5q6g2</loc>
-    <lastmod>2026-11-01T01:34:24.930Z</lastmod>
+    <lastmod>2026-11-01T20:41:34.412Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -384,7 +454,7 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-01T01:34:24.930Z</news:publication_date>
+      <news:publication_date>2026-11-01T20:41:34.412Z</news:publication_date>
       <news:title>Hourly Market Pulse: Global Indices Trade With Steady Breadth as Volume Accelerates</news:title>
     </news:news>
   </url>
@@ -459,114 +529,44 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article/80-of-workers-make-this-401k-mistake-when-they-retire-pkw6</loc>
-    <lastmod>2026-11-01T13:32:06.314Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T13:32:06.314Z</news:publication_date>
-      <news:title>80% of workers make this 401(k)  mistake when they retire</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/social-securitys-fate-and-your-benefits-are-in-the-hands-of--0ejz</loc>
-    <lastmod>2026-11-01T12:32:06.314Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T12:32:06.314Z</news:publication_date>
-      <news:title>Social Security’s fate — and your benefits — are in the hands of the candidates elected this year</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/your-stock-portfolio-increasingly-hinges-on-the-bond-market--0ejz</loc>
-    <lastmod>2026-11-01T11:32:06.314Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T11:32:06.314Z</news:publication_date>
-      <news:title>Your stock portfolio increasingly hinges on the bond market — and the midterm elections</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/google-taught-the-world-how-to-search-now-it-faces-a-revolut-0ejz</loc>
-    <lastmod>2026-11-01T10:32:06.314Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T10:32:06.314Z</news:publication_date>
-      <news:title>Google taught the world how to search. Now it faces a revolution it can’t afford to lose.</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/anthropic-is-ai-trades-last-big-hope-for-a-major-ipo-this-ye-0ejz</loc>
-    <lastmod>2026-11-01T09:32:06.314Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T09:32:06.314Z</news:publication_date>
-      <news:title>Anthropic is AI trade&apos;s last big hope for a major IPO this year</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/about</loc>
-    <lastmod>2026-11-02T20:32:06.314Z</lastmod>
+    <lastmod>2026-11-03T02:41:34.412Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact</loc>
-    <lastmod>2026-11-02T20:32:06.314Z</lastmod>
+    <lastmod>2026-11-03T02:41:34.412Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy</loc>
-    <lastmod>2026-11-02T20:32:06.314Z</lastmod>
+    <lastmod>2026-11-03T02:41:34.412Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms</loc>
-    <lastmod>2026-11-02T20:32:06.314Z</lastmod>
+    <lastmod>2026-11-03T02:41:34.412Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-11-02T20:32:06.314Z</lastmod>
+    <lastmod>2026-11-03T02:41:34.412Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-11-02T20:32:06.314Z</lastmod>
+    <lastmod>2026-11-03T02:41:34.412Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-11-02T20:32:06.314Z</lastmod>
+    <lastmod>2026-11-03T02:41:34.412Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
