@@ -4,39 +4,123 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-11-04T11:38:27.385Z</lastmod>
+    <lastmod>2026-11-04T18:54:27.207Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/us-markets</loc>
-    <lastmod>2026-11-04T11:38:27.385Z</lastmod>
+    <lastmod>2026-11-04T18:54:27.207Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/tech-ai</loc>
-    <lastmod>2026-11-04T11:38:27.385Z</lastmod>
+    <lastmod>2026-11-04T18:54:27.207Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/macro-economy</loc>
-    <lastmod>2026-11-04T11:38:27.385Z</lastmod>
+    <lastmod>2026-11-04T18:54:27.207Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/crypto</loc>
-    <lastmod>2026-11-04T11:38:27.385Z</lastmod>
+    <lastmod>2026-11-04T18:54:27.207Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/earnings</loc>
-    <lastmod>2026-11-04T11:38:27.385Z</lastmod>
+    <lastmod>2026-11-04T18:54:27.207Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/i-have-no-financial-safety-net-im-66-rely-on-social-security-78ae</loc>
+    <lastmod>2026-11-04T18:37:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T18:37:00.000Z</news:publication_date>
+      <news:title>‘I have no financial safety net’: I’m 66, rely on Social Security and have $500 in savings. What politician speaks for me?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/these-stocks-have-soared-the-most-today-after-the-democrats--78ae</loc>
+    <lastmod>2026-11-04T18:29:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T18:29:00.000Z</news:publication_date>
+      <news:title>These stocks have soared the most today after the Democrats trounced Trump</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/these-12-stocks-are-good-bets-to-beat-the-10-year-treasury-o-78ae</loc>
+    <lastmod>2026-11-04T18:03:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T18:03:00.000Z</news:publication_date>
+      <news:title>These 12 stocks are good bets to beat the 10-year Treasury over the next decade</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/watch-out-for-big-tech-companies-like-meta-and-alphabet-issu-78ae</loc>
+    <lastmod>2026-11-04T17:44:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T17:44:00.000Z</news:publication_date>
+      <news:title>Watch out for Big Tech companies like Meta and Alphabet issuing more shares and diluting your stock ownership</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/hospital-stocks-rally-while-drugmakers-brace-for-scrutiny-he-78ae</loc>
+    <lastmod>2026-11-04T17:19:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T17:19:00.000Z</news:publication_date>
+      <news:title>Hospital stocks rally while drugmakers brace for scrutiny. Here’s what the Democratic wave means for healthcare.</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/10-year-treasury-yield-slides-as-traders-mull-over-democrats-78ae</loc>
+    <lastmod>2026-11-04T17:11:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T17:11:00.000Z</news:publication_date>
+      <news:title>10-year Treasury yield slides as traders mull over Democrats&apos; midterm victories, oil prices drop</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/the-ai-trade-has-been-sold-to-death-but-goldman-strategist-h-mj0a</loc>
@@ -390,7 +474,7 @@
   </url>
   <url>
     <loc>https://worldstocknews.online/article/it-may-take-weeks-to-tally-the-midterm-election-results-here-t3fg</loc>
-    <lastmod>2026-11-02T18:16:00.000Z</lastmod>
+    <lastmod>2026-11-03T10:54:27.207Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -398,13 +482,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-02T18:16:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-03T10:54:27.207Z</news:publication_date>
       <news:title>It may take weeks to tally the midterm election results. Here’s why Wall Street isn’t worried.</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/the-bond-market-rally-is-defying-the-typical-investing-playb-t3fg</loc>
-    <lastmod>2026-11-02T18:13:00.000Z</lastmod>
+    <lastmod>2026-11-03T09:54:27.207Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -412,13 +496,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-02T18:13:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-03T09:54:27.207Z</news:publication_date>
       <news:title>The bond-market rally is defying the typical investing playbook. Here’s why.</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-t3fg</loc>
-    <lastmod>2026-11-02T18:00:00.000Z</lastmod>
+    <lastmod>2026-11-03T08:54:27.207Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -426,13 +510,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-02T18:00:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-03T08:54:27.207Z</news:publication_date>
       <news:title>‘She’s a Type A personality’: My stepmother wants me to repay my late father’s $40,000 wedding gift. Should I oblige?</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/marvells-deal-for-lumentum-is-giving-flashbacks-to-the-dot-c-t3fg</loc>
-    <lastmod>2026-11-02T17:32:00.000Z</lastmod>
+    <lastmod>2026-11-03T07:54:27.207Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -440,133 +524,49 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-02T17:32:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-03T07:54:27.207Z</news:publication_date>
       <news:title>Marvell’s deal for Lumentum is giving flashbacks to the dot-com bubble</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article/texas-governor-race-tightens-in-prediction-markets-but-abbot-t3fg</loc>
-    <lastmod>2026-11-02T18:54:04.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T18:54:04.000Z</news:publication_date>
-      <news:title>Texas governor race tightens in prediction markets, but Abbott remains favored</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/stock-market-after-midterm-elections-what-sp-500-history-sho-t3fg</loc>
-    <lastmod>2026-11-02T17:57:35.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T17:57:35.000Z</news:publication_date>
-      <news:title>Stock market after midterm elections: What S&amp;P 500 history shows</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/binances-63-billion-hack-raises-questions-about-crypto-walle-t3fg</loc>
-    <lastmod>2026-11-02T12:32:06.314Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T12:32:06.314Z</news:publication_date>
-      <news:title>Binance’s $6.3 billion hack raises questions about crypto wallet safety</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/halloween-gets-pricier-as-chocolate-costs-climb-hershey-may--t3fg</loc>
-    <lastmod>2026-11-03T02:38:27.385Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T02:38:27.385Z</news:publication_date>
-      <news:title>Halloween gets pricier as chocolate costs climb — Hershey may feel the pinch</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/fed-officials-are-already-saying-theyll-need-to-get-back-to--t3fh</loc>
-    <lastmod>2026-11-03T01:38:27.385Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T01:38:27.385Z</news:publication_date>
-      <news:title>Fed officials are already saying they’ll need to get back to hiking rates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/5-celebrities-who-waited-years-to-buy-their-dream-homes-i9jg</loc>
-    <lastmod>2026-11-03T00:38:27.385Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T00:38:27.385Z</news:publication_date>
-      <news:title>5 celebrities who waited years to buy their dream homes</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/about</loc>
-    <lastmod>2026-11-04T11:38:27.385Z</lastmod>
+    <lastmod>2026-11-04T18:54:27.207Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact</loc>
-    <lastmod>2026-11-04T11:38:27.385Z</lastmod>
+    <lastmod>2026-11-04T18:54:27.207Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy</loc>
-    <lastmod>2026-11-04T11:38:27.385Z</lastmod>
+    <lastmod>2026-11-04T18:54:27.207Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms</loc>
-    <lastmod>2026-11-04T11:38:27.385Z</lastmod>
+    <lastmod>2026-11-04T18:54:27.207Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-11-04T11:38:27.385Z</lastmod>
+    <lastmod>2026-11-04T18:54:27.207Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-11-04T11:38:27.385Z</lastmod>
+    <lastmod>2026-11-04T18:54:27.207Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-11-04T11:38:27.385Z</lastmod>
+    <lastmod>2026-11-04T18:54:27.207Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
