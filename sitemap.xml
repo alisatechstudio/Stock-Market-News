@@ -4,39 +4,137 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-11-05T12:55:11.142Z</lastmod>
+    <lastmod>2026-11-05T20:20:25.437Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/us-markets</loc>
-    <lastmod>2026-11-05T12:55:11.142Z</lastmod>
+    <lastmod>2026-11-05T20:20:25.437Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/tech-ai</loc>
-    <lastmod>2026-11-05T12:55:11.142Z</lastmod>
+    <lastmod>2026-11-05T20:20:25.437Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/macro-economy</loc>
-    <lastmod>2026-11-05T12:55:11.142Z</lastmod>
+    <lastmod>2026-11-05T20:20:25.437Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/crypto</loc>
-    <lastmod>2026-11-05T12:55:11.142Z</lastmod>
+    <lastmod>2026-11-05T20:20:25.437Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/earnings</loc>
-    <lastmod>2026-11-05T12:55:11.142Z</lastmod>
+    <lastmod>2026-11-05T20:20:25.437Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/after-tech-stock-rout-october-jobs-report-could-bring-relief-pmus</loc>
+    <lastmod>2026-11-05T19:46:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T19:46:00.000Z</news:publication_date>
+      <news:title>After tech-stock rout, October jobs report could bring relief — or more pain</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/this-pancreatic-cancer-treatment-is-on-track-for-one-of-the--pmus</loc>
+    <lastmod>2026-11-05T19:32:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T19:32:00.000Z</news:publication_date>
+      <news:title>This pancreatic cancer treatment is on track for ‘one of the best drug launches of all time’</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/trumps-iran-war-has-changed-the-future-of-social-security-pmus</loc>
+    <lastmod>2026-11-05T19:32:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T19:32:00.000Z</news:publication_date>
+      <news:title>Trump’s Iran war has changed the future of Social Security</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/the-musk-selloff-deepens-as-tesla-and-spacex-combine-for-450-pmus</loc>
+    <lastmod>2026-11-05T19:29:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T19:29:00.000Z</news:publication_date>
+      <news:title>The ‘Musk selloff’ deepens as Tesla and SpaceX combine for $450 billion two-day wipeout</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/as-nvidias-stock-heads-for-a-bear-market-bargain-hunters-see-pmus</loc>
+    <lastmod>2026-11-05T18:59:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T18:59:00.000Z</news:publication_date>
+      <news:title>As Nvidia’s stock heads for a bear market, bargain hunters see a golden buying opportunity</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace-pmus</loc>
+    <lastmod>2026-11-05T16:34:33.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T16:34:33.000Z</news:publication_date>
+      <news:title>Barkin sees interest rate hikes ahead, but at a gradual pace</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/blackstone-president-calls-for-more-equity-to-fund-ai-buildo-pmus</loc>
+    <lastmod>2026-11-05T13:20:25.437Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T13:20:25.437Z</news:publication_date>
+      <news:title>Blackstone president calls for more equity to fund AI buildout as debt risks mount</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/robot-maker-agility-starts-trading-today-but-its-steep-losse-t1w6</loc>
@@ -222,7 +320,7 @@
   </url>
   <url>
     <loc>https://worldstocknews.online/article/texas-governor-race-tightens-in-prediction-markets-but-abbot-2vn7</loc>
-    <lastmod>2026-11-03T13:33:11.000Z</lastmod>
+    <lastmod>2026-11-04T23:20:25.437Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -230,13 +328,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-03T13:33:11.000Z</news:publication_date>
+      <news:publication_date>2026-11-04T23:20:25.437Z</news:publication_date>
       <news:title>Texas governor race tightens in prediction markets, but Abbott remains favored</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/stock-market-after-midterm-elections-what-sp-500-history-sho-2vn7</loc>
-    <lastmod>2026-11-03T18:21:05.000Z</lastmod>
+    <lastmod>2026-11-04T22:20:25.437Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -244,7 +342,7 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-03T18:21:05.000Z</news:publication_date>
+      <news:publication_date>2026-11-04T22:20:25.437Z</news:publication_date>
       <news:title>Stock market after midterm elections: What S&amp;P 500 history shows</news:title>
     </news:news>
   </url>
@@ -431,142 +529,44 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article/heres-why-amds-stock-is-rising-and-sending-a-confident-messa-1yk5</loc>
-    <lastmod>2026-11-04T01:16:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T01:16:00.000Z</news:publication_date>
-      <news:title>Here’s why AMD’s stock is rising — and sending a confident message about the AI trade</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/super-micros-stock-pops-as-earnings-show-booming-demand-for--1yk5</loc>
-    <lastmod>2026-11-04T01:12:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T01:12:00.000Z</news:publication_date>
-      <news:title>Super Micro’s stock pops as earnings show booming demand for AI servers</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/what-analysts-are-telling-us-while-apples-stock-falls-after--3pdu</loc>
-    <lastmod>2026-11-03T22:48:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T22:48:00.000Z</news:publication_date>
-      <news:title>What analysts are telling us while Apple’s stock falls after earnings report</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/shopifys-stock-slides-after-earnings-this-is-whats-worrying--3pdv</loc>
-    <lastmod>2026-11-03T22:45:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T22:45:00.000Z</news:publication_date>
-      <news:title>Shopify’s stock slides after earnings. This is what’s worrying Wall Street.</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/ais-control-over-the-bond-market-is-growing-even-rivaling-wa-3pdv</loc>
-    <lastmod>2026-11-03T22:06:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T22:06:00.000Z</news:publication_date>
-      <news:title>AI’s control over the bond market is growing — even rivaling war and elections</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/sp-500-is-looking-over-the-edge-of-a-technical-cliff-what-ha-3pdv</loc>
-    <lastmod>2026-11-03T21:30:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T21:30:00.000Z</news:publication_date>
-      <news:title>S&amp;P 500 is looking over the edge of a technical cliff — what happens if it falls off?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/depressing-but-true-if-you-want-to-get-ahead-at-work-embrace-3pdv</loc>
-    <lastmod>2026-11-03T21:27:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T21:27:00.000Z</news:publication_date>
-      <news:title>Depressing, but true: If you want to get ahead at work, embrace virtue signaling</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/about</loc>
-    <lastmod>2026-11-05T12:55:11.142Z</lastmod>
+    <lastmod>2026-11-05T20:20:25.437Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact</loc>
-    <lastmod>2026-11-05T12:55:11.142Z</lastmod>
+    <lastmod>2026-11-05T20:20:25.437Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy</loc>
-    <lastmod>2026-11-05T12:55:11.142Z</lastmod>
+    <lastmod>2026-11-05T20:20:25.437Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms</loc>
-    <lastmod>2026-11-05T12:55:11.142Z</lastmod>
+    <lastmod>2026-11-05T20:20:25.437Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-11-05T12:55:11.142Z</lastmod>
+    <lastmod>2026-11-05T20:20:25.437Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-11-05T12:55:11.142Z</lastmod>
+    <lastmod>2026-11-05T20:20:25.437Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-11-05T12:55:11.142Z</lastmod>
+    <lastmod>2026-11-05T20:20:25.437Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
