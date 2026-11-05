@@ -4,39 +4,123 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-11-05T04:59:08.715Z</lastmod>
+    <lastmod>2026-11-05T12:55:11.142Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/us-markets</loc>
-    <lastmod>2026-11-05T04:59:08.715Z</lastmod>
+    <lastmod>2026-11-05T12:55:11.142Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/tech-ai</loc>
-    <lastmod>2026-11-05T04:59:08.715Z</lastmod>
+    <lastmod>2026-11-05T12:55:11.142Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/macro-economy</loc>
-    <lastmod>2026-11-05T04:59:08.715Z</lastmod>
+    <lastmod>2026-11-05T12:55:11.142Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/crypto</loc>
-    <lastmod>2026-11-05T04:59:08.715Z</lastmod>
+    <lastmod>2026-11-05T12:55:11.142Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/earnings</loc>
-    <lastmod>2026-11-05T04:59:08.715Z</lastmod>
+    <lastmod>2026-11-05T12:55:11.142Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/robot-maker-agility-starts-trading-today-but-its-steep-losse-t1w6</loc>
+    <lastmod>2026-11-05T12:43:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T12:43:00.000Z</news:publication_date>
+      <news:title>Robot maker Agility starts trading today — but its steep losses are raising red flags</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/interest-rates-could-go-significantly-higher-if-oil-prices-k-t1w6</loc>
+    <lastmod>2026-11-05T12:33:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T12:33:00.000Z</news:publication_date>
+      <news:title>Interest rates could go ‘significantly higher’ if oil prices keep climbing — even if the Iran war ends soon</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/the-real-test-for-the-artificial-intelligence-build-out-is-w-t1w6</loc>
+    <lastmod>2026-11-05T12:23:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T12:23:00.000Z</news:publication_date>
+      <news:title>The real test for the artificial intelligence build-out is what happens in 2028, analysts say</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/an-anthropic-ipo-when-the-ai-trade-is-this-turbulent-godspee-t1w6</loc>
+    <lastmod>2026-11-05T12:16:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T12:16:00.000Z</news:publication_date>
+      <news:title>An Anthropic IPO when the AI trade is this turbulent? Godspeed!</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/i-constantly-attend-free-meals-hosted-by-people-promoting-an-t1w6</loc>
+    <lastmod>2026-11-05T12:15:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T12:15:00.000Z</news:publication_date>
+      <news:title>I constantly attend free meals hosted by people promoting annuities. Am I flirting with disaster?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/what-the-democratic-midterms-sweep-changes-for-us-china-rela-t1w6</loc>
+    <lastmod>2026-11-05T06:54:52.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T06:54:52.000Z</news:publication_date>
+      <news:title>What the Democratic midterms sweep changes for U.S.-China relations</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/figmas-stock-dips-as-investors-worry-that-ai-momentum-is-com-sv1t</loc>
@@ -445,128 +529,44 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article/my-father-has-alzheimers-and-his-caregiver-is-using-his-debi-1kk6</loc>
-    <lastmod>2026-11-03T17:30:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T17:30:00.000Z</news:publication_date>
-      <news:title>My father has Alzheimer’s and his caregiver is using his debit card for DoorDash. Should I intervene?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/want-to-help-your-adult-kids-and-grandkids-give-them-money-w-1kk6</loc>
-    <lastmod>2026-11-03T17:15:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T17:15:00.000Z</news:publication_date>
-      <news:title>Want to help your adult kids and grandkids? Give them money while you’re still alive.</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/us-jobs-market-perks-up-but-its-still-not-a-great-time-to-ge-1kk6</loc>
-    <lastmod>2026-11-03T16:56:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T16:56:00.000Z</news:publication_date>
-      <news:title>U.S. jobs market perks up, but it’s still not a great time to get hired</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/us-clears-path-for-first-regulated-equity-perpetual-futures-1kk6</loc>
-    <lastmod>2026-11-03T16:46:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T16:46:00.000Z</news:publication_date>
-      <news:title>U.S. clears path for first regulated equity perpetual futures</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/motivational-speaker-mel-robbins-real-estate-journey-from-a--0ym5</loc>
-    <lastmod>2026-11-03T10:02:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T10:02:00.000Z</news:publication_date>
-      <news:title>Motivational speaker Mel Robbins’ real estate journey from a Massachusetts farmhouse to a Vermont retreat</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/blackstone-president-calls-for-more-equity-to-fund-ai-buildo-0ym5</loc>
-    <lastmod>2026-11-03T06:46:36.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T06:46:36.000Z</news:publication_date>
-      <news:title>Blackstone president calls for more equity to fund AI buildout as debt risks mount</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/about</loc>
-    <lastmod>2026-11-05T04:59:08.715Z</lastmod>
+    <lastmod>2026-11-05T12:55:11.142Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact</loc>
-    <lastmod>2026-11-05T04:59:08.715Z</lastmod>
+    <lastmod>2026-11-05T12:55:11.142Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy</loc>
-    <lastmod>2026-11-05T04:59:08.715Z</lastmod>
+    <lastmod>2026-11-05T12:55:11.142Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms</loc>
-    <lastmod>2026-11-05T04:59:08.715Z</lastmod>
+    <lastmod>2026-11-05T12:55:11.142Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-11-05T04:59:08.715Z</lastmod>
+    <lastmod>2026-11-05T12:55:11.142Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-11-05T04:59:08.715Z</lastmod>
+    <lastmod>2026-11-05T12:55:11.142Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-11-05T04:59:08.715Z</lastmod>
+    <lastmod>2026-11-05T12:55:11.142Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
