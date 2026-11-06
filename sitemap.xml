@@ -4,39 +4,109 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-11-06T16:21:43.924Z</lastmod>
+    <lastmod>2026-11-06T21:48:46.391Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/us-markets</loc>
-    <lastmod>2026-11-06T16:21:43.924Z</lastmod>
+    <lastmod>2026-11-06T21:48:46.391Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/tech-ai</loc>
-    <lastmod>2026-11-06T16:21:43.924Z</lastmod>
+    <lastmod>2026-11-06T21:48:46.391Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/macro-economy</loc>
-    <lastmod>2026-11-06T16:21:43.924Z</lastmod>
+    <lastmod>2026-11-06T21:48:46.391Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/crypto</loc>
-    <lastmod>2026-11-06T16:21:43.924Z</lastmod>
+    <lastmod>2026-11-06T21:48:46.391Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/earnings</loc>
-    <lastmod>2026-11-06T16:21:43.924Z</lastmod>
+    <lastmod>2026-11-06T21:48:46.391Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/elon-musk-opens-the-door-for-a-big-spacex-acquisition-b3vm</loc>
+    <lastmod>2026-11-06T21:45:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T21:45:00.000Z</news:publication_date>
+      <news:title>Elon Musk opens the door for a big SpaceX acquisition</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/data-centers-run-on-debt-that-was-a-problem-for-bonds-this-y-b3vn</loc>
+    <lastmod>2026-11-06T21:37:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T21:37:00.000Z</news:publication_date>
+      <news:title>Data centers run on debt. That was a problem for bonds this year — and it’s only going to get worse.</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/nvidia-amd-and-other-chip-stocks-rebound-but-is-relief-from--b3vn</loc>
+    <lastmod>2026-11-06T21:24:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T21:24:00.000Z</news:publication_date>
+      <news:title>Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/americans-are-on-a-treadmill-of-high-inflation-and-more-rate-b3vn</loc>
+    <lastmod>2026-11-06T19:05:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T19:05:00.000Z</news:publication_date>
+      <news:title>Americans are on a &apos;treadmill of high inflation&apos; and more rate hikes are likely, Fed&apos;s Daly says</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/the-ai-credit-card-is-getting-costlier-as-coreweave-bond-yie-b3vn</loc>
+    <lastmod>2026-11-06T17:09:53.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T17:09:53.000Z</news:publication_date>
+      <news:title>The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/cybertrucks-run-comes-to-an-end-as-musk-kills-off-pricey-pet-mjkv</loc>
@@ -110,7 +180,7 @@
   </url>
   <url>
     <loc>https://worldstocknews.online/article/10-year-treasury-yield-slides-as-traders-mull-over-democrats-0lts</loc>
-    <lastmod>2026-11-04T21:18:44.000Z</lastmod>
+    <lastmod>2026-11-06T10:48:46.391Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -118,7 +188,7 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-04T21:18:44.000Z</news:publication_date>
+      <news:publication_date>2026-11-06T10:48:46.391Z</news:publication_date>
       <news:title>10-year Treasury yield slides as traders mull over Democrats&apos; midterm victories, oil prices drop</news:title>
     </news:news>
   </url>
@@ -459,114 +529,44 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article/it-seems-bizarre-were-in-our-80s-with-950000-in-traditional--2vn7</loc>
-    <lastmod>2026-11-04T22:15:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T22:15:00.000Z</news:publication_date>
-      <news:title>‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/how-do-americans-feel-about-the-midterm-results-it-depends-o-2vn7</loc>
-    <lastmod>2026-11-04T22:06:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T22:06:00.000Z</news:publication_date>
-      <news:title>How do Americans feel about the midterm results? It depends on how much money they make.</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/qualcomms-stock-falls-as-twin-forces-pressure-sales-2vn7</loc>
-    <lastmod>2026-11-04T22:03:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T22:03:00.000Z</news:publication_date>
-      <news:title>Qualcomm’s stock falls as twin forces pressure sales</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/texas-governor-race-tightens-in-prediction-markets-but-abbot-2vn7</loc>
-    <lastmod>2026-11-04T23:20:25.437Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T23:20:25.437Z</news:publication_date>
-      <news:title>Texas governor race tightens in prediction markets, but Abbott remains favored</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/stock-market-after-midterm-elections-what-sp-500-history-sho-2vn7</loc>
-    <lastmod>2026-11-04T22:20:25.437Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T22:20:25.437Z</news:publication_date>
-      <news:title>Stock market after midterm elections: What S&amp;P 500 history shows</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/about</loc>
-    <lastmod>2026-11-06T16:21:43.924Z</lastmod>
+    <lastmod>2026-11-06T21:48:46.391Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact</loc>
-    <lastmod>2026-11-06T16:21:43.924Z</lastmod>
+    <lastmod>2026-11-06T21:48:46.391Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy</loc>
-    <lastmod>2026-11-06T16:21:43.924Z</lastmod>
+    <lastmod>2026-11-06T21:48:46.391Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms</loc>
-    <lastmod>2026-11-06T16:21:43.924Z</lastmod>
+    <lastmod>2026-11-06T21:48:46.391Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-11-06T16:21:43.924Z</lastmod>
+    <lastmod>2026-11-06T21:48:46.391Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-11-06T16:21:43.924Z</lastmod>
+    <lastmod>2026-11-06T21:48:46.391Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-11-06T16:21:43.924Z</lastmod>
+    <lastmod>2026-11-06T21:48:46.391Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

@@ -13,6 +13,113 @@
   ],
   "items": [
     {
+      "id": "https://worldstocknews.online/article/elon-musk-opens-the-door-for-a-big-spacex-acquisition-b3vm",
+      "url": "https://worldstocknews.online/article/elon-musk-opens-the-door-for-a-big-spacex-acquisition-b3vm",
+      "title": "Elon Musk opens the door for a big SpaceX acquisition",
+      "content_text": "The rocket and satellite-internet company is looking to challenge telecom giants.",
+      "summary": "The rocket and satellite-internet company is looking to challenge telecom giants.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-11-06T21:45:00.000Z",
+      "tags": [
+        "US Markets",
+        "^GSPC",
+        "SPY"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article/data-centers-run-on-debt-that-was-a-problem-for-bonds-this-y-b3vn",
+      "url": "https://worldstocknews.online/article/data-centers-run-on-debt-that-was-a-problem-for-bonds-this-y-b3vn",
+      "title": "Data centers run on debt. That was a problem for bonds this year — and it’s only going to get worse.",
+      "content_text": "AI debt issuance this year overwhelmed investor portfolios, and has disappointed from a performance perspective. The funding need won’t get any better with Democrats in control of Congress.",
+      "summary": "AI debt issuance this year overwhelmed investor portfolios, and has disappointed from a performance perspective. The funding need won’t get any better with Democrats in control of Congress.",
+      "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-11-06T21:37:00.000Z",
+      "tags": [
+        "Tech & AI",
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "QQQ"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article/nvidia-amd-and-other-chip-stocks-rebound-but-is-relief-from--b3vn",
+      "url": "https://worldstocknews.online/article/nvidia-amd-and-other-chip-stocks-rebound-but-is-relief-from--b3vn",
+      "title": "Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?",
+      "content_text": "Analysts warn of further volatility ahead, although there are several new factors that work in the AI trade’s favor.",
+      "summary": "Analysts warn of further volatility ahead, although there are several new factors that work in the AI trade’s favor.",
+      "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-11-06T21:24:00.000Z",
+      "tags": [
+        "Tech & AI",
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "QQQ"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article/americans-are-on-a-treadmill-of-high-inflation-and-more-rate-b3vn",
+      "url": "https://worldstocknews.online/article/americans-are-on-a-treadmill-of-high-inflation-and-more-rate-b3vn",
+      "title": "Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says",
+      "content_text": "San Francisco Fed President Mary Daly called Friday's jobs report \"good news for American workers,\" but noted the pressure inflation is exerting on household finances",
+      "summary": "San Francisco Fed President Mary Daly called Friday's jobs report \"good news for American workers,\" but noted the pressure inflation is exerting on household finances",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-11-06T19:05:00.000Z",
+      "tags": [
+        "Macro Economy",
+        "^TNX",
+        "CL=F",
+        "GC=F"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article/the-ai-credit-card-is-getting-costlier-as-coreweave-bond-yie-b3vn",
+      "url": "https://worldstocknews.online/article/the-ai-credit-card-is-getting-costlier-as-coreweave-bond-yie-b3vn",
+      "title": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%",
+      "content_text": "Coreweave's steep yields reflect stress in the AI debt markets as investors worry about a data center slowdown. What comes next.",
+      "summary": "Coreweave's steep yields reflect stress in the AI debt markets as investors worry about a data center slowdown. What comes next.",
+      "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-11-06T17:09:53.000Z",
+      "tags": [
+        "Tech & AI",
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "QQQ"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
       "id": "https://worldstocknews.online/article/cybertrucks-run-comes-to-an-end-as-musk-kills-off-pricey-pet-mjkv",
       "url": "https://worldstocknews.online/article/cybertrucks-run-comes-to-an-end-as-musk-kills-off-pricey-pet-mjkv",
       "title": "Cybertruck’s run comes to an end as Musk kills off pricey pet project",
@@ -127,7 +234,7 @@
       "content_text": "Treasury yields were last little changed Wednesday as investors weighed big wins from Democrats in the U.S. midterm elections.",
       "summary": "Treasury yields were last little changed Wednesday as investors weighed big wins from Democrats in the U.S. midterm elections.",
       "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-11-04T21:18:44.000Z",
+      "date_published": "2026-11-06T10:48:46.391Z",
       "tags": [
         "Macro Economy",
         "^TNX",
@@ -324,116 +431,6 @@
         "US Markets",
         "^GSPC",
         "SPY"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/trumps-iran-war-has-changed-the-future-of-social-security-pmus",
-      "url": "https://worldstocknews.online/article/trumps-iran-war-has-changed-the-future-of-social-security-pmus",
-      "title": "Trump’s Iran war has changed the future of Social Security",
-      "content_text": "It’s a mathematical certainty that the Iran war is going to have an enormous influence on the future of retirement in America.",
-      "summary": "It’s a mathematical certainty that the Iran war is going to have an enormous influence on the future of retirement in America.",
-      "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-11-05T19:32:00.000Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/the-musk-selloff-deepens-as-tesla-and-spacex-combine-for-450-pmus",
-      "url": "https://worldstocknews.online/article/the-musk-selloff-deepens-as-tesla-and-spacex-combine-for-450-pmus",
-      "title": "The ‘Musk selloff’ deepens as Tesla and SpaceX combine for $450 billion two-day wipeout",
-      "content_text": "Investors worry a divided Washington could derail “Elon, Inc.”",
-      "summary": "Investors worry a divided Washington could derail “Elon, Inc.”",
-      "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-11-05T19:29:00.000Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/as-nvidias-stock-heads-for-a-bear-market-bargain-hunters-see-pmus",
-      "url": "https://worldstocknews.online/article/as-nvidias-stock-heads-for-a-bear-market-bargain-hunters-see-pmus",
-      "title": "As Nvidia’s stock heads for a bear market, bargain hunters see a golden buying opportunity",
-      "content_text": "Portfolio managers say chip demand should be resilient even in a period of political uncertainty.",
-      "summary": "Portfolio managers say chip demand should be resilient even in a period of political uncertainty.",
-      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-11-05T18:59:00.000Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace-pmus",
-      "url": "https://worldstocknews.online/article/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace-pmus",
-      "title": "Barkin sees interest rate hikes ahead, but at a gradual pace",
-      "content_text": "In a CNBC interview, the policymaker expressed concern over inflation and said monetary policy will need to adjust.",
-      "summary": "In a CNBC interview, the policymaker expressed concern over inflation and said monetary policy will need to adjust.",
-      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-11-05T16:34:33.000Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/blackstone-president-calls-for-more-equity-to-fund-ai-buildo-pmus",
-      "url": "https://worldstocknews.online/article/blackstone-president-calls-for-more-equity-to-fund-ai-buildo-pmus",
-      "title": "Blackstone president calls for more equity to fund AI buildout as debt risks mount",
-      "content_text": "Blackstone President Jon Gray says AI infrastructure needs more equity as debt investors face concentration risks amid massive spending plans.",
-      "summary": "Blackstone President Jon Gray says AI infrastructure needs more equity as debt investors face concentration risks amid massive spending plans.",
-      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-11-05T13:20:25.437Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
       ],
       "authors": [
         {
