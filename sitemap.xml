@@ -4,39 +4,95 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-11-06T08:36:47.609Z</lastmod>
+    <lastmod>2026-11-06T16:21:43.924Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/us-markets</loc>
-    <lastmod>2026-11-06T08:36:47.609Z</lastmod>
+    <lastmod>2026-11-06T16:21:43.924Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/tech-ai</loc>
-    <lastmod>2026-11-06T08:36:47.609Z</lastmod>
+    <lastmod>2026-11-06T16:21:43.924Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/macro-economy</loc>
-    <lastmod>2026-11-06T08:36:47.609Z</lastmod>
+    <lastmod>2026-11-06T16:21:43.924Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/crypto</loc>
-    <lastmod>2026-11-06T08:36:47.609Z</lastmod>
+    <lastmod>2026-11-06T16:21:43.924Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/earnings</loc>
-    <lastmod>2026-11-06T08:36:47.609Z</lastmod>
+    <lastmod>2026-11-06T16:21:43.924Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/cybertrucks-run-comes-to-an-end-as-musk-kills-off-pricey-pet-mjkv</loc>
+    <lastmod>2026-11-06T16:17:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T16:17:00.000Z</news:publication_date>
+      <news:title>Cybertruck’s run comes to an end as Musk kills off pricey pet project</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-s-mjkv</loc>
+    <lastmod>2026-11-06T15:48:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T15:48:00.000Z</news:publication_date>
+      <news:title>Nvidia, AMD and other chip stocks rebound. Is the ‘violent’ AI selloff over?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/i-have-no-financial-safety-net-im-66-rely-on-social-security-mjkv</loc>
+    <lastmod>2026-11-06T15:30:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T15:30:00.000Z</news:publication_date>
+      <news:title>‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/these-three-stars-need-to-align-before-investors-rush-back-i-mjkv</loc>
+    <lastmod>2026-11-06T15:27:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T15:27:00.000Z</news:publication_date>
+      <news:title>These three stars need to align before investors rush back into stocks, Bank of America strategist says</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/my-life-could-be-cut-short-im-55-married-and-have-a-brain-tu-0lts</loc>
@@ -473,100 +529,44 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article/binances-63-billion-hack-raises-questions-about-crypto-walle-2vn7</loc>
-    <lastmod>2026-11-04T16:59:00.294Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T16:59:00.294Z</news:publication_date>
-      <news:title>Binance’s $6.3 billion hack raises questions about crypto wallet safety</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/i-have-no-financial-safety-net-im-66-rely-on-social-security-78ae</loc>
-    <lastmod>2026-11-04T18:37:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T18:37:00.000Z</news:publication_date>
-      <news:title>‘I have no financial safety net’: I’m 66, rely on Social Security and have $500 in savings. What politician speaks for me?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/these-stocks-have-soared-the-most-today-after-the-democrats--78ae</loc>
-    <lastmod>2026-11-04T18:29:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T18:29:00.000Z</news:publication_date>
-      <news:title>These stocks have soared the most today after the Democrats trounced Trump</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/these-12-stocks-are-good-bets-to-beat-the-10-year-treasury-o-78ae</loc>
-    <lastmod>2026-11-04T18:03:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T18:03:00.000Z</news:publication_date>
-      <news:title>These 12 stocks are good bets to beat the 10-year Treasury over the next decade</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/about</loc>
-    <lastmod>2026-11-06T08:36:47.609Z</lastmod>
+    <lastmod>2026-11-06T16:21:43.924Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact</loc>
-    <lastmod>2026-11-06T08:36:47.609Z</lastmod>
+    <lastmod>2026-11-06T16:21:43.924Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy</loc>
-    <lastmod>2026-11-06T08:36:47.609Z</lastmod>
+    <lastmod>2026-11-06T16:21:43.924Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms</loc>
-    <lastmod>2026-11-06T08:36:47.609Z</lastmod>
+    <lastmod>2026-11-06T16:21:43.924Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-11-06T08:36:47.609Z</lastmod>
+    <lastmod>2026-11-06T16:21:43.924Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-11-06T08:36:47.609Z</lastmod>
+    <lastmod>2026-11-06T16:21:43.924Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-11-06T08:36:47.609Z</lastmod>
+    <lastmod>2026-11-06T16:21:43.924Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
