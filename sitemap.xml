@@ -4,39 +4,137 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-11-05T20:20:25.437Z</lastmod>
+    <lastmod>2026-11-06T01:11:50.418Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/us-markets</loc>
-    <lastmod>2026-11-05T20:20:25.437Z</lastmod>
+    <lastmod>2026-11-06T01:11:50.418Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/tech-ai</loc>
-    <lastmod>2026-11-05T20:20:25.437Z</lastmod>
+    <lastmod>2026-11-06T01:11:50.418Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/macro-economy</loc>
-    <lastmod>2026-11-05T20:20:25.437Z</lastmod>
+    <lastmod>2026-11-06T01:11:50.418Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/crypto</loc>
-    <lastmod>2026-11-05T20:20:25.437Z</lastmod>
+    <lastmod>2026-11-06T01:11:50.418Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/earnings</loc>
-    <lastmod>2026-11-05T20:20:25.437Z</lastmod>
+    <lastmod>2026-11-06T01:11:50.418Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/heres-whats-driving-irens-stock-higher-after-a-brutal-sellof-4edu</loc>
+    <lastmod>2026-11-06T01:07:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T01:07:00.000Z</news:publication_date>
+      <news:title>Here’s what’s driving Iren’s stock higher after a brutal selloff</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/cloudflares-stock-mounts-a-big-comeback-after-fastest-sales--4edu</loc>
+    <lastmod>2026-11-06T01:06:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T01:06:00.000Z</news:publication_date>
+      <news:title>Cloudflare’s stock mounts a big comeback after fastest sales surge in nearly 4 years</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/here-are-the-2027-capital-gains-tax-rates-for-each-income-le-4edv</loc>
+    <lastmod>2026-11-05T23:48:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T23:48:00.000Z</news:publication_date>
+      <news:title>Here are the 2027 capital-gains tax rates for each income level</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/tech-stocks-log-worst-day-since-2020-as-carnage-comes-to-the-4edv</loc>
+    <lastmod>2026-11-05T22:48:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T22:48:00.000Z</news:publication_date>
+      <news:title>Tech stocks log worst day since 2020 as carnage comes to the AI trade</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/the-2027-tax-brackets-are-out-see-what-the-standard-deductio-4edv</loc>
+    <lastmod>2026-11-05T22:40:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T22:40:00.000Z</news:publication_date>
+      <news:title>The 2027 tax brackets are out. See what the standard deduction and SALT tax breaks will be.</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/nasdaq-drops-into-correction-territory-heres-what-typically--4edv</loc>
+    <lastmod>2026-11-05T22:31:24.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T22:31:24.000Z</news:publication_date>
+      <news:title>Nasdaq drops into correction territory — here’s what typically happens next</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/top-democrats-call-to-rein-in-ai-buildout-after-midterms-swe-4edv</loc>
+    <lastmod>2026-11-05T20:17:16.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T20:17:16.000Z</news:publication_date>
+      <news:title>Top Democrats call to rein in AI buildout after midterms sweep: &apos;National data center moratorium now&apos;</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/after-tech-stock-rout-october-jobs-report-could-bring-relief-pmus</loc>
@@ -431,142 +529,44 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article/10-year-treasury-yield-slides-as-traders-mull-over-democrats-78ae</loc>
-    <lastmod>2026-11-04T17:11:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T17:11:00.000Z</news:publication_date>
-      <news:title>10-year Treasury yield slides as traders mull over Democrats&apos; midterm victories, oil prices drop</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/the-ai-trade-has-been-sold-to-death-but-goldman-strategist-h-mj0a</loc>
-    <lastmod>2026-11-04T11:10:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T11:10:00.000Z</news:publication_date>
-      <news:title>The AI trade has been ‘sold to death’ but Goldman strategist highlights silver lining from Democratic sweep</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/my-life-could-be-cut-short-im-55-married-with-43-million-and-mj0a</loc>
-    <lastmod>2026-11-04T10:15:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T10:15:00.000Z</news:publication_date>
-      <news:title>‘My life could be cut short’: I’m 55, married with $4.3 million and have a brain tumor. Should I buy a $210,000 custom Porsche?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/la-home-once-owned-by-mike-tysons-former-wife-actress-robin--mj0a</loc>
-    <lastmod>2026-11-04T10:03:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T10:03:00.000Z</news:publication_date>
-      <news:title>L.A. home once owned by Mike Tyson’s former wife, actress Robin Givens, is on the market for $3.5 million</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/jordyn-woods-on-her-baby-plans-with-karl-anthony-towns-after-mj0a</loc>
-    <lastmod>2026-11-04T09:58:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T09:58:00.000Z</news:publication_date>
-      <news:title>Jordyn Woods on her baby plans with Karl-Anthony Towns after buying $14 million home</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/beleaguered-novo-offers-relief-to-investors-thanks-to-wegovy-mj0a</loc>
-    <lastmod>2026-11-04T09:41:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T09:41:00.000Z</news:publication_date>
-      <news:title>Beleaguered Novo offers relief to investors, thanks to Wegovy pill</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/treasury-yields-fall-as-investors-crowd-into-bonds-for-safet-mj0a</loc>
-    <lastmod>2026-11-04T10:02:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T10:02:00.000Z</news:publication_date>
-      <news:title>Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/about</loc>
-    <lastmod>2026-11-05T20:20:25.437Z</lastmod>
+    <lastmod>2026-11-06T01:11:50.418Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact</loc>
-    <lastmod>2026-11-05T20:20:25.437Z</lastmod>
+    <lastmod>2026-11-06T01:11:50.418Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy</loc>
-    <lastmod>2026-11-05T20:20:25.437Z</lastmod>
+    <lastmod>2026-11-06T01:11:50.418Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms</loc>
-    <lastmod>2026-11-05T20:20:25.437Z</lastmod>
+    <lastmod>2026-11-06T01:11:50.418Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-11-05T20:20:25.437Z</lastmod>
+    <lastmod>2026-11-06T01:11:50.418Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-11-05T20:20:25.437Z</lastmod>
+    <lastmod>2026-11-06T01:11:50.418Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-11-05T20:20:25.437Z</lastmod>
+    <lastmod>2026-11-06T01:11:50.418Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
