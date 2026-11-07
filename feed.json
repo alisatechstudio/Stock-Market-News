@@ -13,6 +13,26 @@
   ],
   "items": [
     {
+      "id": "https://worldstocknews.online/article/it-seems-bizarre-were-in-our-80s-with-950000-in-traditional--uoae",
+      "url": "https://worldstocknews.online/article/it-seems-bizarre-were-in-our-80s-with-950000-in-traditional--uoae",
+      "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
+      "content_text": "“Our basic living expenses are covered by $110,000 in annual pensions and Social Security.”",
+      "summary": "“Our basic living expenses are covered by $110,000 in annual pensions and Social Security.”",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-11-06T21:15:00.000Z",
+      "tags": [
+        "US Markets",
+        "^GSPC",
+        "SPY"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
       "id": "https://worldstocknews.online/article/elon-musk-opens-the-door-for-a-big-spacex-acquisition-b3vm",
       "url": "https://worldstocknews.online/article/elon-musk-opens-the-door-for-a-big-spacex-acquisition-b3vm",
       "title": "Elon Musk opens the door for a big SpaceX acquisition",
@@ -411,26 +431,6 @@
         "AAPL",
         "MSFT",
         "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/this-pancreatic-cancer-treatment-is-on-track-for-one-of-the--pmus",
-      "url": "https://worldstocknews.online/article/this-pancreatic-cancer-treatment-is-on-track-for-one-of-the--pmus",
-      "title": "This pancreatic cancer treatment is on track for ‘one of the best drug launches of all time’",
-      "content_text": "Revolution Medicines’ brand-new treatment brought in  far higher sales than expected in its first few weeks on the market.",
-      "summary": "Revolution Medicines’ brand-new treatment brought in  far higher sales than expected in its first few weeks on the market.",
-      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-11-05T19:32:00.000Z",
-      "tags": [
-        "US Markets",
-        "^GSPC",
-        "SPY"
       ],
       "authors": [
         {
