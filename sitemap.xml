@@ -4,39 +4,53 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-11-08T16:24:12.543Z</lastmod>
+    <lastmod>2026-11-08T20:49:15.243Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/us-markets</loc>
-    <lastmod>2026-11-08T16:24:12.543Z</lastmod>
+    <lastmod>2026-11-08T20:49:15.243Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/tech-ai</loc>
-    <lastmod>2026-11-08T16:24:12.543Z</lastmod>
+    <lastmod>2026-11-08T20:49:15.243Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/macro-economy</loc>
-    <lastmod>2026-11-08T16:24:12.543Z</lastmod>
+    <lastmod>2026-11-08T20:49:15.243Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/crypto</loc>
-    <lastmod>2026-11-08T16:24:12.543Z</lastmod>
+    <lastmod>2026-11-08T20:49:15.243Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/earnings</loc>
-    <lastmod>2026-11-08T16:24:12.543Z</lastmod>
+    <lastmod>2026-11-08T20:49:15.243Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/two-months-after-my-fathers-funeral-my-stepmother-asked-me-t-29e5</loc>
+    <lastmod>2026-11-08T17:30:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T17:30:00.000Z</news:publication_date>
+      <news:title>Two months after my father’s funeral, my stepmother asked me to repay his $40,000 wedding gift. Should I do what she says?</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-lexm</loc>
@@ -334,7 +348,7 @@
   </url>
   <url>
     <loc>https://worldstocknews.online/article/americans-are-on-a-treadmill-of-high-inflation-and-more-rate-b3vn</loc>
-    <lastmod>2026-11-06T19:05:00.000Z</lastmod>
+    <lastmod>2026-11-07T21:49:15.243Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -342,13 +356,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-06T19:05:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-07T21:49:15.243Z</news:publication_date>
       <news:title>Americans are on a &apos;treadmill of high inflation&apos; and more rate hikes are likely, Fed&apos;s Daly says</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/the-ai-credit-card-is-getting-costlier-as-coreweave-bond-yie-b3vn</loc>
-    <lastmod>2026-11-06T17:09:53.000Z</lastmod>
+    <lastmod>2026-11-07T20:49:15.243Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -356,7 +370,7 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-06T17:09:53.000Z</news:publication_date>
+      <news:publication_date>2026-11-07T20:49:15.243Z</news:publication_date>
       <news:title>The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%</news:title>
     </news:news>
   </url>
@@ -488,7 +502,7 @@
   </url>
   <url>
     <loc>https://worldstocknews.online/article/tech-stocks-log-worst-day-since-2020-as-carnage-comes-to-the-4edv</loc>
-    <lastmod>2026-11-06T19:08:26.369Z</lastmod>
+    <lastmod>2026-11-07T10:49:15.243Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -496,13 +510,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-06T19:08:26.369Z</news:publication_date>
+      <news:publication_date>2026-11-07T10:49:15.243Z</news:publication_date>
       <news:title>Tech stocks log worst day since 2020 as carnage comes to the AI trade</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/the-2027-tax-brackets-are-out-see-what-the-standard-deductio-4edv</loc>
-    <lastmod>2026-11-06T18:08:26.369Z</lastmod>
+    <lastmod>2026-11-07T09:49:15.243Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -510,63 +524,49 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-06T18:08:26.369Z</news:publication_date>
+      <news:publication_date>2026-11-07T09:49:15.243Z</news:publication_date>
       <news:title>The 2027 tax brackets are out. See what the standard deduction and SALT tax breaks will be.</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article/nasdaq-drops-into-correction-territory-heres-what-typically--4edv</loc>
-    <lastmod>2026-11-06T17:08:26.369Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T17:08:26.369Z</news:publication_date>
-      <news:title>Nasdaq drops into correction territory — here’s what typically happens next</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/about</loc>
-    <lastmod>2026-11-08T16:24:12.543Z</lastmod>
+    <lastmod>2026-11-08T20:49:15.243Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact</loc>
-    <lastmod>2026-11-08T16:24:12.543Z</lastmod>
+    <lastmod>2026-11-08T20:49:15.243Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy</loc>
-    <lastmod>2026-11-08T16:24:12.543Z</lastmod>
+    <lastmod>2026-11-08T20:49:15.243Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms</loc>
-    <lastmod>2026-11-08T16:24:12.543Z</lastmod>
+    <lastmod>2026-11-08T20:49:15.243Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-11-08T16:24:12.543Z</lastmod>
+    <lastmod>2026-11-08T20:49:15.243Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-11-08T16:24:12.543Z</lastmod>
+    <lastmod>2026-11-08T20:49:15.243Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-11-08T16:24:12.543Z</lastmod>
+    <lastmod>2026-11-08T20:49:15.243Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
