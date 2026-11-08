@@ -13,6 +13,28 @@
   ],
   "items": [
     {
+      "id": "https://worldstocknews.online/article/hourly-market-brief-mw78fwjr",
+      "url": "https://worldstocknews.online/article/hourly-market-brief-mw78fwjr",
+      "title": "Hourly Market Pulse: Global Indices Trade With Steady Breadth as Volume Accelerates",
+      "content_text": "Mid-day institutional trading patterns reflect disciplined risk management and rotational inflows into cyclical leaders and technology infrastructure.",
+      "summary": "Mid-day institutional trading patterns reflect disciplined risk management and rotational inflows into cyclical leaders and technology infrastructure.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-11-08T02:48:06.621Z",
+      "tags": [
+        "US Markets",
+        "^GSPC",
+        "^NDX",
+        "NVDA",
+        "BTC-USD"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
       "id": "https://worldstocknews.online/article/second-guessing-my-adviser-is-an-annuity-the-right-move-in-t-len7",
       "url": "https://worldstocknews.online/article/second-guessing-my-adviser-is-an-annuity-the-right-move-in-t-len7",
       "title": "Second-guessing my adviser: Is an annuity the right move in this market?",
@@ -399,28 +421,6 @@
       "summary": "The Cybertruck failed to catch on with car buyers due to high prices and some notable recalls.",
       "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
       "date_published": "2026-11-06T16:17:00.000Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-s-mjkv",
-      "url": "https://worldstocknews.online/article/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-s-mjkv",
-      "title": "Nvidia, AMD and other chip stocks rebound. Is the ‘violent’ AI selloff over?",
-      "content_text": "Analysts warn of further volatility ahead, though there are two new factors that work in the AI trade’s favor.",
-      "summary": "Analysts warn of further volatility ahead, though there are two new factors that work in the AI trade’s favor.",
-      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-11-06T15:48:00.000Z",
       "tags": [
         "Tech & AI",
         "NVDA",
