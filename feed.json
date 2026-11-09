@@ -13,6 +13,49 @@
   ],
   "items": [
     {
+      "id": "https://worldstocknews.online/article/the-sp-500-could-be-dangerously-exposed-to-ai-here-are-some--imeu",
+      "url": "https://worldstocknews.online/article/the-sp-500-could-be-dangerously-exposed-to-ai-here-are-some--imeu",
+      "title": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
+      "content_text": "The large-cap index is nowhere near as diversified as you think.",
+      "summary": "The large-cap index is nowhere near as diversified as you think.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-11-09T00:40:00.000Z",
+      "tags": [
+        "Tech & AI",
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "QQQ"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article/im-second-guessing-my-adviser-is-an-annuity-the-right-move-i-imeu",
+      "url": "https://worldstocknews.online/article/im-second-guessing-my-adviser-is-an-annuity-the-right-move-i-imeu",
+      "title": "I’m second-guessing my adviser: Is an annuity the right move in this market?",
+      "content_text": "“I haven’t committed to the strategy yet and would appreciate some independent perspectives.”",
+      "summary": "“I haven’t committed to the strategy yet and would appreciate some independent perspectives.”",
+      "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-11-09T00:30:00.000Z",
+      "tags": [
+        "Macro Economy",
+        "^TNX",
+        "CL=F",
+        "GC=F"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
       "id": "https://worldstocknews.online/article/how-much-in-roth-conversions-can-you-do-in-2027-with-the-new-8zud",
       "url": "https://worldstocknews.online/article/how-much-in-roth-conversions-can-you-do-in-2027-with-the-new-8zud",
       "title": "How much in Roth conversions can you do in 2027 with the new tax brackets?",
@@ -379,50 +422,6 @@
         "AAPL",
         "MSFT",
         "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/berkshire-hathaway-more-than-doubles-buybacks-in-third-quart-y3r2",
-      "url": "https://worldstocknews.online/article/berkshire-hathaway-more-than-doubles-buybacks-in-third-quart-y3r2",
-      "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
-      "content_text": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit.",
-      "summary": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit.",
-      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-11-07T14:02:49.000Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/hourly-market-brief-mw63us90",
-      "url": "https://worldstocknews.online/article/hourly-market-brief-mw63us90",
-      "title": "Hourly Market Pulse: Global Indices Trade With Steady Breadth as Volume Accelerates",
-      "content_text": "Mid-day institutional trading patterns reflect disciplined risk management and rotational inflows into cyclical leaders and technology infrastructure.",
-      "summary": "Mid-day institutional trading patterns reflect disciplined risk management and rotational inflows into cyclical leaders and technology infrastructure.",
-      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-11-07T07:51:56.635Z",
-      "tags": [
-        "US Markets",
-        "^GSPC",
-        "^NDX",
-        "NVDA",
-        "BTC-USD"
       ],
       "authors": [
         {
