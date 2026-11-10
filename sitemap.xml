@@ -4,39 +4,123 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-11-10T15:50:58.349Z</lastmod>
+    <lastmod>2026-11-10T21:29:08.395Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/us-markets</loc>
-    <lastmod>2026-11-10T15:50:58.349Z</lastmod>
+    <lastmod>2026-11-10T21:29:08.395Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/tech-ai</loc>
-    <lastmod>2026-11-10T15:50:58.349Z</lastmod>
+    <lastmod>2026-11-10T21:29:08.395Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/macro-economy</loc>
-    <lastmod>2026-11-10T15:50:58.349Z</lastmod>
+    <lastmod>2026-11-10T21:29:08.395Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/crypto</loc>
-    <lastmod>2026-11-10T15:50:58.349Z</lastmod>
+    <lastmod>2026-11-10T21:29:08.395Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/earnings</loc>
-    <lastmod>2026-11-10T15:50:58.349Z</lastmod>
+    <lastmod>2026-11-10T21:29:08.395Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/my-friend-feels-trapped-at-her-job-but-wont-do-anything-abou-d9km</loc>
+    <lastmod>2026-11-10T21:22:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T21:22:00.000Z</news:publication_date>
+      <news:title>My friend feels trapped at her job but won’t do anything about it. Am I supposed to step in?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/retirees-should-be-big-beneficiaries-of-the-midterms-democra-d9kn</loc>
+    <lastmod>2026-11-10T21:20:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T21:20:00.000Z</news:publication_date>
+      <news:title>Retirees should be big beneficiaries of the midterms: ‘Democrats will hold every gavel that matters for aging and public policy’</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/ignore-the-wild-swings-in-chip-stocks-until-they-reach-these-d9kn</loc>
+    <lastmod>2026-11-10T20:53:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T20:53:00.000Z</news:publication_date>
+      <news:title>Ignore the wild swings in chip stocks until they reach these ‘lines in the sand’</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/nvidia-could-soon-face-tougher-export-rules-making-it-harder-d9kn</loc>
+    <lastmod>2026-11-10T20:37:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T20:37:00.000Z</news:publication_date>
+      <news:title>Nvidia could soon face tougher export rules, making it harder to sell chips to China after scandal</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/aggressive-fed-rate-hikes-are-quickly-becoming-the-biggest-r-d9kn</loc>
+    <lastmod>2026-11-10T20:27:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T20:27:00.000Z</news:publication_date>
+      <news:title>Aggressive Fed rate hikes are quickly becoming the biggest risk to stocks in 2027, says economist</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/us-gas-prices-fall-below-4-for-the-first-time-since-july-d9kn</loc>
+    <lastmod>2026-11-10T16:29:09.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T16:29:09.000Z</news:publication_date>
+      <news:title>U.S. gas prices fall below $4 for the first time since July</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/why-stocks-are-falling-and-10-year-yields-are-climbing-back--adi4</loc>
@@ -376,7 +460,7 @@
   </url>
   <url>
     <loc>https://worldstocknews.online/article/two-months-after-my-fathers-funeral-my-stepmother-asked-me-t-29e5</loc>
-    <lastmod>2026-11-08T17:30:00.000Z</lastmod>
+    <lastmod>2026-11-09T14:29:08.395Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -384,13 +468,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-08T17:30:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-09T14:29:08.395Z</news:publication_date>
       <news:title>Two months after my father’s funeral, my stepmother asked me to repay his $40,000 wedding gift. Should I do what she says?</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-lexm</loc>
-    <lastmod>2026-11-08T16:00:00.000Z</lastmod>
+    <lastmod>2026-11-09T13:29:08.395Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -398,7 +482,7 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-08T16:00:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-09T13:29:08.395Z</news:publication_date>
       <news:title>Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out</news:title>
     </news:news>
   </url>
@@ -445,128 +529,44 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article/hourly-market-brief-mw78fwjr</loc>
-    <lastmod>2026-11-09T08:49:01.109Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T08:49:01.109Z</news:publication_date>
-      <news:title>Hourly Market Pulse: Global Indices Trade With Steady Breadth as Volume Accelerates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/second-guessing-my-adviser-is-an-annuity-the-right-move-in-t-len7</loc>
-    <lastmod>2026-11-09T03:53:04.503Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T03:53:04.503Z</news:publication_date>
-      <news:title>Second-guessing my adviser: Is an annuity the right move in this market?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/medicare-prescription-drug-costs-will-jump-50-in-2027-doing--len7</loc>
-    <lastmod>2026-11-09T02:53:04.503Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T02:53:04.503Z</news:publication_date>
-      <news:title>Medicare prescription drug costs will jump 50% in 2027. Doing nothing could cost you.</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/my-adviser-recommended-an-annuity-is-it-the-right-move-in-th-xqts</loc>
-    <lastmod>2026-11-09T01:53:04.503Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T01:53:04.503Z</news:publication_date>
-      <news:title>My adviser recommended an annuity. Is it the right move in this market environment?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/democrats-big-election-win-revives-a-difficult-social-securi-xqts</loc>
-    <lastmod>2026-11-08T23:51:34.168Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-08T23:51:34.168Z</news:publication_date>
-      <news:title>Democrats’ big election win revives a difficult Social Security question: Who pays?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/im-65-and-worth-more-than-56-million-can-i-afford-a-200000-c-xqts</loc>
-    <lastmod>2026-11-08T22:51:34.168Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-08T22:51:34.168Z</news:publication_date>
-      <news:title>I’m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/about</loc>
-    <lastmod>2026-11-10T15:50:58.349Z</lastmod>
+    <lastmod>2026-11-10T21:29:08.395Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact</loc>
-    <lastmod>2026-11-10T15:50:58.349Z</lastmod>
+    <lastmod>2026-11-10T21:29:08.395Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy</loc>
-    <lastmod>2026-11-10T15:50:58.349Z</lastmod>
+    <lastmod>2026-11-10T21:29:08.395Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms</loc>
-    <lastmod>2026-11-10T15:50:58.349Z</lastmod>
+    <lastmod>2026-11-10T21:29:08.395Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-11-10T15:50:58.349Z</lastmod>
+    <lastmod>2026-11-10T21:29:08.395Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-11-10T15:50:58.349Z</lastmod>
+    <lastmod>2026-11-10T21:29:08.395Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-11-10T15:50:58.349Z</lastmod>
+    <lastmod>2026-11-10T21:29:08.395Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
