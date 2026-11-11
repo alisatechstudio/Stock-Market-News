@@ -4,39 +4,109 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-11-11T16:41:28.497Z</lastmod>
+    <lastmod>2026-11-11T23:09:08.228Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/us-markets</loc>
-    <lastmod>2026-11-11T16:41:28.497Z</lastmod>
+    <lastmod>2026-11-11T23:09:08.228Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/tech-ai</loc>
-    <lastmod>2026-11-11T16:41:28.497Z</lastmod>
+    <lastmod>2026-11-11T23:09:08.228Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/macro-economy</loc>
-    <lastmod>2026-11-11T16:41:28.497Z</lastmod>
+    <lastmod>2026-11-11T23:09:08.228Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/crypto</loc>
-    <lastmod>2026-11-11T16:41:28.497Z</lastmod>
+    <lastmod>2026-11-11T23:09:08.228Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/earnings</loc>
-    <lastmod>2026-11-11T16:41:28.497Z</lastmod>
+    <lastmod>2026-11-11T23:09:08.228Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remo-dpei</loc>
+    <lastmod>2026-11-11T22:47:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T22:47:00.000Z</news:publication_date>
+      <news:title>Nvidia’s stock drops as the board reportedly prepares to remove CEO Jensen Huang</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/im-63-and-spending-95000-on-a-roof-deck-for-my-500000-home-a-dpei</loc>
+    <lastmod>2026-11-11T22:30:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T22:30:00.000Z</news:publication_date>
+      <news:title>I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Am I being extravagant?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/opening-trading-card-packs-has-become-a-2-billion-market-new-dpei</loc>
+    <lastmod>2026-11-11T21:55:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T21:55:00.000Z</news:publication_date>
+      <news:title>Opening trading-card packs has become a $2 billion market. New apps are trying to cash in.</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/falling-oil-prices-are-no-longer-enough-to-bring-down-borrow-dpei</loc>
+    <lastmod>2026-11-11T21:42:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T21:42:00.000Z</news:publication_date>
+      <news:title>Falling oil prices are no longer enough to bring down borrowing costs in the world’s most important bond market</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/prediction-markets-tied-to-clinical-trials-and-drug-approval-dpei</loc>
+    <lastmod>2026-11-11T19:16:23.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T19:16:23.000Z</news:publication_date>
+      <news:title>Prediction markets tied to clinical trials and drug approvals draw lawmakers&apos; ire</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/anthropics-ipo-roadshow-kicks-off-and-the-big-money-is-alrea-j6e8</loc>
@@ -390,7 +460,7 @@
   </url>
   <url>
     <loc>https://worldstocknews.online/article/rocket-lab-shares-dip-after-the-companys-defining-quarter-mi-7oay</loc>
-    <lastmod>2026-11-09T22:49:00.000Z</lastmod>
+    <lastmod>2026-11-10T16:09:08.228Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -398,13 +468,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-09T22:49:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-10T16:09:08.228Z</news:publication_date>
       <news:title>Rocket Lab shares dip after the company’s ‘defining’ quarter misses the mark</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/heres-how-bernie-sanders-wants-to-keep-social-security-solve-7oay</loc>
-    <lastmod>2026-11-09T22:49:00.000Z</lastmod>
+    <lastmod>2026-11-10T15:09:08.228Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -412,13 +482,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-09T22:49:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-10T15:09:08.228Z</news:publication_date>
       <news:title>Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/as-nvidias-stock-falls-heres-what-wall-street-has-to-say-abo-7oay</loc>
-    <lastmod>2026-11-09T21:55:00.000Z</lastmod>
+    <lastmod>2026-11-10T14:09:08.228Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -426,13 +496,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-09T21:55:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-10T14:09:08.228Z</news:publication_date>
       <news:title>As Nvidia’s stock falls, here’s what Wall Street has to say about the Jensen Huang scandal</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/jensen-huang-exit-odds-are-low-on-prediction-markets-after-n-7oay</loc>
-    <lastmod>2026-11-09T18:46:01.000Z</lastmod>
+    <lastmod>2026-11-10T13:09:08.228Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -440,13 +510,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-09T18:46:01.000Z</news:publication_date>
+      <news:publication_date>2026-11-10T13:09:08.228Z</news:publication_date>
       <news:title>Jensen Huang exit odds are low on prediction markets after Nvidia probe</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/goldman-ceo-solomon-says-ai-financing-remains-strong-despite-7oay</loc>
-    <lastmod>2026-11-09T18:14:47.000Z</lastmod>
+    <lastmod>2026-11-10T12:09:08.228Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -454,119 +524,49 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-09T18:14:47.000Z</news:publication_date>
+      <news:publication_date>2026-11-10T12:09:08.228Z</news:publication_date>
       <news:title>Goldman CEO Solomon says AI financing remains strong despite market jitters</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article/there-is-no-one-at-nvidia-who-would-be-ready-to-replace-jens-5m7g</loc>
-    <lastmod>2026-11-09T17:21:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T17:21:00.000Z</news:publication_date>
-      <news:title>There is no one at Nvidia who would be ready to replace Jensen Huang</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/why-renters-are-obsessed-with-these-300-boneless-couches-5m7g</loc>
-    <lastmod>2026-11-10T08:41:28.497Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T08:41:28.497Z</news:publication_date>
-      <news:title>Why renters are obsessed with these $300 ‘boneless couches’</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/how-spacex-was-able-to-avert-one-of-the-markets-biggest-fear-5m7g</loc>
-    <lastmod>2026-11-10T07:41:28.497Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T07:41:28.497Z</news:publication_date>
-      <news:title>How SpaceX was able to avert one of the market’s biggest fears about its stock</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/a-failed-trial-for-a-heart-drug-casts-shadow-over-rivals-dev-5m7h</loc>
-    <lastmod>2026-11-10T06:41:28.497Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T06:41:28.497Z</news:publication_date>
-      <news:title>A failed trial for a heart drug casts shadow over rivals developing similar therapies</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/the-sp-500-could-be-dangerously-exposed-to-ai-here-are-some--imeu</loc>
-    <lastmod>2026-11-09T20:30:39.167Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T20:30:39.167Z</news:publication_date>
-      <news:title>The S&amp;P 500 could be dangerously exposed to AI. Here are some simple alternatives.</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/about</loc>
-    <lastmod>2026-11-11T16:41:28.497Z</lastmod>
+    <lastmod>2026-11-11T23:09:08.228Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact</loc>
-    <lastmod>2026-11-11T16:41:28.497Z</lastmod>
+    <lastmod>2026-11-11T23:09:08.228Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy</loc>
-    <lastmod>2026-11-11T16:41:28.497Z</lastmod>
+    <lastmod>2026-11-11T23:09:08.228Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms</loc>
-    <lastmod>2026-11-11T16:41:28.497Z</lastmod>
+    <lastmod>2026-11-11T23:09:08.228Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-11-11T16:41:28.497Z</lastmod>
+    <lastmod>2026-11-11T23:09:08.228Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-11-11T16:41:28.497Z</lastmod>
+    <lastmod>2026-11-11T23:09:08.228Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-11-11T16:41:28.497Z</lastmod>
+    <lastmod>2026-11-11T23:09:08.228Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

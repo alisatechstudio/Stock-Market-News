@@ -13,6 +13,111 @@
   ],
   "items": [
     {
+      "id": "https://worldstocknews.online/article/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remo-dpei",
+      "url": "https://worldstocknews.online/article/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remo-dpei",
+      "title": "Nvidia’s stock drops as the board reportedly prepares to remove CEO Jensen Huang",
+      "content_text": "Nvidia’s board of directors could reportedly meet as soon as today to determine the CEO’s fate.",
+      "summary": "Nvidia’s board of directors could reportedly meet as soon as today to determine the CEO’s fate.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-11-11T22:47:00.000Z",
+      "tags": [
+        "Tech & AI",
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "QQQ"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article/im-63-and-spending-95000-on-a-roof-deck-for-my-500000-home-a-dpei",
+      "url": "https://worldstocknews.online/article/im-63-and-spending-95000-on-a-roof-deck-for-my-500000-home-a-dpei",
+      "title": "I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Am I being extravagant?",
+      "content_text": "“I have a net worth of $2.3 million and my only debt is a 15-year mortgage.”",
+      "summary": "“I have a net worth of $2.3 million and my only debt is a 15-year mortgage.”",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-11-11T22:30:00.000Z",
+      "tags": [
+        "US Markets",
+        "^GSPC",
+        "SPY"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article/opening-trading-card-packs-has-become-a-2-billion-market-new-dpei",
+      "url": "https://worldstocknews.online/article/opening-trading-card-packs-has-become-a-2-billion-market-new-dpei",
+      "title": "Opening trading-card packs has become a $2 billion market. New apps are trying to cash in.",
+      "content_text": "Pack-ripping apps are changing the way people buy and sell cards. But analysts say their “slot-like payoff” raises risks.",
+      "summary": "Pack-ripping apps are changing the way people buy and sell cards. But analysts say their “slot-like payoff” raises risks.",
+      "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-11-11T21:55:00.000Z",
+      "tags": [
+        "Tech & AI",
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "QQQ"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article/falling-oil-prices-are-no-longer-enough-to-bring-down-borrow-dpei",
+      "url": "https://worldstocknews.online/article/falling-oil-prices-are-no-longer-enough-to-bring-down-borrow-dpei",
+      "title": "Falling oil prices are no longer enough to bring down borrowing costs in the world’s most important bond market",
+      "content_text": "The tight trading relationship between oil prices and Treasury yields has broken down. It’s a sign that inflation concerns are extending beyond the energy shock.",
+      "summary": "The tight trading relationship between oil prices and Treasury yields has broken down. It’s a sign that inflation concerns are extending beyond the energy shock.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-11-11T21:42:00.000Z",
+      "tags": [
+        "Macro Economy",
+        "^TNX",
+        "CL=F",
+        "GC=F"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article/prediction-markets-tied-to-clinical-trials-and-drug-approval-dpei",
+      "url": "https://worldstocknews.online/article/prediction-markets-tied-to-clinical-trials-and-drug-approval-dpei",
+      "title": "Prediction markets tied to clinical trials and drug approvals draw lawmakers' ire",
+      "content_text": "Sens. Angela Alsobrooks and Ron Wyden are asking what steps the Department of Health and Human Services has taken to mitigate risks from the markets.",
+      "summary": "Sens. Angela Alsobrooks and Ron Wyden are asking what steps the Department of Health and Human Services has taken to mitigate risks from the markets.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-11-11T19:16:23.000Z",
+      "tags": [
+        "US Markets",
+        "^GSPC",
+        "SPY"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
       "id": "https://worldstocknews.online/article/anthropics-ipo-roadshow-kicks-off-and-the-big-money-is-alrea-j6e8",
       "url": "https://worldstocknews.online/article/anthropics-ipo-roadshow-kicks-off-and-the-big-money-is-alrea-j6e8",
       "title": "Anthropic’s IPO roadshow kicks off — and the big money is already lining up",
@@ -323,111 +428,6 @@
         "AAPL",
         "MSFT",
         "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overh-adi4",
-      "url": "https://worldstocknews.online/article/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overh-adi4",
-      "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-      "content_text": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
-      "summary": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
-      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-11-10T15:45:00.000Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/the-thought-of-living-to-100-terrifies-me-is-social-security-adi4",
-      "url": "https://worldstocknews.online/article/the-thought-of-living-to-100-terrifies-me-is-social-security-adi4",
-      "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
-      "content_text": "There’s already a demographic ‘run’ on Social Security.",
-      "summary": "There’s already a demographic ‘run’ on Social Security.",
-      "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-11-10T15:30:00.000Z",
-      "tags": [
-        "US Markets",
-        "^GSPC",
-        "SPY"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/elon-musk-was-half-right-in-his-comment-last-week-about-soft-adi4",
-      "url": "https://worldstocknews.online/article/elon-musk-was-half-right-in-his-comment-last-week-about-soft-adi4",
-      "title": "Elon Musk was half right in his comment last week about SoftBank backpedaling on a gas-turbine order",
-      "content_text": "Elon Musk in a social-media post last week said that SoftBank “defaulted” on a gas-turbine order. The truth, revealed Tuesday in the Japanese’s investment company’s second-quarter earnings, wasn’t far off.",
-      "summary": "Elon Musk in a social-media post last week said that SoftBank “defaulted” on a gas-turbine order. The truth, revealed Tuesday in the Japanese’s investment company’s second-quarter earnings, wasn’t far off.",
-      "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-11-10T15:30:00.000Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/forget-happy-hour-money-parties-are-having-a-moment-adi4",
-      "url": "https://worldstocknews.online/article/forget-happy-hour-money-parties-are-having-a-moment-adi4",
-      "title": "Forget happy hour. ‘Money parties’ are having a moment.",
-      "content_text": "There’s evidence showing that talking about finances with your friends can help you save money.",
-      "summary": "There’s evidence showing that talking about finances with your friends can help you save money.",
-      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-11-10T14:58:00.000Z",
-      "tags": [
-        "US Markets",
-        "^GSPC",
-        "SPY"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/polymarket-says-annualized-revenue-has-topped-18-billion-adi4",
-      "url": "https://worldstocknews.online/article/polymarket-says-annualized-revenue-has-topped-18-billion-adi4",
-      "title": "Polymarket says annualized revenue has topped $1.8 billion",
-      "content_text": "Amid growth of its U.S. exchange, the prediction market platform’s current annual run-rate is $1.8 billion.",
-      "summary": "Amid growth of its U.S. exchange, the prediction market platform’s current annual run-rate is $1.8 billion.",
-      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-11-10T13:00:01.000Z",
-      "tags": [
-        "Macro Economy",
-        "^TNX",
-        "CL=F",
-        "GC=F"
       ],
       "authors": [
         {
