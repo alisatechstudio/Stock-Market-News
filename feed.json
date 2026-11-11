@@ -13,6 +13,28 @@
   ],
   "items": [
     {
+      "id": "https://worldstocknews.online/article/alibaba-announces-plans-to-list-t-head-its-nvidia-chip-rival-xp8n",
+      "url": "https://worldstocknews.online/article/alibaba-announces-plans-to-list-t-head-its-nvidia-chip-rival-xp8n",
+      "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
+      "content_text": "Alibaba noted it had already filed confidentially on Sept. 11 to list T-Head on the Hong Kong Stock Exchange.",
+      "summary": "Alibaba noted it had already filed confidentially on Sept. 11 to list T-Head on the Hong Kong Stock Exchange.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-11-11T07:47:54.000Z",
+      "tags": [
+        "Tech & AI",
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "QQQ"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
       "id": "https://worldstocknews.online/article/one-reason-childrens-place-is-filing-for-bankruptcy-not-enou-zurt",
       "url": "https://worldstocknews.online/article/one-reason-childrens-place-is-filing-for-bankruptcy-not-enou-zurt",
       "title": "One reason Children’s Place is filing for bankruptcy? Not enough children.",
@@ -405,27 +427,6 @@
         "AAPL",
         "MSFT",
         "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/rocket-lab-shares-dip-after-the-companys-defining-quarter-mi-7oay",
-      "url": "https://worldstocknews.online/article/rocket-lab-shares-dip-after-the-companys-defining-quarter-mi-7oay",
-      "title": "Rocket Lab shares dip after the company’s ‘defining’ quarter misses the mark",
-      "content_text": "The rocket-launch company just posted a steeper loss than analysts were expecting.",
-      "summary": "The rocket-launch company just posted a steeper loss than analysts were expecting.",
-      "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-11-09T22:49:00.000Z",
-      "tags": [
-        "Earnings",
-        "^DJI",
-        "AMZN",
-        "TSLA"
       ],
       "authors": [
         {
