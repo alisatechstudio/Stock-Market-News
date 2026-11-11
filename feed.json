@@ -13,6 +13,47 @@
   ],
   "items": [
     {
+      "id": "https://worldstocknews.online/article/one-reason-childrens-place-is-filing-for-bankruptcy-not-enou-zurt",
+      "url": "https://worldstocknews.online/article/one-reason-childrens-place-is-filing-for-bankruptcy-not-enou-zurt",
+      "title": "One reason Children’s Place is filing for bankruptcy? Not enough children.",
+      "content_text": "People might be having fewer children, but that isn’t the only thing to blame for Children’s Place filing for bankruptcy.",
+      "summary": "People might be having fewer children, but that isn’t the only thing to blame for Children’s Place filing for bankruptcy.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-11-11T01:14:00.000Z",
+      "tags": [
+        "US Markets",
+        "^GSPC",
+        "SPY"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-c-zurt",
+      "url": "https://worldstocknews.online/article/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-c-zurt",
+      "title": "CoreWeave’s stock pops as new financing playbook eases debt concerns",
+      "content_text": "A third-quarter revenue beat and $9 billion in planned prepayments gave investors renewed confidence in CoreWeave’s business.",
+      "summary": "A third-quarter revenue beat and $9 billion in planned prepayments gave investors renewed confidence in CoreWeave’s business.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-11-11T01:12:00.000Z",
+      "tags": [
+        "Earnings",
+        "^DJI",
+        "AMZN",
+        "TSLA"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
       "id": "https://worldstocknews.online/article/my-friend-feels-trapped-at-her-job-but-wont-do-anything-abou-d9km",
       "url": "https://worldstocknews.online/article/my-friend-feels-trapped-at-her-job-but-wont-do-anything-abou-d9km",
       "title": "My friend feels trapped at her job but won’t do anything about it. Am I supposed to step in?",
@@ -385,50 +426,6 @@
         "^DJI",
         "AMZN",
         "TSLA"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/heres-how-bernie-sanders-wants-to-keep-social-security-solve-7oay",
-      "url": "https://worldstocknews.online/article/heres-how-bernie-sanders-wants-to-keep-social-security-solve-7oay",
-      "title": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
-      "content_text": "The Vermont senator aims to eliminate the taxable maximum, making the wealthy pay more in taxes",
-      "summary": "The Vermont senator aims to eliminate the taxable maximum, making the wealthy pay more in taxes",
-      "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-11-09T22:49:00.000Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/as-nvidias-stock-falls-heres-what-wall-street-has-to-say-abo-7oay",
-      "url": "https://worldstocknews.online/article/as-nvidias-stock-falls-heres-what-wall-street-has-to-say-abo-7oay",
-      "title": "As Nvidia’s stock falls, here’s what Wall Street has to say about the Jensen Huang scandal",
-      "content_text": "The fallout from the board’s new investigation could become “a longer-lasting problem for the company,” analysts say.",
-      "summary": "The fallout from the board’s new investigation could become “a longer-lasting problem for the company,” analysts say.",
-      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-11-09T21:55:00.000Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
       ],
       "authors": [
         {
