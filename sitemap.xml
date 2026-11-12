@@ -4,39 +4,123 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-11-12T04:26:34.675Z</lastmod>
+    <lastmod>2026-11-12T13:20:34.627Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/us-markets</loc>
-    <lastmod>2026-11-12T04:26:34.675Z</lastmod>
+    <lastmod>2026-11-12T13:20:34.627Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/tech-ai</loc>
-    <lastmod>2026-11-12T04:26:34.675Z</lastmod>
+    <lastmod>2026-11-12T13:20:34.627Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/macro-economy</loc>
-    <lastmod>2026-11-12T04:26:34.675Z</lastmod>
+    <lastmod>2026-11-12T13:20:34.627Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/crypto</loc>
-    <lastmod>2026-11-12T04:26:34.675Z</lastmod>
+    <lastmod>2026-11-12T13:20:34.627Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/earnings</loc>
-    <lastmod>2026-11-12T04:26:34.675Z</lastmod>
+    <lastmod>2026-11-12T13:20:34.627Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/wendys-rejects-a-takeover-offer-scales-back-breakfast-and-st-so5c</loc>
+    <lastmod>2026-11-12T13:05:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T13:05:00.000Z</news:publication_date>
+      <news:title>Wendy’s rejects a takeover offer, scales back breakfast and still sees its stock surge</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/the-worlds-most-sophisticated-drug-companies-are-putting-bil-so5d</loc>
+    <lastmod>2026-11-12T13:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T13:00:00.000Z</news:publication_date>
+      <news:title>The world’s most sophisticated drug companies are putting billions into vaccines — despite the political environment</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/how-the-us-governments-equity-holdings-have-surged-during-tr-so5d</loc>
+    <lastmod>2026-11-12T13:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T13:00:00.000Z</news:publication_date>
+      <news:title>How the U.S. government’s equity holdings have surged during Trump’s second term — in one chart</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/the-bank-of-nvidia-is-in-jeopardy-threatening-the-entire-ai--so5d</loc>
+    <lastmod>2026-11-12T12:55:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T12:55:00.000Z</news:publication_date>
+      <news:title>The ‘bank of Nvidia’ is in jeopardy, threatening the entire AI boom</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/nvidias-jensen-huang-crisis-tests-how-much-of-the-ai-industr-so5d</loc>
+    <lastmod>2026-11-12T12:29:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T12:29:00.000Z</news:publication_date>
+      <news:title>Nvidia’s Jensen Huang crisis tests how much of the AI industry depends on one man</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/chinas-ministry-of-state-security-thrust-into-the-spotlight--so5d</loc>
+    <lastmod>2026-11-12T07:28:48.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T07:28:48.000Z</news:publication_date>
+      <news:title>China&apos;s Ministry of State Security thrust into the spotlight by Nvidia CEO affair</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/hourly-market-brief-mwd1py8t</loc>
@@ -390,7 +474,7 @@
   </url>
   <url>
     <loc>https://worldstocknews.online/article/polymarket-says-annualized-revenue-has-topped-18-billion-adi4</loc>
-    <lastmod>2026-11-10T13:00:01.000Z</lastmod>
+    <lastmod>2026-11-11T05:20:34.627Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -398,13 +482,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-10T13:00:01.000Z</news:publication_date>
+      <news:publication_date>2026-11-11T05:20:34.627Z</news:publication_date>
       <news:title>Polymarket says annualized revenue has topped $1.8 billion</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/fed-governor-waller-sees-december-hike-likely-opens-door-to--adi4</loc>
-    <lastmod>2026-11-10T09:00:01.000Z</lastmod>
+    <lastmod>2026-11-11T04:20:34.627Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -412,7 +496,7 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-10T09:00:01.000Z</news:publication_date>
+      <news:publication_date>2026-11-11T04:20:34.627Z</news:publication_date>
       <news:title>Fed Governor Waller sees December hike likely, opens door to possible half-point increase</news:title>
     </news:news>
   </url>
@@ -445,128 +529,44 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article/americans-are-on-a-treadmill-of-high-inflation-and-more-rate-2kpk</loc>
-    <lastmod>2026-11-10T04:49:01.109Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T04:49:01.109Z</news:publication_date>
-      <news:title>Americans are on a &apos;treadmill of high inflation&apos; and more rate hikes are likely, Fed&apos;s Daly says</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/the-short-seller-who-saw-signs-of-nvidias-china-scandal-mont-7oay</loc>
-    <lastmod>2026-11-10T21:26:34.675Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T21:26:34.675Z</news:publication_date>
-      <news:title>The short seller who saw signs of Nvidia’s China scandal months ago claims Megaspeed isn’t the ony company helping China access chips</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/rocket-lab-shares-dip-after-the-companys-defining-quarter-mi-7oay</loc>
-    <lastmod>2026-11-10T16:09:08.228Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T16:09:08.228Z</news:publication_date>
-      <news:title>Rocket Lab shares dip after the company’s ‘defining’ quarter misses the mark</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/heres-how-bernie-sanders-wants-to-keep-social-security-solve-7oay</loc>
-    <lastmod>2026-11-10T15:09:08.228Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T15:09:08.228Z</news:publication_date>
-      <news:title>Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/as-nvidias-stock-falls-heres-what-wall-street-has-to-say-abo-7oay</loc>
-    <lastmod>2026-11-10T14:09:08.228Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T14:09:08.228Z</news:publication_date>
-      <news:title>As Nvidia’s stock falls, here’s what Wall Street has to say about the Jensen Huang scandal</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/jensen-huang-exit-odds-are-low-on-prediction-markets-after-n-7oay</loc>
-    <lastmod>2026-11-10T13:09:08.228Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T13:09:08.228Z</news:publication_date>
-      <news:title>Jensen Huang exit odds are low on prediction markets after Nvidia probe</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/about</loc>
-    <lastmod>2026-11-12T04:26:34.675Z</lastmod>
+    <lastmod>2026-11-12T13:20:34.627Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact</loc>
-    <lastmod>2026-11-12T04:26:34.675Z</lastmod>
+    <lastmod>2026-11-12T13:20:34.627Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy</loc>
-    <lastmod>2026-11-12T04:26:34.675Z</lastmod>
+    <lastmod>2026-11-12T13:20:34.627Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms</loc>
-    <lastmod>2026-11-12T04:26:34.675Z</lastmod>
+    <lastmod>2026-11-12T13:20:34.627Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-11-12T04:26:34.675Z</lastmod>
+    <lastmod>2026-11-12T13:20:34.627Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-11-12T04:26:34.675Z</lastmod>
+    <lastmod>2026-11-12T13:20:34.627Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-11-12T04:26:34.675Z</lastmod>
+    <lastmod>2026-11-12T13:20:34.627Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
