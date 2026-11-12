@@ -4,39 +4,53 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-11-11T23:09:08.228Z</lastmod>
+    <lastmod>2026-11-12T04:26:34.675Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/us-markets</loc>
-    <lastmod>2026-11-11T23:09:08.228Z</lastmod>
+    <lastmod>2026-11-12T04:26:34.675Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/tech-ai</loc>
-    <lastmod>2026-11-11T23:09:08.228Z</lastmod>
+    <lastmod>2026-11-12T04:26:34.675Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/macro-economy</loc>
-    <lastmod>2026-11-11T23:09:08.228Z</lastmod>
+    <lastmod>2026-11-12T04:26:34.675Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/crypto</loc>
-    <lastmod>2026-11-11T23:09:08.228Z</lastmod>
+    <lastmod>2026-11-12T04:26:34.675Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/earnings</loc>
-    <lastmod>2026-11-11T23:09:08.228Z</lastmod>
+    <lastmod>2026-11-12T04:26:34.675Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/hourly-market-brief-mwd1py8t</loc>
+    <lastmod>2026-11-12T04:26:34.675Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T04:26:34.675Z</news:publication_date>
+      <news:title>Hourly Market Pulse: Global Indices Trade With Steady Breadth as Volume Accelerates</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remo-dpei</loc>
@@ -404,7 +418,7 @@
   </url>
   <url>
     <loc>https://worldstocknews.online/article/we-had-the-worst-fight-i-want-my-husband-to-retire-at-65-but-2kpk</loc>
-    <lastmod>2026-11-10T03:38:00.000Z</lastmod>
+    <lastmod>2026-11-11T00:26:34.675Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -412,13 +426,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-10T03:38:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-11T00:26:34.675Z</news:publication_date>
       <news:title>‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/the-short-seller-who-saw-signs-of-nvidias-china-scandal-mont-2kpk</loc>
-    <lastmod>2026-11-10T00:48:00.000Z</lastmod>
+    <lastmod>2026-11-10T23:26:34.675Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -426,7 +440,7 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-10T00:48:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-10T23:26:34.675Z</news:publication_date>
       <news:title>The short seller who saw signs of Nvidia’s China scandal months ago claims Megaspeed isn’t the only company helping China access chips</news:title>
     </news:news>
   </url>
@@ -446,7 +460,7 @@
   </url>
   <url>
     <loc>https://worldstocknews.online/article/the-short-seller-who-saw-signs-of-nvidias-china-scandal-mont-7oay</loc>
-    <lastmod>2026-11-10T00:48:00.000Z</lastmod>
+    <lastmod>2026-11-10T21:26:34.675Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -454,7 +468,7 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-10T00:48:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-10T21:26:34.675Z</news:publication_date>
       <news:title>The short seller who saw signs of Nvidia’s China scandal months ago claims Megaspeed isn’t the ony company helping China access chips</news:title>
     </news:news>
   </url>
@@ -515,58 +529,44 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article/goldman-ceo-solomon-says-ai-financing-remains-strong-despite-7oay</loc>
-    <lastmod>2026-11-10T12:09:08.228Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T12:09:08.228Z</news:publication_date>
-      <news:title>Goldman CEO Solomon says AI financing remains strong despite market jitters</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/about</loc>
-    <lastmod>2026-11-11T23:09:08.228Z</lastmod>
+    <lastmod>2026-11-12T04:26:34.675Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact</loc>
-    <lastmod>2026-11-11T23:09:08.228Z</lastmod>
+    <lastmod>2026-11-12T04:26:34.675Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy</loc>
-    <lastmod>2026-11-11T23:09:08.228Z</lastmod>
+    <lastmod>2026-11-12T04:26:34.675Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms</loc>
-    <lastmod>2026-11-11T23:09:08.228Z</lastmod>
+    <lastmod>2026-11-12T04:26:34.675Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-11-11T23:09:08.228Z</lastmod>
+    <lastmod>2026-11-12T04:26:34.675Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-11-11T23:09:08.228Z</lastmod>
+    <lastmod>2026-11-12T04:26:34.675Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-11-11T23:09:08.228Z</lastmod>
+    <lastmod>2026-11-12T04:26:34.675Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

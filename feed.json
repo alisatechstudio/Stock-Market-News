@@ -13,6 +13,28 @@
   ],
   "items": [
     {
+      "id": "https://worldstocknews.online/article/hourly-market-brief-mwd1py8t",
+      "url": "https://worldstocknews.online/article/hourly-market-brief-mwd1py8t",
+      "title": "Hourly Market Pulse: Global Indices Trade With Steady Breadth as Volume Accelerates",
+      "content_text": "Mid-day institutional trading patterns reflect disciplined risk management and rotational inflows into cyclical leaders and technology infrastructure.",
+      "summary": "Mid-day institutional trading patterns reflect disciplined risk management and rotational inflows into cyclical leaders and technology infrastructure.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-11-12T04:26:34.675Z",
+      "tags": [
+        "US Markets",
+        "^GSPC",
+        "^NDX",
+        "NVDA",
+        "BTC-USD"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
       "id": "https://worldstocknews.online/article/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remo-dpei",
       "url": "https://worldstocknews.online/article/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remo-dpei",
       "title": "Nvidia’s stock drops as the board reportedly prepares to remove CEO Jensen Huang",
@@ -406,28 +428,6 @@
         "US Markets",
         "^GSPC",
         "SPY"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/why-stocks-are-falling-and-10-year-yields-are-climbing-back--adi4",
-      "url": "https://worldstocknews.online/article/why-stocks-are-falling-and-10-year-yields-are-climbing-back--adi4",
-      "title": "Why stocks are falling and 10-year yields are climbing back near 5% after Tuesday’s inflation report",
-      "content_text": "‘I don’t think they should be raising another 25 basis points,’ one portfolio manager said about the Federal Reserve’s benchmark interest rate.",
-      "summary": "‘I don’t think they should be raising another 25 basis points,’ one portfolio manager said about the Federal Reserve’s benchmark interest rate.",
-      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-11-10T15:47:00.000Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
       ],
       "authors": [
         {
