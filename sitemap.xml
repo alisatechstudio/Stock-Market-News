@@ -4,39 +4,137 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-11-12T13:20:34.627Z</lastmod>
+    <lastmod>2026-11-12T21:10:05.683Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/us-markets</loc>
-    <lastmod>2026-11-12T13:20:34.627Z</lastmod>
+    <lastmod>2026-11-12T21:10:05.683Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/tech-ai</loc>
-    <lastmod>2026-11-12T13:20:34.627Z</lastmod>
+    <lastmod>2026-11-12T21:10:05.683Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/macro-economy</loc>
-    <lastmod>2026-11-12T13:20:34.627Z</lastmod>
+    <lastmod>2026-11-12T21:10:05.683Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/crypto</loc>
-    <lastmod>2026-11-12T13:20:34.627Z</lastmod>
+    <lastmod>2026-11-12T21:10:05.683Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/earnings</loc>
-    <lastmod>2026-11-12T13:20:34.627Z</lastmod>
+    <lastmod>2026-11-12T21:10:05.683Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/the-sp-500-is-shrugging-off-nvidias-selloff-this-week-heres--kgwk</loc>
+    <lastmod>2026-11-12T21:08:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T21:08:00.000Z</news:publication_date>
+      <news:title>The S&amp;P 500 is shrugging off Nvidia’s selloff this week. Here’s what’s keeping the rest of the market afloat.</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/the-bond-market-now-has-an-even-bigger-fear-than-ai-fallout-kgwl</loc>
+    <lastmod>2026-11-12T20:44:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T20:44:00.000Z</news:publication_date>
+      <news:title>The bond market now has an even bigger fear than AI fallout</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/im-17-and-will-be-a-first-generation-college-student-is-law--kgwl</loc>
+    <lastmod>2026-11-12T20:17:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T20:17:00.000Z</news:publication_date>
+      <news:title>I’m 17 and will be a first-generation college student. Is law school worth being $200,000 in debt?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/trump-administration-is-hiring-debt-collectors-to-go-after-d-kgwl</loc>
+    <lastmod>2026-11-12T19:46:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T19:46:00.000Z</news:publication_date>
+      <news:title>Trump administration is hiring debt collectors to go after defaulted student-loan borrowers for first time in 6 years</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/nvidias-stock-selloff-may-be-just-beginning-even-after-shedd-kgwl</loc>
+    <lastmod>2026-11-12T19:15:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T19:15:00.000Z</news:publication_date>
+      <news:title>Nvidia’s stock selloff may be just beginning, even after shedding 30% from its peak</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/in-a-policy-switch-the-fed-says-its-october-2027-meeting-wil-kgwl</loc>
+    <lastmod>2026-11-12T19:05:25.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T19:05:25.000Z</news:publication_date>
+      <news:title>In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/oil-prices-rise-after-trump-says-no-iran-deal-needed-weve-go-kgwl</loc>
+    <lastmod>2026-11-12T19:04:21.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T19:04:21.000Z</news:publication_date>
+      <news:title>Oil prices rise after Trump says no Iran deal needed: &apos;We&apos;ve got their Strait&apos;</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/wendys-rejects-a-takeover-offer-scales-back-breakfast-and-st-so5c</loc>
@@ -348,7 +446,7 @@
   </url>
   <url>
     <loc>https://worldstocknews.online/article/ignore-the-wild-swings-in-chip-stocks-until-they-reach-these-d9kn</loc>
-    <lastmod>2026-11-10T20:53:00.000Z</lastmod>
+    <lastmod>2026-11-11T15:10:05.683Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -356,13 +454,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-10T20:53:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-11T15:10:05.683Z</news:publication_date>
       <news:title>Ignore the wild swings in chip stocks until they reach these ‘lines in the sand’</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/nvidia-could-soon-face-tougher-export-rules-making-it-harder-d9kn</loc>
-    <lastmod>2026-11-10T20:37:00.000Z</lastmod>
+    <lastmod>2026-11-11T14:10:05.683Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -370,13 +468,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-10T20:37:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-11T14:10:05.683Z</news:publication_date>
       <news:title>Nvidia could soon face tougher export rules, making it harder to sell chips to China after scandal</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/aggressive-fed-rate-hikes-are-quickly-becoming-the-biggest-r-d9kn</loc>
-    <lastmod>2026-11-10T20:27:00.000Z</lastmod>
+    <lastmod>2026-11-11T13:10:05.683Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -384,13 +482,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-10T20:27:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-11T13:10:05.683Z</news:publication_date>
       <news:title>Aggressive Fed rate hikes are quickly becoming the biggest risk to stocks in 2027, says economist</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/us-gas-prices-fall-below-4-for-the-first-time-since-july-d9kn</loc>
-    <lastmod>2026-11-10T16:29:09.000Z</lastmod>
+    <lastmod>2026-11-11T12:10:05.683Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -398,13 +496,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-10T16:29:09.000Z</news:publication_date>
+      <news:publication_date>2026-11-11T12:10:05.683Z</news:publication_date>
       <news:title>U.S. gas prices fall below $4 for the first time since July</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/why-stocks-are-falling-and-10-year-yields-are-climbing-back--adi4</loc>
-    <lastmod>2026-11-10T15:47:00.000Z</lastmod>
+    <lastmod>2026-11-11T11:10:05.683Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -412,13 +510,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-10T15:47:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-11T11:10:05.683Z</news:publication_date>
       <news:title>Why stocks are falling and 10-year yields are climbing back near 5% after Tuesday’s inflation report</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overh-adi4</loc>
-    <lastmod>2026-11-10T15:45:00.000Z</lastmod>
+    <lastmod>2026-11-11T10:10:05.683Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -426,147 +524,49 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-10T15:45:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-11T10:10:05.683Z</news:publication_date>
       <news:title>‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article/the-thought-of-living-to-100-terrifies-me-is-social-security-adi4</loc>
-    <lastmod>2026-11-10T15:30:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T15:30:00.000Z</news:publication_date>
-      <news:title>‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/elon-musk-was-half-right-in-his-comment-last-week-about-soft-adi4</loc>
-    <lastmod>2026-11-10T15:30:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T15:30:00.000Z</news:publication_date>
-      <news:title>Elon Musk was half right in his comment last week about SoftBank backpedaling on a gas-turbine order</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/forget-happy-hour-money-parties-are-having-a-moment-adi4</loc>
-    <lastmod>2026-11-10T14:58:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T14:58:00.000Z</news:publication_date>
-      <news:title>Forget happy hour. ‘Money parties’ are having a moment.</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/polymarket-says-annualized-revenue-has-topped-18-billion-adi4</loc>
-    <lastmod>2026-11-11T05:20:34.627Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T05:20:34.627Z</news:publication_date>
-      <news:title>Polymarket says annualized revenue has topped $1.8 billion</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/fed-governor-waller-sees-december-hike-likely-opens-door-to--adi4</loc>
-    <lastmod>2026-11-11T04:20:34.627Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T04:20:34.627Z</news:publication_date>
-      <news:title>Fed Governor Waller sees December hike likely, opens door to possible half-point increase</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/we-had-the-worst-fight-i-want-my-husband-to-retire-at-65-but-2kpk</loc>
-    <lastmod>2026-11-11T00:26:34.675Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T00:26:34.675Z</news:publication_date>
-      <news:title>‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/the-short-seller-who-saw-signs-of-nvidias-china-scandal-mont-2kpk</loc>
-    <lastmod>2026-11-10T23:26:34.675Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T23:26:34.675Z</news:publication_date>
-      <news:title>The short seller who saw signs of Nvidia’s China scandal months ago claims Megaspeed isn’t the only company helping China access chips</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/about</loc>
-    <lastmod>2026-11-12T13:20:34.627Z</lastmod>
+    <lastmod>2026-11-12T21:10:05.683Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact</loc>
-    <lastmod>2026-11-12T13:20:34.627Z</lastmod>
+    <lastmod>2026-11-12T21:10:05.683Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy</loc>
-    <lastmod>2026-11-12T13:20:34.627Z</lastmod>
+    <lastmod>2026-11-12T21:10:05.683Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms</loc>
-    <lastmod>2026-11-12T13:20:34.627Z</lastmod>
+    <lastmod>2026-11-12T21:10:05.683Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-11-12T13:20:34.627Z</lastmod>
+    <lastmod>2026-11-12T21:10:05.683Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-11-12T13:20:34.627Z</lastmod>
+    <lastmod>2026-11-12T21:10:05.683Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-11-12T13:20:34.627Z</lastmod>
+    <lastmod>2026-11-12T21:10:05.683Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
