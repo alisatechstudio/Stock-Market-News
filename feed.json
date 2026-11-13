@@ -13,6 +13,111 @@
   ],
   "items": [
     {
+      "id": "https://worldstocknews.online/article/faa-declares-rare-nationwide-ground-stop-on-flights-with-mor-zrui",
+      "url": "https://worldstocknews.online/article/faa-declares-rare-nationwide-ground-stop-on-flights-with-mor-zrui",
+      "title": "FAA declares rare nationwide ground stop on flights, with more than 10,000 delayed so far",
+      "content_text": "Agency cites “extraordinary circumstances,” while  Homeland Security Secretary Mullin says no indication of attack.",
+      "summary": "Agency cites “extraordinary circumstances,” while  Homeland Security Secretary Mullin says no indication of attack.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-11-13T23:54:00.000Z",
+      "tags": [
+        "US Markets",
+        "^GSPC",
+        "SPY"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article/4-expert-tips-for-signing-up-for-medicare-zruj",
+      "url": "https://worldstocknews.online/article/4-expert-tips-for-signing-up-for-medicare-zruj",
+      "title": "4 expert tips for signing up for Medicare",
+      "content_text": "A day in the life of a Medicare counselor",
+      "summary": "A day in the life of a Medicare counselor",
+      "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-11-13T22:45:00.000Z",
+      "tags": [
+        "US Markets",
+        "^GSPC",
+        "SPY"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-wha-zruj",
+      "url": "https://worldstocknews.online/article/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-wha-zruj",
+      "title": "Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?",
+      "content_text": "Nvidia wiped out $573 billion in market capitalization this week — its sixth consecutive week of stock declines.",
+      "summary": "Nvidia wiped out $573 billion in market capitalization this week — its sixth consecutive week of stock declines.",
+      "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-11-13T22:21:00.000Z",
+      "tags": [
+        "Tech & AI",
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "QQQ"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wo-zruj",
+      "url": "https://worldstocknews.online/article/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wo-zruj",
+      "title": "Global oil supplies are suddenly flowing. Why a crude glut won’t mean cheaper diesel.",
+      "content_text": "It’s official: the world is expected to soon have more oil than it needs for the first time since the Iran war began in February. But more oil doesn’t automatically lead to lower diesel prices.",
+      "summary": "It’s official: the world is expected to soon have more oil than it needs for the first time since the Iran war began in February. But more oil doesn’t automatically lead to lower diesel prices.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-11-13T22:04:00.000Z",
+      "tags": [
+        "Macro Economy",
+        "^TNX",
+        "CL=F",
+        "GC=F"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article/lutnick-faces-questions-over-nvidia-spy-scandal-his-sons-fir-zruj",
+      "url": "https://worldstocknews.online/article/lutnick-faces-questions-over-nvidia-spy-scandal-his-sons-fir-zruj",
+      "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
+      "content_text": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker.",
+      "summary": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-11-13T23:42:18.000Z",
+      "tags": [
+        "Tech & AI",
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "QQQ"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
       "id": "https://worldstocknews.online/article/i-am-turning-18-next-month-and-want-to-start-investing-what--l5jh",
       "url": "https://worldstocknews.online/article/i-am-turning-18-next-month-and-want-to-start-investing-what--l5jh",
       "title": "I am turning 18 next month and want to start investing. What do I do first?",
@@ -315,112 +420,6 @@
       "summary": "Carnage in tech stocks made Treasurys look more attractive in recent weeks, but fears of more Fed rate hikes are now driving yields higher",
       "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
       "date_published": "2026-11-12T20:44:00.000Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/im-17-and-will-be-a-first-generation-college-student-is-law--kgwl",
-      "url": "https://worldstocknews.online/article/im-17-and-will-be-a-first-generation-college-student-is-law--kgwl",
-      "title": "I’m 17 and will be a first-generation college student. Is law school worth being $200,000 in debt?",
-      "content_text": "“I‘’m considering a pre-law track … I’m just a bit hesitant because of how expensive law school is.”",
-      "summary": "“I‘’m considering a pre-law track … I’m just a bit hesitant because of how expensive law school is.”",
-      "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-11-12T20:17:00.000Z",
-      "tags": [
-        "US Markets",
-        "^GSPC",
-        "SPY"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/trump-administration-is-hiring-debt-collectors-to-go-after-d-kgwl",
-      "url": "https://worldstocknews.online/article/trump-administration-is-hiring-debt-collectors-to-go-after-d-kgwl",
-      "title": "Trump administration is hiring debt collectors to go after defaulted student-loan borrowers for first time in 6 years",
-      "content_text": "The Treasury Department proposes to pay debt collectors much less than in the past to help borrowers get out of default.",
-      "summary": "The Treasury Department proposes to pay debt collectors much less than in the past to help borrowers get out of default.",
-      "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-11-12T19:46:00.000Z",
-      "tags": [
-        "Macro Economy",
-        "^TNX",
-        "CL=F",
-        "GC=F"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/nvidias-stock-selloff-may-be-just-beginning-even-after-shedd-kgwl",
-      "url": "https://worldstocknews.online/article/nvidias-stock-selloff-may-be-just-beginning-even-after-shedd-kgwl",
-      "title": "Nvidia’s stock selloff may be just beginning, even after shedding 30% from its peak",
-      "content_text": "While shares of Nvidia look cheap on paper and on the charts, Wall Street analysts see more volatility ahead.",
-      "summary": "While shares of Nvidia look cheap on paper and on the charts, Wall Street analysts see more volatility ahead.",
-      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-11-12T19:15:00.000Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/in-a-policy-switch-the-fed-says-its-october-2027-meeting-wil-kgwl",
-      "url": "https://worldstocknews.online/article/in-a-policy-switch-the-fed-says-its-october-2027-meeting-wil-kgwl",
-      "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
-      "content_text": "There will be seven voting meetings next year, with the October session set up as extra time for policy deliberation without a formal vote or post-meeting statement.",
-      "summary": "There will be seven voting meetings next year, with the October session set up as extra time for policy deliberation without a formal vote or post-meeting statement.",
-      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-11-12T19:05:25.000Z",
-      "tags": [
-        "Macro Economy",
-        "^TNX",
-        "CL=F",
-        "GC=F"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/oil-prices-rise-after-trump-says-no-iran-deal-needed-weve-go-kgwl",
-      "url": "https://worldstocknews.online/article/oil-prices-rise-after-trump-says-no-iran-deal-needed-weve-go-kgwl",
-      "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
-      "content_text": "Oil prices were mixed on Thursday, after the latest comments from President Donald Trump raised worries that an end to the U.S.-Iran war was not in sight.",
-      "summary": "Oil prices were mixed on Thursday, after the latest comments from President Donald Trump raised worries that an end to the U.S.-Iran war was not in sight.",
-      "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-11-12T19:04:21.000Z",
       "tags": [
         "Tech & AI",
         "NVDA",
