@@ -4,39 +4,109 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-11-13T10:08:18.367Z</lastmod>
+    <lastmod>2026-11-13T18:10:20.377Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/us-markets</loc>
-    <lastmod>2026-11-13T10:08:18.367Z</lastmod>
+    <lastmod>2026-11-13T18:10:20.377Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/tech-ai</loc>
-    <lastmod>2026-11-13T10:08:18.367Z</lastmod>
+    <lastmod>2026-11-13T18:10:20.377Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/macro-economy</loc>
-    <lastmod>2026-11-13T10:08:18.367Z</lastmod>
+    <lastmod>2026-11-13T18:10:20.377Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/crypto</loc>
-    <lastmod>2026-11-13T10:08:18.367Z</lastmod>
+    <lastmod>2026-11-13T18:10:20.377Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/earnings</loc>
-    <lastmod>2026-11-13T10:08:18.367Z</lastmod>
+    <lastmod>2026-11-13T18:10:20.377Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/i-am-turning-18-next-month-and-want-to-start-investing-what--l5jh</loc>
+    <lastmod>2026-11-13T17:56:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T17:56:00.000Z</news:publication_date>
+      <news:title>I am turning 18 next month and want to start investing. What do I do first?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/how-low-does-nvidias-stock-need-to-go-before-its-a-screaming-l5jh</loc>
+    <lastmod>2026-11-13T17:07:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T17:07:00.000Z</news:publication_date>
+      <news:title>How low does Nvidia’s stock need to go before it’s a screaming bargain?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/if-you-could-change-one-thing-about-caregiving-what-would-it-l5jh</loc>
+    <lastmod>2026-11-13T17:01:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T17:01:00.000Z</news:publication_date>
+      <news:title>If you could change one thing about caregiving, what would it be?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/spacex-is-about-to-attempt-the-holy-grail-of-rocketry-l5jh</loc>
+    <lastmod>2026-11-13T16:54:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T16:54:00.000Z</news:publication_date>
+      <news:title>SpaceX is about to attempt the ‘holy grail’ of rocketry</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/chicago-feds-goolsbee-says-central-bank-has-definitely-got-w-l5ji</loc>
+    <lastmod>2026-11-13T14:22:07.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T14:22:07.000Z</news:publication_date>
+      <news:title>Chicago Fed&apos;s Goolsbee says central bank &apos;has definitely got work to do&apos; on inflation</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/my-wife-has-dementia-and-may-outlive-me-how-do-we-prepare-fo-d97f</loc>
@@ -418,7 +488,7 @@
   </url>
   <url>
     <loc>https://worldstocknews.online/article/anthropics-ipo-roadshow-kicks-off-and-the-big-money-is-alrea-j6e8</loc>
-    <lastmod>2026-11-11T16:03:00.000Z</lastmod>
+    <lastmod>2026-11-12T09:10:20.377Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -426,13 +496,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-11T16:03:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-12T09:10:20.377Z</news:publication_date>
       <news:title>Anthropic’s IPO roadshow kicks off — and the big money is already lining up</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/coreweave-just-gave-a-shot-in-the-arm-to-micron-lumentum-and-j6e8</loc>
-    <lastmod>2026-11-11T15:26:00.000Z</lastmod>
+    <lastmod>2026-11-12T08:10:20.377Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -440,13 +510,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-11T15:26:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-12T08:10:20.377Z</news:publication_date>
       <news:title>CoreWeave just gave a shot in the arm to Micron, Lumentum and the rest of the AI trade</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/im-63-and-want-to-spend-95000-on-a-roof-deck-for-my-500000-h-j6e8</loc>
-    <lastmod>2026-11-11T15:25:00.000Z</lastmod>
+    <lastmod>2026-11-12T07:10:20.377Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -454,119 +524,49 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-11T15:25:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-12T07:10:20.377Z</news:publication_date>
       <news:title>I’m 63 and want to spend $95,000 on a roof deck for my $500,000 home. Is that a good investment?</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article/market-angst-is-driving-investors-into-low-volatility-stocks-j6e8</loc>
-    <lastmod>2026-11-11T15:15:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T15:15:00.000Z</news:publication_date>
-      <news:title>Market angst is driving investors into low-volatility stocks as AI trade stumbles</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/feds-goolsbee-calls-inflation-report-borderline-disturbing-a-j6e8</loc>
-    <lastmod>2026-11-11T14:24:28.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T14:24:28.000Z</news:publication_date>
-      <news:title>Fed&apos;s Goolsbee calls inflation report &apos;borderline disturbing&apos; as central bank weighs more hikes</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/alibaba-announces-plans-to-list-t-head-its-nvidia-chip-rival-xp8n</loc>
-    <lastmod>2026-11-12T01:08:18.367Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T01:08:18.367Z</news:publication_date>
-      <news:title>Alibaba announces plans to list T-Head, its Nvidia chip rival</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/one-reason-childrens-place-is-filing-for-bankruptcy-not-enou-zurt</loc>
-    <lastmod>2026-11-11T19:11:34.133Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T19:11:34.133Z</news:publication_date>
-      <news:title>One reason Children’s Place is filing for bankruptcy? Not enough children.</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-c-zurt</loc>
-    <lastmod>2026-11-11T18:11:34.133Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T18:11:34.133Z</news:publication_date>
-      <news:title>CoreWeave’s stock pops as new financing playbook eases debt concerns</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/about</loc>
-    <lastmod>2026-11-13T10:08:18.367Z</lastmod>
+    <lastmod>2026-11-13T18:10:20.377Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact</loc>
-    <lastmod>2026-11-13T10:08:18.367Z</lastmod>
+    <lastmod>2026-11-13T18:10:20.377Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy</loc>
-    <lastmod>2026-11-13T10:08:18.367Z</lastmod>
+    <lastmod>2026-11-13T18:10:20.377Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms</loc>
-    <lastmod>2026-11-13T10:08:18.367Z</lastmod>
+    <lastmod>2026-11-13T18:10:20.377Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-11-13T10:08:18.367Z</lastmod>
+    <lastmod>2026-11-13T18:10:20.377Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-11-13T10:08:18.367Z</lastmod>
+    <lastmod>2026-11-13T18:10:20.377Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-11-13T10:08:18.367Z</lastmod>
+    <lastmod>2026-11-13T18:10:20.377Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
