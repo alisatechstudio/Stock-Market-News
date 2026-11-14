@@ -4,39 +4,67 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-11-13T23:57:37.744Z</lastmod>
+    <lastmod>2026-11-14T04:25:48.279Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/us-markets</loc>
-    <lastmod>2026-11-13T23:57:37.744Z</lastmod>
+    <lastmod>2026-11-14T04:25:48.279Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/tech-ai</loc>
-    <lastmod>2026-11-13T23:57:37.744Z</lastmod>
+    <lastmod>2026-11-14T04:25:48.279Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/macro-economy</loc>
-    <lastmod>2026-11-13T23:57:37.744Z</lastmod>
+    <lastmod>2026-11-14T04:25:48.279Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/crypto</loc>
-    <lastmod>2026-11-13T23:57:37.744Z</lastmod>
+    <lastmod>2026-11-14T04:25:48.279Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/earnings</loc>
-    <lastmod>2026-11-13T23:57:37.744Z</lastmod>
+    <lastmod>2026-11-14T04:25:48.279Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/faa-lifts-rare-nationwide-ground-stop-on-flights-air-travel--knff</loc>
+    <lastmod>2026-11-14T02:42:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T02:42:00.000Z</news:publication_date>
+      <news:title>FAA lifts rare nationwide ground stop on flights; air travel may take days to recover</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/14-dividend-stocks-selected-for-long-term-growth-knfg</loc>
+    <lastmod>2026-11-14T01:58:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T01:58:00.000Z</news:publication_date>
+      <news:title>14 dividend stocks selected for long-term growth</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/faa-declares-rare-nationwide-ground-stop-on-flights-with-mor-zrui</loc>
@@ -501,72 +529,44 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article/im-63-and-spending-95000-on-a-roof-deck-for-my-500000-home-a-dpei</loc>
-    <lastmod>2026-11-12T13:57:37.744Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T13:57:37.744Z</news:publication_date>
-      <news:title>I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Am I being extravagant?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/opening-trading-card-packs-has-become-a-2-billion-market-new-dpei</loc>
-    <lastmod>2026-11-12T12:57:37.744Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T12:57:37.744Z</news:publication_date>
-      <news:title>Opening trading-card packs has become a $2 billion market. New apps are trying to cash in.</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/about</loc>
-    <lastmod>2026-11-13T23:57:37.744Z</lastmod>
+    <lastmod>2026-11-14T04:25:48.279Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact</loc>
-    <lastmod>2026-11-13T23:57:37.744Z</lastmod>
+    <lastmod>2026-11-14T04:25:48.279Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy</loc>
-    <lastmod>2026-11-13T23:57:37.744Z</lastmod>
+    <lastmod>2026-11-14T04:25:48.279Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms</loc>
-    <lastmod>2026-11-13T23:57:37.744Z</lastmod>
+    <lastmod>2026-11-14T04:25:48.279Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-11-13T23:57:37.744Z</lastmod>
+    <lastmod>2026-11-14T04:25:48.279Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-11-13T23:57:37.744Z</lastmod>
+    <lastmod>2026-11-14T04:25:48.279Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-11-13T23:57:37.744Z</lastmod>
+    <lastmod>2026-11-14T04:25:48.279Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
