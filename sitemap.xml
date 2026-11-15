@@ -4,39 +4,81 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-11-15T08:29:30.805Z</lastmod>
+    <lastmod>2026-11-15T15:54:43.821Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/us-markets</loc>
-    <lastmod>2026-11-15T08:29:30.805Z</lastmod>
+    <lastmod>2026-11-15T15:54:43.821Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/tech-ai</loc>
-    <lastmod>2026-11-15T08:29:30.805Z</lastmod>
+    <lastmod>2026-11-15T15:54:43.821Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/macro-economy</loc>
-    <lastmod>2026-11-15T08:29:30.805Z</lastmod>
+    <lastmod>2026-11-15T15:54:43.821Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/crypto</loc>
-    <lastmod>2026-11-15T08:29:30.805Z</lastmod>
+    <lastmod>2026-11-15T15:54:43.821Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/earnings</loc>
-    <lastmod>2026-11-15T08:29:30.805Z</lastmod>
+    <lastmod>2026-11-15T15:54:43.821Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/chinas-hottest-stocks-these-days-have-one-thing-in-common-na-mgtk</loc>
+    <lastmod>2026-11-15T15:22:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T15:22:00.000Z</news:publication_date>
+      <news:title>China’s hottest stocks these days have one thing in common: names that sound like sheep</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipate-mgtl</loc>
+    <lastmod>2026-11-15T15:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T15:00:00.000Z</news:publication_date>
+      <news:title>Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/will-the-anthropic-ipo-create-a-disturbance-in-the-broader-u-mgtl</loc>
+    <lastmod>2026-11-15T14:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T14:00:00.000Z</news:publication_date>
+      <news:title>Will the Anthropic IPO create a disturbance in the broader U.S. equity market, like SpaceX did?</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/hourly-market-brief-mwhkpwtr</loc>
@@ -362,7 +404,7 @@
   </url>
   <url>
     <loc>https://worldstocknews.online/article/chicago-feds-goolsbee-says-central-bank-has-definitely-got-w-l5ji</loc>
-    <lastmod>2026-11-13T14:22:07.000Z</lastmod>
+    <lastmod>2026-11-14T12:54:43.821Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -370,13 +412,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-13T14:22:07.000Z</news:publication_date>
+      <news:publication_date>2026-11-14T12:54:43.821Z</news:publication_date>
       <news:title>Chicago Fed&apos;s Goolsbee says central bank &apos;has definitely got work to do&apos; on inflation</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/my-wife-has-dementia-and-may-outlive-me-how-do-we-prepare-fo-d97f</loc>
-    <lastmod>2026-11-13T09:09:00.000Z</lastmod>
+    <lastmod>2026-11-14T11:54:43.821Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -384,7 +426,7 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-13T09:09:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-14T11:54:43.821Z</news:publication_date>
       <news:title>My wife has dementia and may outlive me. How do we prepare for long-term memory care?</news:title>
     </news:news>
   </url>
@@ -487,86 +529,44 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article/the-sp-500-is-shrugging-off-nvidias-selloff-this-week-heres--kgwk</loc>
-    <lastmod>2026-11-13T14:42:17.571Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T14:42:17.571Z</news:publication_date>
-      <news:title>The S&amp;P 500 is shrugging off Nvidia’s selloff this week. Here’s what’s keeping the rest of the market afloat.</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/the-bond-market-now-has-an-even-bigger-fear-than-ai-fallout-kgwl</loc>
-    <lastmod>2026-11-13T13:42:17.571Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T13:42:17.571Z</news:publication_date>
-      <news:title>The bond market now has an even bigger fear than AI fallout</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/im-17-and-will-be-a-first-generation-college-student-is-law--kgwl</loc>
-    <lastmod>2026-11-13T12:42:17.571Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T12:42:17.571Z</news:publication_date>
-      <news:title>I’m 17 and will be a first-generation college student. Is law school worth being $200,000 in debt?</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/about</loc>
-    <lastmod>2026-11-15T08:29:30.805Z</lastmod>
+    <lastmod>2026-11-15T15:54:43.821Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact</loc>
-    <lastmod>2026-11-15T08:29:30.805Z</lastmod>
+    <lastmod>2026-11-15T15:54:43.821Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy</loc>
-    <lastmod>2026-11-15T08:29:30.805Z</lastmod>
+    <lastmod>2026-11-15T15:54:43.821Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms</loc>
-    <lastmod>2026-11-15T08:29:30.805Z</lastmod>
+    <lastmod>2026-11-15T15:54:43.821Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-11-15T08:29:30.805Z</lastmod>
+    <lastmod>2026-11-15T15:54:43.821Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-11-15T08:29:30.805Z</lastmod>
+    <lastmod>2026-11-15T15:54:43.821Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-11-15T08:29:30.805Z</lastmod>
+    <lastmod>2026-11-15T15:54:43.821Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

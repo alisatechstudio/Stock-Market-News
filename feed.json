@@ -13,6 +13,70 @@
   ],
   "items": [
     {
+      "id": "https://worldstocknews.online/article/chinas-hottest-stocks-these-days-have-one-thing-in-common-na-mgtk",
+      "url": "https://worldstocknews.online/article/chinas-hottest-stocks-these-days-have-one-thing-in-common-na-mgtk",
+      "title": "China’s hottest stocks these days have one thing in common: names that sound like sheep",
+      "content_text": "Shares of fish processors, lighting manufacturers and appliance makers have soared ahead of the Year of the Sheep. Investor appetite has had little to do with the status of their businesses.",
+      "summary": "Shares of fish processors, lighting manufacturers and appliance makers have soared ahead of the Year of the Sheep. Investor appetite has had little to do with the status of their businesses.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-11-15T15:22:00.000Z",
+      "tags": [
+        "US Markets",
+        "^GSPC",
+        "SPY"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipate-mgtl",
+      "url": "https://worldstocknews.online/article/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipate-mgtl",
+      "title": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
+      "content_text": "Jensen Huang’s sudden departure has made Tuesday’s earnings call “the most important in the company’s history.”",
+      "summary": "Jensen Huang’s sudden departure has made Tuesday’s earnings call “the most important in the company’s history.”",
+      "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-11-15T15:00:00.000Z",
+      "tags": [
+        "Tech & AI",
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "QQQ"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article/will-the-anthropic-ipo-create-a-disturbance-in-the-broader-u-mgtl",
+      "url": "https://worldstocknews.online/article/will-the-anthropic-ipo-create-a-disturbance-in-the-broader-u-mgtl",
+      "title": "Will the Anthropic IPO create a disturbance in the broader U.S. equity market, like SpaceX did?",
+      "content_text": "SpaceX’s offering coincided with the June peak in semiconductors.",
+      "summary": "SpaceX’s offering coincided with the June peak in semiconductors.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-11-15T14:00:00.000Z",
+      "tags": [
+        "Tech & AI",
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "QQQ"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
       "id": "https://worldstocknews.online/article/hourly-market-brief-mwhkpwtr",
       "url": "https://worldstocknews.online/article/hourly-market-brief-mwhkpwtr",
       "title": "Hourly Market Pulse: Global Indices Trade With Steady Breadth as Volume Accelerates",
@@ -364,69 +428,6 @@
         "AAPL",
         "MSFT",
         "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wo-zruj",
-      "url": "https://worldstocknews.online/article/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wo-zruj",
-      "title": "Global oil supplies are suddenly flowing. Why a crude glut won’t mean cheaper diesel.",
-      "content_text": "It’s official: the world is expected to soon have more oil than it needs for the first time since the Iran war began in February. But more oil doesn’t automatically lead to lower diesel prices.",
-      "summary": "It’s official: the world is expected to soon have more oil than it needs for the first time since the Iran war began in February. But more oil doesn’t automatically lead to lower diesel prices.",
-      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-11-13T22:04:00.000Z",
-      "tags": [
-        "Macro Economy",
-        "^TNX",
-        "CL=F",
-        "GC=F"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/lutnick-faces-questions-over-nvidia-spy-scandal-his-sons-fir-zruj",
-      "url": "https://worldstocknews.online/article/lutnick-faces-questions-over-nvidia-spy-scandal-his-sons-fir-zruj",
-      "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
-      "content_text": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker.",
-      "summary": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker.",
-      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-11-13T23:42:18.000Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/i-am-turning-18-next-month-and-want-to-start-investing-what--l5jh",
-      "url": "https://worldstocknews.online/article/i-am-turning-18-next-month-and-want-to-start-investing-what--l5jh",
-      "title": "I am turning 18 next month and want to start investing. What do I do first?",
-      "content_text": "“I have not tried investing before.”",
-      "summary": "“I have not tried investing before.”",
-      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-11-13T17:56:00.000Z",
-      "tags": [
-        "US Markets",
-        "^GSPC",
-        "SPY"
       ],
       "authors": [
         {
