@@ -13,6 +13,28 @@
   ],
   "items": [
     {
+      "id": "https://worldstocknews.online/article/hourly-market-brief-mwhkpwtr",
+      "url": "https://worldstocknews.online/article/hourly-market-brief-mwhkpwtr",
+      "title": "Hourly Market Pulse: Global Indices Trade With Steady Breadth as Volume Accelerates",
+      "content_text": "Mid-day institutional trading patterns reflect disciplined risk management and rotational inflows into cyclical leaders and technology infrastructure.",
+      "summary": "Mid-day institutional trading patterns reflect disciplined risk management and rotational inflows into cyclical leaders and technology infrastructure.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-11-15T08:29:30.805Z",
+      "tags": [
+        "US Markets",
+        "^GSPC",
+        "^NDX",
+        "NVDA",
+        "BTC-USD"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
       "id": "https://worldstocknews.online/article/spacex-successfully-catches-starship-rocket-in-huge-mileston-g303",
       "url": "https://worldstocknews.online/article/spacex-successfully-catches-starship-rocket-in-huge-mileston-g303",
       "title": "SpaceX successfully catches Starship rocket in huge milestone for the space industry",
@@ -405,28 +427,6 @@
         "US Markets",
         "^GSPC",
         "SPY"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/how-low-does-nvidias-stock-need-to-go-before-its-a-screaming-l5jh",
-      "url": "https://worldstocknews.online/article/how-low-does-nvidias-stock-need-to-go-before-its-a-screaming-l5jh",
-      "title": "How low does Nvidia’s stock need to go before it’s a screaming bargain?",
-      "content_text": "Also in Weekend Reads: Other AI stocks, tips for open-enrollment season and advice from the Moneyist.",
-      "summary": "Also in Weekend Reads: Other AI stocks, tips for open-enrollment season and advice from the Moneyist.",
-      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-11-13T17:07:00.000Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
       ],
       "authors": [
         {
