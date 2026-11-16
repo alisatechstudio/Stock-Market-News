@@ -13,6 +13,50 @@
   ],
   "items": [
     {
+      "id": "https://worldstocknews.online/article/a-big-chunk-of-your-401k-is-likely-invested-in-nvidia-siis",
+      "url": "https://worldstocknews.online/article/a-big-chunk-of-your-401k-is-likely-invested-in-nvidia-siis",
+      "title": "A big chunk of your 401(k) is likely invested in Nvidia",
+      "content_text": "The scandal at the computer-chip giant is exactly what’s wrong with the S&P 500.",
+      "summary": "The scandal at the computer-chip giant is exactly what’s wrong with the S&P 500.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-11-16T03:11:00.000Z",
+      "tags": [
+        "Tech & AI",
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "QQQ"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article/chinas-slowdown-deepens-in-october-as-industrial-output-reta-siis",
+      "url": "https://worldstocknews.online/article/chinas-slowdown-deepens-in-october-as-industrial-output-reta-siis",
+      "title": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
+      "content_text": "A deepening reliance on external demand leaves China more exposed to shocks abroad as domestic momentum fades, analysts say.",
+      "summary": "A deepening reliance on external demand leaves China more exposed to shocks abroad as domestic momentum fades, analysts say.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-11-16T03:53:59.000Z",
+      "tags": [
+        "Tech & AI",
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "QQQ"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
       "id": "https://worldstocknews.online/article/budget-airlines-are-going-upscale-with-first-class-seats-and-wgpr",
       "url": "https://worldstocknews.online/article/budget-airlines-are-going-upscale-with-first-class-seats-and-wgpr",
       "title": "Budget airlines are going upscale with first-class seats and faster wifi",
@@ -388,48 +432,6 @@
         "^NDX",
         "NVDA",
         "BTC-USD"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/faa-lifts-rare-nationwide-ground-stop-on-flights-air-travel--knff",
-      "url": "https://worldstocknews.online/article/faa-lifts-rare-nationwide-ground-stop-on-flights-air-travel--knff",
-      "title": "FAA lifts rare nationwide ground stop on flights; air travel may take days to recover",
-      "content_text": "Homeland Security Secretary Mullin said that there was ‘zero evidence’ of cyberattack as fewer flights amid fuel-cost surge may hamper rebookings.",
-      "summary": "Homeland Security Secretary Mullin said that there was ‘zero evidence’ of cyberattack as fewer flights amid fuel-cost surge may hamper rebookings.",
-      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-11-14T02:42:00.000Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/14-dividend-stocks-selected-for-long-term-growth-knfg",
-      "url": "https://worldstocknews.online/article/14-dividend-stocks-selected-for-long-term-growth-knfg",
-      "title": "14 dividend stocks selected for long-term growth",
-      "content_text": "These stocks feature attractive dividend payouts and are trading low to the companies’ intrinsic value, according to John Buckingham of Value87 Investment Partners.",
-      "summary": "These stocks feature attractive dividend payouts and are trading low to the companies’ intrinsic value, according to John Buckingham of Value87 Investment Partners.",
-      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-11-14T01:58:00.000Z",
-      "tags": [
-        "US Markets",
-        "^GSPC",
-        "SPY"
       ],
       "authors": [
         {
