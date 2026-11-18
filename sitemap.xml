@@ -4,39 +4,109 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-11-18T01:22:41.283Z</lastmod>
+    <lastmod>2026-11-18T09:17:54.519Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/us-markets</loc>
-    <lastmod>2026-11-18T01:22:41.283Z</lastmod>
+    <lastmod>2026-11-18T09:17:54.519Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/tech-ai</loc>
-    <lastmod>2026-11-18T01:22:41.283Z</lastmod>
+    <lastmod>2026-11-18T09:17:54.519Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/macro-economy</loc>
-    <lastmod>2026-11-18T01:22:41.283Z</lastmod>
+    <lastmod>2026-11-18T09:17:54.519Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/crypto</loc>
-    <lastmod>2026-11-18T01:22:41.283Z</lastmod>
+    <lastmod>2026-11-18T09:17:54.519Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/earnings</loc>
-    <lastmod>2026-11-18T01:22:41.283Z</lastmod>
+    <lastmod>2026-11-18T09:17:54.519Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/the-sp-500-just-broke-a-crucial-support-level-heres-what-his-rpij</loc>
+    <lastmod>2026-11-18T08:50:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T08:50:00.000Z</news:publication_date>
+      <news:title>The S&amp;P 500 just broke a crucial support level. Here’s what history shows may happen now.</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/coreweaves-stock-pops-even-as-nvidia-talks-up-a-disciplined--rpij</loc>
+    <lastmod>2026-11-18T01:59:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T01:59:00.000Z</news:publication_date>
+      <news:title>CoreWeave’s stock pops — even as Nvidia talks up a ‘disciplined’ approach to financing</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/medicare-part-b-premiums-rise-due-to-higher-healthcare-spend-rpij</loc>
+    <lastmod>2026-11-18T01:45:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T01:45:00.000Z</news:publication_date>
+      <news:title>Medicare Part B premiums rise due to higher healthcare spending</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/nvidias-stock-rises-as-blowout-numbers-help-ease-ceo-transit-rpij</loc>
+    <lastmod>2026-11-18T01:28:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T01:28:00.000Z</news:publication_date>
+      <news:title>Nvidia’s stock rises as blowout numbers help ease CEO transition fears</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/putin-says-eu-is-losing-industry-falling-behind-competition--rpij</loc>
+    <lastmod>2026-11-18T08:29:35.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T08:29:35.000Z</news:publication_date>
+      <news:title>Putin says EU is losing industry, falling behind competition, ahead of meeting with Trump and Xi</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/costco-is-benefiting-from-apocalyptic-concerns-as-customers--skav</loc>
@@ -376,7 +446,7 @@
   </url>
   <url>
     <loc>https://worldstocknews.online/article/a-big-chunk-of-your-401k-is-likely-invested-in-nvidia-siis</loc>
-    <lastmod>2026-11-16T03:11:00.000Z</lastmod>
+    <lastmod>2026-11-17T03:17:54.519Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -384,13 +454,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-16T03:11:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-17T03:17:54.519Z</news:publication_date>
       <news:title>A big chunk of your 401(k) is likely invested in Nvidia</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/chinas-slowdown-deepens-in-october-as-industrial-output-reta-siis</loc>
-    <lastmod>2026-11-16T03:53:59.000Z</lastmod>
+    <lastmod>2026-11-17T02:17:54.519Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -398,7 +468,7 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-16T03:53:59.000Z</news:publication_date>
+      <news:publication_date>2026-11-17T02:17:54.519Z</news:publication_date>
       <news:title>China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates</news:title>
     </news:news>
   </url>
@@ -459,114 +529,44 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipate-mgtl</loc>
-    <lastmod>2026-11-16T16:48:01.290Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T16:48:01.290Z</news:publication_date>
-      <news:title>Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/will-the-anthropic-ipo-create-a-disturbance-in-the-broader-u-mgtl</loc>
-    <lastmod>2026-11-16T15:48:01.290Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T15:48:01.290Z</news:publication_date>
-      <news:title>Will the Anthropic IPO create a disturbance in the broader U.S. equity market, like SpaceX did?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/hourly-market-brief-mwhkpwtr</loc>
-    <lastmod>2026-11-16T09:46:38.338Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T09:46:38.338Z</news:publication_date>
-      <news:title>Hourly Market Pulse: Global Indices Trade With Steady Breadth as Volume Accelerates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/spacex-successfully-catches-starship-rocket-in-huge-mileston-g303</loc>
-    <lastmod>2026-11-16T03:08:11.634Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T03:08:11.634Z</news:publication_date>
-      <news:title>SpaceX successfully catches Starship rocket in huge milestone for the space industry</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/im-63-and-spending-95000-on-a-roof-deck-for-my-500000-home-i-lkz0</loc>
-    <lastmod>2026-11-16T02:08:11.634Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T02:08:11.634Z</news:publication_date>
-      <news:title>I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Is that a good investment?</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/about</loc>
-    <lastmod>2026-11-18T01:22:41.283Z</lastmod>
+    <lastmod>2026-11-18T09:17:54.519Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact</loc>
-    <lastmod>2026-11-18T01:22:41.283Z</lastmod>
+    <lastmod>2026-11-18T09:17:54.519Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy</loc>
-    <lastmod>2026-11-18T01:22:41.283Z</lastmod>
+    <lastmod>2026-11-18T09:17:54.519Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms</loc>
-    <lastmod>2026-11-18T01:22:41.283Z</lastmod>
+    <lastmod>2026-11-18T09:17:54.519Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-11-18T01:22:41.283Z</lastmod>
+    <lastmod>2026-11-18T09:17:54.519Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-11-18T01:22:41.283Z</lastmod>
+    <lastmod>2026-11-18T09:17:54.519Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-11-18T01:22:41.283Z</lastmod>
+    <lastmod>2026-11-18T09:17:54.519Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
