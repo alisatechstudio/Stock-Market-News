@@ -1,10 +1,320 @@
 /**
  * World Stock News - Editorial Database of In-Depth Financial Intelligence Articles
  * Automatically updated hourly by World Stock News Real-Time Ingestion Engine
- * Last Automated Update: 2026-11-18T09:17:55.052Z
+ * Last Automated Update: 2026-11-18T18:27:05.432Z
  */
 
 const ArticlesData = [
+  {
+    "id": "social-security-should-be-shut-down-this-republican-senator--dy6v",
+    "title": "Social Security should be shut down, this Republican senator says",
+    "excerpt": "The program’s trust funds are expected to run out of money in the next six years.",
+    "category": "US Markets",
+    "categorySlug": "us-markets",
+    "tickers": [
+      "^GSPC",
+      "SPY"
+    ],
+    "sentiment": "Bullish",
+    "sentimentScore": "+78%",
+    "author": {
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
+    },
+    "publishedAt": "2026-11-18T17:46:00.000Z",
+    "readTime": "5 min read",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "source": "MarketWatch",
+    "sourceUrl": "https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories",
+    "targetPrice": "Overweight Target",
+    "analystConsensus": "Accumulate / Buy",
+    "tableOfContents": [
+      {
+        "id": "market-overview",
+        "title": "Market Context & Catalyst"
+      },
+      {
+        "id": "institutional-flows",
+        "title": "Institutional Liquidity & Order Flow"
+      },
+      {
+        "id": "strategic-outlook",
+        "title": "Strategic Positioning & Key Risk Levels"
+      },
+      {
+        "id": "original-wire",
+        "title": "Primary Wire & Full Coverage Link"
+      }
+    ],
+    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> Social Security should be shut down, this Republican senator says. Reported by MarketWatch. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n        \n        <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);\">\n          <a href=\"https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;\">\n            <span>Read Original Wire Story on MarketWatch</span>\n            <span>↗</span>\n          </a>\n        </div>\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>The program’s trust funds are expected to run out of money in the next six years.</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n\n      \n      <h3 id=\"original-wire\">Primary Wire & Full Coverage Link</h3>\n      <p>This report incorporates real-time wire data provided by <strong>MarketWatch</strong>. You can inspect the primary external filing and full syndicated release directly:</p>\n      <p style=\"margin: 1.25rem 0;\">\n        <a href=\"https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;\">\n          <span>Open Full Original Article on MarketWatch</span>\n          <span style=\"font-size:1.1rem;\">↗</span>\n        </a>\n      </p>\n    "
+  },
+  {
+    "id": "rising-healthcare-costs-push-medicare-part-b-premiums-higher-dy6v",
+    "title": "Rising healthcare costs push Medicare Part B premiums higher",
+    "excerpt": "The premiums will increase by $6.50, to $209.40 a month.",
+    "category": "US Markets",
+    "categorySlug": "us-markets",
+    "tickers": [
+      "^GSPC",
+      "SPY"
+    ],
+    "sentiment": "Bullish",
+    "sentimentScore": "+78%",
+    "author": {
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
+    },
+    "publishedAt": "2026-11-18T17:28:00.000Z",
+    "readTime": "5 min read",
+    "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1200&q=80",
+    "source": "MarketWatch",
+    "sourceUrl": "https://www.marketwatch.com/story/medicare-part-b-premiums-rise-due-higher-healthcare-spending-f2daba13?mod=mw_rss_topstories",
+    "targetPrice": "Overweight Target",
+    "analystConsensus": "Accumulate / Buy",
+    "tableOfContents": [
+      {
+        "id": "market-overview",
+        "title": "Market Context & Catalyst"
+      },
+      {
+        "id": "institutional-flows",
+        "title": "Institutional Liquidity & Order Flow"
+      },
+      {
+        "id": "strategic-outlook",
+        "title": "Strategic Positioning & Key Risk Levels"
+      },
+      {
+        "id": "original-wire",
+        "title": "Primary Wire & Full Coverage Link"
+      }
+    ],
+    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> Rising healthcare costs push Medicare Part B premiums higher. Reported by MarketWatch. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n        \n        <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);\">\n          <a href=\"https://www.marketwatch.com/story/medicare-part-b-premiums-rise-due-higher-healthcare-spending-f2daba13?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;\">\n            <span>Read Original Wire Story on MarketWatch</span>\n            <span>↗</span>\n          </a>\n        </div>\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>The premiums will increase by $6.50, to $209.40 a month.</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n\n      \n      <h3 id=\"original-wire\">Primary Wire & Full Coverage Link</h3>\n      <p>This report incorporates real-time wire data provided by <strong>MarketWatch</strong>. You can inspect the primary external filing and full syndicated release directly:</p>\n      <p style=\"margin: 1.25rem 0;\">\n        <a href=\"https://www.marketwatch.com/story/medicare-part-b-premiums-rise-due-higher-healthcare-spending-f2daba13?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;\">\n          <span>Open Full Original Article on MarketWatch</span>\n          <span style=\"font-size:1.1rem;\">↗</span>\n        </a>\n      </p>\n    "
+  },
+  {
+    "id": "its-not-too-late-to-add-us-energy-companies-to-your-401k-the-dy6v",
+    "title": "It’s not too late to add U.S. energy companies to your 401(k). They’ve been making out like bandits.",
+    "excerpt": "Energy stocks are pretending the war is over. It isn’t.",
+    "category": "US Markets",
+    "categorySlug": "us-markets",
+    "tickers": [
+      "^GSPC",
+      "SPY"
+    ],
+    "sentiment": "Bullish",
+    "sentimentScore": "+78%",
+    "author": {
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
+    },
+    "publishedAt": "2026-11-18T17:23:00.000Z",
+    "readTime": "5 min read",
+    "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
+    "source": "MarketWatch",
+    "sourceUrl": "https://www.marketwatch.com/story/its-not-too-late-to-add-u-s-energy-companies-to-your-401-k-theyve-been-making-out-like-bandits-e77a8d6a?mod=mw_rss_topstories",
+    "targetPrice": "Overweight Target",
+    "analystConsensus": "Accumulate / Buy",
+    "tableOfContents": [
+      {
+        "id": "market-overview",
+        "title": "Market Context & Catalyst"
+      },
+      {
+        "id": "institutional-flows",
+        "title": "Institutional Liquidity & Order Flow"
+      },
+      {
+        "id": "strategic-outlook",
+        "title": "Strategic Positioning & Key Risk Levels"
+      },
+      {
+        "id": "original-wire",
+        "title": "Primary Wire & Full Coverage Link"
+      }
+    ],
+    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> It’s not too late to add U.S. energy companies to your 401(k). They’ve been making out like bandits.. Reported by MarketWatch. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n        \n        <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);\">\n          <a href=\"https://www.marketwatch.com/story/its-not-too-late-to-add-u-s-energy-companies-to-your-401-k-theyve-been-making-out-like-bandits-e77a8d6a?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;\">\n            <span>Read Original Wire Story on MarketWatch</span>\n            <span>↗</span>\n          </a>\n        </div>\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>Energy stocks are pretending the war is over. It isn’t.</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n\n      \n      <h3 id=\"original-wire\">Primary Wire & Full Coverage Link</h3>\n      <p>This report incorporates real-time wire data provided by <strong>MarketWatch</strong>. You can inspect the primary external filing and full syndicated release directly:</p>\n      <p style=\"margin: 1.25rem 0;\">\n        <a href=\"https://www.marketwatch.com/story/its-not-too-late-to-add-u-s-energy-companies-to-your-401-k-theyve-been-making-out-like-bandits-e77a8d6a?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;\">\n          <span>Open Full Original Article on MarketWatch</span>\n          <span style=\"font-size:1.1rem;\">↗</span>\n        </a>\n      </p>\n    "
+  },
+  {
+    "id": "i-tried-tiktoks-viral-corporate-slop-lunch-hacks-and-finally-dy6v",
+    "title": "I tried TikTok’s viral ‘corporate slop lunch hacks’ — and finally escaped the $20 desk salad",
+    "excerpt": "I’m not telling you to start buying lunch if you don’t already. I’m showing you how to spend less when you do.",
+    "category": "Macro Economy",
+    "categorySlug": "macro-economy",
+    "tickers": [
+      "^TNX",
+      "CL=F",
+      "GC=F"
+    ],
+    "sentiment": "Neutral",
+    "sentimentScore": "50%",
+    "author": {
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
+    },
+    "publishedAt": "2026-11-18T17:16:00.000Z",
+    "readTime": "5 min read",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "source": "MarketWatch",
+    "sourceUrl": "https://www.marketwatch.com/story/i-tried-tiktoks-viral-corporate-slop-lunch-hacks-and-finally-escaped-the-20-desk-salad-60daf133?mod=mw_rss_topstories",
+    "targetPrice": "Overweight Target",
+    "analystConsensus": "Accumulate / Buy",
+    "tableOfContents": [
+      {
+        "id": "market-overview",
+        "title": "Market Context & Catalyst"
+      },
+      {
+        "id": "institutional-flows",
+        "title": "Institutional Liquidity & Order Flow"
+      },
+      {
+        "id": "strategic-outlook",
+        "title": "Strategic Positioning & Key Risk Levels"
+      },
+      {
+        "id": "original-wire",
+        "title": "Primary Wire & Full Coverage Link"
+      }
+    ],
+    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> I tried TikTok’s viral ‘corporate slop lunch hacks’ — and finally escaped the $20 desk salad. Reported by MarketWatch. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n        \n        <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);\">\n          <a href=\"https://www.marketwatch.com/story/i-tried-tiktoks-viral-corporate-slop-lunch-hacks-and-finally-escaped-the-20-desk-salad-60daf133?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;\">\n            <span>Read Original Wire Story on MarketWatch</span>\n            <span>↗</span>\n          </a>\n        </div>\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>I’m not telling you to start buying lunch if you don’t already. I’m showing you how to spend less when you do.</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n\n      \n      <h3 id=\"original-wire\">Primary Wire & Full Coverage Link</h3>\n      <p>This report incorporates real-time wire data provided by <strong>MarketWatch</strong>. You can inspect the primary external filing and full syndicated release directly:</p>\n      <p style=\"margin: 1.25rem 0;\">\n        <a href=\"https://www.marketwatch.com/story/i-tried-tiktoks-viral-corporate-slop-lunch-hacks-and-finally-escaped-the-20-desk-salad-60daf133?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;\">\n          <span>Open Full Original Article on MarketWatch</span>\n          <span style=\"font-size:1.1rem;\">↗</span>\n        </a>\n      </p>\n    "
+  },
+  {
+    "id": "i-watched-trump-xi-and-putin-gather-in-china-here-are-my-top-dy6v",
+    "title": "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
+    "excerpt": "U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are expected to hold a rare trilateral meeting on Thursday.",
+    "category": "US Markets",
+    "categorySlug": "us-markets",
+    "tickers": [
+      "^GSPC",
+      "SPY"
+    ],
+    "sentiment": "Bullish",
+    "sentimentScore": "+78%",
+    "author": {
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
+    },
+    "publishedAt": "2026-11-18T16:14:10.000Z",
+    "readTime": "5 min read",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "source": "CNBC Finance",
+    "sourceUrl": "https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html",
+    "targetPrice": "Overweight Target",
+    "analystConsensus": "Accumulate / Buy",
+    "tableOfContents": [
+      {
+        "id": "market-overview",
+        "title": "Market Context & Catalyst"
+      },
+      {
+        "id": "institutional-flows",
+        "title": "Institutional Liquidity & Order Flow"
+      },
+      {
+        "id": "strategic-outlook",
+        "title": "Strategic Positioning & Key Risk Levels"
+      },
+      {
+        "id": "original-wire",
+        "title": "Primary Wire & Full Coverage Link"
+      }
+    ],
+    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> I watched Trump, Xi and Putin gather in China. Here are my top takeaways. Reported by CNBC Finance. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n        \n        <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);\">\n          <a href=\"https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;\">\n            <span>Read Original Wire Story on CNBC Finance</span>\n            <span>↗</span>\n          </a>\n        </div>\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are expected to hold a rare trilateral meeting on Thursday.</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n\n      \n      <h3 id=\"original-wire\">Primary Wire & Full Coverage Link</h3>\n      <p>This report incorporates real-time wire data provided by <strong>CNBC Finance</strong>. You can inspect the primary external filing and full syndicated release directly:</p>\n      <p style=\"margin: 1.25rem 0;\">\n        <a href=\"https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;\">\n          <span>Open Full Original Article on CNBC Finance</span>\n          <span style=\"font-size:1.1rem;\">↗</span>\n        </a>\n      </p>\n    "
+  },
+  {
+    "id": "tech-outages-are-causing-people-to-panic-buy-costco-is-benef-dy6v",
+    "title": "Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says",
+    "excerpt": "Shoppers are spending more at Costco as tech outages turn into a race to get emergency goods.",
+    "category": "US Markets",
+    "categorySlug": "us-markets",
+    "tickers": [
+      "^GSPC",
+      "SPY"
+    ],
+    "sentiment": "Bullish",
+    "sentimentScore": "+78%",
+    "author": {
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
+    },
+    "publishedAt": "2026-11-18T16:33:14.000Z",
+    "readTime": "5 min read",
+    "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1200&q=80",
+    "source": "CNBC Finance",
+    "sourceUrl": "https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html",
+    "targetPrice": "Overweight Target",
+    "analystConsensus": "Accumulate / Buy",
+    "tableOfContents": [
+      {
+        "id": "market-overview",
+        "title": "Market Context & Catalyst"
+      },
+      {
+        "id": "institutional-flows",
+        "title": "Institutional Liquidity & Order Flow"
+      },
+      {
+        "id": "strategic-outlook",
+        "title": "Strategic Positioning & Key Risk Levels"
+      },
+      {
+        "id": "original-wire",
+        "title": "Primary Wire & Full Coverage Link"
+      }
+    ],
+    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says. Reported by CNBC Finance. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n        \n        <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);\">\n          <a href=\"https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;\">\n            <span>Read Original Wire Story on CNBC Finance</span>\n            <span>↗</span>\n          </a>\n        </div>\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>Shoppers are spending more at Costco as tech outages turn into a race to get emergency goods.</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n\n      \n      <h3 id=\"original-wire\">Primary Wire & Full Coverage Link</h3>\n      <p>This report incorporates real-time wire data provided by <strong>CNBC Finance</strong>. You can inspect the primary external filing and full syndicated release directly:</p>\n      <p style=\"margin: 1.25rem 0;\">\n        <a href=\"https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;\">\n          <span>Open Full Original Article on CNBC Finance</span>\n          <span style=\"font-size:1.1rem;\">↗</span>\n        </a>\n      </p>\n    "
+  },
+  {
+    "id": "feds-waller-says-central-bank-may-need-to-shock-people-with--dy6v",
+    "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike",
+    "excerpt": "Continued inflation above the Fed's 2% target is pushing central bank officials into a more aggressive stance.",
+    "category": "Macro Economy",
+    "categorySlug": "macro-economy",
+    "tickers": [
+      "^TNX",
+      "CL=F",
+      "GC=F"
+    ],
+    "sentiment": "Neutral",
+    "sentimentScore": "50%",
+    "author": {
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
+    },
+    "publishedAt": "2026-11-18T15:13:39.000Z",
+    "readTime": "5 min read",
+    "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
+    "source": "CNBC Finance",
+    "sourceUrl": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
+    "targetPrice": "Overweight Target",
+    "analystConsensus": "Accumulate / Buy",
+    "tableOfContents": [
+      {
+        "id": "market-overview",
+        "title": "Market Context & Catalyst"
+      },
+      {
+        "id": "institutional-flows",
+        "title": "Institutional Liquidity & Order Flow"
+      },
+      {
+        "id": "strategic-outlook",
+        "title": "Strategic Positioning & Key Risk Levels"
+      },
+      {
+        "id": "original-wire",
+        "title": "Primary Wire & Full Coverage Link"
+      }
+    ],
+    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike. Reported by CNBC Finance. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n        \n        <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);\">\n          <a href=\"https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;\">\n            <span>Read Original Wire Story on CNBC Finance</span>\n            <span>↗</span>\n          </a>\n        </div>\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>Continued inflation above the Fed's 2% target is pushing central bank officials into a more aggressive stance.</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n\n      \n      <h3 id=\"original-wire\">Primary Wire & Full Coverage Link</h3>\n      <p>This report incorporates real-time wire data provided by <strong>CNBC Finance</strong>. You can inspect the primary external filing and full syndicated release directly:</p>\n      <p style=\"margin: 1.25rem 0;\">\n        <a href=\"https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;\">\n          <span>Open Full Original Article on CNBC Finance</span>\n          <span style=\"font-size:1.1rem;\">↗</span>\n        </a>\n      </p>\n    "
+  },
   {
     "id": "the-sp-500-just-broke-a-crucial-support-level-heres-what-his-rpij",
     "title": "The S&P 500 just broke a crucial support level. Here’s what history shows may happen now.",
@@ -1155,7 +1465,7 @@ const ArticlesData = [
       "title": "Financial Market Intelligence & Macro Analytics",
       "avatar": "/assets/logo.png"
     },
-    "publishedAt": "2026-11-16T15:59:00.000Z",
+    "publishedAt": "2026-11-17T09:27:04.933Z",
     "readTime": "5 min read",
     "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
     "source": "MarketWatch",
@@ -1201,7 +1511,7 @@ const ArticlesData = [
       "title": "Financial Market Intelligence & Macro Analytics",
       "avatar": "/assets/logo.png"
     },
-    "publishedAt": "2026-11-16T15:47:00.000Z",
+    "publishedAt": "2026-11-17T08:27:04.933Z",
     "readTime": "5 min read",
     "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
     "source": "MarketWatch",
@@ -1247,7 +1557,7 @@ const ArticlesData = [
       "title": "Financial Market Intelligence & Macro Analytics",
       "avatar": "/assets/logo.png"
     },
-    "publishedAt": "2026-11-16T17:29:04.000Z",
+    "publishedAt": "2026-11-17T07:27:04.933Z",
     "readTime": "5 min read",
     "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
     "source": "CNBC Finance",
@@ -1273,323 +1583,6 @@ const ArticlesData = [
       }
     ],
     "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’. Reported by CNBC Finance. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n        \n        <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);\">\n          <a href=\"https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;\">\n            <span>Read Original Wire Story on CNBC Finance</span>\n            <span>↗</span>\n          </a>\n        </div>\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n\n      \n      <h3 id=\"original-wire\">Primary Wire & Full Coverage Link</h3>\n      <p>This report incorporates real-time wire data provided by <strong>CNBC Finance</strong>. You can inspect the primary external filing and full syndicated release directly:</p>\n      <p style=\"margin: 1.25rem 0;\">\n        <a href=\"https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;\">\n          <span>Open Full Original Article on CNBC Finance</span>\n          <span style=\"font-size:1.1rem;\">↗</span>\n        </a>\n      </p>\n    "
-  },
-  {
-    "id": "us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-ea-iku4",
-    "title": "U.S. crude oil declines to $87 a barrel on recovering Middle East exports",
-    "excerpt": "Oil prices are falling as forecasts project a surplus in oil in the fourth quarter",
-    "category": "Macro Economy",
-    "categorySlug": "macro-economy",
-    "tickers": [
-      "^TNX",
-      "CL=F",
-      "GC=F"
-    ],
-    "sentiment": "Bearish",
-    "sentimentScore": "-65%",
-    "author": {
-      "name": "World Stock News Editorial Desk",
-      "title": "Financial Market Intelligence & Macro Analytics",
-      "avatar": "/assets/logo.png"
-    },
-    "publishedAt": "2026-11-16T16:17:39.000Z",
-    "readTime": "5 min read",
-    "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1200&q=80",
-    "source": "CNBC Finance",
-    "sourceUrl": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
-    "targetPrice": "Overweight Target",
-    "analystConsensus": "Reduce",
-    "tableOfContents": [
-      {
-        "id": "market-overview",
-        "title": "Market Context & Catalyst"
-      },
-      {
-        "id": "institutional-flows",
-        "title": "Institutional Liquidity & Order Flow"
-      },
-      {
-        "id": "strategic-outlook",
-        "title": "Strategic Positioning & Key Risk Levels"
-      },
-      {
-        "id": "original-wire",
-        "title": "Primary Wire & Full Coverage Link"
-      }
-    ],
-    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> U.S. crude oil declines to $87 a barrel on recovering Middle East exports. Reported by CNBC Finance. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n        \n        <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);\">\n          <a href=\"https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;\">\n            <span>Read Original Wire Story on CNBC Finance</span>\n            <span>↗</span>\n          </a>\n        </div>\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>Oil prices are falling as forecasts project a surplus in oil in the fourth quarter</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n\n      \n      <h3 id=\"original-wire\">Primary Wire & Full Coverage Link</h3>\n      <p>This report incorporates real-time wire data provided by <strong>CNBC Finance</strong>. You can inspect the primary external filing and full syndicated release directly:</p>\n      <p style=\"margin: 1.25rem 0;\">\n        <a href=\"https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;\">\n          <span>Open Full Original Article on CNBC Finance</span>\n          <span style=\"font-size:1.1rem;\">↗</span>\n        </a>\n      </p>\n    "
-  },
-  {
-    "id": "a-big-chunk-of-your-401k-is-likely-invested-in-nvidia-siis",
-    "title": "A big chunk of your 401(k) is likely invested in Nvidia",
-    "excerpt": "The scandal at the computer-chip giant is exactly what’s wrong with the S&P 500.",
-    "category": "Tech & AI",
-    "categorySlug": "tech-ai",
-    "tickers": [
-      "NVDA",
-      "AAPL",
-      "MSFT",
-      "QQQ"
-    ],
-    "sentiment": "Bullish",
-    "sentimentScore": "+89%",
-    "author": {
-      "name": "World Stock News Editorial Desk",
-      "title": "Financial Market Intelligence & Macro Analytics",
-      "avatar": "/assets/logo.png"
-    },
-    "publishedAt": "2026-11-17T03:17:54.519Z",
-    "readTime": "5 min read",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "source": "MarketWatch",
-    "sourceUrl": "https://www.marketwatch.com/story/the-scandal-at-nvidia-is-exactly-whats-wrong-with-the-s-p-500-7307457e?mod=mw_rss_topstories",
-    "targetPrice": "Overweight Target",
-    "analystConsensus": "Accumulate / Buy",
-    "tableOfContents": [
-      {
-        "id": "market-overview",
-        "title": "Market Context & Catalyst"
-      },
-      {
-        "id": "institutional-flows",
-        "title": "Institutional Liquidity & Order Flow"
-      },
-      {
-        "id": "strategic-outlook",
-        "title": "Strategic Positioning & Key Risk Levels"
-      },
-      {
-        "id": "original-wire",
-        "title": "Primary Wire & Full Coverage Link"
-      }
-    ],
-    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> A big chunk of your 401(k) is likely invested in Nvidia. Reported by MarketWatch. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n        \n        <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);\">\n          <a href=\"https://www.marketwatch.com/story/the-scandal-at-nvidia-is-exactly-whats-wrong-with-the-s-p-500-7307457e?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;\">\n            <span>Read Original Wire Story on MarketWatch</span>\n            <span>↗</span>\n          </a>\n        </div>\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>The scandal at the computer-chip giant is exactly what’s wrong with the S&P 500.</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n\n      \n      <h3 id=\"original-wire\">Primary Wire & Full Coverage Link</h3>\n      <p>This report incorporates real-time wire data provided by <strong>MarketWatch</strong>. You can inspect the primary external filing and full syndicated release directly:</p>\n      <p style=\"margin: 1.25rem 0;\">\n        <a href=\"https://www.marketwatch.com/story/the-scandal-at-nvidia-is-exactly-whats-wrong-with-the-s-p-500-7307457e?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;\">\n          <span>Open Full Original Article on MarketWatch</span>\n          <span style=\"font-size:1.1rem;\">↗</span>\n        </a>\n      </p>\n    "
-  },
-  {
-    "id": "chinas-slowdown-deepens-in-october-as-industrial-output-reta-siis",
-    "title": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
-    "excerpt": "A deepening reliance on external demand leaves China more exposed to shocks abroad as domestic momentum fades, analysts say.",
-    "category": "Tech & AI",
-    "categorySlug": "tech-ai",
-    "tickers": [
-      "NVDA",
-      "AAPL",
-      "MSFT",
-      "QQQ"
-    ],
-    "sentiment": "Bullish",
-    "sentimentScore": "+89%",
-    "author": {
-      "name": "World Stock News Editorial Desk",
-      "title": "Financial Market Intelligence & Macro Analytics",
-      "avatar": "/assets/logo.png"
-    },
-    "publishedAt": "2026-11-17T02:17:54.519Z",
-    "readTime": "5 min read",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "source": "CNBC Finance",
-    "sourceUrl": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
-    "targetPrice": "Overweight Target",
-    "analystConsensus": "Accumulate / Buy",
-    "tableOfContents": [
-      {
-        "id": "market-overview",
-        "title": "Market Context & Catalyst"
-      },
-      {
-        "id": "institutional-flows",
-        "title": "Institutional Liquidity & Order Flow"
-      },
-      {
-        "id": "strategic-outlook",
-        "title": "Strategic Positioning & Key Risk Levels"
-      },
-      {
-        "id": "original-wire",
-        "title": "Primary Wire & Full Coverage Link"
-      }
-    ],
-    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates. Reported by CNBC Finance. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n        \n        <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);\">\n          <a href=\"https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;\">\n            <span>Read Original Wire Story on CNBC Finance</span>\n            <span>↗</span>\n          </a>\n        </div>\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>A deepening reliance on external demand leaves China more exposed to shocks abroad as domestic momentum fades, analysts say.</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n\n      \n      <h3 id=\"original-wire\">Primary Wire & Full Coverage Link</h3>\n      <p>This report incorporates real-time wire data provided by <strong>CNBC Finance</strong>. You can inspect the primary external filing and full syndicated release directly:</p>\n      <p style=\"margin: 1.25rem 0;\">\n        <a href=\"https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;\">\n          <span>Open Full Original Article on CNBC Finance</span>\n          <span style=\"font-size:1.1rem;\">↗</span>\n        </a>\n      </p>\n    "
-  },
-  {
-    "id": "budget-airlines-are-going-upscale-with-first-class-seats-and-wgpr",
-    "title": "Budget airlines are going upscale with first-class seats and faster wifi",
-    "excerpt": "Forget no-frills: Frontier and JetBlue are chasing luxury flyers, and Wall Street is buying in.",
-    "category": "Tech & AI",
-    "categorySlug": "tech-ai",
-    "tickers": [
-      "NVDA",
-      "AAPL",
-      "MSFT",
-      "QQQ"
-    ],
-    "sentiment": "Bullish",
-    "sentimentScore": "+89%",
-    "author": {
-      "name": "World Stock News Editorial Desk",
-      "title": "Financial Market Intelligence & Macro Analytics",
-      "avatar": "/assets/logo.png"
-    },
-    "publishedAt": "2026-11-16T22:22:41.283Z",
-    "readTime": "5 min read",
-    "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
-    "source": "MarketWatch",
-    "sourceUrl": "https://www.marketwatch.com/story/budget-airlines-are-going-upscale-with-first-class-seats-and-faster-wifi-999868ab?mod=mw_rss_topstories",
-    "targetPrice": "Overweight Target",
-    "analystConsensus": "Accumulate / Buy",
-    "tableOfContents": [
-      {
-        "id": "market-overview",
-        "title": "Market Context & Catalyst"
-      },
-      {
-        "id": "institutional-flows",
-        "title": "Institutional Liquidity & Order Flow"
-      },
-      {
-        "id": "strategic-outlook",
-        "title": "Strategic Positioning & Key Risk Levels"
-      },
-      {
-        "id": "original-wire",
-        "title": "Primary Wire & Full Coverage Link"
-      }
-    ],
-    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> Budget airlines are going upscale with first-class seats and faster wifi. Reported by MarketWatch. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n        \n        <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);\">\n          <a href=\"https://www.marketwatch.com/story/budget-airlines-are-going-upscale-with-first-class-seats-and-faster-wifi-999868ab?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;\">\n            <span>Read Original Wire Story on MarketWatch</span>\n            <span>↗</span>\n          </a>\n        </div>\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>Forget no-frills: Frontier and JetBlue are chasing luxury flyers, and Wall Street is buying in.</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n\n      \n      <h3 id=\"original-wire\">Primary Wire & Full Coverage Link</h3>\n      <p>This report incorporates real-time wire data provided by <strong>MarketWatch</strong>. You can inspect the primary external filing and full syndicated release directly:</p>\n      <p style=\"margin: 1.25rem 0;\">\n        <a href=\"https://www.marketwatch.com/story/budget-airlines-are-going-upscale-with-first-class-seats-and-faster-wifi-999868ab?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;\">\n          <span>Open Full Original Article on MarketWatch</span>\n          <span style=\"font-size:1.1rem;\">↗</span>\n        </a>\n      </p>\n    "
-  },
-  {
-    "id": "we-had-the-worst-fight-i-want-my-husband-to-retire-at-65-but-pki9",
-    "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
-    "excerpt": "“We have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.”",
-    "category": "US Markets",
-    "categorySlug": "us-markets",
-    "tickers": [
-      "^GSPC",
-      "SPY"
-    ],
-    "sentiment": "Bullish",
-    "sentimentScore": "+78%",
-    "author": {
-      "name": "World Stock News Editorial Desk",
-      "title": "Financial Market Intelligence & Macro Analytics",
-      "avatar": "/assets/logo.png"
-    },
-    "publishedAt": "2026-11-16T19:48:01.290Z",
-    "readTime": "5 min read",
-    "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
-    "source": "MarketWatch",
-    "sourceUrl": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
-    "targetPrice": "Overweight Target",
-    "analystConsensus": "Accumulate / Buy",
-    "tableOfContents": [
-      {
-        "id": "market-overview",
-        "title": "Market Context & Catalyst"
-      },
-      {
-        "id": "institutional-flows",
-        "title": "Institutional Liquidity & Order Flow"
-      },
-      {
-        "id": "strategic-outlook",
-        "title": "Strategic Positioning & Key Risk Levels"
-      },
-      {
-        "id": "original-wire",
-        "title": "Primary Wire & Full Coverage Link"
-      }
-    ],
-    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> ‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?. Reported by MarketWatch. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n        \n        <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);\">\n          <a href=\"https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;\">\n            <span>Read Original Wire Story on MarketWatch</span>\n            <span>↗</span>\n          </a>\n        </div>\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>“We have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.”</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n\n      \n      <h3 id=\"original-wire\">Primary Wire & Full Coverage Link</h3>\n      <p>This report incorporates real-time wire data provided by <strong>MarketWatch</strong>. You can inspect the primary external filing and full syndicated release directly:</p>\n      <p style=\"margin: 1.25rem 0;\">\n        <a href=\"https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;\">\n          <span>Open Full Original Article on MarketWatch</span>\n          <span style=\"font-size:1.1rem;\">↗</span>\n        </a>\n      </p>\n    "
-  },
-  {
-    "id": "lutnick-faces-questions-over-nvidia-spy-scandal-his-sons-fir-pki9",
-    "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
-    "excerpt": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker.",
-    "category": "Tech & AI",
-    "categorySlug": "tech-ai",
-    "tickers": [
-      "NVDA",
-      "AAPL",
-      "MSFT",
-      "QQQ"
-    ],
-    "sentiment": "Bullish",
-    "sentimentScore": "+89%",
-    "author": {
-      "name": "World Stock News Editorial Desk",
-      "title": "Financial Market Intelligence & Macro Analytics",
-      "avatar": "/assets/logo.png"
-    },
-    "publishedAt": "2026-11-16T20:22:41.283Z",
-    "readTime": "5 min read",
-    "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
-    "source": "CNBC Finance",
-    "sourceUrl": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
-    "targetPrice": "Overweight Target",
-    "analystConsensus": "Accumulate / Buy",
-    "tableOfContents": [
-      {
-        "id": "market-overview",
-        "title": "Market Context & Catalyst"
-      },
-      {
-        "id": "institutional-flows",
-        "title": "Institutional Liquidity & Order Flow"
-      },
-      {
-        "id": "strategic-outlook",
-        "title": "Strategic Positioning & Key Risk Levels"
-      },
-      {
-        "id": "original-wire",
-        "title": "Primary Wire & Full Coverage Link"
-      }
-    ],
-    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker. Reported by CNBC Finance. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n        \n        <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);\">\n          <a href=\"https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;\">\n            <span>Read Original Wire Story on CNBC Finance</span>\n            <span>↗</span>\n          </a>\n        </div>\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker.</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n\n      \n      <h3 id=\"original-wire\">Primary Wire & Full Coverage Link</h3>\n      <p>This report incorporates real-time wire data provided by <strong>CNBC Finance</strong>. You can inspect the primary external filing and full syndicated release directly:</p>\n      <p style=\"margin: 1.25rem 0;\">\n        <a href=\"https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;\">\n          <span>Open Full Original Article on CNBC Finance</span>\n          <span style=\"font-size:1.1rem;\">↗</span>\n        </a>\n      </p>\n    "
-  },
-  {
-    "id": "chinas-hottest-stocks-these-days-have-one-thing-in-common-na-mgtk",
-    "title": "China’s hottest stocks these days have one thing in common: names that sound like sheep",
-    "excerpt": "Shares of fish processors, lighting manufacturers and appliance makers have soared ahead of the Year of the Sheep. Investor appetite has had little to do with the status of their businesses.",
-    "category": "US Markets",
-    "categorySlug": "us-markets",
-    "tickers": [
-      "^GSPC",
-      "SPY"
-    ],
-    "sentiment": "Bullish",
-    "sentimentScore": "+78%",
-    "author": {
-      "name": "World Stock News Editorial Desk",
-      "title": "Financial Market Intelligence & Macro Analytics",
-      "avatar": "/assets/logo.png"
-    },
-    "publishedAt": "2026-11-16T17:48:01.290Z",
-    "readTime": "5 min read",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "source": "MarketWatch",
-    "sourceUrl": "https://www.marketwatch.com/story/chinas-hottest-stocks-these-days-have-one-thing-in-common-names-that-sound-like-sheep-6176e521?mod=mw_rss_topstories",
-    "targetPrice": "Overweight Target",
-    "analystConsensus": "Accumulate / Buy",
-    "tableOfContents": [
-      {
-        "id": "market-overview",
-        "title": "Market Context & Catalyst"
-      },
-      {
-        "id": "institutional-flows",
-        "title": "Institutional Liquidity & Order Flow"
-      },
-      {
-        "id": "strategic-outlook",
-        "title": "Strategic Positioning & Key Risk Levels"
-      },
-      {
-        "id": "original-wire",
-        "title": "Primary Wire & Full Coverage Link"
-      }
-    ],
-    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> China’s hottest stocks these days have one thing in common: names that sound like sheep. Reported by MarketWatch. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n        \n        <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);\">\n          <a href=\"https://www.marketwatch.com/story/chinas-hottest-stocks-these-days-have-one-thing-in-common-names-that-sound-like-sheep-6176e521?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;\">\n            <span>Read Original Wire Story on MarketWatch</span>\n            <span>↗</span>\n          </a>\n        </div>\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>Shares of fish processors, lighting manufacturers and appliance makers have soared ahead of the Year of the Sheep. Investor appetite has had little to do with the status of their businesses.</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n\n      \n      <h3 id=\"original-wire\">Primary Wire & Full Coverage Link</h3>\n      <p>This report incorporates real-time wire data provided by <strong>MarketWatch</strong>. You can inspect the primary external filing and full syndicated release directly:</p>\n      <p style=\"margin: 1.25rem 0;\">\n        <a href=\"https://www.marketwatch.com/story/chinas-hottest-stocks-these-days-have-one-thing-in-common-names-that-sound-like-sheep-6176e521?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;\">\n          <span>Open Full Original Article on MarketWatch</span>\n          <span style=\"font-size:1.1rem;\">↗</span>\n        </a>\n      </p>\n    "
   }
 ];
 
