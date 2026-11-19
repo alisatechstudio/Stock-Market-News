@@ -13,6 +13,114 @@
   ],
   "items": [
     {
+      "id": "https://worldstocknews.online/article/unitedhealths-stock-keeps-plunging-after-government-signals--c8o0",
+      "url": "https://worldstocknews.online/article/unitedhealths-stock-keeps-plunging-after-government-signals--c8o0",
+      "title": "UnitedHealth’s stock keeps plunging after government signals crackdown on Medicare Advantage fraud",
+      "content_text": "UnitedHealth’s stock has tumbled 20% over the past five days.",
+      "summary": "UnitedHealth’s stock has tumbled 20% over the past five days.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-11-19T17:26:00.000Z",
+      "tags": [
+        "US Markets",
+        "^GSPC",
+        "SPY"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article/a-coreweave-co-founder-just-made-an-unconventional-30-millio-c8o0",
+      "url": "https://worldstocknews.online/article/a-coreweave-co-founder-just-made-an-unconventional-30-millio-c8o0",
+      "title": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
+      "content_text": "While executives typically buy shares to signal confidence, CoreWeave co-founder Brian Venturo is turning to the bond market to calm AI jitters.",
+      "summary": "While executives typically buy shares to signal confidence, CoreWeave co-founder Brian Venturo is turning to the bond market to calm AI jitters.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-11-19T17:21:00.000Z",
+      "tags": [
+        "Tech & AI",
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "QQQ"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article/anthropic-is-coming-to-your-401k-love-it-or-hate-it-ai-is-be-c8o0",
+      "url": "https://worldstocknews.online/article/anthropic-is-coming-to-your-401k-love-it-or-hate-it-ai-is-be-c8o0",
+      "title": "Anthropic is coming to your 401(k). Love it or hate it, AI is becoming a bigger part of your financial plan.",
+      "content_text": "A number of public pension plans already have a stake in Anthropic.",
+      "summary": "A number of public pension plans already have a stake in Anthropic.",
+      "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-11-19T16:53:00.000Z",
+      "tags": [
+        "Tech & AI",
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "QQQ"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article/alibabas-cloud-business-is-thriving-but-those-profits-are-co-c8o0",
+      "url": "https://worldstocknews.online/article/alibabas-cloud-business-is-thriving-but-those-profits-are-co-c8o0",
+      "title": "Alibaba’s cloud business is thriving. But those profits are completely offset by losses from its AI labs.",
+      "content_text": "The cloud-services business of Chinese internet giant Alibaba is thriving — but the losses from the artificial-intelligence labs business is completely offsetting it.",
+      "summary": "The cloud-services business of Chinese internet giant Alibaba is thriving — but the losses from the artificial-intelligence labs business is completely offsetting it.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-11-19T16:52:00.000Z",
+      "tags": [
+        "Tech & AI",
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "QQQ"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article/trump-praises-great-relationship-with-putin-after-meeting-as-c8o0",
+      "url": "https://worldstocknews.online/article/trump-praises-great-relationship-with-putin-after-meeting-as-c8o0",
+      "title": "Trump praises ‘great relationship’ with Putin after meeting, as Ukraine war takes center stage",
+      "content_text": "U.S. President Donald Trump met individually on Thursday with Russian President Vladimir Putin, as well as Chinese President Xi Jinping.",
+      "summary": "U.S. President Donald Trump met individually on Thursday with Russian President Vladimir Putin, as well as Chinese President Xi Jinping.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-11-19T09:02:00.000Z",
+      "tags": [
+        "Tech & AI",
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "QQQ"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
       "id": "https://worldstocknews.online/article/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-i0bm",
       "url": "https://worldstocknews.online/article/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-i0bm",
       "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
@@ -317,110 +425,6 @@
         "^TNX",
         "CL=F",
         "GC=F"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/the-sp-500-just-broke-a-crucial-support-level-heres-what-his-rpij",
-      "url": "https://worldstocknews.online/article/the-sp-500-just-broke-a-crucial-support-level-heres-what-his-rpij",
-      "title": "The S&P 500 just broke a crucial support level. Here’s what history shows may happen now.",
-      "content_text": "Breaching a 200-day moving average is taken as a bearish signal. That may not be the case for this market, says Bespoke Investment",
-      "summary": "Breaching a 200-day moving average is taken as a bearish signal. That may not be the case for this market, says Bespoke Investment",
-      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-11-18T08:50:00.000Z",
-      "tags": [
-        "US Markets",
-        "^GSPC",
-        "SPY"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/coreweaves-stock-pops-even-as-nvidia-talks-up-a-disciplined--rpij",
-      "url": "https://worldstocknews.online/article/coreweaves-stock-pops-even-as-nvidia-talks-up-a-disciplined--rpij",
-      "title": "CoreWeave’s stock pops — even as Nvidia talks up a ‘disciplined’ approach to financing",
-      "content_text": "Nvidia interim CEO Colette Kress said neoclouds are “increasingly important,” but added the company will take “a very strong look” at the customers it helps with financing.",
-      "summary": "Nvidia interim CEO Colette Kress said neoclouds are “increasingly important,” but added the company will take “a very strong look” at the customers it helps with financing.",
-      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-11-18T01:59:00.000Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/medicare-part-b-premiums-rise-due-to-higher-healthcare-spend-rpij",
-      "url": "https://worldstocknews.online/article/medicare-part-b-premiums-rise-due-to-higher-healthcare-spend-rpij",
-      "title": "Medicare Part B premiums rise due to higher healthcare spending",
-      "content_text": "The premiums will increase by $6.50, to $209.40 a month.",
-      "summary": "The premiums will increase by $6.50, to $209.40 a month.",
-      "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-11-18T01:45:00.000Z",
-      "tags": [
-        "US Markets",
-        "^GSPC",
-        "SPY"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/nvidias-stock-rises-as-blowout-numbers-help-ease-ceo-transit-rpij",
-      "url": "https://worldstocknews.online/article/nvidias-stock-rises-as-blowout-numbers-help-ease-ceo-transit-rpij",
-      "title": "Nvidia’s stock rises as blowout numbers help ease CEO transition fears",
-      "content_text": "Nvidia’s revenue growth and $130 billion quarterly forecast showed that demand for chips is still sky-high.",
-      "summary": "Nvidia’s revenue growth and $130 billion quarterly forecast showed that demand for chips is still sky-high.",
-      "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-11-18T01:28:00.000Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/putin-says-eu-is-losing-industry-falling-behind-competition--rpij",
-      "url": "https://worldstocknews.online/article/putin-says-eu-is-losing-industry-falling-behind-competition--rpij",
-      "title": "Putin says EU is losing industry, falling behind competition, ahead of meeting with Trump and Xi",
-      "content_text": "Putin used the speech to emphasize Russia's economic resilience despite U.S. sanctions, and played up opportunities for APEC members in the country.",
-      "summary": "Putin used the speech to emphasize Russia's economic resilience despite U.S. sanctions, and played up opportunities for APEC members in the country.",
-      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-11-18T08:29:35.000Z",
-      "tags": [
-        "US Markets",
-        "^GSPC",
-        "SPY"
       ],
       "authors": [
         {
