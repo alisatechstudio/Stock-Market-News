@@ -4,39 +4,95 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-11-19T17:45:26.007Z</lastmod>
+    <lastmod>2026-11-19T23:55:57.987Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/us-markets</loc>
-    <lastmod>2026-11-19T17:45:26.007Z</lastmod>
+    <lastmod>2026-11-19T23:55:57.987Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/tech-ai</loc>
-    <lastmod>2026-11-19T17:45:26.007Z</lastmod>
+    <lastmod>2026-11-19T23:55:57.987Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/macro-economy</loc>
-    <lastmod>2026-11-19T17:45:26.007Z</lastmod>
+    <lastmod>2026-11-19T23:55:57.987Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/crypto</loc>
-    <lastmod>2026-11-19T17:45:26.007Z</lastmod>
+    <lastmod>2026-11-19T23:55:57.987Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/earnings</loc>
-    <lastmod>2026-11-19T17:45:26.007Z</lastmod>
+    <lastmod>2026-11-19T23:55:57.987Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/these-were-the-only-stocks-that-rose-amid-the-stock-markets--kqt7</loc>
+    <lastmod>2026-11-19T23:11:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T23:11:00.000Z</news:publication_date>
+      <news:title>These were the only stocks that rose amid the stock market’s wipeout Thursday</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/intuits-downbeat-outlook-deepens-wall-streets-anxiety-about--kqt8</loc>
+    <lastmod>2026-11-19T22:53:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T22:53:00.000Z</news:publication_date>
+      <news:title>Intuit’s downbeat outlook deepens Wall Street’s anxiety about software companies</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/were-in-our-50s-and-terrified-of-a-market-crash-should-we-pu-kqt8</loc>
+    <lastmod>2026-11-19T22:15:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T22:15:00.000Z</news:publication_date>
+      <news:title>We’re in our 50s and terrified of a market crash. Should we put $400,000 of our $1 million retirement savings into an annuity?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/anthropics-stock-surges-in-its-debut-and-the-rest-of-the-mar-kqt8</loc>
+    <lastmod>2026-11-19T22:12:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T22:12:00.000Z</news:publication_date>
+      <news:title>Anthropic’s stock surges in its debut — and the rest of the market dives anyway</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/unitedhealths-stock-keeps-plunging-after-government-signals--c8o0</loc>
@@ -390,7 +446,7 @@
   </url>
   <url>
     <loc>https://worldstocknews.online/article/costco-is-benefiting-from-apocalyptic-concerns-as-customers--skav</loc>
-    <lastmod>2026-11-17T22:46:00.000Z</lastmod>
+    <lastmod>2026-11-18T17:55:57.987Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -398,13 +454,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-17T22:46:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-18T17:55:57.987Z</news:publication_date>
       <news:title>Costco is benefiting from ‘apocalyptic concerns’ as customers stock up on goods, analysts say</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/its-downright-dirty-my-brother-took-over-our-ailing-mothers--skav</loc>
-    <lastmod>2026-11-17T22:30:00.000Z</lastmod>
+    <lastmod>2026-11-18T16:55:57.987Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -412,13 +468,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-17T22:30:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-18T16:55:57.987Z</news:publication_date>
       <news:title>‘It’s downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/nvidias-turmoil-has-me-spooked-has-the-time-come-to-sell-my--skav</loc>
-    <lastmod>2026-11-17T22:15:00.000Z</lastmod>
+    <lastmod>2026-11-18T15:55:57.987Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -426,7 +482,7 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-17T22:15:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-18T15:55:57.987Z</news:publication_date>
       <news:title>‘Nvidia’s turmoil has me spooked’: Has the time come to sell my stocks?</news:title>
     </news:news>
   </url>
@@ -446,7 +502,7 @@
   </url>
   <url>
     <loc>https://worldstocknews.online/article/jpmorgan-is-working-on-ai-agent-transactions-that-dont-invol-skav</loc>
-    <lastmod>2026-11-17T23:30:13.000Z</lastmod>
+    <lastmod>2026-11-18T13:55:57.987Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -454,13 +510,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-17T23:30:13.000Z</news:publication_date>
+      <news:publication_date>2026-11-18T13:55:57.987Z</news:publication_date>
       <news:title>JPMorgan is working on AI agent transactions that don’t involve humans</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/how-much-more-money-could-you-earn-if-you-had-a-financial-ad-p0ya</loc>
-    <lastmod>2026-11-17T18:30:00.000Z</lastmod>
+    <lastmod>2026-11-18T12:55:57.987Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -468,105 +524,49 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-17T18:30:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-18T12:55:57.987Z</news:publication_date>
       <news:title>How much more money could you earn if you had a financial adviser? Here’s what research shows</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article/as-stocks-struggle-bonds-are-finally-helping-investors-play--p0ya</loc>
-    <lastmod>2026-11-18T09:45:26.007Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T09:45:26.007Z</news:publication_date>
-      <news:title>As stocks struggle, bonds are finally helping investors play defense again. There’s just one problem.</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/why-salesforces-stock-is-leading-sp-500-decliners-amid-tech--p0ya</loc>
-    <lastmod>2026-11-18T08:45:26.007Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T08:45:26.007Z</news:publication_date>
-      <news:title>Why Salesforce’s stock is leading S&amp;P 500 decliners amid tech jitters</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/the-latest-tech-failure-us-classified-national-security-comm-p0ya</loc>
-    <lastmod>2026-11-18T07:45:26.007Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T07:45:26.007Z</news:publication_date>
-      <news:title>The latest tech failure: U.S. classified national security communications network</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/heres-how-much-of-deutsche-banks-market-cap-has-been-wiped-a-ct1y</loc>
-    <lastmod>2026-11-18T06:45:26.007Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T06:45:26.007Z</news:publication_date>
-      <news:title>Here’s how much of Deutsche Bank’s market cap has been wiped away after reports on 15 million leaked documents</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/about</loc>
-    <lastmod>2026-11-19T17:45:26.007Z</lastmod>
+    <lastmod>2026-11-19T23:55:57.987Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact</loc>
-    <lastmod>2026-11-19T17:45:26.007Z</lastmod>
+    <lastmod>2026-11-19T23:55:57.987Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy</loc>
-    <lastmod>2026-11-19T17:45:26.007Z</lastmod>
+    <lastmod>2026-11-19T23:55:57.987Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms</loc>
-    <lastmod>2026-11-19T17:45:26.007Z</lastmod>
+    <lastmod>2026-11-19T23:55:57.987Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-11-19T17:45:26.007Z</lastmod>
+    <lastmod>2026-11-19T23:55:57.987Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-11-19T17:45:26.007Z</lastmod>
+    <lastmod>2026-11-19T23:55:57.987Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-11-19T17:45:26.007Z</lastmod>
+    <lastmod>2026-11-19T23:55:57.987Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
