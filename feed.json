@@ -13,6 +13,49 @@
   ],
   "items": [
     {
+      "id": "https://worldstocknews.online/article/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-i0bm",
+      "url": "https://worldstocknews.online/article/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-i0bm",
+      "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+      "content_text": "“Our financial and healthcare situation has become increasingly concerning.”",
+      "summary": "“Our financial and healthcare situation has become increasingly concerning.”",
+      "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-11-19T03:30:00.000Z",
+      "tags": [
+        "Tech & AI",
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "QQQ"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article/trump-holds-talks-separately-with-putin-and-xi-ahead-of-thei-i0bm",
+      "url": "https://worldstocknews.online/article/trump-holds-talks-separately-with-putin-and-xi-ahead-of-thei-i0bm",
+      "title": "Trump holds talks separately with Putin and Xi ahead of their historic trilateral meeting",
+      "content_text": "U.S. President Donald Trump met individually on Thursday with Russian President Vladimir Putin, as well as Chinese President Xi Jinping.",
+      "summary": "U.S. President Donald Trump met individually on Thursday with Russian President Vladimir Putin, as well as Chinese President Xi Jinping.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-11-19T06:29:34.000Z",
+      "tags": [
+        "Macro Economy",
+        "^TNX",
+        "CL=F",
+        "GC=F"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
       "id": "https://worldstocknews.online/article/nvidias-turmoil-has-me-spooked-should-i-sell-my-stocks-and-b-z8ua",
       "url": "https://worldstocknews.online/article/nvidias-turmoil-has-me-spooked-should-i-sell-my-stocks-and-b-z8ua",
       "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
@@ -378,50 +421,6 @@
         "US Markets",
         "^GSPC",
         "SPY"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/costco-is-benefiting-from-apocalyptic-concerns-as-customers--skav",
-      "url": "https://worldstocknews.online/article/costco-is-benefiting-from-apocalyptic-concerns-as-customers--skav",
-      "title": "Costco is benefiting from ‘apocalyptic concerns’ as customers stock up on goods, analysts say",
-      "content_text": "Mizuho analysts have seen an “acceleration on emergency prep sales” at the warehouse chain following the Microsoft outage and nationwide flight stoppage.",
-      "summary": "Mizuho analysts have seen an “acceleration on emergency prep sales” at the warehouse chain following the Microsoft outage and nationwide flight stoppage.",
-      "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-11-17T22:46:00.000Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/its-downright-dirty-my-brother-took-over-our-ailing-mothers--skav",
-      "url": "https://worldstocknews.online/article/its-downright-dirty-my-brother-took-over-our-ailing-mothers--skav",
-      "title": "‘It’s downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?",
-      "content_text": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
-      "summary": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
-      "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-11-17T22:30:00.000Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
       ],
       "authors": [
         {
