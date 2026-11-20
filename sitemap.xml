@@ -4,39 +4,165 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-11-20T13:39:59.119Z</lastmod>
+    <lastmod>2026-11-20T21:34:54.338Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/us-markets</loc>
-    <lastmod>2026-11-20T13:39:59.119Z</lastmod>
+    <lastmod>2026-11-20T21:34:54.338Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/tech-ai</loc>
-    <lastmod>2026-11-20T13:39:59.119Z</lastmod>
+    <lastmod>2026-11-20T21:34:54.338Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/macro-economy</loc>
-    <lastmod>2026-11-20T13:39:59.119Z</lastmod>
+    <lastmod>2026-11-20T21:34:54.338Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/crypto</loc>
-    <lastmod>2026-11-20T13:39:59.119Z</lastmod>
+    <lastmod>2026-11-20T21:34:54.338Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/earnings</loc>
-    <lastmod>2026-11-20T13:39:59.119Z</lastmod>
+    <lastmod>2026-11-20T21:34:54.338Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/anthropics-stock-sees-dramatic-slide-but-manages-to-stay-abo-z6z4</loc>
+    <lastmod>2026-11-20T21:25:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T21:25:00.000Z</news:publication_date>
+      <news:title>Anthropic’s stock sees dramatic slide but manages to stay above its IPO price</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/heres-whats-been-proven-to-help-glp-1-users-from-losing-too--z6z4</loc>
+    <lastmod>2026-11-20T21:01:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T21:01:00.000Z</news:publication_date>
+      <news:title>Here’s what’s been proven to help GLP-1 users from losing too much muscle from the drug</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/the-tech-wreck-is-one-stock-trade-trump-cant-taco-away-z6z4</loc>
+    <lastmod>2026-11-20T20:52:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T20:52:00.000Z</news:publication_date>
+      <news:title>The tech wreck is one stock trade Trump can’t ‘TACO’ away</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/gta-6-has-taken-over-is-it-too-late-to-buy-the-developers-st-z6z4</loc>
+    <lastmod>2026-11-20T20:32:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T20:32:00.000Z</news:publication_date>
+      <news:title>‘GTA 6’ has taken over. Is it too late to buy the developer’s stock?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/my-husband-spent-80000-on-a-boat-yet-says-my-plans-for-a-100-z6z4</loc>
+    <lastmod>2026-11-20T20:31:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T20:31:00.000Z</news:publication_date>
+      <news:title>My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who’s right?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/prediction-markets-outlook-for-stocks-in-2026-dims-amid-ai-s-z6z4</loc>
+    <lastmod>2026-11-20T19:59:03.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T19:59:03.000Z</news:publication_date>
+      <news:title>Prediction markets outlook for stocks in 2026 dims amid AI sell-off</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/warsh-wants-fed-officials-to-talk-less-instead-theyre-talkin-z6z4</loc>
+    <lastmod>2026-11-20T21:10:48.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T21:10:48.000Z</news:publication_date>
+      <news:title>Warsh wants Fed officials to talk less. Instead, they’re talking more</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/the-bull-market-has-a-new-problem-the-smart-money-is-selling-z6z4</loc>
+    <lastmod>2026-11-20T14:15:29.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T14:15:29.000Z</news:publication_date>
+      <news:title>The bull market has a new problem. The &apos;smart money&apos; is selling</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/us-china-trade-taiwan-and-tech-tensions-remain-unresolved-as-z6z4</loc>
+    <lastmod>2026-11-20T13:29:50.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T13:29:50.000Z</news:publication_date>
+      <news:title>U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-t-0g9f</loc>
@@ -362,7 +488,7 @@
   </url>
   <url>
     <loc>https://worldstocknews.online/article/fed-officials-expect-more-rate-hikes-worry-about-ai-impact-o-z8ua</loc>
-    <lastmod>2026-11-18T19:41:59.000Z</lastmod>
+    <lastmod>2026-11-19T12:34:54.338Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -370,13 +496,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-18T19:41:59.000Z</news:publication_date>
+      <news:publication_date>2026-11-19T12:34:54.338Z</news:publication_date>
       <news:title>Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/social-security-should-be-shut-down-this-republican-senator--dy6v</loc>
-    <lastmod>2026-11-18T17:46:00.000Z</lastmod>
+    <lastmod>2026-11-19T11:34:54.338Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -384,13 +510,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-18T17:46:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-19T11:34:54.338Z</news:publication_date>
       <news:title>Social Security should be shut down, this Republican senator says</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/rising-healthcare-costs-push-medicare-part-b-premiums-higher-dy6v</loc>
-    <lastmod>2026-11-18T17:28:00.000Z</lastmod>
+    <lastmod>2026-11-19T10:34:54.338Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -398,175 +524,49 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-18T17:28:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-19T10:34:54.338Z</news:publication_date>
       <news:title>Rising healthcare costs push Medicare Part B premiums higher</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article/its-not-too-late-to-add-us-energy-companies-to-your-401k-the-dy6v</loc>
-    <lastmod>2026-11-18T17:23:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T17:23:00.000Z</news:publication_date>
-      <news:title>It’s not too late to add U.S. energy companies to your 401(k). They’ve been making out like bandits.</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/i-tried-tiktoks-viral-corporate-slop-lunch-hacks-and-finally-dy6v</loc>
-    <lastmod>2026-11-18T17:16:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T17:16:00.000Z</news:publication_date>
-      <news:title>I tried TikTok’s viral ‘corporate slop lunch hacks’ — and finally escaped the $20 desk salad</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/i-watched-trump-xi-and-putin-gather-in-china-here-are-my-top-dy6v</loc>
-    <lastmod>2026-11-18T16:14:10.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T16:14:10.000Z</news:publication_date>
-      <news:title>I watched Trump, Xi and Putin gather in China. Here are my top takeaways</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/tech-outages-are-causing-people-to-panic-buy-costco-is-benef-dy6v</loc>
-    <lastmod>2026-11-18T16:33:14.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T16:33:14.000Z</news:publication_date>
-      <news:title>Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/feds-waller-says-central-bank-may-need-to-shock-people-with--dy6v</loc>
-    <lastmod>2026-11-18T15:13:39.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T15:13:39.000Z</news:publication_date>
-      <news:title>Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/the-sp-500-just-broke-a-crucial-support-level-heres-what-his-rpij</loc>
-    <lastmod>2026-11-19T05:39:59.119Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T05:39:59.119Z</news:publication_date>
-      <news:title>The S&amp;P 500 just broke a crucial support level. Here’s what history shows may happen now.</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/coreweaves-stock-pops-even-as-nvidia-talks-up-a-disciplined--rpij</loc>
-    <lastmod>2026-11-18T23:42:42.802Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T23:42:42.802Z</news:publication_date>
-      <news:title>CoreWeave’s stock pops — even as Nvidia talks up a ‘disciplined’ approach to financing</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/medicare-part-b-premiums-rise-due-to-higher-healthcare-spend-rpij</loc>
-    <lastmod>2026-11-18T22:42:42.802Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T22:42:42.802Z</news:publication_date>
-      <news:title>Medicare Part B premiums rise due to higher healthcare spending</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/nvidias-stock-rises-as-blowout-numbers-help-ease-ceo-transit-rpij</loc>
-    <lastmod>2026-11-18T21:42:42.802Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T21:42:42.802Z</news:publication_date>
-      <news:title>Nvidia’s stock rises as blowout numbers help ease CEO transition fears</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/about</loc>
-    <lastmod>2026-11-20T13:39:59.119Z</lastmod>
+    <lastmod>2026-11-20T21:34:54.338Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact</loc>
-    <lastmod>2026-11-20T13:39:59.119Z</lastmod>
+    <lastmod>2026-11-20T21:34:54.338Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy</loc>
-    <lastmod>2026-11-20T13:39:59.119Z</lastmod>
+    <lastmod>2026-11-20T21:34:54.338Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms</loc>
-    <lastmod>2026-11-20T13:39:59.119Z</lastmod>
+    <lastmod>2026-11-20T21:34:54.338Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-11-20T13:39:59.119Z</lastmod>
+    <lastmod>2026-11-20T21:34:54.338Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-11-20T13:39:59.119Z</lastmod>
+    <lastmod>2026-11-20T21:34:54.338Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-11-20T13:39:59.119Z</lastmod>
+    <lastmod>2026-11-20T21:34:54.338Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
