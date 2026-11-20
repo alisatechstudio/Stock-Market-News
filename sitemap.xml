@@ -4,39 +4,95 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-11-20T04:42:42.802Z</lastmod>
+    <lastmod>2026-11-20T13:39:59.119Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/us-markets</loc>
-    <lastmod>2026-11-20T04:42:42.802Z</lastmod>
+    <lastmod>2026-11-20T13:39:59.119Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/tech-ai</loc>
-    <lastmod>2026-11-20T04:42:42.802Z</lastmod>
+    <lastmod>2026-11-20T13:39:59.119Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/macro-economy</loc>
-    <lastmod>2026-11-20T04:42:42.802Z</lastmod>
+    <lastmod>2026-11-20T13:39:59.119Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/crypto</loc>
-    <lastmod>2026-11-20T04:42:42.802Z</lastmod>
+    <lastmod>2026-11-20T13:39:59.119Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/earnings</loc>
-    <lastmod>2026-11-20T04:42:42.802Z</lastmod>
+    <lastmod>2026-11-20T13:39:59.119Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-t-0g9f</loc>
+    <lastmod>2026-11-20T13:25:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T13:25:00.000Z</news:publication_date>
+      <news:title>Anthropic’s stock slides closer to IPO price and drags down the AI trade</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/is-social-security-a-ponzi-scheme-no-dont-get-carried-away-w-0g9f</loc>
+    <lastmod>2026-11-20T13:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T13:00:00.000Z</news:publication_date>
+      <news:title>Is Social Security a Ponzi scheme? No. Don’t get carried away with 1930s-era prophecies of doom.</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/these-5-defense-stocks-are-drawing-millions-in-insider-bets--0g9f</loc>
+    <lastmod>2026-11-20T12:45:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T12:45:00.000Z</news:publication_date>
+      <news:title>These 5 defense stocks are drawing millions in insider bets ahead of military-spending boom in 2027</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/bank-of-america-strategist-warns-doom-loop-could-hit-stocks--0g9f</loc>
+    <lastmod>2026-11-20T12:43:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T12:43:00.000Z</news:publication_date>
+      <news:title>Bank of America strategist warns doom loop could hit stocks with Wall Street underpricing hard-landing risks</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/im-terrified-of-a-market-crash-should-i-put-400000-of-my-1-m-ti6f</loc>
@@ -418,7 +474,7 @@
   </url>
   <url>
     <loc>https://worldstocknews.online/article/the-sp-500-just-broke-a-crucial-support-level-heres-what-his-rpij</loc>
-    <lastmod>2026-11-18T08:50:00.000Z</lastmod>
+    <lastmod>2026-11-19T05:39:59.119Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -426,7 +482,7 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-18T08:50:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-19T05:39:59.119Z</news:publication_date>
       <news:title>The S&amp;P 500 just broke a crucial support level. Here’s what history shows may happen now.</news:title>
     </news:news>
   </url>
@@ -473,100 +529,44 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article/putin-says-eu-is-losing-industry-falling-behind-competition--rpij</loc>
-    <lastmod>2026-11-18T08:29:35.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T08:29:35.000Z</news:publication_date>
-      <news:title>Putin says EU is losing industry, falling behind competition, ahead of meeting with Trump and Xi</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/costco-is-benefiting-from-apocalyptic-concerns-as-customers--skav</loc>
-    <lastmod>2026-11-18T17:55:57.987Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T17:55:57.987Z</news:publication_date>
-      <news:title>Costco is benefiting from ‘apocalyptic concerns’ as customers stock up on goods, analysts say</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/its-downright-dirty-my-brother-took-over-our-ailing-mothers--skav</loc>
-    <lastmod>2026-11-18T16:55:57.987Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T16:55:57.987Z</news:publication_date>
-      <news:title>‘It’s downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/nvidias-turmoil-has-me-spooked-has-the-time-come-to-sell-my--skav</loc>
-    <lastmod>2026-11-18T15:55:57.987Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T15:55:57.987Z</news:publication_date>
-      <news:title>‘Nvidia’s turmoil has me spooked’: Has the time come to sell my stocks?</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/about</loc>
-    <lastmod>2026-11-20T04:42:42.802Z</lastmod>
+    <lastmod>2026-11-20T13:39:59.119Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact</loc>
-    <lastmod>2026-11-20T04:42:42.802Z</lastmod>
+    <lastmod>2026-11-20T13:39:59.119Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy</loc>
-    <lastmod>2026-11-20T04:42:42.802Z</lastmod>
+    <lastmod>2026-11-20T13:39:59.119Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms</loc>
-    <lastmod>2026-11-20T04:42:42.802Z</lastmod>
+    <lastmod>2026-11-20T13:39:59.119Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-11-20T04:42:42.802Z</lastmod>
+    <lastmod>2026-11-20T13:39:59.119Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-11-20T04:42:42.802Z</lastmod>
+    <lastmod>2026-11-20T13:39:59.119Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-11-20T04:42:42.802Z</lastmod>
+    <lastmod>2026-11-20T13:39:59.119Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
