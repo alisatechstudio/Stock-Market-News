@@ -1,10 +1,148 @@
 /**
  * World Stock News - Editorial Database of In-Depth Financial Intelligence Articles
  * Automatically updated hourly by World Stock News Real-Time Ingestion Engine
- * Last Automated Update: 2026-11-21T10:19:30.953Z
+ * Last Automated Update: 2026-11-21T17:48:08.505Z
  */
 
 const ArticlesData = [
+  {
+    "id": "im-sick-of-flying-i-paid-for-priority-boarding-but-the-overh-bf08",
+    "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+    "excerpt": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
+    "category": "Tech & AI",
+    "categorySlug": "tech-ai",
+    "tickers": [
+      "NVDA",
+      "AAPL",
+      "MSFT",
+      "QQQ"
+    ],
+    "sentiment": "Bearish",
+    "sentimentScore": "-65%",
+    "author": {
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
+    },
+    "publishedAt": "2026-11-21T16:50:00.000Z",
+    "readTime": "5 min read",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "source": "MarketWatch",
+    "sourceUrl": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+    "targetPrice": "Overweight Target",
+    "analystConsensus": "Reduce",
+    "tableOfContents": [
+      {
+        "id": "market-overview",
+        "title": "Market Context & Catalyst"
+      },
+      {
+        "id": "institutional-flows",
+        "title": "Institutional Liquidity & Order Flow"
+      },
+      {
+        "id": "strategic-outlook",
+        "title": "Strategic Positioning & Key Risk Levels"
+      },
+      {
+        "id": "original-wire",
+        "title": "Primary Wire & Full Coverage Link"
+      }
+    ],
+    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> ‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?. Reported by MarketWatch. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n        \n        <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);\">\n          <a href=\"https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;\">\n            <span>Read Original Wire Story on MarketWatch</span>\n            <span>↗</span>\n          </a>\n        </div>\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n\n      \n      <h3 id=\"original-wire\">Primary Wire & Full Coverage Link</h3>\n      <p>This report incorporates real-time wire data provided by <strong>MarketWatch</strong>. You can inspect the primary external filing and full syndicated release directly:</p>\n      <p style=\"margin: 1.25rem 0;\">\n        <a href=\"https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;\">\n          <span>Open Full Original Article on MarketWatch</span>\n          <span style=\"font-size:1.1rem;\">↗</span>\n        </a>\n      </p>\n    "
+  },
+  {
+    "id": "micron-and-sandisk-stocks-might-look-like-bargains-but-analy-bf08",
+    "title": "Micron and Sandisk stocks might look like bargains, but analysts say that’s actually a red flag",
+    "excerpt": "Cheap valuation multiples for memory stocks have historically been associated with peak pricing levels, according to analysts.",
+    "category": "Tech & AI",
+    "categorySlug": "tech-ai",
+    "tickers": [
+      "NVDA",
+      "AAPL",
+      "MSFT",
+      "QQQ"
+    ],
+    "sentiment": "Bullish",
+    "sentimentScore": "+89%",
+    "author": {
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
+    },
+    "publishedAt": "2026-11-21T15:35:00.000Z",
+    "readTime": "5 min read",
+    "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1200&q=80",
+    "source": "MarketWatch",
+    "sourceUrl": "https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_rss_topstories",
+    "targetPrice": "Overweight Target",
+    "analystConsensus": "Accumulate / Buy",
+    "tableOfContents": [
+      {
+        "id": "market-overview",
+        "title": "Market Context & Catalyst"
+      },
+      {
+        "id": "institutional-flows",
+        "title": "Institutional Liquidity & Order Flow"
+      },
+      {
+        "id": "strategic-outlook",
+        "title": "Strategic Positioning & Key Risk Levels"
+      },
+      {
+        "id": "original-wire",
+        "title": "Primary Wire & Full Coverage Link"
+      }
+    ],
+    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> Micron and Sandisk stocks might look like bargains, but analysts say that’s actually a red flag. Reported by MarketWatch. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n        \n        <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);\">\n          <a href=\"https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;\">\n            <span>Read Original Wire Story on MarketWatch</span>\n            <span>↗</span>\n          </a>\n        </div>\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>Cheap valuation multiples for memory stocks have historically been associated with peak pricing levels, according to analysts.</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n\n      \n      <h3 id=\"original-wire\">Primary Wire & Full Coverage Link</h3>\n      <p>This report incorporates real-time wire data provided by <strong>MarketWatch</strong>. You can inspect the primary external filing and full syndicated release directly:</p>\n      <p style=\"margin: 1.25rem 0;\">\n        <a href=\"https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;\">\n          <span>Open Full Original Article on MarketWatch</span>\n          <span style=\"font-size:1.1rem;\">↗</span>\n        </a>\n      </p>\n    "
+  },
+  {
+    "id": "nvidias-turmoil-has-me-spooked-is-it-time-to-sell-my-stocks-bf08",
+    "title": "‘Nvidia’s turmoil has me spooked’: Is it time to sell my stocks?",
+    "excerpt": "If you are tempted to ditch stocks for property or CDs, take a deep breath before making any sudden moves.",
+    "category": "Tech & AI",
+    "categorySlug": "tech-ai",
+    "tickers": [
+      "NVDA",
+      "AAPL",
+      "MSFT",
+      "QQQ"
+    ],
+    "sentiment": "Bullish",
+    "sentimentScore": "+89%",
+    "author": {
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
+    },
+    "publishedAt": "2026-11-21T15:15:00.000Z",
+    "readTime": "5 min read",
+    "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
+    "source": "MarketWatch",
+    "sourceUrl": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+    "targetPrice": "Overweight Target",
+    "analystConsensus": "Accumulate / Buy",
+    "tableOfContents": [
+      {
+        "id": "market-overview",
+        "title": "Market Context & Catalyst"
+      },
+      {
+        "id": "institutional-flows",
+        "title": "Institutional Liquidity & Order Flow"
+      },
+      {
+        "id": "strategic-outlook",
+        "title": "Strategic Positioning & Key Risk Levels"
+      },
+      {
+        "id": "original-wire",
+        "title": "Primary Wire & Full Coverage Link"
+      }
+    ],
+    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> ‘Nvidia’s turmoil has me spooked’: Is it time to sell my stocks?. Reported by MarketWatch. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n        \n        <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);\">\n          <a href=\"https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;\">\n            <span>Read Original Wire Story on MarketWatch</span>\n            <span>↗</span>\n          </a>\n        </div>\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>If you are tempted to ditch stocks for property or CDs, take a deep breath before making any sudden moves.</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n\n      \n      <h3 id=\"original-wire\">Primary Wire & Full Coverage Link</h3>\n      <p>This report incorporates real-time wire data provided by <strong>MarketWatch</strong>. You can inspect the primary external filing and full syndicated release directly:</p>\n      <p style=\"margin: 1.25rem 0;\">\n        <a href=\"https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;\">\n          <span>Open Full Original Article on MarketWatch</span>\n          <span style=\"font-size:1.1rem;\">↗</span>\n        </a>\n      </p>\n    "
+  },
   {
     "id": "tech-outages-are-rattling-americans-so-much-that-theyre-stoc-ahag",
     "title": "Tech outages are rattling Americans so much that they’re stockpiling cash and supplies",
@@ -1233,7 +1371,7 @@ const ArticlesData = [
       "title": "Financial Market Intelligence & Macro Analytics",
       "avatar": "/assets/logo.png"
     },
-    "publishedAt": "2026-11-19T17:26:00.000Z",
+    "publishedAt": "2026-11-20T10:48:05.904Z",
     "readTime": "5 min read",
     "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
     "source": "MarketWatch",
@@ -1279,7 +1417,7 @@ const ArticlesData = [
       "title": "Financial Market Intelligence & Macro Analytics",
       "avatar": "/assets/logo.png"
     },
-    "publishedAt": "2026-11-19T17:21:00.000Z",
+    "publishedAt": "2026-11-20T09:48:05.904Z",
     "readTime": "5 min read",
     "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
     "source": "MarketWatch",
@@ -1325,7 +1463,7 @@ const ArticlesData = [
       "title": "Financial Market Intelligence & Macro Analytics",
       "avatar": "/assets/logo.png"
     },
-    "publishedAt": "2026-11-19T16:53:00.000Z",
+    "publishedAt": "2026-11-20T08:48:05.904Z",
     "readTime": "5 min read",
     "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
     "source": "MarketWatch",
@@ -1371,7 +1509,7 @@ const ArticlesData = [
       "title": "Financial Market Intelligence & Macro Analytics",
       "avatar": "/assets/logo.png"
     },
-    "publishedAt": "2026-11-19T16:52:00.000Z",
+    "publishedAt": "2026-11-20T07:48:05.904Z",
     "readTime": "5 min read",
     "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
     "source": "MarketWatch",
@@ -1443,143 +1581,6 @@ const ArticlesData = [
       }
     ],
     "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> Trump praises ‘great relationship’ with Putin after meeting, as Ukraine war takes center stage. Reported by CNBC Finance. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n        \n        <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);\">\n          <a href=\"https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;\">\n            <span>Read Original Wire Story on CNBC Finance</span>\n            <span>↗</span>\n          </a>\n        </div>\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>U.S. President Donald Trump met individually on Thursday with Russian President Vladimir Putin, as well as Chinese President Xi Jinping.</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n\n      \n      <h3 id=\"original-wire\">Primary Wire & Full Coverage Link</h3>\n      <p>This report incorporates real-time wire data provided by <strong>CNBC Finance</strong>. You can inspect the primary external filing and full syndicated release directly:</p>\n      <p style=\"margin: 1.25rem 0;\">\n        <a href=\"https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;\">\n          <span>Open Full Original Article on CNBC Finance</span>\n          <span style=\"font-size:1.1rem;\">↗</span>\n        </a>\n      </p>\n    "
-  },
-  {
-    "id": "ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-i0bm",
-    "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
-    "excerpt": "“Our financial and healthcare situation has become increasingly concerning.”",
-    "category": "Tech & AI",
-    "categorySlug": "tech-ai",
-    "tickers": [
-      "NVDA",
-      "AAPL",
-      "MSFT",
-      "QQQ"
-    ],
-    "sentiment": "Bullish",
-    "sentimentScore": "+89%",
-    "author": {
-      "name": "World Stock News Editorial Desk",
-      "title": "Financial Market Intelligence & Macro Analytics",
-      "avatar": "/assets/logo.png"
-    },
-    "publishedAt": "2026-11-20T01:19:30.667Z",
-    "readTime": "5 min read",
-    "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1200&q=80",
-    "source": "MarketWatch",
-    "sourceUrl": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
-    "targetPrice": "Overweight Target",
-    "analystConsensus": "Accumulate / Buy",
-    "tableOfContents": [
-      {
-        "id": "market-overview",
-        "title": "Market Context & Catalyst"
-      },
-      {
-        "id": "institutional-flows",
-        "title": "Institutional Liquidity & Order Flow"
-      },
-      {
-        "id": "strategic-outlook",
-        "title": "Strategic Positioning & Key Risk Levels"
-      },
-      {
-        "id": "original-wire",
-        "title": "Primary Wire & Full Coverage Link"
-      }
-    ],
-    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> ‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?. Reported by MarketWatch. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n        \n        <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);\">\n          <a href=\"https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;\">\n            <span>Read Original Wire Story on MarketWatch</span>\n            <span>↗</span>\n          </a>\n        </div>\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>“Our financial and healthcare situation has become increasingly concerning.”</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n\n      \n      <h3 id=\"original-wire\">Primary Wire & Full Coverage Link</h3>\n      <p>This report incorporates real-time wire data provided by <strong>MarketWatch</strong>. You can inspect the primary external filing and full syndicated release directly:</p>\n      <p style=\"margin: 1.25rem 0;\">\n        <a href=\"https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;\">\n          <span>Open Full Original Article on MarketWatch</span>\n          <span style=\"font-size:1.1rem;\">↗</span>\n        </a>\n      </p>\n    "
-  },
-  {
-    "id": "trump-holds-talks-separately-with-putin-and-xi-ahead-of-thei-i0bm",
-    "title": "Trump holds talks separately with Putin and Xi ahead of their historic trilateral meeting",
-    "excerpt": "U.S. President Donald Trump met individually on Thursday with Russian President Vladimir Putin, as well as Chinese President Xi Jinping.",
-    "category": "Macro Economy",
-    "categorySlug": "macro-economy",
-    "tickers": [
-      "^TNX",
-      "CL=F",
-      "GC=F"
-    ],
-    "sentiment": "Neutral",
-    "sentimentScore": "50%",
-    "author": {
-      "name": "World Stock News Editorial Desk",
-      "title": "Financial Market Intelligence & Macro Analytics",
-      "avatar": "/assets/logo.png"
-    },
-    "publishedAt": "2026-11-20T00:19:30.667Z",
-    "readTime": "5 min read",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-    "source": "CNBC Finance",
-    "sourceUrl": "https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html",
-    "targetPrice": "Overweight Target",
-    "analystConsensus": "Accumulate / Buy",
-    "tableOfContents": [
-      {
-        "id": "market-overview",
-        "title": "Market Context & Catalyst"
-      },
-      {
-        "id": "institutional-flows",
-        "title": "Institutional Liquidity & Order Flow"
-      },
-      {
-        "id": "strategic-outlook",
-        "title": "Strategic Positioning & Key Risk Levels"
-      },
-      {
-        "id": "original-wire",
-        "title": "Primary Wire & Full Coverage Link"
-      }
-    ],
-    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> Trump holds talks separately with Putin and Xi ahead of their historic trilateral meeting. Reported by CNBC Finance. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n        \n        <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);\">\n          <a href=\"https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;\">\n            <span>Read Original Wire Story on CNBC Finance</span>\n            <span>↗</span>\n          </a>\n        </div>\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>U.S. President Donald Trump met individually on Thursday with Russian President Vladimir Putin, as well as Chinese President Xi Jinping.</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n\n      \n      <h3 id=\"original-wire\">Primary Wire & Full Coverage Link</h3>\n      <p>This report incorporates real-time wire data provided by <strong>CNBC Finance</strong>. You can inspect the primary external filing and full syndicated release directly:</p>\n      <p style=\"margin: 1.25rem 0;\">\n        <a href=\"https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;\">\n          <span>Open Full Original Article on CNBC Finance</span>\n          <span style=\"font-size:1.1rem;\">↗</span>\n        </a>\n      </p>\n    "
-  },
-  {
-    "id": "nvidias-turmoil-has-me-spooked-should-i-sell-my-stocks-and-b-z8ua",
-    "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
-    "excerpt": "Tempted to ditch stocks for property or CDs? Take a deep breath before making any sudden moves.",
-    "category": "Tech & AI",
-    "categorySlug": "tech-ai",
-    "tickers": [
-      "NVDA",
-      "AAPL",
-      "MSFT",
-      "QQQ"
-    ],
-    "sentiment": "Bullish",
-    "sentimentScore": "+89%",
-    "author": {
-      "name": "World Stock News Editorial Desk",
-      "title": "Financial Market Intelligence & Macro Analytics",
-      "avatar": "/assets/logo.png"
-    },
-    "publishedAt": "2026-11-19T17:52:54.084Z",
-    "readTime": "5 min read",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "source": "MarketWatch",
-    "sourceUrl": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-    "targetPrice": "Overweight Target",
-    "analystConsensus": "Accumulate / Buy",
-    "tableOfContents": [
-      {
-        "id": "market-overview",
-        "title": "Market Context & Catalyst"
-      },
-      {
-        "id": "institutional-flows",
-        "title": "Institutional Liquidity & Order Flow"
-      },
-      {
-        "id": "strategic-outlook",
-        "title": "Strategic Positioning & Key Risk Levels"
-      },
-      {
-        "id": "original-wire",
-        "title": "Primary Wire & Full Coverage Link"
-      }
-    ],
-    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> ‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?. Reported by MarketWatch. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n        \n        <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);\">\n          <a href=\"https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;\">\n            <span>Read Original Wire Story on MarketWatch</span>\n            <span>↗</span>\n          </a>\n        </div>\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>Tempted to ditch stocks for property or CDs? Take a deep breath before making any sudden moves.</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n\n      \n      <h3 id=\"original-wire\">Primary Wire & Full Coverage Link</h3>\n      <p>This report incorporates real-time wire data provided by <strong>MarketWatch</strong>. You can inspect the primary external filing and full syndicated release directly:</p>\n      <p style=\"margin: 1.25rem 0;\">\n        <a href=\"https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;\">\n          <span>Open Full Original Article on MarketWatch</span>\n          <span style=\"font-size:1.1rem;\">↗</span>\n        </a>\n      </p>\n    "
   }
 ];
 
