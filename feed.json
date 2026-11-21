@@ -13,6 +13,111 @@
   ],
   "items": [
     {
+      "id": "https://worldstocknews.online/article/dow-sp-500-enter-correction-as-nasdaq-suffers-worst-week-sin-c583",
+      "url": "https://worldstocknews.online/article/dow-sp-500-enter-correction-as-nasdaq-suffers-worst-week-sin-c583",
+      "title": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
+      "content_text": "All 11 S&P 500 sectors finished more than 1% lower this week for the first time since April 2025.",
+      "summary": "All 11 S&P 500 sectors finished more than 1% lower this week for the first time since April 2025.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-11-20T22:46:00.000Z",
+      "tags": [
+        "US Markets",
+        "^GSPC",
+        "SPY"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article/chip-stocks-see-23-trillion-weekly-wipeout-as-panic-grips-th-c583",
+      "url": "https://worldstocknews.online/article/chip-stocks-see-23-trillion-weekly-wipeout-as-panic-grips-th-c583",
+      "title": "Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade",
+      "content_text": "A major semiconductor index just posted its worst weekly performance in 25 years.",
+      "summary": "A major semiconductor index just posted its worst weekly performance in 25 years.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-11-20T22:44:00.000Z",
+      "tags": [
+        "Tech & AI",
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "QQQ"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article/these-stocks-were-crushed-the-most-this-week-as-the-tech-wre-c583",
+      "url": "https://worldstocknews.online/article/these-stocks-were-crushed-the-most-this-week-as-the-tech-wre-c583",
+      "title": "These stocks were crushed the most this week as the tech wreck accelerated",
+      "content_text": "94% of stocks in the S&P 500 declined for the week, 11 of them by at least 20%. But for now, analysts still think you can make a lot of money if you buy them.",
+      "summary": "94% of stocks in the S&P 500 declined for the week, 11 of them by at least 20%. But for now, analysts still think you can make a lot of money if you buy them.",
+      "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-11-20T22:44:00.000Z",
+      "tags": [
+        "Macro Economy",
+        "^TNX",
+        "CL=F",
+        "GC=F"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article/nvidias-stock-clinches-a-stretch-of-weekly-losses-not-seen-s-c583",
+      "url": "https://worldstocknews.online/article/nvidias-stock-clinches-a-stretch-of-weekly-losses-not-seen-s-c583",
+      "title": "Nvidia’s stock clinches a stretch of weekly losses not seen since 2008",
+      "content_text": "One fund manager says the continued uncertainty makes Nvidia vulnerable to more selling, even as the stock has erased $1.16 trillion in market value in the past seven trading sessions.",
+      "summary": "One fund manager says the continued uncertainty makes Nvidia vulnerable to more selling, even as the stock has erased $1.16 trillion in market value in the past seven trading sessions.",
+      "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-11-20T21:58:00.000Z",
+      "tags": [
+        "Tech & AI",
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "QQQ"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article/everyones-making-money-off-gta-6-this-week-except-investors--c583",
+      "url": "https://worldstocknews.online/article/everyones-making-money-off-gta-6-this-week-except-investors--c583",
+      "title": "Everyone’s making money off ‘GTA 6’ this week — except investors in Take-Two’s stock",
+      "content_text": "‘Grand Theft Auto VI’ might be a blockbuster game, but investors are shrugging it off.",
+      "summary": "‘Grand Theft Auto VI’ might be a blockbuster game, but investors are shrugging it off.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-11-20T21:39:00.000Z",
+      "tags": [
+        "US Markets",
+        "^GSPC",
+        "SPY"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
       "id": "https://worldstocknews.online/article/anthropics-stock-sees-dramatic-slide-but-manages-to-stay-abo-z6z4",
       "url": "https://worldstocknews.online/article/anthropics-stock-sees-dramatic-slide-but-manages-to-stay-abo-z6z4",
       "title": "Anthropic’s stock sees dramatic slide but manages to stay above its IPO price",
@@ -320,108 +425,6 @@
         "AAPL",
         "MSFT",
         "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/after-anthropics-bittersweet-ipo-heres-what-lies-ahead-ti6f",
-      "url": "https://worldstocknews.online/article/after-anthropics-bittersweet-ipo-heres-what-lies-ahead-ti6f",
-      "title": "After Anthropic’s ‘bittersweet’ IPO, here’s what lies ahead",
-      "content_text": "Retail investors showed up, but Anthropic has so far failed to provide a broad lift to the technology sector.",
-      "summary": "Retail investors showed up, but Anthropic has so far failed to provide a broad lift to the technology sector.",
-      "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-11-19T23:56:00.000Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/these-were-the-only-stocks-that-rose-amid-the-stock-markets--kqt7",
-      "url": "https://worldstocknews.online/article/these-were-the-only-stocks-that-rose-amid-the-stock-markets--kqt7",
-      "title": "These were the only stocks that rose amid the stock market’s wipeout Thursday",
-      "content_text": "All 11 sectors of the S&P 500 declined — 10 of them by more than 1% — but cybersecurity stocks bucked the weakness.",
-      "summary": "All 11 sectors of the S&P 500 declined — 10 of them by more than 1% — but cybersecurity stocks bucked the weakness.",
-      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-11-19T23:11:00.000Z",
-      "tags": [
-        "US Markets",
-        "^GSPC",
-        "SPY"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/intuits-downbeat-outlook-deepens-wall-streets-anxiety-about--kqt8",
-      "url": "https://worldstocknews.online/article/intuits-downbeat-outlook-deepens-wall-streets-anxiety-about--kqt8",
-      "title": "Intuit’s downbeat outlook deepens Wall Street’s anxiety about software companies",
-      "content_text": "TurboTax maker Intuit gives investors a fresh reason to worry about legacy software companies.",
-      "summary": "TurboTax maker Intuit gives investors a fresh reason to worry about legacy software companies.",
-      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-11-19T22:53:00.000Z",
-      "tags": [
-        "US Markets",
-        "^GSPC",
-        "SPY"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/were-in-our-50s-and-terrified-of-a-market-crash-should-we-pu-kqt8",
-      "url": "https://worldstocknews.online/article/were-in-our-50s-and-terrified-of-a-market-crash-should-we-pu-kqt8",
-      "title": "We’re in our 50s and terrified of a market crash. Should we put $400,000 of our $1 million retirement savings into an annuity?",
-      "content_text": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
-      "summary": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
-      "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-11-19T22:15:00.000Z",
-      "tags": [
-        "US Markets",
-        "^GSPC",
-        "SPY"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/anthropics-stock-surges-in-its-debut-and-the-rest-of-the-mar-kqt8",
-      "url": "https://worldstocknews.online/article/anthropics-stock-surges-in-its-debut-and-the-rest-of-the-mar-kqt8",
-      "title": "Anthropic’s stock surges in its debut — and the rest of the market dives anyway",
-      "content_text": "All four major U.S. stock indexes are now on pace for their worst week since President Trump’s “liberation day” tariffs of April 2025",
-      "summary": "All four major U.S. stock indexes are now on pace for their worst week since President Trump’s “liberation day” tariffs of April 2025",
-      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-11-19T22:12:00.000Z",
-      "tags": [
-        "US Markets",
-        "^GSPC",
-        "SPY"
       ],
       "authors": [
         {
