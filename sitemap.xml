@@ -4,39 +4,53 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-11-21T22:28:24.701Z</lastmod>
+    <lastmod>2026-11-22T02:41:44.755Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/us-markets</loc>
-    <lastmod>2026-11-21T22:28:24.701Z</lastmod>
+    <lastmod>2026-11-22T02:41:44.755Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/tech-ai</loc>
-    <lastmod>2026-11-21T22:28:24.701Z</lastmod>
+    <lastmod>2026-11-22T02:41:44.755Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/macro-economy</loc>
-    <lastmod>2026-11-21T22:28:24.701Z</lastmod>
+    <lastmod>2026-11-22T02:41:44.755Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/crypto</loc>
-    <lastmod>2026-11-21T22:28:24.701Z</lastmod>
+    <lastmod>2026-11-22T02:41:44.755Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/earnings</loc>
-    <lastmod>2026-11-21T22:28:24.701Z</lastmod>
+    <lastmod>2026-11-22T02:41:44.755Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-dn2s</loc>
+    <lastmod>2026-11-21T23:05:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T23:05:00.000Z</news:publication_date>
+      <news:title>I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/its-downright-dirty-my-brother-moved-in-with-our-ailing-moth-buts</loc>
@@ -432,7 +446,7 @@
   </url>
   <url>
     <loc>https://worldstocknews.online/article/im-terrified-of-a-market-crash-should-i-put-400000-of-my-1-m-ti6f</loc>
-    <lastmod>2026-11-20T01:30:00.000Z</lastmod>
+    <lastmod>2026-11-20T20:41:44.755Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -440,13 +454,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-20T01:30:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-20T20:41:44.755Z</news:publication_date>
       <news:title>I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/my-wife-is-bankrolling-her-familys-trips-to-new-york-and-its-ti6f</loc>
-    <lastmod>2026-11-20T01:22:00.000Z</lastmod>
+    <lastmod>2026-11-20T19:41:44.755Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -454,13 +468,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-20T01:22:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-20T19:41:44.755Z</news:publication_date>
       <news:title>My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/after-anthropics-bittersweet-ipo-heres-what-lies-ahead-ti6f</loc>
-    <lastmod>2026-11-19T23:56:00.000Z</lastmod>
+    <lastmod>2026-11-20T18:41:44.755Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -468,13 +482,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-19T23:56:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-20T18:41:44.755Z</news:publication_date>
       <news:title>After Anthropic’s ‘bittersweet’ IPO, here’s what lies ahead</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/these-were-the-only-stocks-that-rose-amid-the-stock-markets--kqt7</loc>
-    <lastmod>2026-11-19T23:11:00.000Z</lastmod>
+    <lastmod>2026-11-20T17:41:44.755Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -482,13 +496,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-19T23:11:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-20T17:41:44.755Z</news:publication_date>
       <news:title>These were the only stocks that rose amid the stock market’s wipeout Thursday</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/intuits-downbeat-outlook-deepens-wall-streets-anxiety-about--kqt8</loc>
-    <lastmod>2026-11-19T22:53:00.000Z</lastmod>
+    <lastmod>2026-11-20T16:41:44.755Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -496,7 +510,7 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-19T22:53:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-20T16:41:44.755Z</news:publication_date>
       <news:title>Intuit’s downbeat outlook deepens Wall Street’s anxiety about software companies</news:title>
     </news:news>
   </url>
@@ -515,58 +529,44 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article/anthropics-stock-surges-in-its-debut-and-the-rest-of-the-mar-kqt8</loc>
-    <lastmod>2026-11-20T11:28:24.701Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T11:28:24.701Z</news:publication_date>
-      <news:title>Anthropic’s stock surges in its debut — and the rest of the market dives anyway</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/about</loc>
-    <lastmod>2026-11-21T22:28:24.701Z</lastmod>
+    <lastmod>2026-11-22T02:41:44.755Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact</loc>
-    <lastmod>2026-11-21T22:28:24.701Z</lastmod>
+    <lastmod>2026-11-22T02:41:44.755Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy</loc>
-    <lastmod>2026-11-21T22:28:24.701Z</lastmod>
+    <lastmod>2026-11-22T02:41:44.755Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms</loc>
-    <lastmod>2026-11-21T22:28:24.701Z</lastmod>
+    <lastmod>2026-11-22T02:41:44.755Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-11-21T22:28:24.701Z</lastmod>
+    <lastmod>2026-11-22T02:41:44.755Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-11-21T22:28:24.701Z</lastmod>
+    <lastmod>2026-11-22T02:41:44.755Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-11-21T22:28:24.701Z</lastmod>
+    <lastmod>2026-11-22T02:41:44.755Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
