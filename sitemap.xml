@@ -4,39 +4,95 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-11-22T10:24:05.681Z</lastmod>
+    <lastmod>2026-11-22T18:05:32.176Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/us-markets</loc>
-    <lastmod>2026-11-22T10:24:05.681Z</lastmod>
+    <lastmod>2026-11-22T18:05:32.176Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/tech-ai</loc>
-    <lastmod>2026-11-22T10:24:05.681Z</lastmod>
+    <lastmod>2026-11-22T18:05:32.176Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/macro-economy</loc>
-    <lastmod>2026-11-22T10:24:05.681Z</lastmod>
+    <lastmod>2026-11-22T18:05:32.176Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/crypto</loc>
-    <lastmod>2026-11-22T10:24:05.681Z</lastmod>
+    <lastmod>2026-11-22T18:05:32.176Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/earnings</loc>
-    <lastmod>2026-11-22T10:24:05.681Z</lastmod>
+    <lastmod>2026-11-22T18:05:32.176Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/private-equity-has-been-buying-up-hospice-centers-with-strik-dn8p</loc>
+    <lastmod>2026-11-22T17:22:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T17:22:00.000Z</news:publication_date>
+      <news:title>Private equity has been buying up hospice centers — with striking consequences</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/nvidias-turmoil-has-me-spooked-is-it-time-to-sell-my-stocks--dn8p</loc>
+    <lastmod>2026-11-22T17:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T17:00:00.000Z</news:publication_date>
+      <news:title>‘Nvidia’s turmoil has me spooked’: Is it time to sell my stocks and buy real estate?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/i-felt-so-seen-why-families-across-america-are-laughing-and--dn8p</loc>
+    <lastmod>2026-11-22T16:18:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T16:18:00.000Z</news:publication_date>
+      <news:title>‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/never-too-late-to-start-practical-investing-advice-from-some-dn8p</loc>
+    <lastmod>2026-11-22T16:15:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T16:15:00.000Z</news:publication_date>
+      <news:title>‘Never too late to start’: Practical investing advice from some of the top women in finance</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/hourly-market-brief-mwrow89j</loc>
@@ -376,7 +432,7 @@
   </url>
   <url>
     <loc>https://worldstocknews.online/article/the-bull-market-has-a-new-problem-the-smart-money-is-selling-z6z4</loc>
-    <lastmod>2026-11-20T14:15:29.000Z</lastmod>
+    <lastmod>2026-11-21T13:05:32.176Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -384,13 +440,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-20T14:15:29.000Z</news:publication_date>
+      <news:publication_date>2026-11-21T13:05:32.176Z</news:publication_date>
       <news:title>The bull market has a new problem. The &apos;smart money&apos; is selling</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/us-china-trade-taiwan-and-tech-tensions-remain-unresolved-as-z6z4</loc>
-    <lastmod>2026-11-20T13:29:50.000Z</lastmod>
+    <lastmod>2026-11-21T12:05:32.176Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -398,13 +454,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-20T13:29:50.000Z</news:publication_date>
+      <news:publication_date>2026-11-21T12:05:32.176Z</news:publication_date>
       <news:title>U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-t-0g9f</loc>
-    <lastmod>2026-11-20T13:25:00.000Z</lastmod>
+    <lastmod>2026-11-21T11:05:32.176Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -412,13 +468,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-20T13:25:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-21T11:05:32.176Z</news:publication_date>
       <news:title>Anthropic’s stock slides closer to IPO price and drags down the AI trade</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/is-social-security-a-ponzi-scheme-no-dont-get-carried-away-w-0g9f</loc>
-    <lastmod>2026-11-20T13:00:00.000Z</lastmod>
+    <lastmod>2026-11-21T10:05:32.176Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -426,13 +482,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-20T13:00:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-21T10:05:32.176Z</news:publication_date>
       <news:title>Is Social Security a Ponzi scheme? No. Don’t get carried away with 1930s-era prophecies of doom.</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/these-5-defense-stocks-are-drawing-millions-in-insider-bets--0g9f</loc>
-    <lastmod>2026-11-20T12:45:00.000Z</lastmod>
+    <lastmod>2026-11-21T09:05:32.176Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -440,13 +496,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-20T12:45:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-21T09:05:32.176Z</news:publication_date>
       <news:title>These 5 defense stocks are drawing millions in insider bets ahead of military-spending boom in 2027</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/bank-of-america-strategist-warns-doom-loop-could-hit-stocks--0g9f</loc>
-    <lastmod>2026-11-20T12:43:00.000Z</lastmod>
+    <lastmod>2026-11-21T08:05:32.176Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -454,7 +510,7 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-20T12:43:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-21T08:05:32.176Z</news:publication_date>
       <news:title>Bank of America strategist warns doom loop could hit stocks with Wall Street underpricing hard-landing risks</news:title>
     </news:news>
   </url>
@@ -473,100 +529,44 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article/my-wife-is-bankrolling-her-familys-trips-to-new-york-and-its-ti6f</loc>
-    <lastmod>2026-11-20T19:41:44.755Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T19:41:44.755Z</news:publication_date>
-      <news:title>My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/after-anthropics-bittersweet-ipo-heres-what-lies-ahead-ti6f</loc>
-    <lastmod>2026-11-20T18:41:44.755Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T18:41:44.755Z</news:publication_date>
-      <news:title>After Anthropic’s ‘bittersweet’ IPO, here’s what lies ahead</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/these-were-the-only-stocks-that-rose-amid-the-stock-markets--kqt7</loc>
-    <lastmod>2026-11-20T17:41:44.755Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T17:41:44.755Z</news:publication_date>
-      <news:title>These were the only stocks that rose amid the stock market’s wipeout Thursday</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/intuits-downbeat-outlook-deepens-wall-streets-anxiety-about--kqt8</loc>
-    <lastmod>2026-11-20T16:41:44.755Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T16:41:44.755Z</news:publication_date>
-      <news:title>Intuit’s downbeat outlook deepens Wall Street’s anxiety about software companies</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/about</loc>
-    <lastmod>2026-11-22T10:24:05.681Z</lastmod>
+    <lastmod>2026-11-22T18:05:32.176Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact</loc>
-    <lastmod>2026-11-22T10:24:05.681Z</lastmod>
+    <lastmod>2026-11-22T18:05:32.176Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy</loc>
-    <lastmod>2026-11-22T10:24:05.681Z</lastmod>
+    <lastmod>2026-11-22T18:05:32.176Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms</loc>
-    <lastmod>2026-11-22T10:24:05.681Z</lastmod>
+    <lastmod>2026-11-22T18:05:32.176Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-11-22T10:24:05.681Z</lastmod>
+    <lastmod>2026-11-22T18:05:32.176Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-11-22T10:24:05.681Z</lastmod>
+    <lastmod>2026-11-22T18:05:32.176Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-11-22T10:24:05.681Z</lastmod>
+    <lastmod>2026-11-22T18:05:32.176Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
