@@ -4,39 +4,95 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-11-24T02:38:00.550Z</lastmod>
+    <lastmod>2026-11-24T12:58:36.690Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/us-markets</loc>
-    <lastmod>2026-11-24T02:38:00.550Z</lastmod>
+    <lastmod>2026-11-24T12:58:36.690Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/tech-ai</loc>
-    <lastmod>2026-11-24T02:38:00.550Z</lastmod>
+    <lastmod>2026-11-24T12:58:36.690Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/macro-economy</loc>
-    <lastmod>2026-11-24T02:38:00.550Z</lastmod>
+    <lastmod>2026-11-24T12:58:36.690Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/crypto</loc>
-    <lastmod>2026-11-24T02:38:00.550Z</lastmod>
+    <lastmod>2026-11-24T12:58:36.690Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/earnings</loc>
-    <lastmod>2026-11-24T02:38:00.550Z</lastmod>
+    <lastmod>2026-11-24T12:58:36.690Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/sundays-pot-roast-now-costs-more-than-a-thanksgiving-feast-w-an0n</loc>
+    <lastmod>2026-11-24T12:56:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T12:56:00.000Z</news:publication_date>
+      <news:title>Sunday’s pot roast now costs more than a Thanksgiving feast. Why beef won’t get cheaper for years.</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/the-biggest-biotech-deal-in-nearly-three-years-carries-a-hef-an0n</loc>
+    <lastmod>2026-11-24T12:50:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T12:50:00.000Z</news:publication_date>
+      <news:title>The biggest biotech deal in nearly three years carries a hefty $41 billion price tag</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/jensen-huangs-return-was-worth-nearly-950-billion-to-nvidia--an0n</loc>
+    <lastmod>2026-11-24T12:21:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T12:21:00.000Z</news:publication_date>
+      <news:title>Jensen Huang’s return was worth nearly $950 billion to Nvidia. How much of the stock market should ride on one man?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/how-china-is-using-summits-to-expand-its-global-influence-an0n</loc>
+    <lastmod>2026-11-24T08:58:36.690Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T08:58:36.690Z</news:publication_date>
+      <news:title>How China is using summits to expand its global influence</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/hpe-just-posted-its-strongest-growth-ever-but-its-stock-is-s-4jfx</loc>
@@ -376,7 +432,7 @@
   </url>
   <url>
     <loc>https://worldstocknews.online/article/hourly-market-brief-mwrow89j</loc>
-    <lastmod>2026-11-22T10:24:05.681Z</lastmod>
+    <lastmod>2026-11-23T07:58:36.690Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -384,7 +440,7 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-22T10:24:05.681Z</news:publication_date>
+      <news:publication_date>2026-11-23T07:58:36.690Z</news:publication_date>
       <news:title>Hourly Market Pulse: Global Indices Trade With Steady Breadth as Volume Accelerates</news:title>
     </news:news>
   </url>
@@ -473,100 +529,44 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overh-bf08</loc>
-    <lastmod>2026-11-22T18:38:00.550Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T18:38:00.550Z</news:publication_date>
-      <news:title>‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/micron-and-sandisk-stocks-might-look-like-bargains-but-analy-bf08</loc>
-    <lastmod>2026-11-22T17:38:00.550Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T17:38:00.550Z</news:publication_date>
-      <news:title>Micron and Sandisk stocks might look like bargains, but analysts say that’s actually a red flag</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/nvidias-turmoil-has-me-spooked-is-it-time-to-sell-my-stocks-bf08</loc>
-    <lastmod>2026-11-22T12:27:16.812Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T12:27:16.812Z</news:publication_date>
-      <news:title>‘Nvidia’s turmoil has me spooked’: Is it time to sell my stocks?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/tech-outages-are-rattling-americans-so-much-that-theyre-stoc-ahag</loc>
-    <lastmod>2026-11-22T06:08:52.742Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T06:08:52.742Z</news:publication_date>
-      <news:title>Tech outages are rattling Americans so much that they’re stockpiling cash and supplies</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/about</loc>
-    <lastmod>2026-11-24T02:38:00.550Z</lastmod>
+    <lastmod>2026-11-24T12:58:36.690Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact</loc>
-    <lastmod>2026-11-24T02:38:00.550Z</lastmod>
+    <lastmod>2026-11-24T12:58:36.690Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy</loc>
-    <lastmod>2026-11-24T02:38:00.550Z</lastmod>
+    <lastmod>2026-11-24T12:58:36.690Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms</loc>
-    <lastmod>2026-11-24T02:38:00.550Z</lastmod>
+    <lastmod>2026-11-24T12:58:36.690Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-11-24T02:38:00.550Z</lastmod>
+    <lastmod>2026-11-24T12:58:36.690Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-11-24T02:38:00.550Z</lastmod>
+    <lastmod>2026-11-24T12:58:36.690Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-11-24T02:38:00.550Z</lastmod>
+    <lastmod>2026-11-24T12:58:36.690Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
