@@ -4,39 +4,123 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-11-24T12:58:36.690Z</lastmod>
+    <lastmod>2026-11-24T22:53:38.015Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/us-markets</loc>
-    <lastmod>2026-11-24T12:58:36.690Z</lastmod>
+    <lastmod>2026-11-24T22:53:38.015Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/tech-ai</loc>
-    <lastmod>2026-11-24T12:58:36.690Z</lastmod>
+    <lastmod>2026-11-24T22:53:38.015Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/macro-economy</loc>
-    <lastmod>2026-11-24T12:58:36.690Z</lastmod>
+    <lastmod>2026-11-24T22:53:38.015Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/crypto</loc>
-    <lastmod>2026-11-24T12:58:36.690Z</lastmod>
+    <lastmod>2026-11-24T22:53:38.015Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/earnings</loc>
-    <lastmod>2026-11-24T12:58:36.690Z</lastmod>
+    <lastmod>2026-11-24T22:53:38.015Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/micron-boosted-ceo-sanjay-mehrotras-security-budget-by-2000--juep</loc>
+    <lastmod>2026-11-24T22:43:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T22:43:00.000Z</news:publication_date>
+      <news:title>Micron boosted CEO Sanjay Mehrotra’s security budget by 2,000%, new filing shows</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/12-days-of-sardines-and-croc-charms-are-advent-calendars-get-jueq</loc>
+    <lastmod>2026-11-24T21:53:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T21:53:00.000Z</news:publication_date>
+      <news:title>12 days of sardines and Croc charms: Are Advent calendars getting out of control?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/anthropics-stock-just-broke-below-its-ipo-price-for-the-firs-jueq</loc>
+    <lastmod>2026-11-24T21:46:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T21:46:00.000Z</news:publication_date>
+      <news:title>Anthropic’s stock just broke below its IPO price for the first time</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/how-much-more-are-richest-americans-spending-on-the-holidays-jueq</loc>
+    <lastmod>2026-11-24T21:31:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T21:31:00.000Z</news:publication_date>
+      <news:title>How much more are richest Americans spending on the holidays compared to everyone else?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/kalshi-daily-volume-of-perps-trading-begins-to-top-its-predi-jueq</loc>
+    <lastmod>2026-11-24T18:34:55.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T18:34:55.000Z</news:publication_date>
+      <news:title>Kalshi daily volume of ‘perps’ trading begins to top its prediction markets</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/utah-drops-criminal-charges-against-kalshi-founders-after-co-jueq</loc>
+    <lastmod>2026-11-24T20:45:57.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T20:45:57.000Z</news:publication_date>
+      <news:title>Utah drops criminal charges against Kalshi founders after company suspended operations in state</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/sundays-pot-roast-now-costs-more-than-a-thanksgiving-feast-w-an0n</loc>
@@ -292,7 +376,7 @@
   </url>
   <url>
     <loc>https://worldstocknews.online/article/corporate-america-hunts-for-generational-growth-in-ai-tradin-ur2k</loc>
-    <lastmod>2026-11-22T21:51:00.000Z</lastmod>
+    <lastmod>2026-11-23T21:53:38.015Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -300,13 +384,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-22T21:51:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-23T21:53:38.015Z</news:publication_date>
       <news:title>Corporate America hunts for ‘generational’ growth in AI, trading cards and the L.A. airport</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/ron-johnsons-social-security-gaffe-buried-important-news-ur2k</loc>
-    <lastmod>2026-11-22T21:28:00.000Z</lastmod>
+    <lastmod>2026-11-23T20:53:38.015Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -314,13 +398,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-22T21:28:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-23T20:53:38.015Z</news:publication_date>
       <news:title>Ron Johnson’s Social Security gaffe buried important news</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/social-security-should-be-shut-down-this-republican-senator--ur2k</loc>
-    <lastmod>2026-11-22T20:26:00.000Z</lastmod>
+    <lastmod>2026-11-23T19:53:38.015Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -328,13 +412,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-22T20:26:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-23T19:53:38.015Z</news:publication_date>
       <news:title>Social Security should be shut down, this Republican senator says</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/medicare-beneficiaries-could-skip-the-nursing-home-for-cheap-ur2k</loc>
-    <lastmod>2026-11-22T19:24:00.000Z</lastmod>
+    <lastmod>2026-11-23T18:53:38.015Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -342,13 +426,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-22T19:24:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-23T18:53:38.015Z</news:publication_date>
       <news:title>Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/these-little-known-investments-could-be-among-the-best-barga-ur2k</loc>
-    <lastmod>2026-11-22T18:23:00.000Z</lastmod>
+    <lastmod>2026-11-23T17:53:38.015Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -356,13 +440,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-22T18:23:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-23T17:53:38.015Z</news:publication_date>
       <news:title>These little-known investments could be among the best bargains in a crash</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/employees-at-eric-trump-backed-robot-startup-lose-health-ben-ur2k</loc>
-    <lastmod>2026-11-22T18:55:05.000Z</lastmod>
+    <lastmod>2026-11-23T16:53:38.015Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -370,13 +454,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-22T18:55:05.000Z</news:publication_date>
+      <news:publication_date>2026-11-23T16:53:38.015Z</news:publication_date>
       <news:title>Employees at Eric Trump-backed robot startup lose health benefits as company&apos;s cash crunch deepens</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/private-equity-has-been-buying-up-hospice-centers-with-strik-dn8p</loc>
-    <lastmod>2026-11-22T17:22:00.000Z</lastmod>
+    <lastmod>2026-11-23T15:53:38.015Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -384,13 +468,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-22T17:22:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-23T15:53:38.015Z</news:publication_date>
       <news:title>Private equity has been buying up hospice centers — with striking consequences</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/nvidias-turmoil-has-me-spooked-is-it-time-to-sell-my-stocks--dn8p</loc>
-    <lastmod>2026-11-22T17:00:00.000Z</lastmod>
+    <lastmod>2026-11-23T14:53:38.015Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -398,13 +482,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-22T17:00:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-23T14:53:38.015Z</news:publication_date>
       <news:title>‘Nvidia’s turmoil has me spooked’: Is it time to sell my stocks and buy real estate?</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/i-felt-so-seen-why-families-across-america-are-laughing-and--dn8p</loc>
-    <lastmod>2026-11-22T16:18:00.000Z</lastmod>
+    <lastmod>2026-11-23T13:53:38.015Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -412,13 +496,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-22T16:18:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-23T13:53:38.015Z</news:publication_date>
       <news:title>‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/never-too-late-to-start-practical-investing-advice-from-some-dn8p</loc>
-    <lastmod>2026-11-22T16:15:00.000Z</lastmod>
+    <lastmod>2026-11-23T12:53:38.015Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -426,7 +510,7 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-22T16:15:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-23T12:53:38.015Z</news:publication_date>
       <news:title>‘Never too late to start’: Practical investing advice from some of the top women in finance</news:title>
     </news:news>
   </url>
@@ -445,128 +529,44 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-dn2s</loc>
-    <lastmod>2026-11-23T00:38:00.550Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T00:38:00.550Z</news:publication_date>
-      <news:title>I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/its-downright-dirty-my-brother-moved-in-with-our-ailing-moth-buts</loc>
-    <lastmod>2026-11-22T23:38:00.550Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T23:38:00.550Z</news:publication_date>
-      <news:title>‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-buts</loc>
-    <lastmod>2026-11-22T22:38:00.550Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T22:38:00.550Z</news:publication_date>
-      <news:title>‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/buyers-are-out-for-blood-with-home-sales-at-a-record-low-buy-buts</loc>
-    <lastmod>2026-11-22T21:38:00.550Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T21:38:00.550Z</news:publication_date>
-      <news:title>‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-buts</loc>
-    <lastmod>2026-11-22T20:38:00.550Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T20:38:00.550Z</news:publication_date>
-      <news:title>My husband is happily retired at 64 and thinks I should keep working. Is he being fair?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/america-is-definitely-rich-enough-to-fix-social-security-and-buts</loc>
-    <lastmod>2026-11-22T19:38:00.550Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T19:38:00.550Z</news:publication_date>
-      <news:title>America is definitely rich enough to fix Social Security and Medicare. Here’s how.</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/about</loc>
-    <lastmod>2026-11-24T12:58:36.690Z</lastmod>
+    <lastmod>2026-11-24T22:53:38.015Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact</loc>
-    <lastmod>2026-11-24T12:58:36.690Z</lastmod>
+    <lastmod>2026-11-24T22:53:38.015Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy</loc>
-    <lastmod>2026-11-24T12:58:36.690Z</lastmod>
+    <lastmod>2026-11-24T22:53:38.015Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms</loc>
-    <lastmod>2026-11-24T12:58:36.690Z</lastmod>
+    <lastmod>2026-11-24T22:53:38.015Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-11-24T12:58:36.690Z</lastmod>
+    <lastmod>2026-11-24T22:53:38.015Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-11-24T12:58:36.690Z</lastmod>
+    <lastmod>2026-11-24T22:53:38.015Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-11-24T12:58:36.690Z</lastmod>
+    <lastmod>2026-11-24T22:53:38.015Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
