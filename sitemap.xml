@@ -4,39 +4,109 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-11-25T05:05:16.328Z</lastmod>
+    <lastmod>2026-11-25T16:12:54.581Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/us-markets</loc>
-    <lastmod>2026-11-25T05:05:16.328Z</lastmod>
+    <lastmod>2026-11-25T16:12:54.581Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/tech-ai</loc>
-    <lastmod>2026-11-25T05:05:16.328Z</lastmod>
+    <lastmod>2026-11-25T16:12:54.581Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/macro-economy</loc>
-    <lastmod>2026-11-25T05:05:16.328Z</lastmod>
+    <lastmod>2026-11-25T16:12:54.581Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/crypto</loc>
-    <lastmod>2026-11-25T05:05:16.328Z</lastmod>
+    <lastmod>2026-11-25T16:12:54.581Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/earnings</loc>
-    <lastmod>2026-11-25T05:05:16.328Z</lastmod>
+    <lastmod>2026-11-25T16:12:54.581Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/nvidias-stock-is-giving-back-more-than-half-of-mondays-rally-od87</loc>
+    <lastmod>2026-11-25T15:43:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T15:43:00.000Z</news:publication_date>
+      <news:title>Nvidia’s stock is giving back more than half of Monday’s rally as dip buyers cash in</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/visiting-las-vegas-is-getting-too-expensive-but-dont-blame-a-od88</loc>
+    <lastmod>2026-11-25T15:41:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T15:41:00.000Z</news:publication_date>
+      <news:title>Visiting Las Vegas is getting too expensive — but don’t blame airfares</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/inflation-gets-worse-now-the-fed-no-choice-but-to-raise-us-i-od88</loc>
+    <lastmod>2026-11-25T15:08:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T15:08:00.000Z</news:publication_date>
+      <news:title>Inflation gets worse. Now the Fed no choice but to raise U.S. interest rates.</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dict-od88</loc>
+    <lastmod>2026-11-25T15:03:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T15:03:00.000Z</news:publication_date>
+      <news:title>We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/liesman-nvidia-whiplash-tests-kevin-warshs-push-to-read-mark-od88</loc>
+    <lastmod>2026-11-25T12:26:41.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T12:26:41.000Z</news:publication_date>
+      <news:title>Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-so-trzh</loc>
@@ -334,7 +404,7 @@
   </url>
   <url>
     <loc>https://worldstocknews.online/article/nvidias-stock-soars-30-plus-as-jensen-huang-returns-as-ceo-5zcl</loc>
-    <lastmod>2026-11-23T15:15:00.000Z</lastmod>
+    <lastmod>2026-11-24T13:12:54.581Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -342,13 +412,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-23T15:15:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-24T13:12:54.581Z</news:publication_date>
       <news:title>Nvidia’s stock soars 30%-plus as Jensen Huang returns as CEO</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/unitedhealth-humana-and-cvs-stocks-slide-as-us-targets-medic-5zcm</loc>
-    <lastmod>2026-11-23T14:39:00.000Z</lastmod>
+    <lastmod>2026-11-24T12:12:54.581Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -356,13 +426,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-23T14:39:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-24T12:12:54.581Z</news:publication_date>
       <news:title>UnitedHealth, Humana and CVS stocks slide as U.S targets Medicare Advantage ratings</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/jensen-huang-is-back-at-nvidia-and-the-stock-market-is-surgi-5zcm</loc>
-    <lastmod>2026-11-23T14:37:00.000Z</lastmod>
+    <lastmod>2026-11-24T11:12:54.581Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -370,13 +440,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-23T14:37:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-24T11:12:54.581Z</news:publication_date>
       <news:title>Jensen Huang is back at Nvidia, and the stock market is surging. Can it last?</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/ive-been-married-for-58-years-its-our-money-not-his-and-hers-5zcm</loc>
-    <lastmod>2026-11-23T14:15:00.000Z</lastmod>
+    <lastmod>2026-11-24T10:12:54.581Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -384,13 +454,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-23T14:15:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-24T10:12:54.581Z</news:publication_date>
       <news:title>I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/grocery-stores-have-staggering-deals-for-thanksgiving-but-do-5zcm</loc>
-    <lastmod>2026-11-23T14:14:00.000Z</lastmod>
+    <lastmod>2026-11-24T09:12:54.581Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -398,13 +468,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-23T14:14:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-24T09:12:54.581Z</news:publication_date>
       <news:title>Grocery stores have ‘staggering deals’ for Thanksgiving — but don’t get used to these lower prices just yet</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/the-bull-market-has-a-new-problem-the-smart-money-is-selling-5zcm</loc>
-    <lastmod>2026-11-23T09:27:16.812Z</lastmod>
+    <lastmod>2026-11-24T08:12:54.581Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -412,7 +482,7 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-23T09:27:16.812Z</news:publication_date>
+      <news:publication_date>2026-11-24T08:12:54.581Z</news:publication_date>
       <news:title>The bull market has a new problem. The &apos;smart money&apos; is selling</news:title>
     </news:news>
   </url>
@@ -459,114 +529,44 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article/social-security-should-be-shut-down-this-republican-senator--ur2k</loc>
-    <lastmod>2026-11-23T19:53:38.015Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T19:53:38.015Z</news:publication_date>
-      <news:title>Social Security should be shut down, this Republican senator says</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/medicare-beneficiaries-could-skip-the-nursing-home-for-cheap-ur2k</loc>
-    <lastmod>2026-11-23T18:53:38.015Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T18:53:38.015Z</news:publication_date>
-      <news:title>Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/these-little-known-investments-could-be-among-the-best-barga-ur2k</loc>
-    <lastmod>2026-11-23T17:53:38.015Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T17:53:38.015Z</news:publication_date>
-      <news:title>These little-known investments could be among the best bargains in a crash</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/employees-at-eric-trump-backed-robot-startup-lose-health-ben-ur2k</loc>
-    <lastmod>2026-11-23T16:53:38.015Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T16:53:38.015Z</news:publication_date>
-      <news:title>Employees at Eric Trump-backed robot startup lose health benefits as company&apos;s cash crunch deepens</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/private-equity-has-been-buying-up-hospice-centers-with-strik-dn8p</loc>
-    <lastmod>2026-11-23T15:53:38.015Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T15:53:38.015Z</news:publication_date>
-      <news:title>Private equity has been buying up hospice centers — with striking consequences</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/about</loc>
-    <lastmod>2026-11-25T05:05:16.328Z</lastmod>
+    <lastmod>2026-11-25T16:12:54.581Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact</loc>
-    <lastmod>2026-11-25T05:05:16.328Z</lastmod>
+    <lastmod>2026-11-25T16:12:54.581Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy</loc>
-    <lastmod>2026-11-25T05:05:16.328Z</lastmod>
+    <lastmod>2026-11-25T16:12:54.581Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms</loc>
-    <lastmod>2026-11-25T05:05:16.328Z</lastmod>
+    <lastmod>2026-11-25T16:12:54.581Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-11-25T05:05:16.328Z</lastmod>
+    <lastmod>2026-11-25T16:12:54.581Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-11-25T05:05:16.328Z</lastmod>
+    <lastmod>2026-11-25T16:12:54.581Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-11-25T05:05:16.328Z</lastmod>
+    <lastmod>2026-11-25T16:12:54.581Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
