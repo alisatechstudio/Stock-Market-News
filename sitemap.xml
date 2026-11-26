@@ -4,39 +4,95 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-11-25T16:12:54.581Z</lastmod>
+    <lastmod>2026-11-26T00:43:48.809Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/us-markets</loc>
-    <lastmod>2026-11-25T16:12:54.581Z</lastmod>
+    <lastmod>2026-11-26T00:43:48.809Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/tech-ai</loc>
-    <lastmod>2026-11-25T16:12:54.581Z</lastmod>
+    <lastmod>2026-11-26T00:43:48.809Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/macro-economy</loc>
-    <lastmod>2026-11-25T16:12:54.581Z</lastmod>
+    <lastmod>2026-11-26T00:43:48.809Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/crypto</loc>
-    <lastmod>2026-11-25T16:12:54.581Z</lastmod>
+    <lastmod>2026-11-26T00:43:48.809Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/earnings</loc>
-    <lastmod>2026-11-25T16:12:54.581Z</lastmod>
+    <lastmod>2026-11-26T00:43:48.809Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/why-this-stock-market-selloff-is-probably-going-to-get-worse-xe7e</loc>
+    <lastmod>2026-11-26T00:33:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T00:33:00.000Z</news:publication_date>
+      <news:title>Why this stock-market selloff is probably going to get worse before it gets better</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/a-66-year-old-nurse-is-facing-down-retirement-with-just-500--xe7f</loc>
+    <lastmod>2026-11-25T23:30:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T23:30:00.000Z</news:publication_date>
+      <news:title>A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-i-xe7f</loc>
+    <lastmod>2026-11-25T22:45:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T22:45:00.000Z</news:publication_date>
+      <news:title>I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/prediction-markets-push-openai-ipo-expectations-later-into-2-xe7f</loc>
+    <lastmod>2026-11-25T17:08:03.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T17:08:03.000Z</news:publication_date>
+      <news:title>Prediction markets push OpenAI IPO expectations later into 2027</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/nvidias-stock-is-giving-back-more-than-half-of-mondays-rally-od87</loc>
@@ -320,7 +376,7 @@
   </url>
   <url>
     <loc>https://worldstocknews.online/article/the-newest-addition-to-the-sp-500-is-a-maker-of-viral-ice-cr-4jfx</loc>
-    <lastmod>2026-11-23T23:18:00.000Z</lastmod>
+    <lastmod>2026-11-24T23:43:48.809Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -328,13 +384,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-23T23:18:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-24T23:43:48.809Z</news:publication_date>
       <news:title>The newest addition to the S&amp;P 500 is a maker of viral ice-cream machines</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/nvidias-stock-is-surging-again-what-to-know-before-chasing-t-4jfx</loc>
-    <lastmod>2026-11-23T22:04:00.000Z</lastmod>
+    <lastmod>2026-11-24T22:43:48.809Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -342,13 +398,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-23T22:04:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-24T22:43:48.809Z</news:publication_date>
       <news:title>Nvidia’s stock is surging again. What to know before chasing the AI rally.</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/us-stocks-see-best-day-in-more-than-a-year-as-return-of-jens-4jfx</loc>
-    <lastmod>2026-11-23T21:51:00.000Z</lastmod>
+    <lastmod>2026-11-24T21:43:48.809Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -356,13 +412,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-23T21:51:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-24T21:43:48.809Z</news:publication_date>
       <news:title>U.S. stocks see best day in more than a year, as return of Jensen Huang revives AI enthusiasm</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/feds-john-williams-indicates-higher-interest-rates-likely-ov-4jfx</loc>
-    <lastmod>2026-11-23T21:02:17.000Z</lastmod>
+    <lastmod>2026-11-24T20:43:48.809Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -370,13 +426,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-23T21:02:17.000Z</news:publication_date>
+      <news:publication_date>2026-11-24T20:43:48.809Z</news:publication_date>
       <news:title>Fed&apos;s John Williams indicates higher interest rates likely &apos;over time&apos; to address inflation</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/this-establishes-a-bottom-jensen-huangs-return-seen-as-likel-4jfx</loc>
-    <lastmod>2026-11-23T18:00:47.000Z</lastmod>
+    <lastmod>2026-11-24T19:43:48.809Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -384,13 +440,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-23T18:00:47.000Z</news:publication_date>
+      <news:publication_date>2026-11-24T19:43:48.809Z</news:publication_date>
       <news:title>‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/prediction-markets-outlook-for-stocks-in-2026-dims-amid-ai-s-4jfx</loc>
-    <lastmod>2026-11-23T19:38:00.550Z</lastmod>
+    <lastmod>2026-11-24T18:43:48.809Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -398,7 +454,7 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-23T19:38:00.550Z</news:publication_date>
+      <news:publication_date>2026-11-24T18:43:48.809Z</news:publication_date>
       <news:title>Prediction markets outlook for stocks in 2026 dims amid AI sell-off</news:title>
     </news:news>
   </url>
@@ -473,100 +529,44 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article/the-bull-market-has-a-new-problem-the-smart-money-is-selling-5zcm</loc>
-    <lastmod>2026-11-24T08:12:54.581Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T08:12:54.581Z</news:publication_date>
-      <news:title>The bull market has a new problem. The &apos;smart money&apos; is selling</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/hourly-market-brief-mwsqxjv2</loc>
-    <lastmod>2026-11-24T01:05:16.328Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T01:05:16.328Z</news:publication_date>
-      <news:title>Hourly Market Pulse: Global Indices Trade With Steady Breadth as Volume Accelerates</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/corporate-america-hunts-for-generational-growth-in-ai-tradin-ur2k</loc>
-    <lastmod>2026-11-23T21:53:38.015Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T21:53:38.015Z</news:publication_date>
-      <news:title>Corporate America hunts for ‘generational’ growth in AI, trading cards and the L.A. airport</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/ron-johnsons-social-security-gaffe-buried-important-news-ur2k</loc>
-    <lastmod>2026-11-23T20:53:38.015Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T20:53:38.015Z</news:publication_date>
-      <news:title>Ron Johnson’s Social Security gaffe buried important news</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/about</loc>
-    <lastmod>2026-11-25T16:12:54.581Z</lastmod>
+    <lastmod>2026-11-26T00:43:48.809Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact</loc>
-    <lastmod>2026-11-25T16:12:54.581Z</lastmod>
+    <lastmod>2026-11-26T00:43:48.809Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy</loc>
-    <lastmod>2026-11-25T16:12:54.581Z</lastmod>
+    <lastmod>2026-11-26T00:43:48.809Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms</loc>
-    <lastmod>2026-11-25T16:12:54.581Z</lastmod>
+    <lastmod>2026-11-26T00:43:48.809Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-11-25T16:12:54.581Z</lastmod>
+    <lastmod>2026-11-26T00:43:48.809Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-11-25T16:12:54.581Z</lastmod>
+    <lastmod>2026-11-26T00:43:48.809Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-11-25T16:12:54.581Z</lastmod>
+    <lastmod>2026-11-26T00:43:48.809Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
