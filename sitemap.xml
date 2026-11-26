@@ -4,39 +4,81 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-11-26T00:43:48.809Z</lastmod>
+    <lastmod>2026-11-26T08:58:08.524Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/us-markets</loc>
-    <lastmod>2026-11-26T00:43:48.809Z</lastmod>
+    <lastmod>2026-11-26T08:58:08.524Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/tech-ai</loc>
-    <lastmod>2026-11-26T00:43:48.809Z</lastmod>
+    <lastmod>2026-11-26T08:58:08.524Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/macro-economy</loc>
-    <lastmod>2026-11-26T00:43:48.809Z</lastmod>
+    <lastmod>2026-11-26T08:58:08.524Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/crypto</loc>
-    <lastmod>2026-11-26T00:43:48.809Z</lastmod>
+    <lastmod>2026-11-26T08:58:08.524Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/earnings</loc>
-    <lastmod>2026-11-26T00:43:48.809Z</lastmod>
+    <lastmod>2026-11-26T08:58:08.524Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/is-the-stock-market-open-for-thanksgiving-the-answer-might-s-l3mg</loc>
+    <lastmod>2026-11-26T07:16:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T07:16:00.000Z</news:publication_date>
+      <news:title>Is the stock market open for Thanksgiving? The answer might surprise you.</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/robots-could-be-doing-household-chores-in-just-1-2-years-chi-l3mg</loc>
+    <lastmod>2026-11-26T07:30:11.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T07:30:11.000Z</news:publication_date>
+      <news:title>Robots could be doing household chores in just 1-2 years, Chinese EV firm says</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/beware-higher-correlation-but-nab-high-us-credit-yields-fund-l3mg</loc>
+    <lastmod>2026-11-26T05:36:01.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T05:36:01.000Z</news:publication_date>
+      <news:title>Beware higher correlation but nab high U.S. credit yields, fund managers say</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/why-this-stock-market-selloff-is-probably-going-to-get-worse-xe7e</loc>
@@ -362,7 +404,7 @@
   </url>
   <url>
     <loc>https://worldstocknews.online/article/hpe-just-posted-its-strongest-growth-ever-but-its-stock-is-s-4jfx</loc>
-    <lastmod>2026-11-24T01:01:00.000Z</lastmod>
+    <lastmod>2026-11-25T05:58:08.524Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -370,7 +412,7 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-24T01:01:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-25T05:58:08.524Z</news:publication_date>
       <news:title>HPE just posted its strongest growth ever — but its stock is sinking</news:title>
     </news:news>
   </url>
@@ -487,86 +529,44 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article/jensen-huang-is-back-at-nvidia-and-the-stock-market-is-surgi-5zcm</loc>
-    <lastmod>2026-11-24T11:12:54.581Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T11:12:54.581Z</news:publication_date>
-      <news:title>Jensen Huang is back at Nvidia, and the stock market is surging. Can it last?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/ive-been-married-for-58-years-its-our-money-not-his-and-hers-5zcm</loc>
-    <lastmod>2026-11-24T10:12:54.581Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T10:12:54.581Z</news:publication_date>
-      <news:title>I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/grocery-stores-have-staggering-deals-for-thanksgiving-but-do-5zcm</loc>
-    <lastmod>2026-11-24T09:12:54.581Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T09:12:54.581Z</news:publication_date>
-      <news:title>Grocery stores have ‘staggering deals’ for Thanksgiving — but don’t get used to these lower prices just yet</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/about</loc>
-    <lastmod>2026-11-26T00:43:48.809Z</lastmod>
+    <lastmod>2026-11-26T08:58:08.524Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact</loc>
-    <lastmod>2026-11-26T00:43:48.809Z</lastmod>
+    <lastmod>2026-11-26T08:58:08.524Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy</loc>
-    <lastmod>2026-11-26T00:43:48.809Z</lastmod>
+    <lastmod>2026-11-26T08:58:08.524Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms</loc>
-    <lastmod>2026-11-26T00:43:48.809Z</lastmod>
+    <lastmod>2026-11-26T08:58:08.524Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-11-26T00:43:48.809Z</lastmod>
+    <lastmod>2026-11-26T08:58:08.524Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-11-26T00:43:48.809Z</lastmod>
+    <lastmod>2026-11-26T08:58:08.524Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-11-26T00:43:48.809Z</lastmod>
+    <lastmod>2026-11-26T08:58:08.524Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
