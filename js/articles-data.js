@@ -1,10 +1,188 @@
 /**
  * World Stock News - Editorial Database of In-Depth Financial Intelligence Articles
  * Automatically updated hourly by World Stock News Real-Time Ingestion Engine
- * Last Automated Update: 2026-11-27T10:27:23.320Z
+ * Last Automated Update: 2026-11-27T19:41:37.599Z
  */
 
 const ArticlesData = [
+  {
+    "id": "these-stocks-soared-the-most-during-a-wild-week-highlighted--0gxq",
+    "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
+    "excerpt": "Nvidia’s stock soared this week, but was still down nearly 28% for November and 21% for 2026.",
+    "category": "Tech & AI",
+    "categorySlug": "tech-ai",
+    "tickers": [
+      "NVDA",
+      "AAPL",
+      "MSFT",
+      "QQQ"
+    ],
+    "sentiment": "Bullish",
+    "sentimentScore": "+89%",
+    "author": {
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
+    },
+    "publishedAt": "2026-11-27T18:53:00.000Z",
+    "readTime": "5 min read",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "source": "MarketWatch",
+    "sourceUrl": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
+    "targetPrice": "Overweight Target",
+    "analystConsensus": "Accumulate / Buy",
+    "tableOfContents": [
+      {
+        "id": "market-overview",
+        "title": "Market Context & Catalyst"
+      },
+      {
+        "id": "institutional-flows",
+        "title": "Institutional Liquidity & Order Flow"
+      },
+      {
+        "id": "strategic-outlook",
+        "title": "Strategic Positioning & Key Risk Levels"
+      },
+      {
+        "id": "original-wire",
+        "title": "Primary Wire & Full Coverage Link"
+      }
+    ],
+    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia. Reported by MarketWatch. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n        \n        <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);\">\n          <a href=\"https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;\">\n            <span>Read Original Wire Story on MarketWatch</span>\n            <span>↗</span>\n          </a>\n        </div>\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>Nvidia’s stock soared this week, but was still down nearly 28% for November and 21% for 2026.</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n\n      \n      <h3 id=\"original-wire\">Primary Wire & Full Coverage Link</h3>\n      <p>This report incorporates real-time wire data provided by <strong>MarketWatch</strong>. You can inspect the primary external filing and full syndicated release directly:</p>\n      <p style=\"margin: 1.25rem 0;\">\n        <a href=\"https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;\">\n          <span>Open Full Original Article on MarketWatch</span>\n          <span style=\"font-size:1.1rem;\">↗</span>\n        </a>\n      </p>\n    "
+  },
+  {
+    "id": "the-warnings-behind-this-weeks-stock-market-rally-0gxq",
+    "title": "The warnings behind this week’s stock-market rally",
+    "excerpt": "Also in Weekend Reads: Important tips for Medicare enrollment, how to spot online shopping scams and marital advice from The Moneyist.",
+    "category": "US Markets",
+    "categorySlug": "us-markets",
+    "tickers": [
+      "^GSPC",
+      "SPY"
+    ],
+    "sentiment": "Bearish",
+    "sentimentScore": "-65%",
+    "author": {
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
+    },
+    "publishedAt": "2026-11-27T18:40:00.000Z",
+    "readTime": "5 min read",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "source": "MarketWatch",
+    "sourceUrl": "https://www.marketwatch.com/story/the-warnings-behind-this-weeks-stock-market-rally-86e5319c?mod=mw_rss_topstories",
+    "targetPrice": "Overweight Target",
+    "analystConsensus": "Reduce",
+    "tableOfContents": [
+      {
+        "id": "market-overview",
+        "title": "Market Context & Catalyst"
+      },
+      {
+        "id": "institutional-flows",
+        "title": "Institutional Liquidity & Order Flow"
+      },
+      {
+        "id": "strategic-outlook",
+        "title": "Strategic Positioning & Key Risk Levels"
+      },
+      {
+        "id": "original-wire",
+        "title": "Primary Wire & Full Coverage Link"
+      }
+    ],
+    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> The warnings behind this week’s stock-market rally. Reported by MarketWatch. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n        \n        <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);\">\n          <a href=\"https://www.marketwatch.com/story/the-warnings-behind-this-weeks-stock-market-rally-86e5319c?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;\">\n            <span>Read Original Wire Story on MarketWatch</span>\n            <span>↗</span>\n          </a>\n        </div>\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>Also in Weekend Reads: Important tips for Medicare enrollment, how to spot online shopping scams and marital advice from The Moneyist.</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n\n      \n      <h3 id=\"original-wire\">Primary Wire & Full Coverage Link</h3>\n      <p>This report incorporates real-time wire data provided by <strong>MarketWatch</strong>. You can inspect the primary external filing and full syndicated release directly:</p>\n      <p style=\"margin: 1.25rem 0;\">\n        <a href=\"https://www.marketwatch.com/story/the-warnings-behind-this-weeks-stock-market-rally-86e5319c?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;\">\n          <span>Open Full Original Article on MarketWatch</span>\n          <span style=\"font-size:1.1rem;\">↗</span>\n        </a>\n      </p>\n    "
+  },
+  {
+    "id": "clearing-out-my-parents-house-was-a-legal-nightmare-how-can--0gxq",
+    "title": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
+    "excerpt": "Some countercultural advice this Black Friday: stop buying stuff, plus other rules for downsizing.",
+    "category": "US Markets",
+    "categorySlug": "us-markets",
+    "tickers": [
+      "^GSPC",
+      "SPY"
+    ],
+    "sentiment": "Bullish",
+    "sentimentScore": "+78%",
+    "author": {
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
+    },
+    "publishedAt": "2026-11-27T17:31:00.000Z",
+    "readTime": "5 min read",
+    "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1200&q=80",
+    "source": "MarketWatch",
+    "sourceUrl": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
+    "targetPrice": "Overweight Target",
+    "analystConsensus": "Accumulate / Buy",
+    "tableOfContents": [
+      {
+        "id": "market-overview",
+        "title": "Market Context & Catalyst"
+      },
+      {
+        "id": "institutional-flows",
+        "title": "Institutional Liquidity & Order Flow"
+      },
+      {
+        "id": "strategic-outlook",
+        "title": "Strategic Positioning & Key Risk Levels"
+      },
+      {
+        "id": "original-wire",
+        "title": "Primary Wire & Full Coverage Link"
+      }
+    ],
+    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?. Reported by MarketWatch. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n        \n        <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);\">\n          <a href=\"https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;\">\n            <span>Read Original Wire Story on MarketWatch</span>\n            <span>↗</span>\n          </a>\n        </div>\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>Some countercultural advice this Black Friday: stop buying stuff, plus other rules for downsizing.</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n\n      \n      <h3 id=\"original-wire\">Primary Wire & Full Coverage Link</h3>\n      <p>This report incorporates real-time wire data provided by <strong>MarketWatch</strong>. You can inspect the primary external filing and full syndicated release directly:</p>\n      <p style=\"margin: 1.25rem 0;\">\n        <a href=\"https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;\">\n          <span>Open Full Original Article on MarketWatch</span>\n          <span style=\"font-size:1.1rem;\">↗</span>\n        </a>\n      </p>\n    "
+  },
+  {
+    "id": "the-sp-500-is-in-a-correction-bear-markets-and-recessions-do-0gxq",
+    "title": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
+    "excerpt": "The November sell-off has so far pushed the S&P 500 into a correction. History shows that a correction doesn't always lead to a bear market, or a recession.",
+    "category": "US Markets",
+    "categorySlug": "us-markets",
+    "tickers": [
+      "^GSPC",
+      "SPY"
+    ],
+    "sentiment": "Bullish",
+    "sentimentScore": "+78%",
+    "author": {
+      "name": "World Stock News Editorial Desk",
+      "title": "Financial Market Intelligence & Macro Analytics",
+      "avatar": "/assets/logo.png"
+    },
+    "publishedAt": "2026-11-27T13:21:56.000Z",
+    "readTime": "5 min read",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "source": "CNBC Finance",
+    "sourceUrl": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html",
+    "targetPrice": "Overweight Target",
+    "analystConsensus": "Accumulate / Buy",
+    "tableOfContents": [
+      {
+        "id": "market-overview",
+        "title": "Market Context & Catalyst"
+      },
+      {
+        "id": "institutional-flows",
+        "title": "Institutional Liquidity & Order Flow"
+      },
+      {
+        "id": "strategic-outlook",
+        "title": "Strategic Positioning & Key Risk Levels"
+      },
+      {
+        "id": "original-wire",
+        "title": "Primary Wire & Full Coverage Link"
+      }
+    ],
+    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> The S&P 500 is in a correction. Bear markets and recessions don't always follow. Reported by CNBC Finance. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n        \n        <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);\">\n          <a href=\"https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;\">\n            <span>Read Original Wire Story on CNBC Finance</span>\n            <span>↗</span>\n          </a>\n        </div>\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>The November sell-off has so far pushed the S&P 500 into a correction. History shows that a correction doesn't always lead to a bear market, or a recession.</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n\n      \n      <h3 id=\"original-wire\">Primary Wire & Full Coverage Link</h3>\n      <p>This report incorporates real-time wire data provided by <strong>CNBC Finance</strong>. You can inspect the primary external filing and full syndicated release directly:</p>\n      <p style=\"margin: 1.25rem 0;\">\n        <a href=\"https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;\">\n          <span>Open Full Original Article on CNBC Finance</span>\n          <span style=\"font-size:1.1rem;\">↗</span>\n        </a>\n      </p>\n    "
+  },
   {
     "id": "clearing-out-my-parents-house-was-a-legal-nightmare-how-can--7prr",
     "title": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my children through the same ordeal?",
@@ -697,7 +875,7 @@ const ArticlesData = [
       "title": "Financial Market Intelligence & Macro Analytics",
       "avatar": "/assets/logo.png"
     },
-    "publishedAt": "2026-11-25T17:08:03.000Z",
+    "publishedAt": "2026-11-26T23:41:36.872Z",
     "readTime": "5 min read",
     "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
     "source": "CNBC Finance",
@@ -743,7 +921,7 @@ const ArticlesData = [
       "title": "Financial Market Intelligence & Macro Analytics",
       "avatar": "/assets/logo.png"
     },
-    "publishedAt": "2026-11-25T15:43:00.000Z",
+    "publishedAt": "2026-11-26T22:41:36.872Z",
     "readTime": "5 min read",
     "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
     "source": "MarketWatch",
@@ -789,7 +967,7 @@ const ArticlesData = [
       "title": "Financial Market Intelligence & Macro Analytics",
       "avatar": "/assets/logo.png"
     },
-    "publishedAt": "2026-11-25T15:41:00.000Z",
+    "publishedAt": "2026-11-26T21:41:36.872Z",
     "readTime": "5 min read",
     "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1200&q=80",
     "source": "MarketWatch",
@@ -835,7 +1013,7 @@ const ArticlesData = [
       "title": "Financial Market Intelligence & Macro Analytics",
       "avatar": "/assets/logo.png"
     },
-    "publishedAt": "2026-11-25T15:08:00.000Z",
+    "publishedAt": "2026-11-26T20:41:36.872Z",
     "readTime": "5 min read",
     "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
     "source": "MarketWatch",
@@ -881,7 +1059,7 @@ const ArticlesData = [
       "title": "Financial Market Intelligence & Macro Analytics",
       "avatar": "/assets/logo.png"
     },
-    "publishedAt": "2026-11-25T15:03:00.000Z",
+    "publishedAt": "2026-11-26T19:41:36.872Z",
     "readTime": "5 min read",
     "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
     "source": "MarketWatch",
@@ -927,7 +1105,7 @@ const ArticlesData = [
       "title": "Financial Market Intelligence & Macro Analytics",
       "avatar": "/assets/logo.png"
     },
-    "publishedAt": "2026-11-25T12:26:41.000Z",
+    "publishedAt": "2026-11-26T18:41:36.872Z",
     "readTime": "5 min read",
     "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
     "source": "CNBC Finance",
@@ -1331,7 +1509,7 @@ const ArticlesData = [
       "title": "Financial Market Intelligence & Macro Analytics",
       "avatar": "/assets/logo.png"
     },
-    "publishedAt": "2026-11-25T17:46:56.467Z",
+    "publishedAt": "2026-11-26T09:41:36.872Z",
     "readTime": "5 min read",
     "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
     "source": "CNBC Finance",
@@ -1403,186 +1581,6 @@ const ArticlesData = [
       }
     ],
     "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> Utah drops criminal charges against Kalshi founders after company suspended operations in state. Reported by CNBC Finance. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n        \n        <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);\">\n          <a href=\"https://www.cnbc.com/2026/11/24/utah-drops-charges-against-kalshi-after-it-halted-operations-in-state.html\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;\">\n            <span>Read Original Wire Story on CNBC Finance</span>\n            <span>↗</span>\n          </a>\n        </div>\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>Co-founders of the prediction market platform were slated to appear in a state district court in December.</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n\n      \n      <h3 id=\"original-wire\">Primary Wire & Full Coverage Link</h3>\n      <p>This report incorporates real-time wire data provided by <strong>CNBC Finance</strong>. You can inspect the primary external filing and full syndicated release directly:</p>\n      <p style=\"margin: 1.25rem 0;\">\n        <a href=\"https://www.cnbc.com/2026/11/24/utah-drops-charges-against-kalshi-after-it-halted-operations-in-state.html\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;\">\n          <span>Open Full Original Article on CNBC Finance</span>\n          <span style=\"font-size:1.1rem;\">↗</span>\n        </a>\n      </p>\n    "
-  },
-  {
-    "id": "sundays-pot-roast-now-costs-more-than-a-thanksgiving-feast-w-an0n",
-    "title": "Sunday’s pot roast now costs more than a Thanksgiving feast. Why beef won’t get cheaper for years.",
-    "excerpt": "A four-pound chuck roast runs $36.33. Walmart feeds 10 for $35. The turkey is the bait. The cow is the bill.",
-    "category": "Tech & AI",
-    "categorySlug": "tech-ai",
-    "tickers": [
-      "NVDA",
-      "AAPL",
-      "MSFT",
-      "QQQ"
-    ],
-    "sentiment": "Bullish",
-    "sentimentScore": "+89%",
-    "author": {
-      "name": "World Stock News Editorial Desk",
-      "title": "Financial Market Intelligence & Macro Analytics",
-      "avatar": "/assets/logo.png"
-    },
-    "publishedAt": "2026-11-25T15:46:56.467Z",
-    "readTime": "5 min read",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "source": "MarketWatch",
-    "sourceUrl": "https://www.marketwatch.com/story/sundays-pot-roast-now-costs-more-than-a-thanksgiving-feast-why-beef-wont-get-cheaper-for-years-7daa1b3f?mod=mw_rss_topstories",
-    "targetPrice": "Overweight Target",
-    "analystConsensus": "Accumulate / Buy",
-    "tableOfContents": [
-      {
-        "id": "market-overview",
-        "title": "Market Context & Catalyst"
-      },
-      {
-        "id": "institutional-flows",
-        "title": "Institutional Liquidity & Order Flow"
-      },
-      {
-        "id": "strategic-outlook",
-        "title": "Strategic Positioning & Key Risk Levels"
-      },
-      {
-        "id": "original-wire",
-        "title": "Primary Wire & Full Coverage Link"
-      }
-    ],
-    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> Sunday’s pot roast now costs more than a Thanksgiving feast. Why beef won’t get cheaper for years.. Reported by MarketWatch. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n        \n        <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);\">\n          <a href=\"https://www.marketwatch.com/story/sundays-pot-roast-now-costs-more-than-a-thanksgiving-feast-why-beef-wont-get-cheaper-for-years-7daa1b3f?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;\">\n            <span>Read Original Wire Story on MarketWatch</span>\n            <span>↗</span>\n          </a>\n        </div>\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>A four-pound chuck roast runs $36.33. Walmart feeds 10 for $35. The turkey is the bait. The cow is the bill.</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n\n      \n      <h3 id=\"original-wire\">Primary Wire & Full Coverage Link</h3>\n      <p>This report incorporates real-time wire data provided by <strong>MarketWatch</strong>. You can inspect the primary external filing and full syndicated release directly:</p>\n      <p style=\"margin: 1.25rem 0;\">\n        <a href=\"https://www.marketwatch.com/story/sundays-pot-roast-now-costs-more-than-a-thanksgiving-feast-why-beef-wont-get-cheaper-for-years-7daa1b3f?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;\">\n          <span>Open Full Original Article on MarketWatch</span>\n          <span style=\"font-size:1.1rem;\">↗</span>\n        </a>\n      </p>\n    "
-  },
-  {
-    "id": "the-biggest-biotech-deal-in-nearly-three-years-carries-a-hef-an0n",
-    "title": "The biggest biotech deal in nearly three years carries a hefty $41 billion price tag",
-    "excerpt": "French drugmaker Sanofi on Tuesday agreed to pay $41 billion for U.S. biotech Insmed, a hefty price that will help the pharmaceutical giant offset the patent expiration on a key drug.",
-    "category": "US Markets",
-    "categorySlug": "us-markets",
-    "tickers": [
-      "^GSPC",
-      "SPY"
-    ],
-    "sentiment": "Bullish",
-    "sentimentScore": "+78%",
-    "author": {
-      "name": "World Stock News Editorial Desk",
-      "title": "Financial Market Intelligence & Macro Analytics",
-      "avatar": "/assets/logo.png"
-    },
-    "publishedAt": "2026-11-25T14:46:56.467Z",
-    "readTime": "5 min read",
-    "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1200&q=80",
-    "source": "MarketWatch",
-    "sourceUrl": "https://www.marketwatch.com/story/the-biggest-biotech-deal-in-nearly-three-years-carries-a-hefty-41-billion-price-tag-dd7fa228?mod=mw_rss_topstories",
-    "targetPrice": "Overweight Target",
-    "analystConsensus": "Accumulate / Buy",
-    "tableOfContents": [
-      {
-        "id": "market-overview",
-        "title": "Market Context & Catalyst"
-      },
-      {
-        "id": "institutional-flows",
-        "title": "Institutional Liquidity & Order Flow"
-      },
-      {
-        "id": "strategic-outlook",
-        "title": "Strategic Positioning & Key Risk Levels"
-      },
-      {
-        "id": "original-wire",
-        "title": "Primary Wire & Full Coverage Link"
-      }
-    ],
-    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> The biggest biotech deal in nearly three years carries a hefty $41 billion price tag. Reported by MarketWatch. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n        \n        <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);\">\n          <a href=\"https://www.marketwatch.com/story/the-biggest-biotech-deal-in-nearly-three-years-carries-a-hefty-41-billion-price-tag-dd7fa228?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;\">\n            <span>Read Original Wire Story on MarketWatch</span>\n            <span>↗</span>\n          </a>\n        </div>\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>French drugmaker Sanofi on Tuesday agreed to pay $41 billion for U.S. biotech Insmed, a hefty price that will help the pharmaceutical giant offset the patent expiration on a key drug.</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n\n      \n      <h3 id=\"original-wire\">Primary Wire & Full Coverage Link</h3>\n      <p>This report incorporates real-time wire data provided by <strong>MarketWatch</strong>. You can inspect the primary external filing and full syndicated release directly:</p>\n      <p style=\"margin: 1.25rem 0;\">\n        <a href=\"https://www.marketwatch.com/story/the-biggest-biotech-deal-in-nearly-three-years-carries-a-hefty-41-billion-price-tag-dd7fa228?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;\">\n          <span>Open Full Original Article on MarketWatch</span>\n          <span style=\"font-size:1.1rem;\">↗</span>\n        </a>\n      </p>\n    "
-  },
-  {
-    "id": "jensen-huangs-return-was-worth-nearly-950-billion-to-nvidia--an0n",
-    "title": "Jensen Huang’s return was worth nearly $950 billion to Nvidia. How much of the stock market should ride on one man?",
-    "excerpt": "Trump got the CEO he wanted. Nvidia still has an investigation to finish. Plus, the outlook for AI jobs and why Medicare Advantage insurers missed Monday’s rally.",
-    "category": "Tech & AI",
-    "categorySlug": "tech-ai",
-    "tickers": [
-      "NVDA",
-      "AAPL",
-      "MSFT",
-      "QQQ"
-    ],
-    "sentiment": "Bullish",
-    "sentimentScore": "+89%",
-    "author": {
-      "name": "World Stock News Editorial Desk",
-      "title": "Financial Market Intelligence & Macro Analytics",
-      "avatar": "/assets/logo.png"
-    },
-    "publishedAt": "2026-11-25T13:46:56.467Z",
-    "readTime": "5 min read",
-    "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
-    "source": "MarketWatch",
-    "sourceUrl": "https://www.marketwatch.com/story/jensen-huangs-return-was-worth-nearly-950-billion-to-nvidia-how-much-of-the-stock-market-should-ride-on-one-man-c7129e95?mod=mw_rss_topstories",
-    "targetPrice": "Overweight Target",
-    "analystConsensus": "Accumulate / Buy",
-    "tableOfContents": [
-      {
-        "id": "market-overview",
-        "title": "Market Context & Catalyst"
-      },
-      {
-        "id": "institutional-flows",
-        "title": "Institutional Liquidity & Order Flow"
-      },
-      {
-        "id": "strategic-outlook",
-        "title": "Strategic Positioning & Key Risk Levels"
-      },
-      {
-        "id": "original-wire",
-        "title": "Primary Wire & Full Coverage Link"
-      }
-    ],
-    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> Jensen Huang’s return was worth nearly $950 billion to Nvidia. How much of the stock market should ride on one man?. Reported by MarketWatch. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n        \n        <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);\">\n          <a href=\"https://www.marketwatch.com/story/jensen-huangs-return-was-worth-nearly-950-billion-to-nvidia-how-much-of-the-stock-market-should-ride-on-one-man-c7129e95?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;\">\n            <span>Read Original Wire Story on MarketWatch</span>\n            <span>↗</span>\n          </a>\n        </div>\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>Trump got the CEO he wanted. Nvidia still has an investigation to finish. Plus, the outlook for AI jobs and why Medicare Advantage insurers missed Monday’s rally.</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n\n      \n      <h3 id=\"original-wire\">Primary Wire & Full Coverage Link</h3>\n      <p>This report incorporates real-time wire data provided by <strong>MarketWatch</strong>. You can inspect the primary external filing and full syndicated release directly:</p>\n      <p style=\"margin: 1.25rem 0;\">\n        <a href=\"https://www.marketwatch.com/story/jensen-huangs-return-was-worth-nearly-950-billion-to-nvidia-how-much-of-the-stock-market-should-ride-on-one-man-c7129e95?mod=mw_rss_topstories\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;\">\n          <span>Open Full Original Article on MarketWatch</span>\n          <span style=\"font-size:1.1rem;\">↗</span>\n        </a>\n      </p>\n    "
-  },
-  {
-    "id": "how-china-is-using-summits-to-expand-its-global-influence-an0n",
-    "title": "How China is using summits to expand its global influence",
-    "excerpt": "Chinese President Xi Jinping has helped coordinate yet another photo-op of global significance.",
-    "category": "US Markets",
-    "categorySlug": "us-markets",
-    "tickers": [
-      "^GSPC",
-      "SPY"
-    ],
-    "sentiment": "Bullish",
-    "sentimentScore": "+78%",
-    "author": {
-      "name": "World Stock News Editorial Desk",
-      "title": "Financial Market Intelligence & Macro Analytics",
-      "avatar": "/assets/logo.png"
-    },
-    "publishedAt": "2026-11-25T12:46:56.467Z",
-    "readTime": "5 min read",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-    "source": "CNBC Finance",
-    "sourceUrl": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html",
-    "targetPrice": "Overweight Target",
-    "analystConsensus": "Accumulate / Buy",
-    "tableOfContents": [
-      {
-        "id": "market-overview",
-        "title": "Market Context & Catalyst"
-      },
-      {
-        "id": "institutional-flows",
-        "title": "Institutional Liquidity & Order Flow"
-      },
-      {
-        "id": "strategic-outlook",
-        "title": "Strategic Positioning & Key Risk Levels"
-      },
-      {
-        "id": "original-wire",
-        "title": "Primary Wire & Full Coverage Link"
-      }
-    ],
-    "bodyHtml": "\n      <div class=\"article-takeaway-box\">\n        <strong>Hourly Intelligence Wire:</strong> How China is using summits to expand its global influence. Reported by CNBC Finance. Key technical support and resistance levels are currently being tested as volume broadens across major liquidity centers.\n        \n        <div style=\"margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-medium);\">\n          <a href=\"https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:6px; font-size:0.85rem; padding:6px 14px; text-decoration:none;\">\n            <span>Read Original Wire Story on CNBC Finance</span>\n            <span>↗</span>\n          </a>\n        </div>\n      </div>\n\n      <h3 id=\"market-overview\">Market Context & Catalyst</h3>\n      <p>Chinese President Xi Jinping has helped coordinate yet another photo-op of global significance.</p>\n      <p>Institutional desks noted significant block order execution in early liquidity windows. Broad market sentiment is being shaped by global macroeconomic prints, central bank communication, and capital allocation into prime risk-adjusted vehicles.</p>\n\n      <h3 id=\"institutional-flows\">Institutional Liquidity & Order Flow</h3>\n      <p>Trading desks observed an acceleration in net order imbalances across top exchange book depth. Spreads have remained tight as market makers adjust delta hedging positioning across major index and derivatives complexes.</p>\n\n      <h3 id=\"strategic-outlook\">Strategic Positioning & Key Risk Levels</h3>\n      <p>Portfolio managers maintain an active focus on volatility compression and duration hedging. Key technical inflection points remain critical as market participants calibrate exposure ahead of the upcoming economic calendar milestones.</p>\n\n      \n      <h3 id=\"original-wire\">Primary Wire & Full Coverage Link</h3>\n      <p>This report incorporates real-time wire data provided by <strong>CNBC Finance</strong>. You can inspect the primary external filing and full syndicated release directly:</p>\n      <p style=\"margin: 1.25rem 0;\">\n        <a href=\"https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"btn-primary\" style=\"display:inline-flex; align-items:center; gap:8px; padding:10px 18px; text-decoration:none; font-weight:700;\">\n          <span>Open Full Original Article on CNBC Finance</span>\n          <span style=\"font-size:1.1rem;\">↗</span>\n        </a>\n      </p>\n    "
   }
 ];
 
