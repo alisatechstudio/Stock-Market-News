@@ -13,6 +13,48 @@
   ],
   "items": [
     {
+      "id": "https://worldstocknews.online/article/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-0zpz",
+      "url": "https://worldstocknews.online/article/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-0zpz",
+      "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+      "content_text": "“Our financial and healthcare situation has become increasingly concerning.”",
+      "summary": "“Our financial and healthcare situation has become increasingly concerning.”",
+      "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-11-26T22:00:00.000Z",
+      "tags": [
+        "Tech & AI",
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "QQQ"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "https://worldstocknews.online/article/im-terrified-of-a-market-crash-should-i-put-400000-of-my-1-m-0zq0",
+      "url": "https://worldstocknews.online/article/im-terrified-of-a-market-crash-should-i-put-400000-of-my-1-m-0zq0",
+      "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+      "content_text": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
+      "summary": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-11-26T21:45:00.000Z",
+      "tags": [
+        "US Markets",
+        "^GSPC",
+        "SPY"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
       "id": "https://worldstocknews.online/article/ive-been-married-for-58-years-its-our-money-not-his-and-hers-masn",
       "url": "https://worldstocknews.online/article/ive-been-married-for-58-years-its-our-money-not-his-and-hers-masn",
       "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
@@ -382,51 +424,7 @@
       "content_text": "Dell says its backlog is “rigorously vetted for customer quality and access to capital, land and power.”",
       "summary": "Dell says its backlog is “rigorously vetted for customer quality and access to capital, land and power.”",
       "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-11-25T01:11:00.000Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/my-husband-secretly-sends-his-ex-wife-1500-a-month-after-she-trzh",
-      "url": "https://worldstocknews.online/article/my-husband-secretly-sends-his-ex-wife-1500-a-month-after-she-trzh",
-      "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
-      "content_text": "“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”",
-      "summary": "“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”",
-      "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-11-25T00:05:00.000Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/jensen-huangs-nvidia-return-shows-the-us-china-ai-race-is-ab-trzh",
-      "url": "https://worldstocknews.online/article/jensen-huangs-nvidia-return-shows-the-us-china-ai-race-is-ab-trzh",
-      "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
-      "content_text": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
-      "summary": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
-      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-11-25T01:13:56.000Z",
+      "date_published": "2026-11-26T05:58:16.388Z",
       "tags": [
         "Tech & AI",
         "NVDA",

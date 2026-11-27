@@ -4,39 +4,67 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-11-26T18:46:56.467Z</lastmod>
+    <lastmod>2026-11-27T01:58:16.388Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/us-markets</loc>
-    <lastmod>2026-11-26T18:46:56.467Z</lastmod>
+    <lastmod>2026-11-27T01:58:16.388Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/tech-ai</loc>
-    <lastmod>2026-11-26T18:46:56.467Z</lastmod>
+    <lastmod>2026-11-27T01:58:16.388Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/macro-economy</loc>
-    <lastmod>2026-11-26T18:46:56.467Z</lastmod>
+    <lastmod>2026-11-27T01:58:16.388Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/crypto</loc>
-    <lastmod>2026-11-26T18:46:56.467Z</lastmod>
+    <lastmod>2026-11-27T01:58:16.388Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/earnings</loc>
-    <lastmod>2026-11-26T18:46:56.467Z</lastmod>
+    <lastmod>2026-11-27T01:58:16.388Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-0zpz</loc>
+    <lastmod>2026-11-26T22:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T22:00:00.000Z</news:publication_date>
+      <news:title>‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/im-terrified-of-a-market-crash-should-i-put-400000-of-my-1-m-0zq0</loc>
+    <lastmod>2026-11-26T21:45:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T21:45:00.000Z</news:publication_date>
+      <news:title>I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/ive-been-married-for-58-years-its-our-money-not-his-and-hers-masn</loc>
@@ -278,7 +306,7 @@
   </url>
   <url>
     <loc>https://worldstocknews.online/article/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-doubl-trzh</loc>
-    <lastmod>2026-11-25T01:11:00.000Z</lastmod>
+    <lastmod>2026-11-26T05:58:16.388Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -286,13 +314,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-25T01:11:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-26T05:58:16.388Z</news:publication_date>
       <news:title>Dell’s stock rises as the AI boom helps sales more than double</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/my-husband-secretly-sends-his-ex-wife-1500-a-month-after-she-trzh</loc>
-    <lastmod>2026-11-25T00:05:00.000Z</lastmod>
+    <lastmod>2026-11-26T04:58:16.388Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -300,13 +328,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-25T00:05:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-26T04:58:16.388Z</news:publication_date>
       <news:title>My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/jensen-huangs-nvidia-return-shows-the-us-china-ai-race-is-ab-trzh</loc>
-    <lastmod>2026-11-25T01:13:56.000Z</lastmod>
+    <lastmod>2026-11-26T03:58:16.388Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -314,13 +342,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-25T01:13:56.000Z</news:publication_date>
+      <news:publication_date>2026-11-26T03:58:16.388Z</news:publication_date>
       <news:title>Jensen Huang&apos;s Nvidia return shows the U.S.-China AI race is about more than chips</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/micron-boosted-ceo-sanjay-mehrotras-security-budget-by-2000--juep</loc>
-    <lastmod>2026-11-24T22:43:00.000Z</lastmod>
+    <lastmod>2026-11-26T02:58:16.388Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -328,13 +356,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-24T22:43:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-26T02:58:16.388Z</news:publication_date>
       <news:title>Micron boosted CEO Sanjay Mehrotra’s security budget by 2,000%, new filing shows</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/12-days-of-sardines-and-croc-charms-are-advent-calendars-get-jueq</loc>
-    <lastmod>2026-11-24T21:53:00.000Z</lastmod>
+    <lastmod>2026-11-26T01:58:16.388Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -342,13 +370,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-24T21:53:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-26T01:58:16.388Z</news:publication_date>
       <news:title>12 days of sardines and Croc charms: Are Advent calendars getting out of control?</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/anthropics-stock-just-broke-below-its-ipo-price-for-the-firs-jueq</loc>
-    <lastmod>2026-11-24T21:46:00.000Z</lastmod>
+    <lastmod>2026-11-26T00:58:16.388Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -356,13 +384,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-24T21:46:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-26T00:58:16.388Z</news:publication_date>
       <news:title>Anthropic’s stock just broke below its IPO price for the first time</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/how-much-more-are-richest-americans-spending-on-the-holidays-jueq</loc>
-    <lastmod>2026-11-24T21:31:00.000Z</lastmod>
+    <lastmod>2026-11-25T23:58:16.388Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -370,7 +398,7 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-24T21:31:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-25T23:58:16.388Z</news:publication_date>
       <news:title>How much more are richest Americans spending on the holidays compared to everyone else?</news:title>
     </news:news>
   </url>
@@ -390,7 +418,7 @@
   </url>
   <url>
     <loc>https://worldstocknews.online/article/utah-drops-criminal-charges-against-kalshi-founders-after-co-jueq</loc>
-    <lastmod>2026-11-24T20:45:57.000Z</lastmod>
+    <lastmod>2026-11-25T21:58:16.388Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -398,7 +426,7 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-24T20:45:57.000Z</news:publication_date>
+      <news:publication_date>2026-11-25T21:58:16.388Z</news:publication_date>
       <news:title>Utah drops criminal charges against Kalshi founders after company suspended operations in state</news:title>
     </news:news>
   </url>
@@ -474,7 +502,7 @@
   </url>
   <url>
     <loc>https://worldstocknews.online/article/the-newest-addition-to-the-sp-500-is-a-maker-of-viral-ice-cr-4jfx</loc>
-    <lastmod>2026-11-24T23:43:48.809Z</lastmod>
+    <lastmod>2026-11-25T15:58:16.388Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -482,13 +510,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-24T23:43:48.809Z</news:publication_date>
+      <news:publication_date>2026-11-25T15:58:16.388Z</news:publication_date>
       <news:title>The newest addition to the S&amp;P 500 is a maker of viral ice-cream machines</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/nvidias-stock-is-surging-again-what-to-know-before-chasing-t-4jfx</loc>
-    <lastmod>2026-11-24T22:43:48.809Z</lastmod>
+    <lastmod>2026-11-25T14:58:16.388Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -496,77 +524,49 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-24T22:43:48.809Z</news:publication_date>
+      <news:publication_date>2026-11-25T14:58:16.388Z</news:publication_date>
       <news:title>Nvidia’s stock is surging again. What to know before chasing the AI rally.</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article/us-stocks-see-best-day-in-more-than-a-year-as-return-of-jens-4jfx</loc>
-    <lastmod>2026-11-24T21:43:48.809Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T21:43:48.809Z</news:publication_date>
-      <news:title>U.S. stocks see best day in more than a year, as return of Jensen Huang revives AI enthusiasm</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/feds-john-williams-indicates-higher-interest-rates-likely-ov-4jfx</loc>
-    <lastmod>2026-11-24T20:43:48.809Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T20:43:48.809Z</news:publication_date>
-      <news:title>Fed&apos;s John Williams indicates higher interest rates likely &apos;over time&apos; to address inflation</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/about</loc>
-    <lastmod>2026-11-26T18:46:56.467Z</lastmod>
+    <lastmod>2026-11-27T01:58:16.388Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact</loc>
-    <lastmod>2026-11-26T18:46:56.467Z</lastmod>
+    <lastmod>2026-11-27T01:58:16.388Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy</loc>
-    <lastmod>2026-11-26T18:46:56.467Z</lastmod>
+    <lastmod>2026-11-27T01:58:16.388Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms</loc>
-    <lastmod>2026-11-26T18:46:56.467Z</lastmod>
+    <lastmod>2026-11-27T01:58:16.388Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-11-26T18:46:56.467Z</lastmod>
+    <lastmod>2026-11-27T01:58:16.388Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-11-26T18:46:56.467Z</lastmod>
+    <lastmod>2026-11-27T01:58:16.388Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-11-26T18:46:56.467Z</lastmod>
+    <lastmod>2026-11-27T01:58:16.388Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
