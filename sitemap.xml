@@ -4,39 +4,81 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-11-27T01:58:16.388Z</lastmod>
+    <lastmod>2026-11-27T10:27:22.852Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/us-markets</loc>
-    <lastmod>2026-11-27T01:58:16.388Z</lastmod>
+    <lastmod>2026-11-27T10:27:22.852Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/tech-ai</loc>
-    <lastmod>2026-11-27T01:58:16.388Z</lastmod>
+    <lastmod>2026-11-27T10:27:22.852Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/macro-economy</loc>
-    <lastmod>2026-11-27T01:58:16.388Z</lastmod>
+    <lastmod>2026-11-27T10:27:22.852Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/crypto</loc>
-    <lastmod>2026-11-27T01:58:16.388Z</lastmod>
+    <lastmod>2026-11-27T10:27:22.852Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/earnings</loc>
-    <lastmod>2026-11-27T01:58:16.388Z</lastmod>
+    <lastmod>2026-11-27T10:27:22.852Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/clearing-out-my-parents-house-was-a-legal-nightmare-how-can--7prr</loc>
+    <lastmod>2026-11-27T10:15:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T10:15:00.000Z</news:publication_date>
+      <news:title>Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my children through the same ordeal?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/hollywood-hills-home-of-the-late-presley-gerber-listed-for-3-7prr</loc>
+    <lastmod>2026-11-27T09:59:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T09:59:00.000Z</news:publication_date>
+      <news:title>Hollywood Hills home of the late Presley Gerber listed for $3.6 million, 2 months after his death</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/is-the-stock-market-open-on-black-friday-7prr</loc>
+    <lastmod>2026-11-27T05:01:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T05:01:00.000Z</news:publication_date>
+      <news:title>Is the stock market open on Black Friday?</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-0zpz</loc>
@@ -292,7 +334,7 @@
   </url>
   <url>
     <loc>https://worldstocknews.online/article/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-so-trzh</loc>
-    <lastmod>2026-11-25T02:00:00.000Z</lastmod>
+    <lastmod>2026-11-26T12:27:22.852Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -300,7 +342,7 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-25T02:00:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-26T12:27:22.852Z</news:publication_date>
       <news:title>I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?</news:title>
     </news:news>
   </url>
@@ -487,86 +529,44 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article/hpe-just-posted-its-strongest-growth-ever-but-its-stock-is-s-4jfx</loc>
-    <lastmod>2026-11-25T05:58:08.524Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T05:58:08.524Z</news:publication_date>
-      <news:title>HPE just posted its strongest growth ever — but its stock is sinking</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/the-newest-addition-to-the-sp-500-is-a-maker-of-viral-ice-cr-4jfx</loc>
-    <lastmod>2026-11-25T15:58:16.388Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T15:58:16.388Z</news:publication_date>
-      <news:title>The newest addition to the S&amp;P 500 is a maker of viral ice-cream machines</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://worldstocknews.online/article/nvidias-stock-is-surging-again-what-to-know-before-chasing-t-4jfx</loc>
-    <lastmod>2026-11-25T14:58:16.388Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T14:58:16.388Z</news:publication_date>
-      <news:title>Nvidia’s stock is surging again. What to know before chasing the AI rally.</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/about</loc>
-    <lastmod>2026-11-27T01:58:16.388Z</lastmod>
+    <lastmod>2026-11-27T10:27:22.852Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact</loc>
-    <lastmod>2026-11-27T01:58:16.388Z</lastmod>
+    <lastmod>2026-11-27T10:27:22.852Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy</loc>
-    <lastmod>2026-11-27T01:58:16.388Z</lastmod>
+    <lastmod>2026-11-27T10:27:22.852Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms</loc>
-    <lastmod>2026-11-27T01:58:16.388Z</lastmod>
+    <lastmod>2026-11-27T10:27:22.852Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-11-27T01:58:16.388Z</lastmod>
+    <lastmod>2026-11-27T10:27:22.852Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-11-27T01:58:16.388Z</lastmod>
+    <lastmod>2026-11-27T10:27:22.852Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-11-27T01:58:16.388Z</lastmod>
+    <lastmod>2026-11-27T10:27:22.852Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
