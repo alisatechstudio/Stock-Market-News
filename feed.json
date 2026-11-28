@@ -13,6 +13,26 @@
   ],
   "items": [
     {
+      "id": "https://worldstocknews.online/article/coming-next-year-medicare-advantage-plans-without-drug-cover-3s5u",
+      "url": "https://worldstocknews.online/article/coming-next-year-medicare-advantage-plans-without-drug-cover-3s5u",
+      "title": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
+      "content_text": "Medicare Advantage is starting to lose its all-in-one benefit.",
+      "summary": "Medicare Advantage is starting to lose its all-in-one benefit.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+      "date_published": "2026-11-27T19:55:00.000Z",
+      "tags": [
+        "US Markets",
+        "^GSPC",
+        "SPY"
+      ],
+      "authors": [
+        {
+          "name": "World Stock News Editorial Desk",
+          "avatar": "/assets/logo.png"
+        }
+      ]
+    },
+    {
       "id": "https://worldstocknews.online/article/these-stocks-soared-the-most-during-a-wild-week-highlighted--0gxq",
       "url": "https://worldstocknews.online/article/these-stocks-soared-the-most-during-a-wild-week-highlighted--0gxq",
       "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
@@ -352,7 +372,7 @@
       "content_text": "Monday’s rally helped to paper over deeper issues that must be resolved before a durable bottom can arrive.",
       "summary": "Monday’s rally helped to paper over deeper issues that must be resolved before a durable bottom can arrive.",
       "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-11-26T00:33:00.000Z",
+      "date_published": "2026-11-27T08:16:06.590Z",
       "tags": [
         "US Markets",
         "^GSPC",
@@ -372,7 +392,7 @@
       "content_text": "“Retirement is a financial status, not an age.”",
       "summary": "“Retirement is a financial status, not an age.”",
       "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-11-25T23:30:00.000Z",
+      "date_published": "2026-11-27T07:16:06.590Z",
       "tags": [
         "US Markets",
         "^GSPC",
@@ -392,29 +412,7 @@
       "content_text": "Doing nothing and maintaining an even temperament is often the work of gods.",
       "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
       "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-11-25T22:45:00.000Z",
-      "tags": [
-        "Tech & AI",
-        "NVDA",
-        "AAPL",
-        "MSFT",
-        "QQQ"
-      ],
-      "authors": [
-        {
-          "name": "World Stock News Editorial Desk",
-          "avatar": "/assets/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "https://worldstocknews.online/article/prediction-markets-push-openai-ipo-expectations-later-into-2-xe7f",
-      "url": "https://worldstocknews.online/article/prediction-markets-push-openai-ipo-expectations-later-into-2-xe7f",
-      "title": "Prediction markets push OpenAI IPO expectations later into 2027",
-      "content_text": "Kalshi traders have cut the odds of OpenAI confirming an IPO before June 2027, as AI stocks and related markets have weakened.",
-      "summary": "Kalshi traders have cut the odds of OpenAI confirming an IPO before June 2027, as AI stocks and related markets have weakened.",
-      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-      "date_published": "2026-11-26T23:41:36.872Z",
+      "date_published": "2026-11-27T06:16:06.590Z",
       "tags": [
         "Tech & AI",
         "NVDA",

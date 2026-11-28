@@ -4,39 +4,53 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://worldstocknews.online/</loc>
-    <lastmod>2026-11-27T19:41:36.872Z</lastmod>
+    <lastmod>2026-11-28T02:16:06.590Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/us-markets</loc>
-    <lastmod>2026-11-27T19:41:36.872Z</lastmod>
+    <lastmod>2026-11-28T02:16:06.590Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/tech-ai</loc>
-    <lastmod>2026-11-27T19:41:36.872Z</lastmod>
+    <lastmod>2026-11-28T02:16:06.590Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/macro-economy</loc>
-    <lastmod>2026-11-27T19:41:36.872Z</lastmod>
+    <lastmod>2026-11-28T02:16:06.590Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/crypto</loc>
-    <lastmod>2026-11-27T19:41:36.872Z</lastmod>
+    <lastmod>2026-11-28T02:16:06.590Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/category/earnings</loc>
-    <lastmod>2026-11-27T19:41:36.872Z</lastmod>
+    <lastmod>2026-11-28T02:16:06.590Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://worldstocknews.online/article/coming-next-year-medicare-advantage-plans-without-drug-cover-3s5u</loc>
+    <lastmod>2026-11-27T19:55:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>World Stock News Financial Wire</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T19:55:00.000Z</news:publication_date>
+      <news:title>Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest</news:title>
+    </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/these-stocks-soared-the-most-during-a-wild-week-highlighted--0gxq</loc>
@@ -264,7 +278,7 @@
   </url>
   <url>
     <loc>https://worldstocknews.online/article/why-this-stock-market-selloff-is-probably-going-to-get-worse-xe7e</loc>
-    <lastmod>2026-11-26T00:33:00.000Z</lastmod>
+    <lastmod>2026-11-27T08:16:06.590Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -272,13 +286,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-26T00:33:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-27T08:16:06.590Z</news:publication_date>
       <news:title>Why this stock-market selloff is probably going to get worse before it gets better</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/a-66-year-old-nurse-is-facing-down-retirement-with-just-500--xe7f</loc>
-    <lastmod>2026-11-25T23:30:00.000Z</lastmod>
+    <lastmod>2026-11-27T07:16:06.590Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -286,13 +300,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-25T23:30:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-27T07:16:06.590Z</news:publication_date>
       <news:title>A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-i-xe7f</loc>
-    <lastmod>2026-11-25T22:45:00.000Z</lastmod>
+    <lastmod>2026-11-27T06:16:06.590Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -300,7 +314,7 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-25T22:45:00.000Z</news:publication_date>
+      <news:publication_date>2026-11-27T06:16:06.590Z</news:publication_date>
       <news:title>I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?</news:title>
     </news:news>
   </url>
@@ -460,7 +474,7 @@
   </url>
   <url>
     <loc>https://worldstocknews.online/article/12-days-of-sardines-and-croc-charms-are-advent-calendars-get-jueq</loc>
-    <lastmod>2026-11-26T01:58:16.388Z</lastmod>
+    <lastmod>2026-11-26T18:16:06.590Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -468,13 +482,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-26T01:58:16.388Z</news:publication_date>
+      <news:publication_date>2026-11-26T18:16:06.590Z</news:publication_date>
       <news:title>12 days of sardines and Croc charms: Are Advent calendars getting out of control?</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/anthropics-stock-just-broke-below-its-ipo-price-for-the-firs-jueq</loc>
-    <lastmod>2026-11-26T00:58:16.388Z</lastmod>
+    <lastmod>2026-11-26T17:16:06.590Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -482,13 +496,13 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-26T00:58:16.388Z</news:publication_date>
+      <news:publication_date>2026-11-26T17:16:06.590Z</news:publication_date>
       <news:title>Anthropic’s stock just broke below its IPO price for the first time</news:title>
     </news:news>
   </url>
   <url>
     <loc>https://worldstocknews.online/article/how-much-more-are-richest-americans-spending-on-the-holidays-jueq</loc>
-    <lastmod>2026-11-25T23:58:16.388Z</lastmod>
+    <lastmod>2026-11-26T16:16:06.590Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
     <news:news>
@@ -496,7 +510,7 @@
         <news:name>World Stock News Financial Wire</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-25T23:58:16.388Z</news:publication_date>
+      <news:publication_date>2026-11-26T16:16:06.590Z</news:publication_date>
       <news:title>How much more are richest Americans spending on the holidays compared to everyone else?</news:title>
     </news:news>
   </url>
@@ -515,58 +529,44 @@
     </news:news>
   </url>
   <url>
-    <loc>https://worldstocknews.online/article/utah-drops-criminal-charges-against-kalshi-founders-after-co-jueq</loc>
-    <lastmod>2026-11-25T21:58:16.388Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-    <news:news>
-      <news:publication>
-        <news:name>World Stock News Financial Wire</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T21:58:16.388Z</news:publication_date>
-      <news:title>Utah drops criminal charges against Kalshi founders after company suspended operations in state</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://worldstocknews.online/about</loc>
-    <lastmod>2026-11-27T19:41:36.872Z</lastmod>
+    <lastmod>2026-11-28T02:16:06.590Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/contact</loc>
-    <lastmod>2026-11-27T19:41:36.872Z</lastmod>
+    <lastmod>2026-11-28T02:16:06.590Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/privacy-policy</loc>
-    <lastmod>2026-11-27T19:41:36.872Z</lastmod>
+    <lastmod>2026-11-28T02:16:06.590Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/terms</loc>
-    <lastmod>2026-11-27T19:41:36.872Z</lastmod>
+    <lastmod>2026-11-28T02:16:06.590Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.xml</loc>
-    <lastmod>2026-11-27T19:41:36.872Z</lastmod>
+    <lastmod>2026-11-28T02:16:06.590Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/feed.json</loc>
-    <lastmod>2026-11-27T19:41:36.872Z</lastmod>
+    <lastmod>2026-11-28T02:16:06.590Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://worldstocknews.online/llms.txt</loc>
-    <lastmod>2026-11-27T19:41:36.872Z</lastmod>
+    <lastmod>2026-11-28T02:16:06.590Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
